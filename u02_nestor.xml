@@ -11,7 +11,7 @@
 <lb n="020011"/><said>--</said>I forget the place, sir. 279 B. C.
 <lb n="020012"/><said>--</said>Asculum, Stephen said, glancing at the name and date in the gorescarred
 <lb n="020013"/>book.
-<lb n="020014"/><said>--</said>Yes, sir. And he said: <emph>Another victory like that and we are done for</emph>.</p>
+<lb n="020014"/><said>--</said>Yes, sir. And he said: <quote source="Pyrrhus">Another victory like that and we are done for</quote>.</p>
 <p><lb n="020015"/>That phrase the world had remembered. A dull ease of the mind.
 <lb n="020016"/>From a hill above a corpsestrewn plain a general speaking to his officers,
 <lb n="020017"/>leaned upon his spear. Any general to any officers. They lend ear.
@@ -54,16 +54,16 @@
 <lb n="020054"/><said>--</said>Tell us a story, sir.
 <lb n="020055"/><said>--</said>O, do, sir. A ghoststory.
 <lb n="020056"/><said>--</said>Where do you begin in this? Stephen asked, opening another book.
-<lb n="020057"/><said>--</said><emph>Weep no more</emph>, Comyn said.
+<lb n="020057"/><said>--</said><quote source="Lycidas">Weep no more</quote>, Comyn said.
 <lb n="020058"/><said>--</said>Go on then, Talbot.
 <lb n="020059"/><said>--</said>And the story, sir?
 <lb n="020060"/><said>--</said>After, Stephen said. Go on, Talbot.</p>
 <p><lb n="020061"/>A swarthy boy opened a book and propped it nimbly under the
 <lb n="020062"/>breastwork of his satchel. He recited jerks of verse with odd glances at the
 <lb n="020063"/>text:
-<lb n="020064"/><said>--</said><emph>Weep no more, woful shepherds, weep no more
+<lb n="020064"/><said>--</said><quote source="Lycidas">Weep no more, woful shepherds, weep no more
 <lb n="020065"/>For Lycidas, your sorrow, is not dead,
-<lb n="020066"/>Sunk though he be beneath the watery floor</emph> ....</p>
+<lb n="020066"/>Sunk though he be beneath the watery floor</quote> ....</p>
 <p><lb n="020067"/>It must be a movement then, an actuality of the possible as possible.
 <lb n="020068"/>Aristotle's phrase formed itself within the gabbled verses and floated out
 <lb n="020069"/>into the studious silence of the library of Saint Genevieve where he had
@@ -75,8 +75,8 @@
 <lb n="020075"/>The soul is in a manner all that is: the soul is the form of forms. Tranquility
 <lb n="020076"/>sudden, vast, candescent: form of forms.</p>
 <p><lb n="020077"/>Talbot repeated:
-<lb n="020078"/><said>--</said><emph>Through the dear might of Him that walked the waves,
-<lb n="020079"/>Through the dear might</emph> .....
+<lb n="020078"/><said>--</said><quote source="Lycidas">Through the dear might of Him that walked the waves,
+<lb n="020079"/>Through the dear might</quote> .....
 <lb n="020080"/><said>--</said>Turn over, Stephen said quietly. I don't see anything.
 <lb n="020081"/><said>--</said>What, sir? Talbot asked simply, bending forward.</p>
 <p><lb n="020082"/>His hand turned the page over. He leaned back and went on again,
@@ -85,8 +85,8 @@
 <lb n="020085"/>on mine. It lies upon their eager faces who offered him a coin of the tribute.
 <lb n="020086"/>To Caesar what is Caesar's, to God what is God's. A long look from dark
 <lb n="020087"/>eyes, a riddling sentence to be woven and woven on the church's looms. Ay.</p>
-<p rend="inset"><lb n="020088"/><emph>Riddle me, riddle me, randy ro.
-<lb n="020089"/>My father gave me seeds to sow.</emph></p>
+<p rend="inset"><lb n="020088"/><quote source="Riddle Me">Riddle me, riddle me, randy ro.
+<lb n="020089"/>My father gave me seeds to sow.</quote></p>
 <p><lb n="020090"/>Talbot slid his closed book into his satchel.
 <lb n="020091"/><said>--</said>Have I heard all? Stephen asked.
 <lb n="020092"/><said>--</said>Yes, sir. Hockey at ten, sir.
@@ -99,12 +99,12 @@
 <lb n="020099"/><said>--</said>O, ask me, sir.
 <lb n="020100"/><said>--</said>A hard one, sir.
 <lb n="020101"/><said>--</said>This is the riddle, Stephen said:</p>
-<p rend="inset"><lb n="020102"/><emph>The cock crew,
+<p rend="inset"><lb n="020102"/><quote source="Riddle of the Fox">The cock crew,
 <lb n="020103"/>The sky was blue:
 <lb n="020104"/>The bells in heaven
 <lb n="020105"/>Were striking eleven.
 <lb n="020106"/>'Tis time for this poor soul
-<lb n="020107"/>To go to heaven.</emph></p>
+<lb n="020107"/>To go to heaven.</quote></p>
 <p rend="non-indent"><lb n="020108"/>What is that?
 <lb n="020109"/><said>--</said>What, sir?
 <lb n="020110"/><said>--</said>Again, sir. We didn't hear.</p>
@@ -235,8 +235,8 @@
 <lb n="020235"/>instant if I will.
 <lb n="020236"/><said>--</said>Because you don't save, Mr Deasy said, pointing his finger. You don't
 <lb n="020237"/>know yet what money is. Money is power. When you have lived as long as I
-<lb n="020238"/>have. I know, I know. <emph>If youth but knew.</emph> But what does Shakespeare say?
-<lb n="020239"/><emph>Put but money in thy purse.</emph>
+<lb n="020238"/>have. I know, I know. <quote source="Henri Estienne">If youth but knew.</quote> But what does Shakespeare say?
+<lb n="020239"/><quote>Put but money in thy purse.</quote>
 <lb n="020240"/><said>--</said>Iago, Stephen murmured.</p>
 <p><lb n="020241"/>He lifted his gaze from the idle shells to the old man's stare.
 <lb n="020242"/><said>--</said>He knew what money was, Mr Deasy said. He made money. A poet, yes,
@@ -281,8 +281,8 @@
 <lb n="020281"/><said>--</said>Alas, Stephen said.
 <lb n="020282"/><said>--</said><foreign xml:lang="la">Per vias rectas</foreign>, Mr Deasy said firmly, was his motto. He voted for it and
 <lb n="020283"/>put on his topboots to ride to Dublin from the Ards of Down to do so.</p>
-<p rend="inset"><lb n="020284"/><emph>Lal the ral the ra
-<lb n="020285"/>The rocky road to Dublin.</emph></p>
+<p rend="inset"><lb n="020284"/><quote source="Rocky Road to Dublin">Lal the ral the ra
+<lb n="020285"/>The rocky road to Dublin.</quote></p>
 <p><lb n="020286"/>A gruff squire on horseback with shiny topboots. Soft day, sir John!
 <lb n="020287"/>Soft day, your honour! .... Day! .... Day! .... Two topboots jog dangling on
 <lb n="020288"/>to Dublin. Lal the ral the ra. Lal the ral the raddy.
@@ -394,8 +394,8 @@
 <lb n="020394"/>Breffni. A woman too brought Parnell low. Many errors, many failures but
 <lb n="020395"/>not the one sin. I am a struggler now at the end of my days. But I will fight
 <lb n="020396"/>for the right till the end.</p>
-<p rend="inset"><lb n="020397"/><emph>For Ulster will fight
-<lb n="020398"/>And Ulster will be right.</emph></p>
+<p rend="inset"><lb n="020397"/><quote>For Ulster will fight
+<lb n="020398"/>And Ulster will be right.</quote></p>
 <p><lb n="020399"/>Stephen raised the sheets in his hand.
 <lb n="020400"/><said>--</said>Well, sir, he began .....
 <lb n="020401"/><said>--</said>I foresee, Mr Deasy said, that you will not remain here very long at this
