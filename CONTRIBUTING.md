@@ -26,6 +26,12 @@ Then we can mark it up like this:
 <lb n="070468"/><said>--</said><foreign xml:lang="franglais">Thanky vous</foreign>, Lenehan said, helping himself.</p>
 ```
 
+Not all foreign language usage is explicitly marked typographically in the novel. We assume `rend="italics"` to be a default attribute and value on `<foreign>` so, in such cases, use `<foreign xml:lang="eng" rend="unmarked">`, along with a language code, to mark up foreign language usage that is not italicised in the reading text. For example, the following line contains two instances of French usage, only one of which is marked:
+
+```xml
+<lb n="030176"/>devil's name? <foreign xml:lang="fr" rend="unmarked">Paysayenn</foreign>. P. C. N., you know: <foreign xml:lang="fr">physiques, chimiques et
+```
+
 ##Titles of Works
 
 Although the `<title>` tag seems to be used for titles of works in the real world, they might also be applied to fictional works. [The TEI documentation for `<title>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-title.html) gives information about its attribute `level`, which can be used to distinguish between “levels” of publications such as journals, series, or monographs, but this would not cover all the types present in _Ulysses_, so maybe we could use the attribute `type` along with a few types: 
