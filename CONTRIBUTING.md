@@ -1,24 +1,20 @@
-##_Ulysses_ (1922; 1984 [rev. 1986]; 2017)
-
-James Joyce’s _Ulysses_ entered the public domain on 1 January 2012. This repository makes available the reading text of the novel from _Ulysses: A Critical and Synoptic Edition_ (1984 [rev. 1986]) prepared by Hans Walter Gabler with Wolfhard Steppe and Claus Melchior. In the spring and summer of 2016, Gabler used TUSTEP to encode plain-text versions of the eighteen episodes in a light TEI-compliant markup. The results are now made available for XML manipulation and enrichment.
-
-The edited shape of the reading text as constituted by the _Critical and Synoptic Edition_ continues to be controlled by the copyright © 1984 Hans Walter Gabler. The reference basis is a line numbering per episode, and referencing is consequently by episode.line numbers (not by pagination or page.line numbers). The reading text’s line-fall should therefore be preserved across GitHub pushes.
-
-The enriched corpus of episode files and metadata will, following an original suggestion by Gábor Mihály Tóth, be made available through the [University of Oxford Text Archive](https://ota.ox.ac.uk/) and will also be selectively ‘pushed’ into the TEI encoding of _Ulysses: A Digital Critical and Synoptic Edition_.
+#Contributing to this Edition
 
 #Conventions
+
+The following describes markup conventions we have been employing, especially as they deviate from or extend standard TEI conventions. This list is intended to be descriptive, rather than proscriptive, and will change and evolve along with the edition, as necessary.
 
 ##Foreign Languages
 
 Use `<foreign xml:lang="eng">`, along with a language code, to mark up foreign language usage. According to the TEI P5 documentation on language identification, [this is the authoritative list of language codes](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). Codes already used are listed in the `langUsage` section of header.xml. Where that language is ambiguous, unknown, or fictional, we can define our own. Consider this line:  
 
-```
+```xml
 <lb n="070468"/><said>--</said><emph>Thanky vous</emph>, Lenehan said, helping himself.</p>
 ```
 
 If we define this language in the TEI header like this: 
 
-```
+```xml
 <langUsage>
  <language ident="franglais">Franglais, a mixture of French and English</language>
 </langUsage>
@@ -26,7 +22,7 @@ If we define this language in the TEI header like this:
 
 Then we can mark it up like this: 
 
-```
+```xml
 <lb n="070468"/><said>--</said><foreign xml:lang="franglais">Thanky vous</foreign>, Lenehan said, helping himself.</p>
 ```
 
@@ -44,6 +40,3 @@ Although the `<title>` tag seems to be used for titles of works in the real worl
  - poem: `<title type="poem">Art thou real, my ideal?</title> it was called by Louis J Walsh, Magherafelt`
  - short story: `Our prize titbit: <title type="short story">Matcham’s Masterstroke</title>`
  - song: `<title type="song">Là ci darem</title> with J. C. Doyle, she said, and <title type="song">Love's Old Sweet Song</title>`
-
-
-
