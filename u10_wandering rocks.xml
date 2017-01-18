@@ -11,9 +11,9 @@
 <lb n="100011"/>purse held, he knew, one silver crown.</p>
 <p><lb n="100012"/>Father Conmee crossed to Mountjoy square. He thought, but not for
 <lb n="100013"/>long, of soldiers and sailors, whose legs had been shot off by cannonballs,
-<lb n="100014"/>ending their days in some pauper ward, and of cardinal Wolsey's words: <emph>If
+<lb n="100014"/>ending their days in some pauper ward, and of cardinal Wolsey's words: <said who="Thomas Wolsey">If
 <lb n="100015"/>I had served my God as I have served my king He would not have
-<lb n="100016"/>abandoned me in my old days</emph>. He walked by the treeshade of sunnywinking
+<lb n="100016"/>abandoned me in my old days</said>. He walked by the treeshade of sunnywinking
 <lb n="100017"/>leaves: and towards him came the wife of Mr David Sheehy M. P.
 <lb n="100018"/><said>--</said>Very well, indeed, father. And you, father?</p>
 <p><lb n="100019"/>Father Conmee was wonderfully well indeed. He would go to Buxton
@@ -136,8 +136,8 @@
 <lb n="100136"/>marketnet: and Father Conmee saw the conductor help her and net and
 <lb n="100137"/>basket down: and Father Conmee thought that, as she had nearly passed
 <lb n="100138"/>the end of the penny fare, she was one of those good souls who had always
-<lb n="100139"/>to be told twice <emph>bless you, my child,</emph> that they have been absolved, <emph>pray for
-<lb n="100140"/>me</emph>. But they had so many worries in life, so many cares, poor creatures.</p>
+<lb n="100139"/>to be told twice <said who="Father Conmee">bless you, my child,</said> that they have been absolved, <said who="Father Conmee">pray for
+<lb n="100140"/>me</said>. But they had so many worries in life, so many cares, poor creatures.</p>
 <p><lb n="100141"/>From the hoardings Mr Eugene Stratton grimaced with thick
 <lb n="100142"/>niggerlips at Father Conmee.</p>
 <p><lb n="100143"/>Father Conmee thought of the souls of black and brown and yellow
@@ -521,7 +521,7 @@
 <lb n="100521"/>figure scanned books on the hawker's cart.
 <lb n="100522"/><said>--</said>There he is, Lenehan said.
 <lb n="100523"/><said>--</said>Wonder what he's buying, M'Coy said, glancing behind.
-<lb n="100524"/><said>--</said><title type="song">Leopoldo or the Bloom is on the Rye</title>, Lenehan said.
+<lb n="100524"/><said>--</said><title type="book">Leopoldo or the Bloom is on the Rye</title>, Lenehan said.
 <lb n="100525"/><said>--</said>He's dead nuts on sales, M'Coy said. I was with him one day and he
 <lb n="100526"/>bought a book from an old one in Liffey street for two bob. There were fine
 <lb n="100527"/>plates in it worth double the money, the stars and the moon and comets
@@ -554,7 +554,7 @@
 <lb n="100554"/>the night before. Coming home it was a gorgeous winter's night on the
 <lb n="100555"/>Featherbed Mountain. Bloom and Chris Callinan were on one side of the
 <lb n="100556"/>car and I was with the wife on the other. We started singing glees and duets:
-<lb n="100557"/><emph>Lo, the early beam of morning</emph>. She was well primed with a good load of
+<lb n="100557"/><title type="song">Lo, the early beam of morning</title>. She was well primed with a good load of
 <lb n="100558"/>Delahunt's port under her bellyband. Every jolt the bloody car gave I had
 <lb n="100559"/>her bumping up against me. Hell's delights! She has a fine pair, God bless
 <lb n="100560"/>her. Like that.</p>
@@ -835,8 +835,8 @@
 <lb n="100835"/>hearts.</p>
 <p><lb n="100836"/>He turned and halted by the slanted bookcart.
 <lb n="100837"/><said>--</said>Twopence each, the huckster said. Four for sixpence.</p>
-<p><lb n="100838"/>Tattered pages. <title type="book">The Irish Beekeeper</title>. <title type="book">Life and Miracles of the Curé of
-<lb n="100839"/>Ars</title>. <title type="book">Pocket Guide to Killarney.</title></p>
+<p><lb n="100838"/>Tattered pages. <title type="magazine">The Irish Beekeeper.</title> <title type="book">Life and Miracles of the Curé of
+<lb n="100839"/>Ars.</title> <title type="book">Pocket Guide to Killarney.</title></p>
 <p><lb n="100840"/>I might find here one of my pawned schoolprizes. <foreign xml:lang="la">Stephano Dedalo,
 <lb n="100841"/>alumno optimo, palmam ferenti.</foreign></p>
 <p><lb n="100842"/>Father Conmee, having read his little hours, walked through the
@@ -1239,7 +1239,7 @@
 <lb n="101239"/>music warerooms Mr Denis J Maginni, professor of dancing &c, gaily
 <lb n="101240"/>apparelled, gravely walked, outpassed by a viceroy and unobserved. By the
 <lb n="101241"/>provost's wall came jauntily Blazes Boylan, stepping in tan shoes and socks
-<lb n="101242"/>with skyblue clocks to the refrain of <title type="song">My girl's a Yorkshire girl</emph>. Blazes
+<lb n="101242"/>with skyblue clocks to the refrain of <title type="song">My girl's a Yorkshire girl</title>. Blazes
 <lb n="101243"/>Boylan presented to the leaders' skyblue frontlets and high action a skyblue
 <lb n="101244"/>tie, a widebrimmed straw hat at a rakish angle and a suit of indigo serge.
 <lb n="101245"/>His hands in his jacket pockets forgot to salute but he offered to the three
