@@ -46,3 +46,6 @@ Although the `<title>` tag seems to be used for titles of works in the real worl
  - poem: `<title type="poem">Art thou real, my ideal?</title> it was called by Louis J Walsh, Magherafelt`
  - short story: `Our prize titbit: <title type="short story">Matcham’s Masterstroke</title>`
  - song: `<title type="song">Là ci darem</title> with J. C. Doyle, she said, and <title type="song">Love's Old Sweet Song</title>`
+
+Subtitles can be handled, following the TEI suggestions for `@type`, with `<title type=”sub”>`. 
+
