@@ -1,23 +1,38 @@
 <TEI xmlns:xi="http://www.w3.org/2003/XInclude">
 	<teiHeader>
-		<langUsage>
-			<language ident="cpe">English-based pidgins and creoles</language>
-			<language ident="de">German</language>
-			<language ident="el">Modern Greek</language>
-			<language ident="es-ar">Spanish Arabic</language>
-			<language ident="fr">French</language>
-			<language ident="ga">Irish</language>
-			<language ident="grc">Ancient Greek</language>
-			<language ident="he">Hebrew</language>
-			<language ident="hu">Hungarian</language>
-			<language ident="it">Italian</language>
-			<language ident="ja">Japanese</language>
-			<language ident="la">Latin</language>
-			<language ident="cu">Old Church Slavonic</language>
-			<language ident="sv">Swedish</language>
-			<language ident="franglais">Franglais, a mixture of French and English</language>
-			<language ident="ji">Yiddish</language>
-		</langUsage>
+		<fileDesc>
+		<titleStmt>
+			<title>
+				Ulysses
+			</title>
+		</titleStmt>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<p></p>
+		</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="cpe">English-based pidgins and creoles</language>
+				<language ident="de">German</language>
+				<language ident="el">Modern Greek</language>
+				<language ident="es-ar">Spanish Arabic</language>
+				<language ident="fr">French</language>
+				<language ident="ga">Irish</language>
+				<language ident="grc">Ancient Greek</language>
+				<language ident="he">Hebrew</language>
+				<language ident="hu">Hungarian</language>
+				<language ident="it">Italian</language>
+				<language ident="ja">Japanese</language>
+				<language ident="la">Latin</language>
+				<language ident="cu">Old Church Slavonic</language>
+				<language ident="sv">Swedish</language>
+				<language ident="franglais">Franglais, a mixture of French and English</language>
+				<language ident="ji">Yiddish</language>
+			</langUsage>
+		</profileDesc>
 	</teiHeader>
 <text>
 		<xi:include href="u01_telemachus.xml"/>
