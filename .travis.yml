@@ -5,4 +5,4 @@ addons:
 language: python
 python: 
   - "3.6" 
-script: "xmllint --valid --xinclude header.xml" 
+script: "xmllint --noout --xinclude header.xml" 
