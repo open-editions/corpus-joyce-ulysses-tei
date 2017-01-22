@@ -197,8 +197,8 @@
 <lb n="010195"/>more hot water. Your mother and some visitor came out of the
 <lb n="010196"/>drawingroom. She asked you who was in your room.
 <lb n="010197"/><said>―</said>Yes? Buck Mulligan said. What did I say? I forget.
-<lb n="010198"/><said>―</said>You said, Stephen answered, <emph>O, it's only Dedalus whose mother is beastly
-<lb n="010199"/>dead</emph>.</p>
+<lb n="010198"/><said>―</said>You said, Stephen answered, <said who="Buck Mulligan">O, it's only Dedalus whose mother is beastly
+<lb n="010199"/>dead</said>.</p>
 <p><lb n="010200"/>A flush which made him seem younger and more engaging rose to
 <lb n="010201"/>Buck Mulligan's cheek.
 <lb n="010202"/><said>―</said>Did I say that? he asked. Well? What harm is that?</p>
@@ -238,9 +238,9 @@
 <lb n="010236"/>brooding.</p>
 <p><lb n="010237"/>His head vanished but the drone of his descending voice boomed out
 <lb n="010238"/>of the stairhead:
-<lb n="010239"/><said>―</said><emph>And no more turn aside and brood
+<lb n="010239"/><said>―</said><quote>And no more turn aside and brood
 <lb n="010240"/>Upon love's bitter mystery
-<lb n="010241"/>For Fergus rules the brazen cars.</emph></p>
+<lb n="010241"/>For Fergus rules the brazen cars.</quote></p>
 <p><lb n="010242"/>Woodshadows floated silently by through the morning peace from the
 <lb n="010243"/>stairhead seaward where he gazed. Inshore and farther out the mirror of
 <lb n="010244"/>water whitened, spurned by lightshod hurrying feet. White breast of the
@@ -259,11 +259,11 @@
 <lb n="010257"/>sunny window of her house when she was a girl. She heard old Royce sing
 <lb n="010258"/>in the pantomime of <title type="pantomime">Turko the Terrible</title> and laughed with others when he
 <lb n="010259"/>sang:</p>
-<p rend="inset"><lb n="010260"/><emph>I am the boy
+<p rend="inset"><lb n="010260"/><quote>I am the boy
 <lb n="010261"/>That can enjoy
-<lb n="010262"/>Invisibility.</emph></p>
+<lb n="010262"/>Invisibility.</quote></p>
 <p><lb n="010263"/>Phantasmal mirth, folded away: muskperfumed.</p>
-<p rend="inset"><lb n="010264"/><emph>And no more turn aside and brood.</emph></p>
+<p rend="inset"><lb n="010264"/><quote>And no more turn aside and brood.</quote></p>
 <p><lb n="010265"/>Folded away in the memory of nature with her toys. Memories beset
 <lb n="010266"/>his brooding brain. Her glass of water from the kitchen tap when she had
 <lb n="010267"/>approached the sacrament. A cored apple, filled with brown sugar, roasting
@@ -356,12 +356,12 @@
 <lb n="010354"/>make strong tea, don't you?</p>
 <p><lb n="010355"/>Buck Mulligan, hewing thick slices from the loaf, said in an old
 <lb n="010356"/>woman's wheedling voice:
-<lb n="010357"/><said>―</said>When I makes tea I makes tea, as old mother Grogan said. And when I
-<lb n="010358"/>makes water I makes water.
+<lb n="010357"/><said>―</said><said who="Mother Grogan" rend="none">When I makes tea I makes tea</said>, as old mother Grogan said. <said who="Mother Grogan" rend="none">And when I
+<lb n="010358"/>makes water I makes water.</said>
 <lb n="010359"/><said>―</said>By Jove, it is tea, Haines said.</p>
 <p><lb n="010360"/>Buck Mulligan went on hewing and wheedling:
-<lb n="010361"/><said>―</said><emph>So I do, Mrs Cahill</emph>, says she. <emph>Begob, ma'am</emph>, says Mrs Cahill, <emph>God send
-<lb n="010362"/>you don't make them in the one pot</emph>.</p>
+<lb n="010361"/><said>―</said><said who="Mother Grogan">So I do, Mrs Cahill</said>, says she. <said who="Mrs Cahill">Begob, ma'am</said>, says Mrs Cahill, <said who="Mrs Cahill">God send
+<lb n="010362"/>you don't make them in the one pot</said>.</p>
 <p><lb n="010363"/>He lunged towards his messmates in turn a thick slice of bread,
 <lb n="010364"/>impaled on his knife.
 <lb n="010365"/><said>―</said>That's folk, he said very earnestly, for your book, Haines. Five lines of
@@ -566,8 +566,8 @@
 <p><lb n="010564"/>Buck Mulligan, walking forward again, raised his hands.
 <lb n="010565"/><said>―</said>The sacred pint alone can unbind the tongue of Dedalus, he said.
 <lb n="010566"/><said>―</said>I mean to say, Haines explained to Stephen as they followed, this tower
-<lb n="010567"/>and these cliffs here remind me somehow of Elsinore. <emph>That beetles o'er his
-<lb n="010568"/>base into the sea</emph>, isn't it?</p>
+<lb n="010567"/>and these cliffs here remind me somehow of Elsinore. <quote>That beetles o'er his
+<lb n="010568"/>base into the sea</quote>, isn't it?</p>
 <p><lb n="010569"/>Buck Mulligan turned suddenly for an instant towards Stephen but
 <lb n="010570"/>did not speak. In the bright silent instant Stephen saw his own image in
 <lb n="010571"/>cheap dusty mourning between their gay attires.
@@ -583,22 +583,22 @@
 <lb n="010581"/>had suddenly withdrawn all shrewd sense, blinking with mad gaiety. He
 <lb n="010582"/>moved a doll's head to and fro, the brims of his Panama hat quivering, and
 <lb n="010583"/>began to chant in a quiet happy foolish voice:
-<lb n="010584"/><said>―</said><emph>I'm the queerest young fellow that ever you heard.
+<lb n="010584"/><said>―</said><quote>I'm the queerest young fellow that ever you heard.
 <lb n="010585"/>My mother's a jew, my father's a bird.
 <lb n="010586"/>With Joseph the joiner I cannot agree.
-<lb n="010587"/>So here's to disciples and Calvary.</emph></p>
+<lb n="010587"/>So here's to disciples and Calvary.</quote></p>
 <p><lb n="010588"/>He held up a forefinger of warning.
-<lb n="010589"/><said>―</said><emph>If anyone thinks that I amn't divine
+<lb n="010589"/><said>―</said><quote>If anyone thinks that I amn't divine
 <lb n="010590"/>He'll get no free drinks when I'm making the wine
 <lb n="010591"/>But have to drink water and wish it were plain
-<lb n="010592"/>That I make when the wine becomes water again.</emph></p>
+<lb n="010592"/>That I make when the wine becomes water again.</quote></p>
 <p><lb n="010593"/>He tugged swiftly at Stephen's ashplant in farewell and, running
 <lb n="010594"/>forward to a brow of the cliff, fluttered his hands at his sides like fins or
 <lb n="010595"/>wings of one about to rise in the air, and chanted:
-<lb n="010596"/><said>―</said><emph>Goodbye, now, goodbye! Write down all I said
+<lb n="010596"/><said>―</said><quote>Goodbye, now, goodbye! Write down all I said
 <lb n="010597"/>And tell Tom, Dick and Harry I rose from the dead.
 <lb n="010598"/>What's bred in the bone cannot fail me to fly
-<lb n="010599"/>And Olivet's breezy -- Goodbye, now, goodbye!</emph></p>
+<lb n="010599"/>And Olivet's breezy -- Goodbye, now, goodbye!</quote></p>
 <p><lb n="010600"/>He capered before them down towards the fortyfoot hole, fluttering
 <lb n="010601"/>his winglike hands, leaping nimbly, Mercury's hat quivering in the fresh
 <lb n="010602"/>wind that bore back to them his brief birdsweet cries.</p>
