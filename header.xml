@@ -1,4 +1,4 @@
-<TEI xmlns:xi="http://www.w3.org/2003/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2003/XInclude">
 	<teiHeader>
 		<fileDesc>
 		<titleStmt>
@@ -34,8 +34,12 @@
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-<text>
-		<xi:include href="u01_telemachus.xml"/>
-</text>
+	<text>
+		<body>
+			<xi:include href="u01_telemachus.xml"/>
+			<xi:include href="u02_nestor.xml"/>
+			<xi:include href="u03_proteus.xml"/>
+		</body>
+	</text>
 </TEI>
 
