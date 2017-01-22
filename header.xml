@@ -39,6 +39,21 @@
 			<xi:include href="u01_telemachus.xml"/>
 			<xi:include href="u02_nestor.xml"/>
 			<xi:include href="u03_proteus.xml"/>
+			<xi:include href="u04_calypso.xml"/>
+			<xi:include href="u05_lotus-eaters.xml"/>
+			<xi:include href="u06_hades.xml"/>
+			<xi:include href="u07_aeolus.xml"/>
+			<xi:include href="u08_lestrygonians.xml"/>
+			<xi:include href="u09_scylla.xml"/>
+			<xi:include href="u10_wandering rocks.xml"/>
+			<xi:include href="u11_sirens.xml"/>
+			<xi:include href="u12_cyclops.xml"/>
+			<xi:include href="u13_nausica.xml"/>
+			<xi:include href="u14_oxen.xml"/>
+			<xi:include href="u15_circe.xml"/>
+			<xi:include href="u16_eumaeus.xml"/>
+			<xi:include href="u17_ithaca.xml"/>
+			<xi:include href="u18_penelope.xml"/>
 		</body>
 	</text>
 </TEI>
