@@ -1,4 +1,5 @@
-﻿<p rend="inset"><lb n="010000"/>I</p>
+﻿<div type="episode" n="01">
+<p rend="inset"><lb n="010000"/>I</p>
 <p><lb n="010001"/>Stately, plump Buck Mulligan came from the stairhead, bearing a
 <lb n="010002"/>bowl of lather on which a mirror and a razor lay crossed. A yellow
 <lb n="010003"/>dressinggown, ungirdled, was sustained gently behind him on the mild
@@ -743,3 +744,4 @@
 <lb n="010742"/>Turning the curve he waved his hand. It called again. A sleek brown head, a
 <lb n="010743"/>seal's, far out on the water, round.</p>
 <p><lb n="010744"/>Usurper.</p>
+</div> <!-- End of Episode 1, "Telemachus" -->
