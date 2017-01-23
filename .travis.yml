@@ -1,0 +1,8 @@
+addons: 
+  apt: 
+    packages: 
+      - xsltproc
+language: python
+python: 
+  - "3.6" 
+script: "xmllint --xinclude --noout --dtdvalid schema/tei_all.dtd header.xml"
