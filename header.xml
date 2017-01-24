@@ -21,7 +21,7 @@
 				<language ident="es-ar">Spanish Arabic</language>
 				<language ident="fr">French</language>
 				<language ident="ga">Irish</language>
-				<language ident="grc">Ancient Greek</language>
+				<language ident="grc-Latn">Ancient Greek, written in the Latin alphabet</language>
 				<language ident="he">Hebrew</language>
 				<language ident="hu">Hungarian</language>
 				<language ident="it">Italian</language>
