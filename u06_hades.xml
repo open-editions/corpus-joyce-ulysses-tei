@@ -144,11 +144,11 @@
 <lb n="060143"/>him off to his face.
 <lb n="060144"/><said>―</said>O, draw him out, Martin, Mr Power said eagerly. Wait till you hear him,
 <lb n="060145"/>Simon, on Ben Dollard's singing of <title type="song">The Croppy Boy</title>.
-<lb n="060146"/><said>―</said>Immense, Martin Cunningham said pompously. <emph>His singing of that simple
+<lb n="060146"/><said>―</said>Immense, Martin Cunningham said pompously. <said who="Tom Kernan">His singing of that simple
 <lb n="060147"/>ballad, Martin, is the most trenchant rendering I ever heard in the whole
-<lb n="060148"/>course of my experience.</emph>
-<lb n="060149"/><said>―</said><emph>Trenchant</emph>, Mr Power said laughing. He's dead nuts on that. And the
-<lb n="060150"/><emph>retrospective arrangement</emph>.
+<lb n="060148"/>course of my experience.</said>
+<lb n="060149"/><said>―</said><said who="Tom Kernan">Trenchant</said>, Mr Power said laughing. He's dead nuts on that. And the
+<lb n="060150"/><said who="Tom Kernan">retrospective arrangement</said>.
 <lb n="060151"/><said>―</said>Did you read Dan Dawson's speech? Martin Cunningham asked.
 <lb n="060152"/><said>―</said>I did not then, Mr Dedalus said. Where is it?
 <lb n="060153"/><said>―</said>In the paper this morning.</p>
@@ -162,10 +162,10 @@
 <lb n="060161"/>Thanks to the Little Flower. Sadly missed. To the inexpressible grief of his.
 <lb n="060162"/>Aged 88 after a long and tedious illness. Month's mind: Quinlan. On whose
 <lb n="060163"/>soul Sweet Jesus have mercy.</p>
-<p rend="inset"><lb n="060164"/><emph>It is now a month since dear Henry fled
+<p rend="inset"><lb n="060164"/><said who="Freeman's Journal">It is now a month since dear Henry fled
 <lb n="060165"/>To his home up above in the sky
 <lb n="060166"/>While his family weeps and mourns his loss
-<lb n="060167"/>Hoping some day to meet him on high.</emph></p>
+<lb n="060167"/>Hoping some day to meet him on high.</said></p>
 <p><lb n="060168"/>I tore up the envelope? Yes. Where did I put her letter after I read it in
 <lb n="060169"/>the bath? He patted his waistcoatpocket. There all right. Dear Henry fled.
 <lb n="060170"/>Before my patience are exhausted.</p>
@@ -353,9 +353,9 @@
 <lb n="060352"/>the heart out of a stone, that. Monday morning. Start afresh. Shoulder to
 <lb n="060353"/>the wheel. Lord, she must have looked a sight that night Dedalus told me he
 <lb n="060354"/>was in there. Drunk about the place and capering with Martin's umbrella.</p>
-<p rend="inset"><lb n="060355"/><emph>And they call me the jewel of Asia,
+<p rend="inset"><lb n="060355"/><quote>And they call me the jewel of Asia,
 <lb n="060356"/>Of Asia,
-<lb n="060357"/>The geisha.</emph></p>
+<lb n="060357"/>The geisha.</quote></p>
 <p><lb n="060358"/>He looked away from me. He knows. Rattle his bones.</p>
 <p><lb n="060359"/>That afternoon of the inquest. The redlabelled bottle on the table. The
 <lb n="060360"/>room in the hotel with hunting pictures. Stuffy it was. Sunlight through the
@@ -439,7 +439,7 @@
 <p><lb n="060438"/>Crossguns bridge: the royal canal.</p>
 <p><lb n="060439"/>Water rushed roaring through the sluices. A man stood on his
 <lb n="060440"/>dropping barge, between clamps of turf. On the towpath by the lock a
-<lb n="060441"/>slacktethered horse. Aboard of the <emph>Bugabu</emph>.</p>
+<lb n="060441"/>slacktethered horse. Aboard of the <name type="ship">Bugabu</name>.</p>
 <p><lb n="060442"/>Their eyes watched him. On the slow weedy waterway he had floated
 <lb n="060443"/>on his raft coastward over Ireland drawn by a haulage rope past beds of
 <lb n="060444"/>reeds, over slime, mudchoked bottles, carrion dogs. Athlone, Mullingar,
@@ -668,7 +668,7 @@
 <p><lb n="060667"/>Mr Bloom gave prudent assent. The language of course was another
 <lb n="060668"/>thing.</p>
 <p><lb n="060669"/>Mr Kernan said with solemnity:
-<lb n="060670"/><said>―</said><emph>I am the resurrection and the life.</emph> That touches a man's inmost heart.
+<lb n="060670"/><said>―</said><quote>I am the resurrection and the life.</quote> That touches a man's inmost heart.
 <lb n="060671"/><said>―</said>It does, Mr Bloom said.</p>
 <p><lb n="060672"/>Your heart perhaps but what price the fellow in the six feet by two
 <lb n="060673"/>with his toes to the daisies? No touching that. Seat of the affections. Broken
@@ -728,8 +728,8 @@
 <lb n="060727"/>Our Saviour the widow had got put up.</p>
 <p><lb n="060728"/>The caretaker blinked up at one of the sepulchres they passed. He
 <lb n="060729"/>resumed:
-<lb n="060730"/><said>―</said>And, after blinking up at the sacred figure, <emph>Not a bloody bit like the man</emph>,
-<lb n="060731"/>says he. <emph>That's not Mulcahy</emph>, says he, <emph>whoever done it</emph>.</p>
+<lb n="060730"/><said>―</said>And, after blinking up at the sacred figure, <said who="drunk">Not a bloody bit like the man</said>,
+<lb n="060731"/>says he. <said who="drunk">That's not Mulcahy</said>, says he, <said who="drunk">whoever done it</said>.</p>
 <p><lb n="060732"/>Rewarded by smiles he fell back and spoke with Corny Kelleher,
 <lb n="060733"/>accepting the dockets given him, turning them over and scanning them as he
 <lb n="060734"/>walked.
@@ -811,8 +811,8 @@
 <lb n="060810"/>buries. No, ants too. First thing strikes anybody. Bury the dead. Say
 <lb n="060811"/>Robinson Crusoe was true to life. Well then Friday buried him. Every
 <lb n="060812"/>Friday buries a Thursday if you come to look at it.</p>
-<p rend="inset"><lb n="060813"/><emph>O, poor Robinson Crusoe!
-<lb n="060814"/>How could you possibly do so?</emph></p>
+<p rend="inset"><lb n="060813"/><quote>O, poor Robinson Crusoe!
+<lb n="060814"/>How could you possibly do so?</quote></p>
 <p><lb n="060815"/>Poor Dignam! His last lie on the earth in his box. When you think of
 <lb n="060816"/>them all it does seem a waste of wood. All gnawed through. They could
 <lb n="060817"/>invent a handsome bier with a kind of panel sliding, let it down that way.
@@ -850,8 +850,8 @@
 <lb n="060849"/>eyelid. Watching is his nose pointed is his jaw sinking are the soles of his
 <lb n="060850"/>feet yellow. Pull the pillow away and finish it off on the floor since he's
 <lb n="060851"/>doomed. Devil in that picture of sinner's death showing him a woman.
-<lb n="060852"/>Dying to embrace her in his shirt. Last act of <title type="opera">Lucia</title>. <emph>Shall I nevermore
-<lb n="060853"/>behold thee?</emph> Bam! He expires. Gone at last. People talk about you a bit:
+<lb n="060852"/>Dying to embrace her in his shirt. Last act of <title type="opera">Lucia</title>. <quote>Shall I nevermore
+<lb n="060853"/>behold thee?</quote> Bam! He expires. Gone at last. People talk about you a bit:
 <lb n="060854"/>forget you. Don't forget to pray for him. Remember him in your prayers.
 <lb n="060855"/>Even Parnell. Ivy day dying out. Then they follow: dropping into a hole,
 <lb n="060856"/>one after the other.</p>
