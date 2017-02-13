@@ -240,7 +240,7 @@
 <lb n="160239"/>whereupon he observed evasively:
 <lb n="160240"/><said>―Everybody gets their own ration of luck, they say. Now you mention it
 <lb n="160241"/>his face was familiar to me. But, leaving that for the moment, how much did
-<lb n="160242"/>you part with, he queried, if I am not too inquisitive?</said>
+<lb n="160242"/>you part with,</said> he queried, <said>if I am not too inquisitive?</said>
 <lb n="160243"/><said>―Half a crown,</said> Stephen responded. <said>I daresay he needs it to sleep
 <lb n="160244"/>somewhere.</said>
 <lb n="160245"/><said>―Needs!</said> Mr Bloom ejaculated, professing not the least surprise at the
@@ -257,7 +257,7 @@
 <lb n="160256"/>yesterday. Where does he live at present? I gathered in the course of
 <lb n="160257"/>conversation that he had moved.</said>
 <lb n="160258"/><said>―I believe he is in Dublin somewhere,</said> Stephen answered unconcernedly.
-<lb n="160259"/>Why?
+<said><lb n="160259"/>Why?</said>
 <lb n="160260"/><said>―A gifted man,</said> Mr Bloom said of Mr Dedalus senior, <said>in more respects than
 <lb n="160261"/>one and a born <foreign xml:lang="fr">raconteur</foreign> if ever there was one. He takes great pride, quite
 <lb n="160262"/>legitimate, out of you. You could go back perhaps,</said> he hasarded, still
@@ -402,8 +402,8 @@
 <lb n="160401"/><said>―Pom!</said> he shouted twice.</p>
 <p><lb n="160402"/>Egg two evidently demolished, he nodded and winked, adding
 <lb n="160403"/>bloodthirstily:
-<lb n="160404"/><said>―<emph>Buffalo Bill shoots to kill,
-<lb n="160405"/>Never missed nor he never will.</emph></said></p>
+<lb n="160404"/><said>―<quote>Buffalo Bill shoots to kill,
+<lb n="160405"/>Never missed nor he never will.</quote></said></p>
 <p><lb n="160406"/>A silence ensued till Mr Bloom for agreeableness' sake just felt like
 <lb n="160407"/>asking him whether it was for a marksmanship competition like the Bisley.
 <lb n="160408"/><said>―Beg pardon,</said> the sailor said.
@@ -579,8 +579,8 @@
 <p><lb n="160578"/>Whilst speaking he produced a dangerouslooking claspknife quite in
 <lb n="160579"/>keeping with his character and held it in the striking position.
 <lb n="160580"/><said>―In a knockingshop it was count of a tryon between two smugglers. Fellow
-<lb n="160581"/>hid behind a door, come up behind him. Like that. <emph>Prepare to meet your
-<lb n="160582"/>God</emph>,</said> says he. <said>Chuk! It went into his back up to the butt.</said></p>
+<lb n="160581"/>hid behind a door, come up behind him. Like that. <said who="Italian chap" type="reported">Prepare to meet your
+<lb n="160582"/>God</said>,</said> says he. <said>Chuk! It went into his back up to the butt.</said></p>
 <p><lb n="160583"/>His heavy glance drowsily roaming about kind of defied their further
 <lb n="160584"/>questions even should they by any chance want to.
 <lb n="160585"/><said>―That's a good bit of steel,</said> repeated he, examining his formidable <foreign xml:lang="it">stiletto</foreign>.</p>
@@ -1246,20 +1246,20 @@
 <lb n="161245"/>and Mouth. Funeral of the late Mr Patrick Dignam.</p>
 <p><lb n="161246"/>So to change the subject he read about Dignam R. I. P. which, he
 <lb n="161247"/>reflected, was anything but a gay sendoff. Or a change of address anyway.
-<lb n="161248"/><said>―<emph>This morning</emph> (Hynes put it in of course) <emph>the remains of the late Mr
+<lb n="161248"/><said>―<said who="Telegraph" type="reported">This morning</said> (Hynes put it in of course) <said who="Telegraph" type="reported">the remains of the late Mr
 <lb n="161249"/>Patrick Dignam were removed from his residence, no 9 Newbridge Avenue,
 <lb n="161250"/>Sandymount, for interment in Glasnevin. The deceased gentleman was a
 <lb n="161251"/>most popular and genial personality in city life and his demise after a brief
 <lb n="161252"/>illness came as a great shock to citizens of all classes by whom he is deeply
 <lb n="161253"/>regretted. The obsequies, at which many friends of the deceased were present,
-<lb n="161254"/>were carried out by</emph> (certainly Hynes wrote it with a nudge from Corny)
-<lb n="161255"/><emph>Messrs H. J. O'Neill and Son, 164 North Strand Road. The mourners
+<lb n="161254"/>were carried out by</said> (certainly Hynes wrote it with a nudge from Corny)
+<lb n="161255"/><said who="Telegraph" type="reported">Messrs H. J. O'Neill and Son, 164 North Strand Road. The mourners
 <lb n="161256"/>included: Patk. Dignam (son), Bernard Corrigan (brother-in-law), Jno.
 <lb n="161257"/>Henry Menton, solr, Martin Cunningham, John Power, .)eatondph 1/8 ador
-<lb n="161258"/>dorador douradora</emph> (must be where he called Monks the dayfather about
-<lb n="161259"/>Keyes's ad) <emph>Thomas Kernan, Simon Dedalus, Stephen Dedalus B. A., Edw.
+<lb n="161258"/>dorador douradora</said> (must be where he called Monks the dayfather about
+<lb n="161259"/>Keyes's ad) <said who="Telegraph" type="reported">Thomas Kernan, Simon Dedalus, Stephen Dedalus B. A., Edw.
 <lb n="161260"/>J. Lambert, Cornelius T. Kelleher, Joseph M'C Hynes, L. Boom, C P
-<lb n="161261"/>M'Coy, – M'Intosh and several others.</emph></said></p>
+<lb n="161261"/>M'Coy, – M'Intosh and several others.</said></said></p>
 <p><lb n="161262"/>Nettled not a little by L. Boom (as it incorrectly stated) and the line of
 <lb n="161263"/>bitched type but tickled to death simultaneously by C. P. M'Coy and
 <lb n="161264"/>Stephen Dedalus B. A. who were conspicuous, needless to say, by their total
@@ -1334,7 +1334,7 @@
 <lb n="161333"/>understudy in the title role how to. He saw him once on the auspicious
 <lb n="161334"/>occasion when they broke up the type in the <title type="newspaper">Insuppressible</title> or was it <title type="newspaper">United
 <lb n="161335"/>Ireland</title>, a privilege he keenly appreciated, and, in point of fact, handed him
-<lb n="161336"/>his silk hat when it was knocked off and he said <said who="Parnell">Thank you</said>, excited as he
+<lb n="161336"/>his silk hat when it was knocked off and he said <said who="Parnell" type="reported">Thank you</said>, excited as he
 <lb n="161337"/>undoubtedly was under his frigid exterior notwithstanding the little
 <lb n="161338"/>misadventure mentioned between the cup and the lip: what's bred in the
 <lb n="161339"/>bone. Still as regards return. You were a lucky dog if they didn't set the

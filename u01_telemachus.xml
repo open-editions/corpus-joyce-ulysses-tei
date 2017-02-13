@@ -197,7 +197,7 @@
 <lb n="010195"/>more hot water. Your mother and some visitor came out of the
 <lb n="010196"/>drawingroom. She asked you who was in your room.</said>
 <lb n="010197"/><said who="Buck Mulligan">―Yes?</said> Buck Mulligan said. <said who="Buck Mulligan">What did I say? I forget.</said>
-<lb n="010198"/><said who="Stephen Dedalus">―You said,</said> Stephen answered, <said who="Stephen Dedalus"><said who="Buck Mulligan">O, it's only Dedalus whose mother is beastly
+<lb n="010198"/><said who="Stephen Dedalus">―You said,</said> Stephen answered, <said who="Stephen Dedalus"><said who="Buck Mulligan" type="reported">O, it's only Dedalus whose mother is beastly
 <lb n="010199"/>dead</said>.</said></p>
 <p><lb n="010200"/>A flush which made him seem younger and more engaging rose to
 <lb n="010201"/>Buck Mulligan's cheek.
@@ -356,11 +356,11 @@
 <lb n="010354"/>make strong tea, don't you?</said></p>
 <p><lb n="010355"/>Buck Mulligan, hewing thick slices from the loaf, said in an old
 <lb n="010356"/>woman's wheedling voice:
-<lb n="010357"/><said who="Buck Mulligan">―<said who="Mother Grogan" rend="none">When I makes tea I makes tea</said>, as old mother Grogan said. <said who="Mother Grogan" rend="none">And when I
+<lb n="010357"/><said who="Buck Mulligan">―<said who="Mother Grogan" rend="none" type="reported">When I makes tea I makes tea</said>, as old mother Grogan said. <said who="Mother Grogan" rend="none" type="reported">And when I
 <lb n="010358"/>makes water I makes water.</said></said>
 <lb n="010359"/><said who="Haines">―By Jove, it is tea,</said> Haines said.</p>
 <p><lb n="010360"/>Buck Mulligan went on hewing and wheedling:
-<lb n="010361"/><said who="Buck Mulligan">―<said who="Mother Grogan">So I do, Mrs Cahill</said>, says she. <said who="Mrs Cahill">Begob, ma'am</said>, says Mrs Cahill, <said who="Mrs Cahill">God send
+<lb n="010361"/><said who="Buck Mulligan">―<said who="Mother Grogan" type="reported">So I do, Mrs Cahill</said>, says she. <said who="Mrs Cahill" type="reported">Begob, ma'am</said>, says Mrs Cahill, <said who="Mrs Cahill" type="reported">God send
 <lb n="010362"/>you don't make them in the one pot</said>.</said></p>
 <p><lb n="010363"/>He lunged towards his messmates in turn a thick slice of bread,
 <lb n="010364"/>impaled on his knife.
