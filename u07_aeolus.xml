@@ -241,7 +241,7 @@
 <lb n="070240"/>quizzing face, asked of it sourly:
 <lb n="070241"/><said who="Simon Dedalus">―Agonising Christ, wouldn't it give you a heartburn on your arse?</said></p>
 <p><lb n="070242"/>Ned Lambert, seated on the table, read on:
-<lb n="070243"/><said who="Ned Lambert">―<said who="Dan Dawson" type="reported">Or again, note the meanderings of some purling rill as it babbles on its
+<lb n="070243"/><said who="Ned Lambert">―<said who="Dan Dawson" direct="false">Or again, note the meanderings of some purling rill as it babbles on its
 <lb n="070244"/>way, tho' quarrelling with the stony obstacles, to the tumbling waters of
 <lb n="070245"/>Neptune's blue domain, 'mid mossy banks, fanned by gentlest zephyrs,
 <lb n="070246"/>played on by the glorious sunlight or 'neath the shadows cast o'er its pensive
@@ -251,7 +251,7 @@
 <lb n="070250"/><said who="Simon Dedalus">―Changing his drink,</said> Mr Dedalus said.</p>
 <p><lb n="070251"/>Ned Lambert, laughing, struck the newspaper on his knees,
 <lb n="070252"/>repeating:
-<lb n="070253"/><said who="Ned Lambert">―<said who="Dan Dawson" type="reported">The pensive bosom and the overarsing leafage.</said> O boys! O boys!</said>
+<lb n="070253"/><said who="Ned Lambert">―<said who="Dan Dawson" direct="false">The pensive bosom and the overarsing leafage.</said> O boys! O boys!</said>
 <lb n="070254"/><said who="Simon Dedalus">―And Xenophon looked upon Marathon,</said> Mr Dedalus said, looking again
 <lb n="070255"/>on the fireplace and to the window, <said who="Simon Dedalus">and Marathon looked on the sea.</said>
 <lb n="070256"/><said who="professor MacHugh">―That will do,</said> professor MacHugh cried from the window. <said who="professor MacHugh">I don't want to
@@ -293,7 +293,7 @@
 <p><lb n="070292"/>Cleverest fellow at the junior bar he used to be. Decline, poor chap.
 <lb n="070293"/>That hectic flush spells finis for a man. Touch and go with him. What's in
 <lb n="070294"/>the wind, I wonder. Money worry.
-<lb n="070295"/><said who="Ned Lambert">―<said who="Dan Dawson" type="reported">Or again if we but climb the serried mountain peaks.</said></said>
+<lb n="070295"/><said who="Ned Lambert">―<said who="Dan Dawson" direct="false">Or again if we but climb the serried mountain peaks.</said></said>
 <lb n="070296"/><said who="unclear: Simon Dedalus?">―You're looking extra.</said>
 <lb n="070297"/><said who="J. J. O'Molloy">―Is the editor to be seen?</said> J. J. O'Molloy asked, looking towards the inner
 <lb n="070298"/>door.
@@ -311,21 +311,21 @@
 <lb n="070310"/>breath. Wouldn't know which to believe. One story good till you hear the
 <lb n="070311"/>next. Go for one another baldheaded in the papers and then all blows over.
 <lb n="070312"/>Hail fellow well met the next moment.
-<lb n="070313"/><said who="Ned Lambert">―Ah, listen to this for God' sake,</said> Ned Lambert pleaded. <said who="Ned Lambert"><said who="Dan Dawson" type="reported">Or again if we but
+<lb n="070313"/><said who="Ned Lambert">―Ah, listen to this for God' sake,</said> Ned Lambert pleaded. <said who="Ned Lambert"><said who="Dan Dawson" direct="false">Or again if we but
 <lb n="070314"/>climb the serried mountain peaks</said> ...</said>
 <lb n="070315"/><said who="professor MacHugh">―Bombast!</said> the professor broke in testily. <said who="professor MacHugh">Enough of the inflated windbag!</said>
-<lb n="070316"/><said who="Ned Lambert">―<said who="Dan Dawson" type="reported">Peaks</said>,</said> Ned Lambert went on, <said who="Ned Lambert"><said who="Dan Dawson" type="reported">towering high on high, to bathe our souls,
+<lb n="070316"/><said who="Ned Lambert">―<said who="Dan Dawson" direct="false">Peaks</said>,</said> Ned Lambert went on, <said who="Ned Lambert"><said who="Dan Dawson" direct="false">towering high on high, to bathe our souls,
 <lb n="070317"/>as it were</said> ...</said>
 <lb n="070318"/><said who="Simon Dedalus">―Bathe his lips,</said> Mr Dedalus said. <said who="Simon Dedalus">Blessed and eternal God! Yes? Is he
 <lb n="070319"/>taking anything for it?</said>
-<lb n="070320"/><said who="Ned Lambert">―<said who="Dan Dawson" type="reported">As 'twere, in the peerless panorama of Ireland's portfolio, unmatched,
+<lb n="070320"/><said who="Ned Lambert">―<said who="Dan Dawson" direct="false">As 'twere, in the peerless panorama of Ireland's portfolio, unmatched,
 <lb n="070321"/>despite their wellpraised prototypes in other vaunted prize regions, for very
 <lb n="070322"/>beauty, of bosky grove and undulating plain and luscious pastureland of
 <lb n="070323"/>vernal green, steeped in the transcendent translucent glow of our mild
 <lb n="070324"/>mysterious Irish twilight</said> ...</said>
 <lb n="070325"/><said who="professor MacHugh">―The moon,</said> professor MacHugh said. <said who="professor MacHugh">He forgot Hamlet.</said></p></div>
 <div><head><lb n="070326"/>HIS NATIVE DORIC</head>
-<p><lb n="070327"/><said who="Ned Lambert">―<said who="Dan Dawson" type="reported">That mantles the vista far and wide and wait till the glowing orb of the
+<p><lb n="070327"/><said who="Ned Lambert">―<said who="Dan Dawson" direct="false">That mantles the vista far and wide and wait till the glowing orb of the
 <lb n="070328"/>moon shine forth to irradiate her silver effulgence</said> ...</said>
 <lb n="070329"/><said who="Simon Dedalus">―O!</said> Mr Dedalus cried, giving vent to a hopeless groan. <said who="Simon Dedalus">Shite and onions!
 <lb n="070330"/>That'll do, Ned. Life is too short.</said></p>
@@ -488,11 +488,11 @@
 <p><lb n="070487"/>He extended elocutionary arms from frayed stained shirtcuffs,
 <lb n="070488"/>pausing:
 <lb n="070489"/><said who="professor MacHugh">―What was their civilisation? Vast, I allow: but vile. <foreign xml:lang="la">Cloacae</foreign>: sewers. The
-<lb n="070490"/>jews in the wilderness and on the mountaintop said: <said who="jews in the wilderness" type="reported">It is meet to be here.
+<lb n="070490"/>jews in the wilderness and on the mountaintop said: <said who="jews in the wilderness" direct="false">It is meet to be here.
 <lb n="070491"/>Let us build an altar to Jehovah.</said> The Roman, like the Englishman who
 <lb n="070492"/>follows in his footsteps, brought to every new shore on which he set his foot
 <lb n="070493"/>(on our shore he never set it) only his cloacal obsession. He gazed about
-<lb n="070494"/>him in his toga and he said: <said who="the Roman" type="reported">It is meet to be here. Let us construct a
+<lb n="070494"/>him in his toga and he said: <said who="the Roman" direct="false">It is meet to be here. Let us construct a
 <lb n="070495"/>watercloset.</said></said>
 <lb n="070496"/><said who="Lenehan">―Which they accordingly did do,</said> Lenehan said. <said who="Lenehan">Our old ancient ancestors,
 <lb n="070497"/>as we read in the first chapter of Guinness's, were partial to the running
@@ -766,7 +766,7 @@
 <lb n="070765"/>determined the whole aftercourse of both our lives.</p></div>
 <div><head><lb n="070766"/>A POLISHED PERIOD</head>
 <p><lb n="070767"/>J. J. O'Molloy resumed, moulding his words:
-<lb n="070768"/><said who="J. J. O'Molloy">―He said of it: <said who="Seymour Bushe" type="reported">that stony effigy in frozen music, horned and terrible, of the
+<lb n="070768"/><said who="J. J. O'Molloy">―He said of it: <said who="Seymour Bushe" direct="false">that stony effigy in frozen music, horned and terrible, of the
 <lb n="070769"/>human form divine, that eternal symbol of wisdom and of prophecy which,
 <lb n="070770"/>if aught that the imagination or the hand of sculptor has wrought in marble
 <lb n="070771"/>of soultransfigured and of soultransfiguring deserves to live, deserves to live.</said></said></p>
@@ -826,7 +826,7 @@
 <p><lb n="070825"/>He raised his head firmly. His eyes bethought themselves once more.
 <lb n="070826"/>Witless shellfish swam in the gross lenses to and fro, seeking outlet.</p>
 <p><lb n="070827"/>He began:
-<lb n="070828"/><said who="professor MacHugh">―<said who="John F Taylor" type="reported">Mr chairman, ladies and gentlemen: Great was my admiration in listening
+<lb n="070828"/><said who="professor MacHugh">―<said who="John F Taylor" direct="false">Mr chairman, ladies and gentlemen: Great was my admiration in listening
 <lb n="070829"/>to the remarks addressed to the youth of Ireland a moment since by my
 <lb n="070830"/>learned friend. It seemed to me that I had been transported into a country far
 <lb n="070831"/>away from this country, into an age remote from this age, that I stood in
@@ -836,14 +836,14 @@
 <lb n="070835"/>ascending in frail stalks that flowered with his speech. <quote>And let our crooked
 <lb n="070836"/>smokes.</quote> Noble words coming. Look out. Could you try your hand at it
 <lb n="070837"/>yourself?
-<lb n="070838"/><said who="professor MacHugh">―<said who="John F Taylor" type="reported">And it seemed to me that I heard the voice of that Egyptian highpriest
+<lb n="070838"/><said who="professor MacHugh">―<said who="John F Taylor" direct="false">And it seemed to me that I heard the voice of that Egyptian highpriest
 <lb n="070839"/>raised in a tone of like haughtiness and like pride. I heard his words and their
 <lb n="070840"/>meaning was revealed to me.</said></said></p></div>
 <div><head><lb n="070841"/>FROM THE FATHERS</head>
 <p><lb n="070842"/>It was revealed to me that those things are good which yet are
 <lb n="070843"/>corrupted which neither if they were supremely good nor unless they were
 <lb n="070844"/>good could be corrupted. Ah, curse you! That's saint Augustine.
-<lb n="070845"/><said who="professor MacHugh">―<said who="John F Taylor" type="reported">Why will you jews not accept our culture, our religion and our language?
+<lb n="070845"/><said who="professor MacHugh">―<said who="John F Taylor" direct="false">Why will you jews not accept our culture, our religion and our language?
 <lb n="070846"/>You are a tribe of nomad herdsmen: we are a mighty people. You have no
 <lb n="070847"/>cities nor no wealth: our cities are hives of humanity and our galleys, trireme
 <lb n="070848"/>and quadrireme, laden with all manner merchandise furrow the waters of the
@@ -853,14 +853,14 @@
 <p><lb n="070852"/>Child, man, effigy.</p>
 <p><lb n="070853"/>By the Nilebank the babemaries kneel, cradle of bulrushes: a man
 <lb n="070854"/>supple in combat: stonehorned, stonebearded, heart of stone.
-<lb n="070855"/><said who="professor MacHugh">―<said who="John F Taylor" type="reported">You pray to a local and obscure idol: our temples, majestic and mysterious,
+<lb n="070855"/><said who="professor MacHugh">―<said who="John F Taylor" direct="false">You pray to a local and obscure idol: our temples, majestic and mysterious,
 <lb n="070856"/>are the abodes of Isis and Osiris, of Horus and Ammon Ra. Yours serfdom,
 <lb n="070857"/>awe and humbleness: ours thunder and the seas. Israel is weak and few are
 <lb n="070858"/>her children: Egypt is an host and terrible are her arms. Vagrants and
 <lb n="070859"/>daylabourers are you called: the world trembles at our name.</said></said></p>
 <p><lb n="070860"/>A dumb belch of hunger cleft his speech. He lifted his voice above it
 <lb n="070861"/>boldly:
-<lb n="070862"/><said who="professor MacHugh">―<said who="John F Taylor" type="reported">But, ladies and gentlemen, had the youthful Moses listened to and accepted
+<lb n="070862"/><said who="professor MacHugh">―<said who="John F Taylor" direct="false">But, ladies and gentlemen, had the youthful Moses listened to and accepted
 <lb n="070863"/>that view of life, had he bowed his head and bowed his will and bowed his
 <lb n="070864"/>spirit before that arrogant admonition he would never have brought the
 <lb n="070865"/>chosen people out of their house of bondage, nor followed the pillar of the

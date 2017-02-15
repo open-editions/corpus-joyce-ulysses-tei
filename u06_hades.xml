@@ -91,7 +91,7 @@
 <lb n="060090"/>Life, life.</p>
 <p><lb n="060091"/>The carriage heeled over and back, their four trunks swaying.
 <lb n="060092"/><said who="Jack Power">―Corny might have given us a more commodious yoke,</said> Mr Power said.
-<lb n="060093"/><said who="Simon Dedalus">―He might,</said> Mr Dedalus said, <said who="Simon Dedalus">if he hadn't that squint troubling him. <said who="Corny Kelleher" rend="none" type="reported">Do
+<lb n="060093"/><said who="Simon Dedalus">―He might,</said> Mr Dedalus said, <said who="Simon Dedalus">if he hadn't that squint troubling him. <said who="Corny Kelleher" rend="none" direct="false">Do
 <lb n="060094"/>you follow me?</said></said></p>
 <p><lb n="060095"/>He closed his left eye. Martin Cunningham began to brush away
 <lb n="060096"/>crustcrumbs from under his thighs.
@@ -144,11 +144,11 @@
 <lb n="060143"/>him off to his face.</said>
 <lb n="060144"/><said who="Jack Power">―O, draw him out, Martin,</said> Mr Power said eagerly. <said who="Jack Power">Wait till you hear him,
 <lb n="060145"/>Simon, on Ben Dollard's singing of <title type="song">The Croppy Boy</title>.</said>
-<lb n="060146"/><said who="Martin Cunningham">―Immense,</said> Martin Cunningham said pompously. <said who="Martin Cunningham"><said who="Tom Kernan" type="reported">His singing of that simple
+<lb n="060146"/><said who="Martin Cunningham">―Immense,</said> Martin Cunningham said pompously. <said who="Martin Cunningham"><said who="Tom Kernan" direct="false">His singing of that simple
 <lb n="060147"/>ballad, Martin, is the most trenchant rendering I ever heard in the whole
 <lb n="060148"/>course of my experience.</said></said>
-<lb n="060149"/><said who="Jack Power">―<said who="Tom Kernan" type="reported">Trenchant</said>,</said> Mr Power said laughing. <said who="Jack Power">He's dead nuts on that. And the
-<lb n="060150"/><said who="Tom Kernan" type="reported">retrospective arrangement</said>.</said>
+<lb n="060149"/><said who="Jack Power">―<said who="Tom Kernan" direct="false">Trenchant</said>,</said> Mr Power said laughing. <said who="Jack Power">He's dead nuts on that. And the
+<lb n="060150"/><said who="Tom Kernan" direct="false">retrospective arrangement</said>.</said>
 <lb n="060151"/><said who="Martin Cunningham">―Did you read Dan Dawson's speech?</said> Martin Cunningham asked.
 <lb n="060152"/><said who="Simon Dedalus">―I did not then,</said> Mr Dedalus said. <said who="Simon Dedalus">Where is it?</said>
 <lb n="060153"/><said who="Martin Cunningham">―In the paper this morning.</said></p>
@@ -728,8 +728,8 @@
 <lb n="060727"/>Our Saviour the widow had got put up.</said></p>
 <p><lb n="060728"/>The caretaker blinked up at one of the sepulchres they passed. He
 <lb n="060729"/>resumed:
-<lb n="060730"/><said who="John O'Connell">―And, after blinking up at the sacred figure, <said who="drunk" type="reported">Not a bloody bit like the man</said>,
-<lb n="060731"/>says he. <said who="drunk" type="reported">That's not Mulcahy</said>, says he, <said who="drunk" type="reported">whoever done it</said>.</said></p>
+<lb n="060730"/><said who="John O'Connell">―And, after blinking up at the sacred figure, <said who="drunk" direct="false">Not a bloody bit like the man</said>,
+<lb n="060731"/>says he. <said who="drunk" direct="false">That's not Mulcahy</said>, says he, <said who="drunk" direct="false">whoever done it</said>.</said></p>
 <p><lb n="060732"/>Rewarded by smiles he fell back and spoke with Corny Kelleher,
 <lb n="060733"/>accepting the dockets given him, turning them over and scanning them as he
 <lb n="060734"/>walked.
