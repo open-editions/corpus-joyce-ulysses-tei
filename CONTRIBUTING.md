@@ -1,11 +1,11 @@
 #Contributing to this Edition
 
 #Submitting a Change
-Pull requests are encouraged. Please make sure to read the Conventions section below for the markup conventions we have been using. After submitting your pull request, your markup will be automatically checked for validity against the TEI DTD, using Travis CI. The process takes about two minutes. Check your pull request on GitHub again after two minutes, and see whether it is labeled “build passes” or “build fails.” If it’s labeled “build fails,” please fix your errors and push your fixes to the same pull request. You can see the errors your request generated in [the pull requests section of our Travis CI site](https://travis-ci.org/JonathanReeve/corpus-joyce-ulysses-tei/pull_requests). 
+If you’re new to collaboration on GitHub, please see the [contribution guide for the open edition of _A Portrait of an Artist as a Young Man_](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md) which is written with beginners in mind. For everyone else, please feel free to submit pull requests. Make sure to read the Conventions section below for the markup conventions we have been using. After submitting your pull request, your markup will be automatically checked for validity against the TEI DTD, using Travis CI. The process takes about two minutes. Check your pull request on GitHub again after two minutes, and see whether it is labeled “build passes” or “build fails.” If it’s labeled “build fails,” please fix your errors and push your fixes to the same pull request. You can see the errors your request generated in [the pull requests section of our Travis CI site](https://travis-ci.org/JonathanReeve/corpus-joyce-ulysses-tei/pull_requests). 
 
 #Conventions
 
-The following describes markup conventions we have been employing, especially as they deviate from or extend standard TEI conventions. This list is intended to be descriptive, rather than proscriptive, and will change and evolve along with the edition, as necessary.
+The following section describes markup conventions we have been employing, especially as they deviate from or extend standard TEI conventions. This list is intended to be descriptive, rather than proscriptive, and will change and evolve along with the edition, as necessary. For anything not listed here, please check [the open issues](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues) to see whether we’re having a discussion about it. 
 
 ##Foreign Languages
 
@@ -52,3 +52,4 @@ Although the `<title>` tag seems to be used for titles of works in the real worl
 
 Subtitles can be handled, following the TEI suggestions for `@type`, with `<title type=”sub”>`. 
 
+Titles are be rendered as italicized by default, so if a given title isn’t italicized in the text, mark it up with `<title rend=”none”>`. 
