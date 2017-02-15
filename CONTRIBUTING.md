@@ -53,3 +53,26 @@ Although the `<title>` tag seems to be used for titles of works in the real worl
 Subtitles can be handled, following the TEI suggestions for `@type`, with `<title type=”sub”>`. 
 
 Titles are be rendered as italicized by default, so if a given title isn’t italicized in the text, mark it up with `<title rend=”none”>`. 
+
+##Dialogue Attribution
+
+Dialogue is marked up with `<said>` and using the `who` attribute, as in `<said who=”Stephen Dedalus”>`. 
+ 
+ - For the moment, full names should be used, where known. (Although in the future we might use XML IDs; see [#19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19). 
+ - You can check the list of characters currently used with `make char`, a command in the [Makefile](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/blob/master/Makefile). (This requires that you have `ag` (The Silver Searcher) installed, and of course GNU `make`. See [Chris Foster’s comment in issue 19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19#issuecomment-278453253). 
+
+If a character quotes direct speech within her speech, we’re encoding it like this:
+
+```xml
+<said who="Stephen Dedalus">―You said,</said> Stephen answered, <said who="Stephen Dedalus"><said who="Buck Mulligan" rend="italics">O, it's only Dedalus whose mother is beastly dead</said>.</said>
+```
+
+If direct speech is recalled in interior monologue or (occasionally) represented in the third-person narrative using italics, we’re encoding it like this:
+
+```xml
+she was one of those good souls who had always to be told twice <said who="Father Conmee" direct="false" rend="italics">bless you, my child,</said> that they have been absolved, <said who="Father Conmee" direct="false" rend="italics">pray for me</said>.
+```
+
+For more on this, see [the discussion in issue #20](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/20#issuecomment-280171254). 
+
+
