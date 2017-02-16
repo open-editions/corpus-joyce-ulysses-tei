@@ -12,7 +12,7 @@ The following section describes markup conventions we have been employing, espec
 Use `<foreign xml:lang="eng">`, along with a language code, to mark up foreign language usage. According to the TEI P5 documentation on language identification, [this is the authoritative list of language codes](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). Codes already used are listed in the `langUsage` section of header.xml. Where that language is ambiguous, unknown, or fictional, we can define our own. Consider this line:  
 
 ```xml
-<lb n="070468"/><said>--</said><emph>Thanky vous</emph>, Lenehan said, helping himself.</p>
+<lb n="070468"/><said>―<emph>Thanky vous</emph>,</said> Lenehan said, helping himself.</p>
 ```
 
 If we define this language in the TEI header like this: 
@@ -26,13 +26,13 @@ If we define this language in the TEI header like this:
 Then we can mark it up like this: 
 
 ```xml
-<lb n="070468"/><said>--</said><foreign xml:lang="franglais">Thanky vous</foreign>, Lenehan said, helping himself.</p>
+<lb n="070468"/><said>―<foreign xml:lang="franglais">Thanky vous</foreign>,</said> Lenehan said, helping himself.</p>
 ```
 
 Not all foreign language usage is explicitly marked typographically in the novel. We assume `rend="italics"` to be a default attribute and value on `<foreign>` so, in such unmarked cases, use `<foreign xml:lang="eng" rend="none">`, along with a language code, to mark up foreign language usage that is not italicised in the reading text. For example, the following line contains two instances of French usage, only one of which is marked:
 
 ```xml
-<lb n="030176"/>devil's name? <foreign xml:lang="fr" rend="none">Paysayenn</foreign>. P. C. N., you know: <foreign xml:lang="fr">physiques, chimiques et
+Of what in the other devil's name? <foreign xml:lang="fr" rend="none">Paysayenn</foreign>. P. C. N., you know: <foreign xml:lang="fr">physiques, chimiques et naturelles</foreign>.
 ```
 
 ##Titles of Works
@@ -56,9 +56,9 @@ Titles are be rendered as italicized by default, so if a given title isn’t ita
 
 ##Dialogue Attribution
 
-Dialogue is marked up with `<said>` and using the `who` attribute, as in `<said who=”Stephen Dedalus”>`. 
+Dialogue is marked up with `<said>` and using the `@who` attribute, as in `<said who="Stephen Dedalus">`. 
  
- - For the moment, full names should be used, where known. (Although in the future we might use XML IDs; see [#19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19). 
+ - For the moment, full names should be used, where known. (Although in the future we hope to shift to XML IDs; see [#19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19). 
  - You can check the list of characters currently used with `make char`, a command in the [Makefile](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/blob/master/Makefile). (This requires that you have `ag` (The Silver Searcher) installed, and of course GNU `make`. See [Chris Foster’s comment in issue 19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19#issuecomment-278453253). 
 
 If a character quotes direct speech within her speech, we’re encoding it like this:
