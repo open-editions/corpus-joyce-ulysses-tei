@@ -394,12 +394,12 @@
 <lb n="170393"/>potential poet, at the age of 11 in 1877 on the occasion of the offering of
 <lb n="170394"/>three prizes of 10/-, 5/- and 2/6 respectively for competition by the
 <lb n="170395"/><title type="newspaper">Shamrock</title>, a weekly newspaper?</p>
-<p rend="inset"><lb n="170396"/><emph>An ambition to squint
+<p rend="inset"><lb n="170396"/><said who="Leopold Bloom" type="poetry" direct="false" rend="italics">An ambition to squint
 <lb n="170397"/>At my verses in print
 <lb n="170398"/>Makes me hope that for these you'll find room.
 <lb n="170399"/>If you so condescend
 <lb n="170400"/>Then please place at the end
-<lb n="170401"/>The name of yours truly, L. Bloom.</emph></p>
+<lb n="170401"/>The name of yours truly, L. Bloom.</said></p>
 <p rend="non-indent"><lb n="170402"/>Did he find four separating forces between his temporary guest and him?</p>
 <p rend="non-indent"><lb n="170403"/>Name, age, race, creed.</p>
 <p rend="non-indent"><lb n="170404"/>What anagrams had he made on his name in youth?</p>
@@ -410,11 +410,11 @@
 <lb n="170409"/>Old Ollebo, M. P.</p>
 <p rend="non-indent"><lb n="170410"/>What acrostic upon the abbreviation of his first name had he (kinetic poet)
 <lb n="170411"/>sent to Miss Marion (Molly) Tweedy on the 14 February 1888?</p>
-<p rend="inset"><lb n="170412"/><emph><emph>P</emph>oets oft have sung in rhyme
-<lb n="170413"/><emph>O</emph>f music sweet their praise divine.
-<lb n="170414"/><emph>L</emph>et them hymn it nine times nine.
-<lb n="170415"/><emph>D</emph>earer far than song or wine.
-<lb n="170416"/><emph>Y</emph>ou are mine. The world is mine.</emph></p>
+<p rend="inset"><lb n="170412"/><said who="Leopold Bloom" type="poetry" direct="false" rend="italics"><hi rend="bold">P</hi>oets oft have sung in rhyme
+<lb n="170413"/><hi rend="bold">O</hi>f music sweet their praise divine.
+<lb n="170414"/><hi rend="bold">L</hi>et them hymn it nine times nine.
+<lb n="170415"/><hi rend="bold">D</hi>earer far than song or wine.
+<lb n="170416"/><hi rend="bold">Y</hi>ou are mine. The world is mine.</said></p>
 <p rend="non-indent"><lb n="170417"/>What had prevented him from completing a topical song (music by R. G.
 <lb n="170418"/>Johnston) on the events of the past, or fixtures for the actual, years, entitled
 <lb n="170419"/><title type="song">If Brian Boru could but come back and see old Dublin now</title>, commissioned
@@ -1350,8 +1350,8 @@
 <lb n="171349"/>attention?</p>
 <p rend="non-indent"><lb n="171350"/>The image of a solitary (ipsorelative) mutable (aliorelative) man.</p>
 <p rend="non-indent"><lb n="171351"/>Why solitary (ipsorelative)?</p>
-<p rend="inset"><lb n="171352"/><emph>Brothers and sisters had he none.
-<lb n="171353"/>Yet that man's father was his grandfather's son.</emph></p>
+<p rend="inset"><lb n="171352"/><quote>Brothers and sisters had he none.
+<lb n="171353"/>Yet that man's father was his grandfather's son.</quote></p>
 <p rend="non-indent"><lb n="171354"/>Why mutable (aliorelative)?</p>
 <p rend="non-indent"><lb n="171355"/>From infancy to maturity he had resembled his maternal procreatrix. From
 <lb n="171356"/>maturity to senility he would increasingly resemble his paternal procreator.</p>
@@ -1454,10 +1454,10 @@
 <lb n="171453"/>replaced a silver coin (1 shilling), placed there (presumably) on the occasion
 <lb n="171454"/>(17 October 1903) of the interment of Mrs Emily Sinico, Sydney Parade.</p>
 <p rend="non-indent"><lb n="171455"/>Compile the budget for 16 June 1904.</p>
-<p rend="non-indent"><lb n="171456"/><emph>Debit Credit</emph>
+<p rend="non-indent"><lb n="171456"/><emph>Debit</emph> <emph>Credit</emph>
 <lb n="171457"/>£ - s - d £ - s - d
 <lb n="171458"/>1 Pork kidney 0 - 0 - 3 Cash in Hand 0 - 4 - 9
-<lb n="171459"/>1 Copy <emph>Freeman's Journal</emph> 0 - 0 - 1 Commission rec'd... <emph>Freeman's Journal</emph> 1 - 7 - 6
+<lb n="171459"/>1 Copy <title type="newspaper">Freeman's Journal</title> 0 - 0 - 1 Commission rec'd... <title type="newspaper">Freeman's Journal</title> 1 - 7 - 6
 <lb n="171460"/>1 Bath and Gratification 0 - 1 - 6 Loan (Stephen Dedalus) 1 - 7 - 0
 <lb n="171461"/>Tramfare 0 - 0 - 1
 <lb n="171462"/>1 In Memoriam Patrick Dignam 0 - 5 - 0
@@ -1774,12 +1774,12 @@
 <lb n="171773"/>congruous with the velocity of modern life.</p>
 <p rend="non-indent"><lb n="171774"/>What did the first drawer unlocked contain?</p>
 <p rend="non-indent"><lb n="171775"/>A Vere Foster's handwriting copybook, property of Milly (Millicent)
-<lb n="171776"/>Bloom, certain pages of which bore diagram drawings, marked <emph>Papli</emph>,
+<lb n="171776"/>Bloom, certain pages of which bore diagram drawings, marked <foreign xml:lang="hu">Papli</foreign>,
 <lb n="171777"/>which showed a large globular head with 5 hairs erect, 2 eyes in profile, the
 <lb n="171778"/>trunk full front with 3 large buttons, 1 triangular foot: 2 fading
 <lb n="171779"/>photographs of queen Alexandra of England and of Maud Branscombe,
 <lb n="171780"/>actress and professional beauty: a Yuletide card, bearing on it a pictorial
-<lb n="171781"/>representation of a parasitic plant, the legend <emph>Mizpah</emph>, the date Xmas 1892,
+<lb n="171781"/>representation of a parasitic plant, the legend <foreign xml:lang="he">Mizpah</foreign>, the date Xmas 1892,
 <lb n="171782"/>the name of the senders: from Mr + Mrs M. Comerford, the versicle: <emph>May
 <lb n="171783"/>this Yuletide bring to thee, Joy and peace and welcome glee</emph>: a butt of
 <lb n="171784"/>red partly liquefied sealing wax, obtained from the stores department of
