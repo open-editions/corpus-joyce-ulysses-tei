@@ -1,5 +1,5 @@
 <div type="episode" n="10">
-<div><p><lb n="100001"/>The superior, the very reverend John Conmee S. J. reset his smooth
+<div type="section" n="1"><p><lb n="100001"/>The superior, the very reverend John Conmee S. J. reset his smooth
 <lb n="100002"/>watch in his interior pocket as he came down the presbytery steps. Five to
 <lb n="100003"/>three. Just nice time to walk to Artane. What was that boy's name again?
 <lb n="100004"/>Dignam. Yes. <foreign xml:lang="la">Vere dignum et iustum est.</foreign> Brother Swan was the person to
@@ -16,7 +16,7 @@
 <lb n="100015"/>I had served my God as I have served my king He would not have
 <lb n="100016"/>abandoned me in my old days</said>. He walked by the treeshade of sunnywinking
 <lb n="100017"/>leaves: and towards him came the wife of Mr David Sheehy M. P.
-<lb n="100018"/><said>―Very well, indeed, father. And you, father?</said></p>
+<lb n="100018"/><said who="Elizabeth Sheehy">―Very well, indeed, father. And you, father?</said></p>
 <p><lb n="100019"/>Father Conmee was wonderfully well indeed. He would go to Buxton
 <lb n="100020"/>probably for the waters. And her boys, were they getting on well at
 <lb n="100021"/>Belvedere? Was that so? Father Conmee was very glad indeed to hear that.
@@ -27,13 +27,13 @@
 <p><lb n="100026"/>Father Conmee was very glad to see the wife of Mr David Sheehy
 <lb n="100027"/>M. P. looking so well and he begged to be remembered to Mr David Sheehy
 <lb n="100028"/>M. P. Yes, he would certainly call.
-<lb n="100029"/><said>―Good afternoon, Mrs Sheehy.</said></p>
+<lb n="100029"/><said who="John Conmee">―Good afternoon, Mrs Sheehy.</said></p>
 <p><lb n="100030"/>Father Conmee doffed his silk hat and smiled, as he took leave, at the
 <lb n="100031"/>jet beads of her mantilla inkshining in the sun. And smiled yet again, in
 <lb n="100032"/>going. He had cleaned his teeth, he knew, with arecanut paste.</p>
 <p><lb n="100033"/>Father Conmee walked and, walking, smiled for he thought on Father
 <lb n="100034"/>Bernard Vaughan's droll eyes and cockney voice.
-<lb n="100035"/><said>―Pilate! Wy don't you old back that owlin mob?</said></p>
+<lb n="100035"/><said who="Bernard Vaughan">―Pilate! Wy don't you old back that owlin mob?</said></p>
 <p><lb n="100036"/>A zealous man, however. Really he was. And really did great good in
 <lb n="100037"/>his way. Beyond a doubt. He loved Ireland, he said, and he loved the Irish.
 <lb n="100038"/>Of good family too would one think it? Welsh, were they not?</p>
@@ -46,10 +46,10 @@
 <lb n="100045"/>have.</p>
 <p><lb n="100046"/>Father Conmee gave a letter from his breast to Master Brunny Lynam
 <lb n="100047"/>and pointed to the red pillarbox at the corner of Fitzgibbon street.
-<lb n="100048"/><said>―But mind you don't post yourself into the box, little man,</said> he said.</p>
+<lb n="100048"/><said who="John Conmee">―But mind you don't post yourself into the box, little man,</said> he said.</p>
 <p><lb n="100049"/>The boys sixeyed Father Conmee and laughed:
-<lb n="100050"/><said>―O, sir.</said>
-<lb n="100051"/><said>―Well, let me see if you can post a letter,</said> Father Conmee said.</p>
+<lb n="100050"/><said who="Belvedere schoolboys">―O, sir.</said>
+<lb n="100051"/><said who="John Conmee">―Well, let me see if you can post a letter,</said> Father Conmee said.</p>
 <p><lb n="100052"/>Master Brunny Lynam ran across the road and put Father Conmee's
 <lb n="100053"/>letter to father provincial into the mouth of the bright red letterbox. Father
 <lb n="100054"/>Conmee smiled and nodded and smiled and walked along Mountjoy square
@@ -137,7 +137,7 @@
 <lb n="100136"/>marketnet: and Father Conmee saw the conductor help her and net and
 <lb n="100137"/>basket down: and Father Conmee thought that, as she had nearly passed
 <lb n="100138"/>the end of the penny fare, she was one of those good souls who had always
-<lb n="100139"/>to be told twice <said who="Father Conmee" direct="false" rend="italics">bless you, my child,</said> that they have been absolved, <said who="Father Conmee" direct="false" rend="italics">pray for
+<lb n="100139"/>to be told twice <said who="John Conmee" direct="false" rend="italics">bless you, my child,</said> that they have been absolved, <said who="John Conmee" direct="false" rend="italics">pray for
 <lb n="100140"/>me</said>. But they had so many worries in life, so many cares, poor creatures.</p>
 <p><lb n="100141"/>From the hoardings Mr Eugene Stratton grimaced with thick
 <lb n="100142"/>niggerlips at Father Conmee.</p>
@@ -195,7 +195,7 @@
 <lb n="100194"/><foreign xml:lang="la">Deus in adiutorium.</foreign></p>
 <p><lb n="100195"/>He walked calmly and read mutely the nones, walking and reading till
 <lb n="100196"/>he came to <foreign xml:lang="la">Res</foreign> in <foreign xml:lang="la">Beati immaculati</foreign>:
-<lb n="100197"/><said>―<foreign xml:lang="la">Principium verborum tuorum veritas: in eternum omnia iudicia iustitiae
+<lb n="100197"/><said who="John Conmee">―<foreign xml:lang="la">Principium verborum tuorum veritas: in eternum omnia iudicia iustitiae
 <lb n="100198"/>tuae.</foreign></said></p>
 <p><lb n="100199"/>A flushed young man came from a gap of a hedge and after him came
 <lb n="100200"/>a young woman with wild nodding daisies in her hand. The young man
@@ -203,9 +203,9 @@
 <lb n="100202"/>detached from her light skirt a clinging twig.</p>
 <p><lb n="100203"/>Father Conmee blessed both gravely and turned a thin page of his
 <lb n="100204"/>breviary. <foreign xml:lang="he">Sin</foreign>:
-<lb n="100205"/><said>―<foreign xml:lang="la">Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum.</foreign></said></p>
+<lb n="100205"/><said who="John Conmee">―<foreign xml:lang="la">Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum.</foreign></said></p>
 <lb n="100206"/><trailer>* * *</trailer></div>
-<div><p><lb n="100207"/>Corny Kelleher closed his long daybook and glanced with his
+<div type="section" n="2"><p><lb n="100207"/>Corny Kelleher closed his long daybook and glanced with his
 <lb n="100208"/>drooping eye at a pine coffinlid sentried in a corner. He pulled himself erect,
 <lb n="100209"/>went to it and, spinning it on its axle, viewed its shape and brass
 <lb n="100210"/>furnishings. Chewing his blade of hay he laid the coffinlid by and came to
@@ -216,24 +216,24 @@
 <p><lb n="100215"/>Corny Kelleher locked his largefooted boots and gazed, his hat
 <lb n="100216"/>downtilted, chewing his blade of hay.</p>
 <p><lb n="100217"/>Constable 57 C, on his beat, stood to pass the time of day.
-<lb n="100218"/><said>―That's a fine day, Mr Kelleher.</said>
-<lb n="100219"/><said>―Ay,</said> Corny Kelleher said.
-<lb n="100220"/><said>―It's very close,</said> the constable said.</p>
+<lb n="100218"/><said who="Constable 57 C">―That's a fine day, Mr Kelleher.</said>
+<lb n="100219"/><said who="Corny Kelleher">―Ay,</said> Corny Kelleher said.
+<lb n="100220"/><said who="Constable 57 C">―It's very close,</said> the constable said.</p>
 <p><lb n="100221"/>Corny Kelleher sped a silent jet of hayjuice arching from his mouth
 <lb n="100222"/>while a generous white arm from a window in Eccles street flung forth a
 <lb n="100223"/>coin.
-<lb n="100224"/><said>―What's the best news?</said> he asked.
-<lb n="100225"/><said>―I seen that particular party last evening,</said> the constable said with bated
+<lb n="100224"/><said who="Corny Kelleher">―What's the best news?</said> he asked.
+<lb n="100225"/><said who="Constable 57 C">―I seen that particular party last evening,</said> the constable said with bated
 <lb n="100226"/>breath.</p>
 <lb n="100227"/><trailer>* * *</trailer></div>
-<div><p><lb n="100228"/>A onelegged sailor crutched himself round MacConnell's corner,
+<div type="section" n="3"><p><lb n="100228"/>A onelegged sailor crutched himself round MacConnell's corner,
 <lb n="100229"/>skirting Rabaiotti's icecream car, and jerked himself up Eccles street.
 <lb n="100230"/>Towards Larry O'Rourke, in shirtsleeves in his doorway, he growled
 <lb n="100231"/>unamiably:
-<lb n="100232"/><said>―<emph>For England</emph> ....</said></p>
+<lb n="100232"/><said who="onelegged sailor">―<quote type="song">For England</quote> ....</said></p>
 <p><lb n="100233"/>He swung himself violently forward past Katey and Boody Dedalus,
 <lb n="100234"/>halted and growled:
-<lb n="100235"/><said>―<emph>home and beauty.</emph></said></p>
+<lb n="100235"/><said who="onelegged sailor">―<quote type="song">home and beauty.</quote></said></p>
 <p><lb n="100236"/>J. J. O'Molloy's white careworn face was told that Mr Lambert was
 <lb n="100237"/>in the warehouse with a visitor.</p>
 <p><lb n="100238"/>A stout lady stopped, took a copper coin from her purse and dropped
@@ -241,12 +241,12 @@
 <lb n="100240"/>at the unheeding windows, sank his head and swung himself forward four
 <lb n="100241"/>strides.</p>
 <p><lb n="100242"/>He halted and growled angrily:
-<lb n="100243"/><said>―<emph>For England</emph> .....</said></p>
+<lb n="100243"/><said who="onelegged sailor">―<quote type="song">For England</quote> .....</said></p>
 <p><lb n="100244"/>Two barefoot urchins, sucking long liquorice laces, halted near him,
 <lb n="100245"/>gaping at his stump with their yellowslobbered mouths.</p>
 <p><lb n="100246"/>He swung himself forward in vigorous jerks, halted, lifted his head
 <lb n="100247"/>towards a window and bayed deeply:
-<lb n="100248"/><said>―<emph>home and beauty.</emph></said></p>
+<lb n="100248"/><said who="onelegged sailor">―<quote type="song">home and beauty.</quote></said></p>
 <p><lb n="100249"/>The gay sweet chirping whistling within went on a bar or two, ceased.
 <lb n="100250"/>The blind of the window was drawn aside. A card <emph>Unfurnished Apartments</emph>
 <lb n="100251"/>slipped from the sash and fell. A plump bare generous arm shone, was seen,
@@ -254,55 +254,55 @@
 <lb n="100253"/>hand flung forth a coin over the area railings. It fell on the path.</p>
 <p><lb n="100254"/>One of the urchins ran to it, picked it up and dropped it into the
 <lb n="100255"/>minstrel's cap, saying:
-<lb n="100256"/><said>―There, sir.</said></p>
+<lb n="100256"/><said who="urchin">―There, sir.</said></p>
 <lb n="100257"/><trailer>* * *</trailer></div>
-<div><p><lb n="100258"/>Katey and Boody Dedalus shoved in the door of the closesteaming
+<div type="section" n="4"><p><lb n="100258"/>Katey and Boody Dedalus shoved in the door of the closesteaming
 <lb n="100259"/>kitchen.
-<lb n="100260"/><said>―Did you put in the books?</said> Boody asked.</p>
+<lb n="100260"/><said who="Boody Dedalus">―Did you put in the books?</said> Boody asked.</p>
 <p><lb n="100261"/>Maggy at the range rammed down a greyish mass beneath bubbling
 <lb n="100262"/>suds twice with her potstick and wiped her brow.
-<lb n="100263"/><said>―They wouldn't give anything on them,</said> she said.</p>
+<lb n="100263"/><said who="Maggy Dedalus">―They wouldn't give anything on them,</said> she said.</p>
 <p><lb n="100264"/>Father Conmee walked through Clongowes fields, his thinsocked
 <lb n="100265"/>ankles tickled by stubble.
-<lb n="100266"/><said>―Where did you try?</said> Boody asked.
-<lb n="100267"/><said>―M'Guinness's.</said></p>
+<lb n="100266"/><said who="Boody Dedalus">―Where did you try?</said> Boody asked.
+<lb n="100267"/><said who="Ma Dedalus">―M'Guinness's.</said></p>
 <p><lb n="100268"/>Boody stamped her foot and threw her satchel on the table.
-<lb n="100269"/><said>―Bad cess to her big face!</said> she cried.</p>
+<lb n="100269"/><said who="Boody Dedalus">―Bad cess to her big face!</said> she cried.</p>
 <p><lb n="100270"/>Katey went to the range and peered with squinting eyes.
-<lb n="100271"/><said>―What's in the pot?</said> she asked.
-<lb n="100272"/><said>―Shirts,</said> Maggy said.</p>
+<lb n="100271"/><said who="Katey Dedalus">―What's in the pot?</said> she asked.
+<lb n="100272"/><said who="Maggy Dedalus">―Shirts,</said> Maggy said.</p>
 <p><lb n="100273"/>Boody cried angrily:
-<lb n="100274"/><said>―Crickey, is there nothing for us to eat?</said></p>
+<lb n="100274"/><said who="Boody Dedalus">―Crickey, is there nothing for us to eat?</said></p>
 <p><lb n="100275"/>Katey, lifting the kettlelid in a pad of her stained skirt, asked:
-<lb n="100276"/><said>―And what's in this?</said></p>
+<lb n="100276"/><said who="Katey Dedalus">―And what's in this?</said></p>
 <p><lb n="100277"/>A heavy fume gushed in answer.
-<lb n="100278"/><said>―Peasoup,</said> Maggy said.
-<lb n="100279"/><said>―Where did you get it?</said> Katey asked.
-<lb n="100280"/><said>―Sister Mary Patrick,</said> Maggy said.</p>
+<lb n="100278"/><said who="Maggy Dedalus">―Peasoup,</said> Maggy said.
+<lb n="100279"/><said who="Katey Dedalus">―Where did you get it?</said> Katey asked.
+<lb n="100280"/><said who="Maggy Dedalus">―Sister Mary Patrick,</said> Maggy said.</p>
 <p><lb n="100281"/>The lacquey rang his bell.
-<lb n="100282"/><said>―Barang!</said></p>
+<lb n="100282"/><said who="lacquey">―Barang!</said></p>
 <p><lb n="100283"/>Boody sat down at the table and said hungrily:
-<lb n="100284"/><said>―Give us it here.</said></p>
+<lb n="100284"/><said who="Boody Dedalus">―Give us it here.</said></p>
 <p><lb n="100285"/>Maggy poured yellow thick soup from the kettle into a bowl. Katey,
 <lb n="100286"/>sitting opposite Boody, said quietly, as her fingertip lifted to her mouth
 <lb n="100287"/>random crumbs:
-<lb n="100288"/><said>―A good job we have that much. Where's Dilly?</said>
-<lb n="100289"/><said>―Gone to meet father,</said> Maggy said.</p>
+<lb n="100288"/><said who="Boody Dedalus">―A good job we have that much. Where's Dilly?</said>
+<lb n="100289"/><said who="Maggy Dedalus">―Gone to meet father,</said> Maggy said.</p>
 <p><lb n="100290"/>Boody, breaking big chunks of bread into the yellow soup, added:
-<lb n="100291"/><said>―Our father who art not in heaven.</said></p>
+<lb n="100291"/><said who="Boody Dedalus">―Our father who art not in heaven.</said></p>
 <p><lb n="100292"/>Maggy, pouring yellow soup in Katey's bowl, exclaimed:
-<lb n="100293"/><said>―Boody! For shame!</said></p>
+<lb n="100293"/><said who="Maggy Dedalus">―Boody! For shame!</said></p>
 <p><lb n="100294"/>A skiff, a crumpled throwaway, Elijah is coming, rode lightly down
 <lb n="100295"/>the Liffey, under Loopline bridge, shooting the rapids where water chafed
 <lb n="100296"/>around the bridgepiers, sailing eastward past hulls and anchorchains,
 <lb n="100297"/>between the Customhouse old dock and George's quay.</p>
 <lb n="100298"/><trailer>* * *</trailer></div>
-<div><p><lb n="100299"/>The blond girl in Thornton's bedded the wicker basket with rustling
+<div type="section" n="5"><p><lb n="100299"/>The blond girl in Thornton's bedded the wicker basket with rustling
 <lb n="100300"/>fibre. Blazes Boylan handed her the bottle swathed in pink tissue paper and
 <lb n="100301"/>a small jar.
-<lb n="100302"/><said>―Put these in first, will you?</said> he said.
-<lb n="100303"/><said>―Yes, sir,</said> the blond girl said. <said>And the fruit on top.</said>
-<lb n="100304"/><said>―That'll do, game ball,</said> Blazes Boylan said.</p>
+<lb n="100302"/><said who="Blazes Boylan">―Put these in first, will you?</said> he said.
+<lb n="100303"/><said who="Thornton's girl">―Yes, sir,</said> the blond girl said. <said who="Thornton's girl">And the fruit on top.</said>
+<lb n="100304"/><said who="Blazes Boylan">―That'll do, game ball,</said> Blazes Boylan said.</p>
 <p><lb n="100305"/>She bestowed fat pears neatly, head by tail, and among them ripe
 <lb n="100306"/>shamefaced peaches.</p>
 <p><lb n="100307"/>Blazes Boylan walked here and there in new tan shoes about the
@@ -312,61 +312,61 @@
 <lb n="100311"/>plodding towards their goal.</p>
 <p><lb n="100312"/>He turned suddenly from a chip of strawberries, drew a gold watch
 <lb n="100313"/>from his fob and held it at its chain's length.
-<lb n="100314"/><said>―Can you send them by tram? Now?</said></p>
+<lb n="100314"/><said who="Blazes Boylan">―Can you send them by tram? Now?</said></p>
 <p><lb n="100315"/>A darkbacked figure under Merchants' arch scanned books on the
 <lb n="100316"/>hawker's cart.
-<lb n="100317"/><said>―Certainly, sir. Is it in the city?</said>
-<lb n="100318"/><said>―O, yes,</said> Blazes Boylan said. <said>Ten minutes.</said></p>
+<lb n="100317"/><said who="Thornton's girl">―Certainly, sir. Is it in the city?</said>
+<lb n="100318"/><said who="Blazes Boylan">―O, yes,</said> Blazes Boylan said. <said who="Blazes Boylan">Ten minutes.</said></p>
 <p><lb n="100319"/>The blond girl handed him a docket and pencil.
-<lb n="100320"/><said>―Will you write the address, sir?</said></p>
+<lb n="100320"/><said who="Thornton's girl">―Will you write the address, sir?</said></p>
 <p><lb n="100321"/>Blazes Boylan at the counter wrote and pushed the docket to her.
-<lb n="100322"/><said>―Send it at once, will you?</said> he said. <said>It's for an invalid.</said>
-<lb n="100323"/><said>―Yes, sir. I will, sir.</said></p>
+<lb n="100322"/><said who="Blazes Boylan">―Send it at once, will you?</said> he said. <said who="Blazes Boylan">It's for an invalid.</said>
+<lb n="100323"/><said who="Thornton's girl">―Yes, sir. I will, sir.</said></p>
 <p><lb n="100324"/>Blazes Boylan rattled merry money in his trousers' pocket.
-<lb n="100325"/><said>―What's the damage?</said> he asked.</p>
+<lb n="100325"/><said who="Blazes Boylan">―What's the damage?</said> he asked.</p>
 <p><lb n="100326"/>The blond girl's slim fingers reckoned the fruits.</p>
 <p><lb n="100327"/>Blazes Boylan looked into the cut of her blouse. A young pullet. He
 <lb n="100328"/>took a red carnation from the tall stemglass.
-<lb n="100329"/><said>―This for me?</said> he asked gallantly.</p>
+<lb n="100329"/><said who="Blazes Boylan">―This for me?</said> he asked gallantly.</p>
 <p><lb n="100330"/>The blond girl glanced sideways at him, got up regardless, with his tie
 <lb n="100331"/>a bit crooked, blushing.
-<lb n="100332"/><said>―Yes, sir,</said> she said.</p>
+<lb n="100332"/><said who="Thornton's girl">―Yes, sir,</said> she said.</p>
 <p><lb n="100333"/>Bending archly she reckoned again fat pears and blushing peaches.</p>
 <p><lb n="100334"/>Blazes Boylan looked in her blouse with more favour, the stalk of the
 <lb n="100335"/>red flower between his smiling teeth.
-<lb n="100336"/><said>―May I say a word to your telephone, missy?</said> he asked roguishly.</p>
+<lb n="100336"/><said who="Blazes Boylan">―May I say a word to your telephone, missy?</said> he asked roguishly.</p>
 <lb n="100337"/><trailer>* * *</trailer></div>
-<div><p><lb n="100338"/><said>―<foreign xml:lang="it">Ma!</foreign></said> Almidano Artifoni said.</p>
+<div type="section" n="6"><p><lb n="100338"/><said who="Almidano Artifoni">―<foreign xml:lang="it">Ma!</foreign></said> Almidano Artifoni said.</p>
 <p><lb n="100339"/>He gazed over Stephen's shoulder at Goldsmith's knobby poll.</p>
 <p><lb n="100340"/>Two carfuls of tourists passed slowly, their women sitting fore,
 <lb n="100341"/>gripping the handrests. Palefaces. Men's arms frankly round their stunted
 <lb n="100342"/>forms. They looked from Trinity to the blind columned porch of the bank
 <lb n="100343"/>of Ireland where pigeons roocoocooed.
-<lb n="100344"/><said>―<foreign xml:lang="it">Anch'io ho avuto di queste idee</foreign>,</said> Almidano Artifoni said, <said><foreign xml:lang="it">quand' ero
+<lb n="100344"/><said who="Almidano Artifoni">―<foreign xml:lang="it">Anch'io ho avuto di queste idee</foreign>,</said> Almidano Artifoni said, <said who="Almidano Artifoni"><foreign xml:lang="it">quand' ero
 <lb n="100345"/>giovine come Lei. Eppoi mi sono convinto che il mondo è una bestia. È
-<lb n="100346"/>peccato. Perchè la sua voce</foreign> .... <foreign xml:lang="it">sarebbe un cespite di rendita, via. Invece, Lei
+<lb n="100346"/>peccato. Perchè la sua voce .... sarebbe un cespite di rendita, via. Invece, Lei
 <lb n="100347"/>si sacrifica.</foreign></said>
-<lb n="100348"/><said>―<foreign xml:lang="it">Sacrifizio incruento</foreign>,</said> Stephen said smiling, swaying his ashplant in slow
+<lb n="100348"/><said who="Stephen Dedalus">―<foreign xml:lang="it">Sacrifizio incruento</foreign>,</said> Stephen said smiling, swaying his ashplant in slow
 <lb n="100349"/>swingswong from its midpoint, lightly.
-<lb n="100350"/><said>―<foreign xml:lang="it">Speriamo</foreign>,</said> the round mustachioed face said pleasantly. <said><foreign xml:lang="it">Ma, dia: retta a
+<lb n="100350"/><said who="Almidano Artifoni">―<foreign xml:lang="it">Speriamo</foreign>,</said> the round mustachioed face said pleasantly. <said who="Almidano Artifoni"><foreign xml:lang="it">Ma, dia: retta a
 <lb n="100351"/>me. Ci rifletta.</foreign></said></p>
 <p><lb n="100352"/>By the stern stone hand of Grattan, bidding halt, an Inchicore tram
 <lb n="100353"/>unloaded straggling Highland soldiers of a band.
-<lb n="100354"/><said>―<foreign xml:lang="it">Ci rifletterò</foreign>,</said> Stephen said, glancing down the solid trouserleg.
-<lb n="100355"/><said>―<foreign xml:lang="it">Ma, sul serio, eh?</foreign></said> Almidano Artifoni said.</p>
+<lb n="100354"/><said who="Stephen Dedalus">―<foreign xml:lang="it">Ci rifletterò</foreign>,</said> Stephen said, glancing down the solid trouserleg.
+<lb n="100355"/><said who="Almidano Artifoni">―<foreign xml:lang="it">Ma, sul serio, eh?</foreign></said> Almidano Artifoni said.</p>
 <p><lb n="100356"/>His heavy hand took Stephen's firmly. Human eyes. They gazed
 <lb n="100357"/>curiously an instant and turned quickly towards a Dalkey tram.
-<lb n="100358"/><said>―<foreign xml:lang="it">Eccolo</foreign>,</said> Almidano Artifoni said in friendly haste. <said><foreign xml:lang="it">Venga a trovarmi e ci
+<lb n="100358"/><said who="Almidano Artifoni">―<foreign xml:lang="it">Eccolo</foreign>,</said> Almidano Artifoni said in friendly haste. <said who="Almidano Artifoni"><foreign xml:lang="it">Venga a trovarmi e ci
 <lb n="100359"/>pensi. Addio, caro.</foreign></said>
-<lb n="100360"/><said>―<foreign xml:lang="it">Arrivederla, maestro</foreign>,</said> Stephen said, raising his hat when his hand was
-<lb n="100361"/>freed. <said><foreign xml:lang="it">E grazie.</foreign></said>
-<lb n="100362"/><said>―<foreign xml:lang="it">Di che?</foreign> </said>Almidano Artifoni said. <said><foreign xml:lang="it">Scusi, eh? Tante belle cose!</foreign></said></p>
+<lb n="100360"/><said who="Stephen Dedalus">―<foreign xml:lang="it">Arrivederla, maestro</foreign>,</said> Stephen said, raising his hat when his hand was
+<lb n="100361"/>freed. <said who="Stephen Dedalus"><foreign xml:lang="it">E grazie.</foreign></said>
+<lb n="100362"/><said who="Almidano Artifoni">―<foreign xml:lang="it">Di che?</foreign> </said>Almidano Artifoni said. <said who="Almidano Artifoni"><foreign xml:lang="it">Scusi, eh? Tante belle cose!</foreign></said></p>
 <p><lb n="100363"/>Almidano Artifoni, holding up a baton of rolled music as a signal,
 <lb n="100364"/>trotted on stout trousers after the Dalkey tram. In vain he trotted, signalling
 <lb n="100365"/>in vain among the rout of barekneed gillies smuggling implements of music
 <lb n="100366"/>through Trinity gates.</p>
 <lb n="100367"/><trailer>* * *</trailer></div>
-<div><p><lb n="100368"/>Miss Dunne hid the Capel street library copy of <title type="book">The Woman in White</title>
+<div type="section" n="7"><p><lb n="100368"/>Miss Dunne hid the Capel street library copy of <title type="book">The Woman in White</title>
 <lb n="100369"/>far back in her drawer and rolled a sheet of gaudy notepaper into her
 <lb n="100370"/>typewriter.</p>
 <p><lb n="100371"/>Too much mystery business in it. Is he in love with that one, Marion?
@@ -374,7 +374,7 @@
 <p><lb n="100373"/>The disk shot down the groove, wobbled a while, ceased and ogled
 <lb n="100374"/>them: six.</p>
 <p><lb n="100375"/>Miss Dunne clicked on the keyboard:
-<lb n="100376"/><said>―16 June 1904.</said></p>
+<lb n="100376"/><said who="unclear: Miss Dunne typewriter">―16 June 1904.</said></p>
 <p><lb n="100377"/>Five tallwhitehatted sandwichmen between Monypeny's corner and
 <lb n="100378"/>the slab where Wolfe Tone's statue was not, eeled themselves turning
 <lb n="100379"/>H. E. L. Y'S and plodded back as they had come.</p>
@@ -387,85 +387,85 @@
 <lb n="100386"/>never took his eyes off her. Hope to goodness he won't keep me here till
 <lb n="100387"/>seven.</p>
 <p><lb n="100388"/>The telephone rang rudely by her ear.
-<lb n="100389"/><said>―Hello. Yes, sir. No, sir. Yes, sir. I'll ring them up after five. Only those
+<lb n="100389"/><said who="Miss Dunne">―Hello. Yes, sir. No, sir. Yes, sir. I'll ring them up after five. Only those
 <lb n="100390"/>two, sir, for Belfast and Liverpool. All right, sir. Then I can go after six if
 <lb n="100391"/>you're not back. A quarter after. Yes, sir. Twentyseven and six. I'll tell him.
 <lb n="100392"/>Yes: one, seven, six.</said></p>
 <p><lb n="100393"/>She scribbled three figures on an envelope.
-<lb n="100394"/><said>―Mr Boylan! Hello! That gentleman from <title type="newspaper">Sport</title> was in looking for you.
+<lb n="100394"/><said who="Miss Dunne">―Mr Boylan! Hello! That gentleman from <title type="newspaper">Sport</title> was in looking for you.
 <lb n="100395"/>Mr Lenehan, yes. He said he'll be in the Ormond at four. No, sir. Yes, sir.
 <lb n="100396"/>I'll ring them up after five.</said></p>
 <lb n="100397"/><trailer>* * *</trailer></div>
-<div><p><lb n="100398"/>Two pink faces turned in the flare of the tiny torch.
-<lb n="100399"/><said>―Who's that?</said> Ned Lambert asked. <said>Is that Crotty?</said>
-<lb n="100400"/><said>―Ringabella and Crosshaven,</said> a voice replied groping for foothold.
-<lb n="100401"/><said>―Hello, Jack, is that yourself?</said> Ned Lambert said, raising in salute his
-<lb n="100402"/>pliant lath among the flickering arches. <said>Come on. Mind your steps there.</said></p>
+<div type="section" n="8"><p><lb n="100398"/>Two pink faces turned in the flare of the tiny torch.
+<lb n="100399"/><said who="Ned Lambert">―Who's that?</said> Ned Lambert asked. <said who="Ned Lambert">Is that Crotty?</said>
+<lb n="100400"/><said who="J. J. O'Molloy">―Ringabella and Crosshaven,</said> a voice replied groping for foothold.
+<lb n="100401"/><said who="Ned Lambert">―Hello, Jack, is that yourself?</said> Ned Lambert said, raising in salute his
+<lb n="100402"/>pliant lath among the flickering arches. <said who="Ned Lambert">Come on. Mind your steps there.</said></p>
 <p><lb n="100403"/>The vesta in the clergyman's uplifted hand consumed itself in a long
 <lb n="100404"/>soft flame and was let fall. At their feet its red speck died: and mouldy air
 <lb n="100405"/>closed round them.
-<lb n="100406"/><said>―How interesting!</said> a refined accent said in the gloom.
-<lb n="100407"/><said>―Yes, sir,</said> Ned Lambert said heartily. <said>We are standing in the historic
+<lb n="100406"/><said who="Hugh C. Love">―How interesting!</said> a refined accent said in the gloom.
+<lb n="100407"/><said who="Ned Lambert">―Yes, sir,</said> Ned Lambert said heartily. <said who="Ned Lambert">We are standing in the historic
 <lb n="100408"/>council chamber of saint Mary's abbey where silken Thomas proclaimed
 <lb n="100409"/>himself a rebel in 1534. This is the most historic spot in all Dublin.
 <lb n="100410"/>O'Madden Burke is going to write something about it one of these days.
 <lb n="100411"/>The old bank of Ireland was over the way till the time of the union and the
 <lb n="100412"/>original jews' temple was here too before they built their synagogue over in
 <lb n="100413"/>Adelaide road. You were never here before, Jack, were you?</said>
-<lb n="100414"/><said>―No, Ned.</said>
-<lb n="100415"/><said>―He rode down through Dame walk,</said> the refined accent said, <said>if my
+<lb n="100414"/><said who="J. J. O'Molloy">―No, Ned.</said>
+<lb n="100415"/><said who="Hugh C. Love">―He rode down through Dame walk,</said> the refined accent said, <said who="Hugh C. Love">if my
 <lb n="100416"/>memory serves me. The mansion of the Kildares was in Thomas court.</said>
-<lb n="100417"/><said>―That's right,</said> Ned Lambert said. <said>That's quite right, sir.</said>
-<lb n="100418"/><said>―If you will be so kind then,</said> the clergyman said, <said>the next time to allow me
+<lb n="100417"/><said who="Ned Lambert">―That's right,</said> Ned Lambert said. <said who="Ned Lambert">That's quite right, sir.</said>
+<lb n="100418"/><said who="Hugh C. Love">―If you will be so kind then,</said> the clergyman said, <said who="Hugh C. Love">the next time to allow me
 <lb n="100419"/>perhaps ....</said>
-<lb n="100420"/><said>―Certainly,</said> Ned Lambert said. <said>Bring the camera whenever you like. I'll get
+<lb n="100420"/><said who="Ned Lambert">―Certainly,</said> Ned Lambert said. <said who="Ned Lambert">Bring the camera whenever you like. I'll get
 <lb n="100421"/>those bags cleared away from the windows. You can take it from here or
 <lb n="100422"/>from here.</said></p>
 <p><lb n="100423"/>In the still faint light he moved about, tapping with his lath the piled
 <lb n="100424"/>seedbags and points of vantage on the floor.</p>
 <p><lb n="100425"/>From a long face a beard and gaze hung on a chessboard.
-<lb n="100426"/><said>―I'm deeply obliged, Mr Lambert,</said> the clergyman said. <said>I won't trespass on
+<lb n="100426"/><said who="Hugh C. Love">―I'm deeply obliged, Mr Lambert,</said> the clergyman said. <said who="Hugh C. Love">I won't trespass on
 <lb n="100427"/>your valuable time ....</said>
-<lb n="100428"/><said>―You're welcome, sir,</said> Ned Lambert said. <said>Drop in whenever you like. Next
+<lb n="100428"/><said who="Ned Lambert">―You're welcome, sir,</said> Ned Lambert said. <said who="Ned Lambert">Drop in whenever you like. Next
 <lb n="100429"/>week, say. Can you see?</said>
-<lb n="100430"/><said>―Yes, yes. Good afternoon, Mr Lambert. Very pleased to have met you.</said>
-<lb n="100431"/><said>―Pleasure is mine, sir,</said> Ned Lambert answered.</p>
+<lb n="100430"/><said who="Hugh C. Love">―Yes, yes. Good afternoon, Mr Lambert. Very pleased to have met you.</said>
+<lb n="100431"/><said who="Ned Lambert">―Pleasure is mine, sir,</said> Ned Lambert answered.</p>
 <p><lb n="100432"/>He followed his guest to the outlet and then whirled his lath away
 <lb n="100433"/>among the pillars. With J. J. O'Molloy he came forth slowly into Mary's
 <lb n="100434"/>abbey where draymen were loading floats with sacks of carob and palmnut
 <lb n="100435"/>meal, O'Connor, Wexford.</p>
 <p><lb n="100436"/>He stood to read the card in his hand.
-<lb n="100437"/><said>―The reverend Hugh C. Love, Rathcoffey. Present address: Saint
+<lb n="100437"/><said who="Ned Lambert">―The reverend Hugh C. Love, Rathcoffey. Present address: Saint
 <lb n="100438"/>Michael's, Sallins. Nice young chap he is. He's writing a book about the
 <lb n="100439"/>Fitzgeralds he told me. He's well up in history, faith.</said></p>
 <p><lb n="100440"/>The young woman with slow care detached from her light skirt a
 <lb n="100441"/>clinging twig.
-<lb n="100442"/><said>―I thought you were at a new gunpowder plot,</said> J. J. O'Molloy said.</p>
+<lb n="100442"/><said who="J. J. O'Molloy">―I thought you were at a new gunpowder plot,</said> J. J. O'Molloy said.</p>
 <p><lb n="100443"/>Ned Lambert cracked his fingers in the air.
-<lb n="100444"/><said>―God!</said> he cried. <said>I forgot to tell him that one about the earl of Kildare after
-<lb n="100445"/>he set fire to Cashel cathedral. You know that one? <emph>I'm bloody sorry I did it</emph>,
-<lb n="100446"/>says he, <emph>but I declare to God I thought the archbishop was inside</emph>. He
+<lb n="100444"/><said who="Ned Lambert">―God!</said> he cried. <said who="Ned Lambert">I forgot to tell him that one about the earl of Kildare after
+<lb n="100445"/>he set fire to Cashel cathedral. You know that one? <said who="earl of Kildare" rend="italics">I'm bloody sorry I did it</said>,
+<lb n="100446"/>says he, <said who="earl of Kildare" rend="italics">but I declare to God I thought the archbishop was inside</said>. He
 <lb n="100447"/>mightn't like it, though. What? God, I'll tell him anyhow. That was the
 <lb n="100448"/>great earl, the Fitzgerald Mor. Hot members they were all of them, the
 <lb n="100449"/>Geraldines.</said></p>
 <p><lb n="100450"/>The horses he passed started nervously under their slack harness. He
 <lb n="100451"/>slapped a piebald haunch quivering near him and cried:
-<lb n="100452"/><said>―Woa, sonny!</said></p>
+<lb n="100452"/><said who="Ned Lambert">―Woa, sonny!</said></p>
 <p><lb n="100453"/>He turned to J. J. O'Molloy and asked:
-<lb n="100454"/><said>―Well, Jack. What is it? What's the trouble? Wait awhile. Hold hard.</said></p>
+<lb n="100454"/><said who="Ned Lambert">―Well, Jack. What is it? What's the trouble? Wait awhile. Hold hard.</said></p>
 <p><lb n="100455"/>With gaping mouth and head far back he stood still and, after an
 <lb n="100456"/>instant, sneezed loudly.
-<lb n="100457"/><said>―Chow!</said> he said. <said>Blast you!</said>
-<lb n="100458"/><said>―The dust from those sacks,</said> J. J. O'Molloy said politely.
-<lb n="100459"/><said>―No,</said> Ned Lambert gasped, <said>I caught a .... cold night before .... blast your
+<lb n="100457"/><said who="Ned Lambert">―Chow!</said> he said. <said who="Ned Lambert">Blast you!</said>
+<lb n="100458"/><said who="J. J. O'Molloy">―The dust from those sacks,</said> J. J. O'Molloy said politely.
+<lb n="100459"/><said who="Ned Lambert">―No,</said> Ned Lambert gasped, <said who="Ned Lambert">I caught a .... cold night before .... blast your
 <lb n="100460"/>soul ... night before last ... and there was a hell of a lot of draught ....</said></p>
 <p><lb n="100461"/>He held his handkerchief ready for the coming ...
-<lb n="100462"/><said>―I was .... Glasnevin this morning ... poor little ... what do you call him ...
+<lb n="100462"/><said who="Ned Lambert">―I was .... Glasnevin this morning ... poor little ... what do you call him ...
 <lb n="100463"/>Chow! ... Mother of Moses!</said></p>
 <lb n="100464"/><trailer>* * *</trailer></div>
-<div><p><lb n="100465"/>Tom Rochford took the top disk from the pile he clasped against his
+<div type="section" n="9"><p><lb n="100465"/>Tom Rochford took the top disk from the pile he clasped against his
 <lb n="100466"/>claret waistcoat.
-<lb n="100467"/><said>―See?</said> he said. <said>Say it's turn six. In here, see. Turn Now On.</said></p>
+<lb n="100467"/><said who="Tom Rochford">―See?</said> he said. <said who="Tom Rochford">Say it's turn six. In here, see. Turn Now On.</said></p>
 <p><lb n="100468"/>He slid it into the left slot for them. It shot down the groove, wobbled
 <lb n="100469"/>a while, ceased, ogling them: six.</p>
 <p><lb n="100470"/>Lawyers of the past, haughty, pleading, beheld pass from the
@@ -474,25 +474,25 @@
 <lb n="100473"/>admiralty division of king's bench to the court of appeal an elderly female
 <lb n="100474"/>with false teeth smiling incredulously and a black silk skirt of great
 <lb n="100475"/>amplitude.
-<lb n="100476"/><said>―See?</said> he said. <said>See now the last one I put in is over here: Turns Over. The
+<lb n="100476"/><said who="Tom Rochford">―See?</said> he said. <said who="Tom Rochford">See now the last one I put in is over here: Turns Over. The
 <lb n="100477"/>impact. Leverage, see?</said></p>
 <p><lb n="100478"/>He showed them the rising column of disks on the right.
-<lb n="100479"/><said>―Smart idea,</said> Nosey Flynn said, snuffling. <said>So a fellow coming in late can
+<lb n="100479"/><said who="Nosey Flynn">―Smart idea,</said> Nosey Flynn said, snuffling. <said who="Nosey Flynn">So a fellow coming in late can
 <lb n="100480"/>see what turn is on and what turns are over.</said>
-<lb n="100481"/><said>―See?</said> Tom Rochford said.</p>
+<lb n="100481"/><said who="Tom Rochford">―See?</said> Tom Rochford said.</p>
 <p><lb n="100482"/>He slid in a disk for himself: and watched it shoot, wobble, ogle, stop:
 <lb n="100483"/>four. Turn Now On.
-<lb n="100484"/><said>―I'll see him now in the Ormond,</said> Lenehan said, <said>and sound him. One good
+<lb n="100484"/><said who="Lenehan">―I'll see him now in the Ormond,</said> Lenehan said, <said who="Lenehan">and sound him. One good
 <lb n="100485"/>turn deserves another.</said>
-<lb n="100486"/><said>―Do,</said> Tom Rochford said. <said>Tell him I'm Boylan with impatience.</said>
-<lb n="100487"/><said>―Goodnight,</said> M'Coy said abruptly. <said>When you two begin .....</said></p>
+<lb n="100486"/><said who="Tom Rochford">―Do,</said> Tom Rochford said. <said who="Tom Rochford">Tell him I'm Boylan with impatience.</said>
+<lb n="100487"/><said who="C. P. M'Coy">―Goodnight,</said> M'Coy said abruptly. <said who="C. P. M'Coy">When you two begin .....</said></p>
 <p><lb n="100488"/>Nosey Flynn stooped towards the lever, snuffling at it.
-<lb n="100489"/><said>―But how does it work here, Tommy?</said> he asked.
-<lb n="100490"/><said>―Tooraloo,</said> Lenehan said. <said>See you later.</said></p>
+<lb n="100489"/><said who="Nosey Flynn">―But how does it work here, Tommy?</said> he asked.
+<lb n="100490"/><said who="Lenehan">―Tooraloo,</said> Lenehan said. <said who="Lenehan">See you later.</said></p>
 <p><lb n="100491"/>He followed M'Coy out across the tiny square of Crampton court.
-<lb n="100492"/><said>―He's a hero,</said> he said simply.
-<lb n="100493"/><said>―I know,</said> M'Coy said. <said>The drain, you mean.</said>
-<lb n="100494"/><said>―Drain?</said> Lenehan said. <said>It was down a manhole.</said></p>
+<lb n="100492"/><said who="Lenehan">―He's a hero,</said> he said simply.
+<lb n="100493"/><said who="C. P. M'Coy">―I know,</said> M'Coy said. <said who="C. P. M'Coy">The drain, you mean.</said>
+<lb n="100494"/><said who="Lenehan">―Drain?</said> Lenehan said. <said who="Lenehan">It was down a manhole.</said></p>
 <p><lb n="100495"/>They passed Dan Lowry's musichall where Marie Kendall, charming
 <lb n="100496"/>soubrette, smiled on them from a poster a dauby smile.</p>
 <p><lb n="100497"/>Going down the path of Sycamore street beside the Empire musichall
@@ -501,56 +501,56 @@
 <lb n="100500"/>choked with sewer gas. Down went Tom Rochford anyhow, booky's vest
 <lb n="100501"/>and all, with the rope round him. And be damned but he got the rope round
 <lb n="100502"/>the poor devil and the two were hauled up.
-<lb n="100503"/><said>―The act of a hero,</said> he said.</p>
+<lb n="100503"/><said who="Lenehan">―The act of a hero,</said> he said.</p>
 <p><lb n="100504"/>At the Dolphin they halted to allow the ambulance car to gallop past
 <lb n="100505"/>them for Jervis street.
-<lb n="100506"/><said>―This way,</said> he said, walking to the right. <said>I want to pop into Lynam's to see
+<lb n="100506"/><said who="Lenehan">―This way,</said> he said, walking to the right. <said who="Lenehan">I want to pop into Lynam's to see
 <lb n="100507"/><name type="horse" rend="none">Sceptre</name>'s starting price. What's the time by your gold watch and chain?</said></p>
 <p><lb n="100508"/>M'Coy peered into Marcus Tertius Moses' sombre office, then at
 <lb n="100509"/>O'Neill's clock.
-<lb n="100510"/><said>―After three,</said> he said. <said>Who's riding her?</said>
-<lb n="100511"/><said>―O. Madden,</said> Lenehan said. <said>And a game filly she is.</said></p>
+<lb n="100510"/><said who="C. P. M'Coy">―After three,</said> he said. <said who="C. P. M'Coy">Who's riding her?</said>
+<lb n="100511"/><said who="Lenehan">―O. Madden,</said> Lenehan said. <said who="Lenehan">And a game filly she is.</said></p>
 <p><lb n="100512"/>While he waited in Temple bar M'Coy dodged a banana peel with
 <lb n="100513"/>gentle pushes of his toe from the path to the gutter. Fellow might damn easy
 <lb n="100514"/>get a nasty fall there coming along tight in the dark.</p>
 <p><lb n="100515"/>The gates of the drive opened wide to give egress to the viceregal
 <lb n="100516"/>cavalcade.
-<lb n="100517"/><said>―Even money,</said> Lenehan said returning. <said>I knocked against Bantam Lyons in
+<lb n="100517"/><said who="Lenehan">―Even money,</said> Lenehan said returning. <said who="Lenehan">I knocked against Bantam Lyons in
 <lb n="100518"/>there going to back a bloody horse someone gave him that hasn't an
 <lb n="100519"/>earthly. Through here.</said></p>
 <p><lb n="100520"/>They went up the steps and under Merchants' arch. A darkbacked
 <lb n="100521"/>figure scanned books on the hawker's cart.
-<lb n="100522"/><said>―There he is,</said> Lenehan said.
-<lb n="100523"/><said>―Wonder what he's buying,</said> M'Coy said, glancing behind.
-<lb n="100524"/><said>―<title type="book">Leopoldo or the Bloom is on the Rye</title>,</said> Lenehan said.
-<lb n="100525"/><said>―He's dead nuts on sales,</said> M'Coy said. <said>I was with him one day and he
+<lb n="100522"/><said who="Lenehan">―There he is,</said> Lenehan said.
+<lb n="100523"/><said who="C. P. M'Coy">―Wonder what he's buying,</said> M'Coy said, glancing behind.
+<lb n="100524"/><said who="Lenehan">―<title type="book">Leopoldo or the Bloom is on the Rye</title>,</said> Lenehan said.
+<lb n="100525"/><said who="C. P. M'Coy">―He's dead nuts on sales,</said> M'Coy said. <said who="C. P. M'Coy">I was with him one day and he
 <lb n="100526"/>bought a book from an old one in Liffey street for two bob. There were fine
 <lb n="100527"/>plates in it worth double the money, the stars and the moon and comets
 <lb n="100528"/>with long tails. Astronomy it was about.</said></p>
 <p><lb n="100529"/>Lenehan laughed.
-<lb n="100530"/><said>―I'll tell you a damn good one about comets' tails,</said> he said. <said>Come over in
+<lb n="100530"/><said who="Lenehan">―I'll tell you a damn good one about comets' tails,</said> he said. <said who="Lenehan">Come over in
 <lb n="100531"/>the sun.</said></p>
 <p><lb n="100532"/>They crossed to the metal bridge and went along Wellington quay by
 <lb n="100533"/>the riverwall.</p>
 <p><lb n="100534"/>Master Patrick Aloysius Dignam came out of Mangan's, late
 <lb n="100535"/>Fehrenbach's, carrying a pound and a half of porksteaks.
-<lb n="100536"/><said>―There was a long spread out at Glencree reformatory,</said> Lenehan said
-<lb n="100537"/>eagerly. <said>The annual dinner, you know. Boiled shirt affair. The lord mayor
+<lb n="100536"/><said who="Lenehan">―There was a long spread out at Glencree reformatory,</said> Lenehan said
+<lb n="100537"/>eagerly. <said who="Lenehan">The annual dinner, you know. Boiled shirt affair. The lord mayor
 <lb n="100538"/>was there, Val Dillon it was, and sir Charles Cameron and Dan Dawson
 <lb n="100539"/>spoke and there was music. Bartell d'Arcy sang and Benjamin Dollard .....</said>
-<lb n="100540"/><said>―I know,</said> M'Coy broke in. <said>My missus sang there once.</said>
-<lb n="100541"/><said>―Did she?</said> Lenehan said.</p>
+<lb n="100540"/><said who="C. P. M'Coy">―I know,</said> M'Coy broke in. <said who="C. P. M'Coy">My missus sang there once.</said>
+<lb n="100541"/><said who="Lenehan">―Did she?</said> Lenehan said.</p>
 <p><lb n="100542"/>A card <emph>Unfurnished Apartments</emph> reappeared on the windowsash of
 <lb n="100543"/>number 7 Eccles street.</p>
 <p><lb n="100544"/>He checked his tale a moment but broke out in a wheezy laugh.
-<lb n="100545"/><said>―But wait till I tell you,</said> he said. <said>Delahunt of Camden street had the
+<lb n="100545"/><said who="Lenehan">―But wait till I tell you,</said> he said. <said who="Lenehan">Delahunt of Camden street had the
 <lb n="100546"/>catering and yours truly was chief bottlewasher. Bloom and the wife were
 <lb n="100547"/>there. Lashings of stuff we put up: port wine and sherry and curaçoa to
 <lb n="100548"/>which we did ample justice. Fast and furious it was. After liquids came
 <lb n="100549"/>solids. Cold joints galore and mince pies ....</said>
-<lb n="100550"/><said>―I know,</said> M'Coy said. <said>The year the missus was there .....</said></p>
+<lb n="100550"/><said who="C. P. M'Coy">―I know,</said> M'Coy said. <said who="C. P. M'Coy">The year the missus was there .....</said></p>
 <p><lb n="100551"/>Lenehan linked his arm warmly.
-<lb n="100552"/><said>―But wait till I tell you,</said> he said. <said>We had a midnight lunch too after all the
+<lb n="100552"/><said who="Lenehan">―But wait till I tell you,</said> he said. <said who="Lenehan">We had a midnight lunch too after all the
 <lb n="100553"/>jollification and when we sallied forth it was blue o'clock the morning after
 <lb n="100554"/>the night before. Coming home it was a gorgeous winter's night on the
 <lb n="100555"/>Featherbed Mountain. Bloom and Chris Callinan were on one side of the
@@ -560,30 +560,30 @@
 <lb n="100559"/>her bumping up against me. Hell's delights! She has a fine pair, God bless
 <lb n="100560"/>her. Like that.</said></p>
 <p><lb n="100561"/>He held his caved hands a cubit from him, frowning:
-<lb n="100562"/><said>―I was tucking the rug under her and settling her boa all the time. Know
+<lb n="100562"/><said who="Lenehan">―I was tucking the rug under her and settling her boa all the time. Know
 <lb n="100563"/>what I mean?</said></p>
 <p><lb n="100564"/>His hands moulded ample curves of air. He shut his eyes tight in
 <lb n="100565"/>delight, his body shrinking, and blew a sweet chirp from his lips.
-<lb n="100566"/><said>―The lad stood to attention anyhow,</said> he said with a sigh. <said>She's a gamey
+<lb n="100566"/><said who="Lenehan">―The lad stood to attention anyhow,</said> he said with a sigh. <said who="Lenehan">She's a gamey
 <lb n="100567"/>mare and no mistake. Bloom was pointing out all the stars and the comets
 <lb n="100568"/>in the heavens to Chris Callinan and the jarvey: the great bear and
 <lb n="100569"/>Hercules and the dragon, and the whole jingbang lot. But, by God, I was
 <lb n="100570"/>lost, so to speak, in the milky way. He knows them all, faith. At last she
-<lb n="100571"/>spotted a weeny weeshy one miles away. <said who="Molly" rend="italics">And what star is that, Poldy?</said> says
+<lb n="100571"/>spotted a weeny weeshy one miles away. <said who="Molly Bloom" rend="italics">And what star is that, Poldy?</said> says
 <lb n="100572"/>she. By God, she had Bloom cornered. <said who="Chris Callinan" rend="italics">That one, is it?</said> says Chris Callinan,
 <lb n="100573"/><said who="Chris Callinan" rend="italics">sure that's only what you might call a pinprick</said>. By God, he wasn't far wide
 <lb n="100574"/>of the mark.</said></p>
 <p><lb n="100575"/>Lenehan stopped and leaned on the riverwall, panting with soft
 <lb n="100576"/>laughter.
-<lb n="100577"/><said>―I'm weak,</said> he gasped.</p>
+<lb n="100577"/><said who="Lenehan">―I'm weak,</said> he gasped.</p>
 <p><lb n="100578"/>M'Coy's white face smiled about it at instants and grew grave.
 <lb n="100579"/>Lenehan walked on again. He lifted his yachtingcap and scratched his
 <lb n="100580"/>hindhead rapidly. He glanced sideways in the sunlight at M'Coy.
-<lb n="100581"/><said>―He's a cultured allroundman, Bloom is,</said> he said seriously. <said>He's not one of
+<lb n="100581"/><said who="Lenehan">―He's a cultured allroundman, Bloom is,</said> he said seriously. <said who="Lenehan">He's not one of
 <lb n="100582"/>your common or garden ... you know ... There's a touch of the artist about
 <lb n="100583"/>old Bloom.</said></p>
 <lb n="100584"/><trailer>* * *</trailer></div>
-<div><p><lb n="100585"/>Mr Bloom turned over idly pages of <title type="book">The Awful Disclosures of Maria
+<div type="section" n="10"><p><lb n="100585"/>Mr Bloom turned over idly pages of <title type="book">The Awful Disclosures of Maria
 <lb n="100586"/>Monk</title>, then of Aristotle's <title type="book">Masterpiece</title>. Crooked botched print. Plates:
 <lb n="100587"/>infants cuddled in a ball in bloodred wombs like livers of slaughtered cows.
 <lb n="100588"/>Lots of them like that at this moment all over the world. All butting with
@@ -591,9 +591,9 @@
 <lb n="100590"/>Purefoy.</p>
 <p><lb n="100591"/>He laid both books aside and glanced at the third: <title type="book">Tales of the Ghetto</title>
 <lb n="100592"/>by Leopold von Sacher Masoch.
-<lb n="100593"/><said>―That I had,</said> he said, pushing it by.</p>
+<lb n="100593"/><said who="Leopold Bloom">―That I had,</said> he said, pushing it by.</p>
 <p><lb n="100594"/>The shopman let two volumes fall on the counter.
-<lb n="100595"/><said>―Them are two good ones,</said> he said.</p>
+<lb n="100595"/><said who="Merchants' arch hawker">―Them are two good ones,</said> he said.</p>
 <p><lb n="100596"/>Onions of his breath came across the counter out of his ruined
 <lb n="100597"/>mouth. He bent to make a bundle of the other books, hugged them against
 <lb n="100598"/>his unbuttoned waistcoat and bore them off behind the dingy curtain.</p>
@@ -606,14 +606,14 @@
 <p><lb n="100605"/>No: she wouldn't like that much. Got her it once.</p>
 <p><lb n="100606"/>He read the other title: <title type="book">Sweets of Sin</title>. More in her line. Let us see.</p>
 <p><lb n="100607"/>He read where his finger opened.
-<lb n="100608"/><said>―<emph>All the dollarbills her husband gave her were spent in the stores on
+<lb n="100608"/><said who="Leopold Bloom">―<emph>All the dollarbills her husband gave her were spent in the stores on
 <lb n="100609"/>wondrous gowns and costliest frillies. For him! For Raoul!</emph></said></p>
 <p><lb n="100610"/>Yes. This. Here. Try.
-<lb n="100611"/><said>―<emph>Her mouth glued on his in a luscious voluptuous kiss while his hands felt
+<lb n="100611"/><said who="Leopold Bloom">―<emph>Her mouth glued on his in a luscious voluptuous kiss while his hands felt
 <lb n="100612"/>for the opulent curves inside her deshabille.</emph></said></p>
 <p><lb n="100613"/>Yes. Take this. The end.
-<lb n="100614"/><said>―<emph>You are late, he spoke hoarsely, eying her with a suspicious glare.</emph></said></p>
-<p><said><lb n="100615"/><emph>The beautiful woman threw off her sabletrimmed wrap, displaying her
+<lb n="100614"/><said who="Leopold Bloom">―<emph>You are late, he spoke hoarsely, eying her with a suspicious glare.
+<lb n="100615"/>The beautiful woman threw off her sabletrimmed wrap, displaying her
 <lb n="100616"/>queenly shoulders and heaving embonpoint. An imperceptible smile played
 <lb n="100617"/>round her perfect lips as she turned to him calmly.</emph></said></p>
 <p><lb n="100618"/>Mr Bloom read again: <emph>The beautiful woman</emph> ....</p>
@@ -637,93 +637,93 @@
 <lb n="100636"/>bent, showing a rawskinned crown, scantily haired.</p>
 <p><lb n="100637"/>Mr Bloom beheld it.</p>
 <p><lb n="100638"/>Mastering his troubled breath, he said:
-<lb n="100639"/><said>―I'll take this one.</said></p>
+<lb n="100639"/><said who="Leopold Bloom">―I'll take this one.</said></p>
 <p><lb n="100640"/>The shopman lifted eyes bleared with old rheum.
-<lb n="100641"/><said>―<title type="book">Sweets of Sin</title>,</said> he said, tapping on it. <said>That's a good one.</said></p>
+<lb n="100641"/><said who="Merchants' arch hawker">―<title type="book">Sweets of Sin</title>,</said> he said, tapping on it. <said who="Merchants' arch hawker">That's a good one.</said></p>
 <lb n="100642"/><trailer>* * *</trailer></div>
-<div><p><lb n="100643"/>The lacquey by the door of Dillon's auctionrooms shook his handbell
+<div type="section" n="11"><p><lb n="100643"/>The lacquey by the door of Dillon's auctionrooms shook his handbell
 <lb n="100644"/>twice again and viewed himself in the chalked mirror of the cabinet.</p>
 <p><lb n="100645"/>Dilly Dedalus, loitering by the curbstone, heard the beats of the bell,
 <lb n="100646"/>the cries of the auctioneer within. Four and nine. Those lovely curtains.
 <lb n="100647"/>Five shillings. Cosy curtains. Selling new at two guineas. Any advance on
 <lb n="100648"/>five shillings? Going for five shillings.</p>
 <p><lb n="100649"/>The lacquey lifted his handbell and shook it:
-<lb n="100650"/><said>―Barang!</said></p>
+<lb n="100650"/><said who="lacquey">―Barang!</said></p>
 <p><lb n="100651"/>Bang of the lastlap bell spurred the halfmile wheelmen to their sprint.
 <lb n="100652"/>J. A. Jackson, W. E. Wylie, A. Munro and H. T. Gahan, their stretched
 <lb n="100653"/>necks wagging, negotiated the curve by the College library.</p>
 <p><lb n="100654"/>Mr Dedalus, tugging a long moustache, came round from Williams's
 <lb n="100655"/>row. He halted near his daughter.
-<lb n="100656"/><said>―It's time for you,</said> she said.
-<lb n="100657"/><said>―Stand up straight for the love of the lord Jesus,</said> Mr Dedalus said. <said>Are you
+<lb n="100656"/><said who="Dilly Dedalus">―It's time for you,</said> she said.
+<lb n="100657"/><said who="Simon Dedalus">―Stand up straight for the love of the lord Jesus,</said> Mr Dedalus said. <said who="Simon Dedalus">Are you
 <lb n="100658"/>trying to imitate your uncle John, the cornetplayer, head upon shoulder?
 <lb n="100659"/>Melancholy God!</said></p>
 <p><lb n="100660"/>Dilly shrugged her shoulders. Mr Dedalus placed his hands on them
 <lb n="100661"/>and held them back.
-<lb n="100662"/><said>―Stand up straight, girl,</said> he said. <said>You'll get curvature of the spine. Do you
+<lb n="100662"/><said who="Simon Dedalus">―Stand up straight, girl,</said> he said. <said who="Simon Dedalus">You'll get curvature of the spine. Do you
 <lb n="100663"/>know what you look like?</said></p>
 <p><lb n="100664"/>He let his head sink suddenly down and forward, hunching his
 <lb n="100665"/>shoulders and dropping his underjaw.
-<lb n="100666"/><said>―Give it up, father,</said> Dilly said. <said>All the people are looking at you.</said></p>
+<lb n="100666"/><said who="Dilly Dedalus">―Give it up, father,</said> Dilly said. <said who="Dilly Dedalus">All the people are looking at you.</said></p>
 <p><lb n="100667"/>Mr Dedalus drew himself upright and tugged again at his moustache.
-<lb n="100668"/><said>―Did you get any money?</said> Dilly asked.
-<lb n="100669"/><said>―Where would I get money?</said> Mr Dedalus said. <said>There is no-one in Dublin
+<lb n="100668"/><said who="Dilly Dedalus">―Did you get any money?</said> Dilly asked.
+<lb n="100669"/><said who="Simon Dedalus">―Where would I get money?</said> Mr Dedalus said. <said who="Simon Dedalus">There is no-one in Dublin
 <lb n="100670"/>would lend me fourpence.</said>
-<lb n="100671"/><said>―You got some,</said> Dilly said, looking in his eyes.
-<lb n="100672"/><said>―How do you know that?</said> Mr Dedalus asked, his tongue in his cheek.</p>
+<lb n="100671"/><said who="Dilly Dedalus">―You got some,</said> Dilly said, looking in his eyes.
+<lb n="100672"/><said who="Simon Dedalus">―How do you know that?</said> Mr Dedalus asked, his tongue in his cheek.</p>
 <p><lb n="100673"/>Mr Kernan, pleased with the order he had booked, walked boldly
 <lb n="100674"/>along James's street.
-<lb n="100675"/><said>―I know you did,</said> Dilly answered. <said>Were you in the Scotch house now?</said>
-<lb n="100676"/><said>―I was not, then,</said> Mr Dedalus said, smiling. <said>Was it the little nuns taught
+<lb n="100675"/><said who="Dilly Dedalus">―I know you did,</said> Dilly answered. <said who="Dilly Dedalus">Were you in the Scotch house now?</said>
+<lb n="100676"/><said who="Simon Dedalus">―I was not, then,</said> Mr Dedalus said, smiling. <said who="Simon Dedalus">Was it the little nuns taught
 <lb n="100677"/>you to be so saucy? Here.</said></p>
 <p><lb n="100678"/>He handed her a shilling.
-<lb n="100679"/><said>―See if you can do anything with that,</said> he said.
-<lb n="100680"/><said>―I suppose you got five,</said> Dilly said. <said>Give me more than that.</said>
-<lb n="100681"/><said>―Wait awhile,</said> Mr Dedalus said threateningly. <said>You're like the rest of them,
+<lb n="100679"/><said who="Simon Dedalus">―See if you can do anything with that,</said> he said.
+<lb n="100680"/><said who="Dilly Dedalus">―I suppose you got five,</said> Dilly said. <said who="Dilly Dedalus">Give me more than that.</said>
+<lb n="100681"/><said who="Simon Dedalus">―Wait awhile,</said> Mr Dedalus said threateningly. <said who="Simon Dedalus">You're like the rest of them,
 <lb n="100682"/>are you? An insolent pack of little bitches since your poor mother died. But
 <lb n="100683"/>wait awhile. You'll all get a short shrift and a long day from me. Low
 <lb n="100684"/>blackguardism! I'm going to get rid of you. Wouldn't care if I was stretched
 <lb n="100685"/>out stiff. He's dead. The man upstairs is dead.</said></p>
 <p><lb n="100686"/>He left her and walked on. Dilly followed quickly and pulled his coat.
-<lb n="100687"/><said>―Well, what is it?</said> he said, stopping.</p>
+<lb n="100687"/><said who="Dilly Dedalus">―Well, what is it?</said> he said, stopping.</p>
 <p><lb n="100688"/>The lacquey rang his bell behind their backs.
-<lb n="100689"/><said>―Barang!</said>
-<lb n="100690"/><said>―Curse your bloody blatant soul,</said> Mr Dedalus cried, turning on him.</p>
+<lb n="100689"/><said who="lacquey">―Barang!</said>
+<lb n="100690"/><said who="Simon Dedalus">―Curse your bloody blatant soul,</said> Mr Dedalus cried, turning on him.</p>
 <p><lb n="100691"/>The lacquey, aware of comment, shook the lolling clapper of his bell
 <lb n="100692"/>but feebly:
-<lb n="100693"/><said>―Bang!</said></p>
+<lb n="100693"/><said who="lacquey">―Bang!</said></p>
 <p><lb n="100694"/>Mr Dedalus stared at him.
-<lb n="100695"/><said>―Watch him,</said> he said. <said>It's instructive. I wonder will he allow us to talk.</said>
-<lb n="100696"/><said>―You got more than that, father,</said> Dilly said.
-<lb n="100697"/><said>―I'm going to show you a little trick,</said> Mr Dedalus said. <said>I'll leave you all
+<lb n="100695"/><said who="Simon Dedalus">―Watch him,</said> he said. <said who="Simon Dedalus">It's instructive. I wonder will he allow us to talk.</said>
+<lb n="100696"/><said who="Dilly Dedalus">―You got more than that, father,</said> Dilly said.
+<lb n="100697"/><said who="Simon Dedalus">―I'm going to show you a little trick,</said> Mr Dedalus said. <said who="Simon Dedalus">I'll leave you all
 <lb n="100698"/>where Jesus left the jews. Look, there's all I have. I got two shillings from
 <lb n="100699"/>Jack Power and I spent twopence for a shave for the funeral.</said></p>
 <p><lb n="100700"/>He drew forth a handful of copper coins, nervously.
-<lb n="100701"/><said>―Can't you look for some money somewhere?</said> Dilly said.</p>
+<lb n="100701"/><said who="Dilly Dedalus">―Can't you look for some money somewhere?</said> Dilly said.</p>
 <p><lb n="100702"/>Mr Dedalus thought and nodded.
-<lb n="100703"/><said>―I will,</said> he said gravely. <said>I looked all along the gutter in O'Connell street.
+<lb n="100703"/><said who="Simon Dedalus">―I will,</said> he said gravely. <said who="Simon Dedalus">I looked all along the gutter in O'Connell street.
 <lb n="100704"/>I'll try this one now.</said>
-<lb n="100705"/><said>―You're very funny,</said> Dilly said, grinning.
-<lb n="100706"/><said>―Here,</said> Mr Dedalus said, handing her two pennies. <said>Get a glass of milk for
+<lb n="100705"/><said who="Dilly Dedalus">―You're very funny,</said> Dilly said, grinning.
+<lb n="100706"/><said who="Simon Dedalus">―Here,</said> Mr Dedalus said, handing her two pennies. <said who="Simon Dedalus">Get a glass of milk for
 <lb n="100707"/>yourself and a bun or a something. I'll be home shortly.</said></p>
 <p><lb n="100708"/>He put the other coins in his pocket and started to walk on.</p>
 <p><lb n="100709"/>The viceregal cavalcade passed, greeted by obsequious policemen, out
 <lb n="100710"/>of Parkgate.
-<lb n="100711"/><said>―I'm sure you have another shilling,</said> Dilly said.</p>
+<lb n="100711"/><said who="Dilly Dedalus">―I'm sure you have another shilling,</said> Dilly said.</p>
 <p><lb n="100712"/>The lacquey banged loudly.</p>
 <p><lb n="100713"/>Mr Dedalus amid the din walked off, murmuring to himself with a
 <lb n="100714"/>pursing mincing mouth gently:
-<lb n="100715"/><said>―The little nuns! Nice little things! O, sure they wouldn't do anything! O,
+<lb n="100715"/><said who="Simon Dedalus">―The little nuns! Nice little things! O, sure they wouldn't do anything! O,
 <lb n="100716"/>sure they wouldn't really! Is it little sister Monica!</said></p>
 <lb n="100717"/><trailer>* * *</trailer></div>
-<div><p><lb n="100718"/>From the sundial towards James's gate walked Mr Kernan, pleased
+<div type="section" n="12"><p><lb n="100718"/>From the sundial towards James's gate walked Mr Kernan, pleased
 <lb n="100719"/>with the order he had booked for Pulbrook Robertson, boldly along
 <lb n="100720"/>James's street, past Shackleton's offices. Got round him all right. How do
 <lb n="100721"/>you do, Mr Crimmins? First rate, sir. I was afraid you might be up in your
 <lb n="100722"/>other establishment in Pimlico. How are things going? Just keeping alive.
 <lb n="100723"/>Lovely weather we're having. Yes, indeed. Good for the country. Those
 <lb n="100724"/>farmers are always grumbling. I'll just take a thimbleful of your best gin,
-<lb n="100725"/>Mr Crimmins. A small gin, sir. Yes, sir. Terrible affair that <emph>General Slocum</emph>
+<lb n="100725"/>Mr Crimmins. A small gin, sir. Yes, sir. Terrible affair that <name type="ship">General Slocum</name>
 <lb n="100726"/>explosion. Terrible, terrible! A thousand casualties. And heartrending
 <lb n="100727"/>scenes. Men trampling down women and children. Most brutal thing. What
 <lb n="100728"/>do they say was the cause? Spontaneous combustion. Most scandalous
@@ -732,14 +732,14 @@
 <lb n="100731"/>Now, you're talking straight, Mr Crimmins. You know why? Palm oil. Is
 <lb n="100732"/>that a fact? Without a doubt. Well now, look at that. And America they say
 <lb n="100733"/>is the land of the free. I thought we were bad here.</p>
-<p><lb n="100734"/>I smiled at him. <emph>America</emph>, I said quietly, just like that. <emph>What is it? The
-<lb n="100735"/>sweepings of every country including our own. Isn't that true?</emph> That's a fact.</p>
+<p><lb n="100734"/>I smiled at him. <said who="Tom Kernan" direct="false" rend="italics">America</said>, I said quietly, just like that. <said who="Tom Kernan" direct="false" rend="italics">What is it? The
+<lb n="100735"/>sweepings of every country including our own. Isn't that true?</said> That's a fact.</p>
 <p><lb n="100736"/>Graft, my dear sir. Well, of course, where there's money going there's
 <lb n="100737"/>always someone to pick it up.</p>
 <p><lb n="100738"/>Saw him looking at my frockcoat. Dress does it. Nothing like a
 <lb n="100739"/>dressy appearance. Bowls them over.
-<lb n="100740"/><said>―Hello, Simon,</said> Father Cowley said. <said>How are things?</said>
-<lb n="100741"/><said>―Hello, Bob, old man,</said> Mr Dedalus answered, stopping.</p>
+<lb n="100740"/><said who="Father Cowley">―Hello, Simon,</said> Father Cowley said. <said who="Father Cowley">How are things?</said>
+<lb n="100741"/><said who="Simon Dedalus">―Hello, Bob, old man,</said> Mr Dedalus answered, stopping.</p>
 <p><lb n="100742"/>Mr Kernan halted and preened himself before the sloping mirror of
 <lb n="100743"/>Peter Kennedy, hairdresser. Stylish coat, beyond a doubt. Scott of Dawson
 <lb n="100744"/>street. Well worth the half sovereign I gave Neary for it. Never built under
@@ -791,14 +791,14 @@
 <lb n="100790"/>the wrong side. They rose in dark and evil days. Fine poem that is: Ingram.
 <lb n="100791"/>They were gentlemen. Ben Dollard does sing that ballad touchingly.
 <lb n="100792"/>Masterly rendition.</p>
-<p rend="inset"><lb n="100793"/><emph>At the siege of Ross did my father fall.</emph></p>
+<p rend="inset"><lb n="100793"/><quote>At the siege of Ross did my father fall.</quote></p>
 <p><lb n="100794"/>A cavalcade in easy trot along Pembroke quay passed, outriders
 <lb n="100795"/>leaping, leaping in their, in their saddles. Frockcoats. Cream sunshades.</p>
 <p><lb n="100796"/>Mr Kernan hurried forward, blowing pursily.</p>
 <p><lb n="100797"/>His Excellency! Too bad! Just missed that by a hair. Damn it! What a
 <lb n="100798"/>pity!</p>
 <lb n="100799"/><trailer>* * *</trailer></div>
-<div><p><lb n="100800"/>Stephen Dedalus watched through the webbed window the lapidary's
+<div type="section" n="13"><p><lb n="100800"/>Stephen Dedalus watched through the webbed window the lapidary's
 <lb n="100801"/>fingers prove a timedulled chain. Dust webbed the window and the
 <lb n="100802"/>showtrays. Dust darkened the toiling fingers with their vulture nails. Dust
 <lb n="100803"/>slept on dull coils of bronze and silver, lozenges of cinnabar, on rubies,
@@ -835,7 +835,7 @@
 <lb n="100834"/>gently each to other his bulbous fists. And they are throbbing: heroes'
 <lb n="100835"/>hearts.</p>
 <p><lb n="100836"/>He turned and halted by the slanted bookcart.
-<lb n="100837"/><said>―Twopence each,</said> the huckster said. <said>Four for sixpence.</said></p>
+<lb n="100837"/><said who="Merchants' arch huckster">―Twopence each,</said> the huckster said. <said who="Merchants' arch huckster">Four for sixpence.</said></p>
 <p><lb n="100838"/>Tattered pages. <title type="magazine">The Irish Beekeeper.</title> <title type="book">Life and Miracles of the Curé of
 <lb n="100839"/>Ars.</title> <title type="book">Pocket Guide to Killarney.</title></p>
 <p><lb n="100840"/>I might find here one of my pawned schoolprizes. <foreign xml:lang="la">Stephano Dedalo,
@@ -847,32 +847,32 @@
 <lb n="100846"/>read. Who has passed here before me? How to soften chapped hands.
 <lb n="100847"/>Recipe for white wine vinegar. How to win a woman's love. For me this.
 <lb n="100848"/>Say the following talisman three times with hands folded:
-<lb n="100849"/><said>―<foreign xml:lang="es-ar">Se el yilo nebrakada femininum! Amor me solo! Sanktus! Amen.</foreign></said></p>
+<lb n="100849"/><said who="Stephen Dedalus">―<foreign xml:lang="es-ar">Se el yilo nebrakada femininum! Amor me solo! Sanktus! Amen.</foreign></said></p>
 <p><lb n="100850"/>Who wrote this? Charms and invocations of the most blessed abbot
 <lb n="100851"/>Peter Salanka to all true believers divulged. As good as any other abbot's
 <lb n="100852"/>charms, as mumbling Joachim's. Down, baldynoddle, or we'll wool your
 <lb n="100853"/>wool.
-<lb n="100854"/><said>―What are you doing here, Stephen?</said></p>
+<lb n="100854"/><said who="Dilly Dedalus">―What are you doing here, Stephen?</said></p>
 <p><lb n="100855"/>Dilly's high shoulders and shabby dress.</p>
 <p><lb n="100856"/>Shut the book quick. Don't let see.
-<lb n="100857"/><said>―What are you doing?</said> Stephen said.</p>
+<lb n="100857"/><said who="Stephen Dedalus">―What are you doing?</said> Stephen said.</p>
 <p><lb n="100858"/>A Stuart face of nonesuch Charles, lank locks falling at its sides. It
 <lb n="100859"/>glowed as she crouched feeding the fire with broken boots. I told her of
 <lb n="100860"/>Paris. Late lieabed under a quilt of old overcoats, fingering a pinchbeck
 <lb n="100861"/>bracelet, Dan Kelly's token. <foreign xml:lang="es-ar">Nebrakada femininum.</foreign>
-<lb n="100862"/><said>―What have you there?</said> Stephen asked.
-<lb n="100863"/><said>―I bought it from the other cart for a penny,</said> Dilly said, laughing
-<lb n="100864"/>nervously. <said>Is it any good?</said></p>
+<lb n="100862"/><said who="Stephen Dedalus">―What have you there?</said> Stephen asked.
+<lb n="100863"/><said who="Dilly Dedalus">―I bought it from the other cart for a penny,</said> Dilly said, laughing
+<lb n="100864"/>nervously. <said who="Dilly Dedalus">Is it any good?</said></p>
 <p><lb n="100865"/>My eyes they say she has. Do others see me so? Quick, far and
 <lb n="100866"/>daring. Shadow of my mind.</p>
-<p><lb n="100867"/>He took the coverless book from her hand. Chardenal's French
-<lb n="100868"/>primer.
-<lb n="100869"/><said>―What did you buy that for?</said> he asked. <said>To learn French?</said></p>
+<p><lb n="100867"/>He took the coverless book from her hand. <title type="book" rend="none">Chardenal's French
+<lb n="100868"/>primer.</title>
+<lb n="100869"/><said who="Stephen Dedalus">―What did you buy that for?</said> he asked. <said who="Stephen Dedalus">To learn French?</said></p>
 <p><lb n="100870"/>She nodded, reddening and closing tight her lips.</p>
 <p><lb n="100871"/>Show no surprise. Quite natural.
-<lb n="100872"/><said>―Here,</said> Stephen said. <said>It's all right. Mind Maggy doesn't pawn it on you. I
+<lb n="100872"/><said who="Stephen Dedalus">―Here,</said> Stephen said. <said who="Stephen Dedalus">It's all right. Mind Maggy doesn't pawn it on you. I
 <lb n="100873"/>suppose all my books are gone.</said>
-<lb n="100874"/><said>―Some,</said> Dilly said. <said>We had to.</said></p>
+<lb n="100874"/><said who="Dilly Dedalus">―Some,</said> Dilly said. <said who="Dilly Dedalus">We had to.</said></p>
 <p><lb n="100875"/>She is drowning. Agenbite. Save her. Agenbite. All against us. She will
 <lb n="100876"/>drown me with her, eyes and hair. Lank coils of seaweed hair around me,
 <lb n="100877"/>my heart, my soul. Salt green death.</p>
@@ -880,129 +880,129 @@
 <p><lb n="100879"/>Agenbite of inwit. Inwit's agenbite.</p>
 <p><lb n="100880"/>Misery! Misery!</p>
 <lb n="100881"/><trailer>* * *</trailer></div>
-<div><p><lb n="100882"/><said>―Hello, Simon,</said> Father Cowley said. <said>How are things?</said>
-<lb n="100883"/><said>―Hello, Bob, old man,</said> Mr Dedalus answered, stopping.</p>
+<div type="section" n="14"><p><lb n="100882"/><said who="Father Cowley">―Hello, Simon,</said> Father Cowley said. <said who="Father Cowley">How are things?</said>
+<lb n="100883"/><said who="Simon Dedalus">―Hello, Bob, old man,</said> Mr Dedalus answered, stopping.</p>
 <p><lb n="100884"/>They clasped hands loudly outside Reddy and Daughter's. Father
 <lb n="100885"/>Cowley brushed his moustache often downward with a scooping hand.
-<lb n="100886"/><said>―What's the best news?</said> Mr Dedalus said.
-<lb n="100887"/><said>―Why then not much,</said> Father Cowley said. <said>I'm barricaded up, Simon, with
+<lb n="100886"/><said who="Simon Dedalus">―What's the best news?</said> Mr Dedalus said.
+<lb n="100887"/><said who="Father Cowley">―Why then not much,</said> Father Cowley said. <said who="Father Cowley">I'm barricaded up, Simon, with
 <lb n="100888"/>two men prowling around the house trying to effect an entrance.</said>
-<lb n="100889"/><said>―Jolly,</said> Mr Dedalus said. <said>Who is it?</said>
-<lb n="100890"/><said>―O,</said> Father Cowley said. <said>A certain gombeen man of our acquaintance.</said>
-<lb n="100891"/><said>―With a broken back, is it?</said> Mr Dedalus asked.
-<lb n="100892"/><said>―The same, Simon,</said> Father Cowley answered. <said>Reuben of that ilk. I'm just
+<lb n="100889"/><said who="Simon Dedalus">―Jolly,</said> Mr Dedalus said. <said who="Simon Dedalus">Who is it?</said>
+<lb n="100890"/><said who="Father Cowley">―O,</said> Father Cowley said. <said who="Father Cowley">A certain gombeen man of our acquaintance.</said>
+<lb n="100891"/><said who="Simon Dedalus">―With a broken back, is it?</said> Mr Dedalus asked.
+<lb n="100892"/><said who="Father Cowley">―The same, Simon,</said> Father Cowley answered. <said who="Father Cowley">Reuben of that ilk. I'm just
 <lb n="100893"/>waiting for Ben Dollard. He's going to say a word to long John to get him
 <lb n="100894"/>to take those two men off. All I want is a little time.</said></p>
 <p><lb n="100895"/>He looked with vague hope up and down the quay, a big apple
 <lb n="100896"/>bulging in his neck.
-<lb n="100897"/><said>―I know,</said> Mr Dedalus said, nodding. <said>Poor old bockedy Ben! He's always
+<lb n="100897"/><said who="Simon Dedalus">―I know,</said> Mr Dedalus said, nodding. <said who="Simon Dedalus">Poor old bockedy Ben! He's always
 <lb n="100898"/>doing a good turn for someone. Hold hard!</said></p>
 <p><lb n="100899"/>He put on his glasses and gazed towards the metal bridge an instant.
-<lb n="100900"/><said>―Here he is, by God,</said> he said, <said>arse and pockets.</said></p>
+<lb n="100900"/><said who="Simon Dedalus">―Here he is, by God,</said> he said, <said who="Simon Dedalus">arse and pockets.</said></p>
 <p><lb n="100901"/>Ben Dollard's loose blue cutaway and square hat above large slops
 <lb n="100902"/>crossed the quay in full gait from the metal bridge. He came towards them
 <lb n="100903"/>at an amble, scratching actively behind his coattails.</p>
 <p><lb n="100904"/>As he came near Mr Dedalus greeted:
-<lb n="100905"/><said>―Hold that fellow with the bad trousers.</said>
-<lb n="100906"/><said>―Hold him now,</said> Ben Dollard said.</p>
+<lb n="100905"/><said who="Simon Dedalus">―Hold that fellow with the bad trousers.</said>
+<lb n="100906"/><said who="Ben Dollard">―Hold him now,</said> Ben Dollard said.</p>
 <p><lb n="100907"/>Mr Dedalus eyed with cold wandering scorn various points of Ben
 <lb n="100908"/>Dollard's figure. Then, turning to Father Cowley with a nod, he muttered
 <lb n="100909"/>sneeringly:
-<lb n="100910"/><said>―That's a pretty garment, isn't it, for a summer's day?</said>
-<lb n="100911"/><said>―Why, God eternally curse your soul,</said> Ben Dollard growled furiously, <said>I
+<lb n="100910"/><said who="Simon Dedalus">―That's a pretty garment, isn't it, for a summer's day?</said>
+<lb n="100911"/><said who="Ben Dollard">―Why, God eternally curse your soul,</said> Ben Dollard growled furiously, <said who="Ben Dollard">I
 <lb n="100912"/>threw out more clothes in my time than you ever saw.</said></p>
 <p><lb n="100913"/>He stood beside them beaming, on them first and on his roomy
 <lb n="100914"/>clothes from points of which Mr Dedalus flicked fluff, saying:
-<lb n="100915"/><said>―They were made for a man in his health, Ben, anyhow.</said>
-<lb n="100916"/><said>―Bad luck to the jewman that made them,</said> Ben Dollard said. <said>Thanks be to
+<lb n="100915"/><said who="Simon Dedalus">―They were made for a man in his health, Ben, anyhow.</said>
+<lb n="100916"/><said who="Ben Dollard">―Bad luck to the jewman that made them,</said> Ben Dollard said. <said who="Ben Dollard">Thanks be to
 <lb n="100917"/>God he's not paid yet.</said>
-<lb n="100918"/><said>―And how is that <foreign xml:lang="it">basso profondo</foreign>, Benjamin?</said> Father Cowley asked.</p>
+<lb n="100918"/><said who="Father Cowley">―And how is that <foreign xml:lang="it">basso profondo</foreign>, Benjamin?</said> Father Cowley asked.</p>
 <p><lb n="100919"/>Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, murmuring,
 <lb n="100920"/>glassyeyed, strode past the Kildare street club.</p>
 <p><lb n="100921"/>Ben Dollard frowned and, making suddenly a chanter's mouth, gave
 <lb n="100922"/>forth a deep note.
-<lb n="100923"/><said>―Aw!</said> he said.
-<lb n="100924"/><said>―That's the style,</said> Mr Dedalus said, nodding to its drone.
-<lb n="100925"/><said>―What about that?</said> Ben Dollard said. <said>Not too dusty? What?</said></p>
+<lb n="100923"/><said who="Ben Dollard">―Aw!</said> he said.
+<lb n="100924"/><said who="Simon Dedalus">―That's the style,</said> Mr Dedalus said, nodding to its drone.
+<lb n="100925"/><said who="Ben Dollard">―What about that?</said> Ben Dollard said. <said who="Ben Dollard">Not too dusty? What?</said></p>
 <p><lb n="100926"/>He turned to both.
-<lb n="100927"/><said>―That'll do,</said> Father Cowley said, nodding also.</p>
+<lb n="100927"/><said who="Father Cowley">―That'll do,</said> Father Cowley said, nodding also.</p>
 <p><lb n="100928"/>The reverend Hugh C. Love walked from the old chapterhouse of
 <lb n="100929"/>saint Mary's abbey past James and Charles Kennedy's, rectifiers, attended
 <lb n="100930"/>by Geraldines tall and personable, towards the Tholsel beyond the ford of
 <lb n="100931"/>hurdles.</p>
 <p><lb n="100932"/>Ben Dollard with a heavy list towards the shopfronts led them
 <lb n="100933"/>forward, his joyful fingers in the air.
-<lb n="100934"/><said>―Come along with me to the subsheriff's office,</said> he said. <said>I want to show you
+<lb n="100934"/><said who="Ben Dollard">―Come along with me to the subsheriff's office,</said> he said. <said who="Ben Dollard">I want to show you
 <lb n="100935"/>the new beauty Rock has for a bailiff. He's a cross between Lobengula and
 <lb n="100936"/>Lynchehaun. He's well worth seeing, mind you. Come along. I saw John
 <lb n="100937"/>Henry Menton casually in the Bodega just now and it will cost me a fall if I
 <lb n="100938"/>don't ... Wait awhile ..... We're on the right lay, Bob, believe you me.</said>
-<lb n="100939"/><said>―For a few days tell him,</said> Father Cowley said anxiously.</p>
+<lb n="100939"/><said who="Father Cowley">―For a few days tell him,</said> Father Cowley said anxiously.</p>
 <p><lb n="100940"/>Ben Dollard halted and stared, his loud orifice open, a dangling
 <lb n="100941"/>button of his coat wagging brightbacked from its thread as he wiped away
 <lb n="100942"/>the heavy shraums that clogged his eyes to hear aright.
-<lb n="100943"/><said>―What few days?</said> he boomed. <said>Hasn't your landlord distrained for rent?</said>
-<lb n="100944"/><said>―He has,</said> Father Cowley said.
-<lb n="100945"/><said>―Then our friend's writ is not worth the paper it's printed on,</said> Ben Dollard
-<lb n="100946"/>said. <said>The landlord has the prior claim. I gave him all the particulars. 29
+<lb n="100943"/><said who="Ben Dollard">―What few days?</said> he boomed. <said who="Ben Dollard">Hasn't your landlord distrained for rent?</said>
+<lb n="100944"/><said who="Father Cowley">―He has,</said> Father Cowley said.
+<lb n="100945"/><said who="Ben Dollard">―Then our friend's writ is not worth the paper it's printed on,</said> Ben Dollard
+<lb n="100946"/>said. <said who="Ben Dollard">The landlord has the prior claim. I gave him all the particulars. 29
 <lb n="100947"/>Windsor avenue. Love is the name?</said>
-<lb n="100948"/><said>―That's right,</said> Father Cowley said. <said>The reverend Mr Love. He's a minister
+<lb n="100948"/><said who="Father Cowley">―That's right,</said> Father Cowley said. <said who="Father Cowley">The reverend Mr Love. He's a minister
 <lb n="100949"/>in the country somewhere. But are you sure of that?</said>
-<lb n="100950"/><said>―You can tell Barabbas from me,</said> Ben Dollard said, <said>that he can put that
+<lb n="100950"/><said who="Ben Dollard">―You can tell Barabbas from me,</said> Ben Dollard said, <said who="Ben Dollard">that he can put that
 <lb n="100951"/>writ where Jacko put the nuts.</said></p>
 <p><lb n="100952"/>He led Father Cowley boldly forward, linked to his bulk.
-<lb n="100953"/><said>―Filberts I believe they were,</said> Mr Dedalus said, as he dropped his glasses on
+<lb n="100953"/><said who="Simon Dedalus">―Filberts I believe they were,</said> Mr Dedalus said, as he dropped his glasses on
 <lb n="100954"/>his coatfront, following them.</p>
 <lb n="100955"/><trailer>* * *</trailer></div>
-<div><p><lb n="100956"/><said>―The youngster will be all right,</said> Martin Cunningham said, as they passed
+<div type="section" n="15"><p><lb n="100956"/><said who="Martin Cunningham">―The youngster will be all right,</said> Martin Cunningham said, as they passed
 <lb n="100957"/>out of the Castleyard gate.</p>
 <p><lb n="100958"/>The policeman touched his forehead.
-<lb n="100959"/><said>―God bless you,</said> Martin Cunningham said, cheerily.</p>
+<lb n="100959"/><said who="Martin Cunningham">―God bless you,</said> Martin Cunningham said, cheerily.</p>
 <p><lb n="100960"/>He signed to the waiting jarvey who chucked at the reins and set on
 <lb n="100961"/>towards Lord Edward street.</p>
 <p><lb n="100962"/>Bronze by gold, Miss Kennedy's head by Miss Douce's head,
 <lb n="100963"/>appeared above the crossblind of the Ormond hotel.
-<lb n="100964"/><said>―Yes,</said> Martin Cunningham said, fingering his beard. <said>I wrote to Father
+<lb n="100964"/><said who="Martin Cunningham">―Yes,</said> Martin Cunningham said, fingering his beard. <said who="Martin Cunningham">I wrote to Father
 <lb n="100965"/>Conmee and laid the whole case before him.</said>
-<lb n="100966"/><said>―You could try our friend,</said> Mr Power suggested backward.
-<lb n="100967"/><said>―Boyd?</said> Martin Cunningham said shortly. <said>Touch me not.</said></p>
+<lb n="100966"/><said who="Jack Power">―You could try our friend,</said> Mr Power suggested backward.
+<lb n="100967"/><said who="Martin Cunningham">―Boyd?</said> Martin Cunningham said shortly. <said who="Martin Cunningham">Touch me not.</said></p>
 <p><lb n="100968"/>John Wyse Nolan, lagging behind, reading the list, came after them
 <lb n="100969"/>quickly down Cork hill.</p>
 <p><lb n="100970"/>On the steps of the City hall Councillor Nannetti, descending, hailed
 <lb n="100971"/>Alderman Cowley and Councillor Abraham Lyon ascending.</p>
 <p><lb n="100972"/>The castle car wheeled empty into upper Exchange street.
-<lb n="100973"/><said>―Look here, Martin,</said> John Wyse Nolan said, overtaking them at the <title type="newspaper">Mail</title>
-<lb n="100974"/>office. <said>I see Bloom put his name down for five shillings.</said>
-<lb n="100975"/><said>―Quite right,</said> Martin Cunningham said, taking the list. <said>And put down the
+<lb n="100973"/><said who="John Wyse Nolan">―Look here, Martin,</said> John Wyse Nolan said, overtaking them at the <title type="newspaper">Mail</title>
+<lb n="100974"/>office. <said who="John Wyse Nolan">I see Bloom put his name down for five shillings.</said>
+<lb n="100975"/><said who="Martin Cunningham">―Quite right,</said> Martin Cunningham said, taking the list. <said who="Martin Cunningham">And put down the
 <lb n="100976"/>five shillings too.</said>
-<lb n="100977"/><said>―Without a second word either,</said> Mr Power said.
-<lb n="100978"/><said>―Strange but true,</said> Martin Cunningham added.</p>
+<lb n="100977"/><said who="Jack Power">―Without a second word either,</said> Mr Power said.
+<lb n="100978"/><said who="Martin Cunningham">―Strange but true,</said> Martin Cunningham added.</p>
 <p><lb n="100979"/>John Wyse Nolan opened wide eyes.
-<lb n="100980"/><said>―I'll say there is much kindness in the jew,</said> he quoted, elegantly.</p>
+<lb n="100980"/><said who="John Wyse Nolan">―I'll say there is much kindness in the jew,</said> he quoted, elegantly.</p>
 <p><lb n="100981"/>They went down Parliament street.
-<lb n="100982"/><said>―There's Jimmy Henry,</said> Mr Power said, <said>just heading for Kavanagh's.</said>
-<lb n="100983"/><said>―Righto,</said> Martin Cunningham said. <said>Here goes.</said></p>
+<lb n="100982"/><said who="Jack Power">―There's Jimmy Henry,</said> Mr Power said, <said who="Jack Power">just heading for Kavanagh's.</said>
+<lb n="100983"/><said who="Martin Cunningham">―Righto,</said> Martin Cunningham said. <said who="Martin Cunningham">Here goes.</said></p>
 <p><lb n="100984"/>Outside la maison Claire Blazes Boylan waylaid Jack Mooney's
 <lb n="100985"/>brother-in-law, humpy, tight, making for the liberties.</p>
 <p><lb n="100986"/>John Wyse Nolan fell back with Mr Power, while Martin
 <lb n="100987"/>Cunningham took the elbow of a dapper little man in a shower of hail suit,
 <lb n="100988"/>who walked uncertainly, with hasty steps past Micky Anderson's watches.
-<lb n="100989"/><said>―The assistant town clerk's corns are giving him some trouble,</said> John Wyse
+<lb n="100989"/><said who="John Wyse Nolan">―The assistant town clerk's corns are giving him some trouble,</said> John Wyse
 <lb n="100990"/>Nolan told Mr Power.</p>
 <p><lb n="100991"/>They followed round the corner towards James Kavanagh's
 <lb n="100992"/>winerooms. The empty castle car fronted them at rest in Essex gate. Martin
 <lb n="100993"/>Cunningham, speaking always, showed often the list at which Jimmy Henry
 <lb n="100994"/>did not glance.
-<lb n="100995"/><said>―And long John Fanning is here too,</said> John Wyse Nolan said, <said>as large as
+<lb n="100995"/><said who="John Wyse Nolan">―And long John Fanning is here too,</said> John Wyse Nolan said, <said who="John Wyse Nolan">as large as
 <lb n="100996"/>life.</said></p>
 <p><lb n="100997"/>The tall form of long John Fanning filled the doorway where he
 <lb n="100998"/>stood.
-<lb n="100999"/><said>―Good day, Mr Subsheriff,</said> Martin Cunningham said, as all halted and
+<lb n="100999"/><said who="Martin Cunningham">―Good day, Mr Subsheriff,</said> Martin Cunningham said, as all halted and
 <lb n="101000"/>greeted.</p>
 <p><lb n="101001"/>Long John Fanning made no way for them. He removed his large
 <lb n="101002"/>Henry Clay decisively and his large fierce eyes scowled intelligently over all
 <lb n="101003"/>their faces.
-<lb n="101004"/><said>―Are the conscript fathers pursuing their peaceful deliberations?</said> he said
+<lb n="101004"/><said who="John Fanning">―Are the conscript fathers pursuing their peaceful deliberations?</said> he said
 <lb n="101005"/>with rich acrid utterance to the assistant town clerk.</p>
 <p><lb n="101006"/>Hell open to christians they were having, Jimmy Henry said pettishly,
 <lb n="101007"/>about their damned Irish language. Where was the marshal, he wanted to
@@ -1015,91 +1015,91 @@
 <p><lb n="101014"/>Martin Cunningham spoke by turns, twirling the peak of his beard, to
 <lb n="101015"/>the assistant town clerk and the subsheriff, while John Wyse Nolan held his
 <lb n="101016"/>peace.
-<lb n="101017"/><said>―What Dignam was that?</said> long John Fanning asked.</p>
+<lb n="101017"/><said who="John Fanning">―What Dignam was that?</said> long John Fanning asked.</p>
 <p><lb n="101018"/>Jimmy Henry made a grimace and lifted his left foot.
-<lb n="101019"/><said>―O, my corns!</said> he said plaintively. <said>Come upstairs for goodness' sake till I
+<lb n="101019"/><said who="Jimmy Henry">―O, my corns!</said> he said plaintively. <said who="Jimmy Henry">Come upstairs for goodness' sake till I
 <lb n="101020"/>sit down somewhere. Uff! Ooo! Mind!</said></p>
 <p><lb n="101021"/>Testily he made room for himself beside long John Fanning's flank
 <lb n="101022"/>and passed in and up the stairs.
-<lb n="101023"/><said>―Come on up,</said> Martin Cunningham said to the subsheriff. <said>I don't think
+<lb n="101023"/><said who="Martin Cunningham">―Come on up,</said> Martin Cunningham said to the subsheriff. <said who="Martin Cunningham">I don't think
 <lb n="101024"/>you knew him or perhaps you did, though.</said></p>
 <p><lb n="101025"/>With John Wyse Nolan Mr Power followed them in.
-<lb n="101026"/><said>―Decent little soul he was,</said> Mr Power said to the stalwart back of long John
+<lb n="101026"/><said who="Jack Power">―Decent little soul he was,</said> Mr Power said to the stalwart back of long John
 <lb n="101027"/>Fanning ascending towards long John Fanning in the mirror.
-<lb n="101028"/><said>―Rather lowsized. Dignam of Menton's office that was,</said> Martin
+<lb n="101028"/><said who="Martin Cunningham">―Rather lowsized. Dignam of Menton's office that was,</said> Martin
 <lb n="101029"/>Cunningham said.</p>
 <p><lb n="101030"/>Long John Fanning could not remember him.</p>
 <p><lb n="101031"/>Clatter of horsehoofs sounded from the air.
-<lb n="101032"/><said>―What's that?</said> Martin Cunningham said.</p>
+<lb n="101032"/><said who="Martin Cunningham">―What's that?</said> Martin Cunningham said.</p>
 <p><lb n="101033"/>All turned where they stood. John Wyse Nolan came down again.
 <lb n="101034"/>From the cool shadow of the doorway he saw the horses pass Parliament
 <lb n="101035"/>street, harness and glossy pasterns in sunlight shimmering. Gaily they went
 <lb n="101036"/>past before his cool unfriendly eyes, not quickly. In saddles of the leaders,
 <lb n="101037"/>leaping leaders, rode outriders.
-<lb n="101038"/><said>―What was it?</said> Martin Cunningham asked, as they went on up the
+<lb n="101038"/><said who="Martin Cunningham">―What was it?</said> Martin Cunningham asked, as they went on up the
 <lb n="101039"/>staircase.
-<lb n="101040"/><said>―The lord lieutenantgeneral and general governor of Ireland,</said> John Wyse
+<lb n="101040"/><said who="John Wyse Nolan">―The lord lieutenantgeneral and general governor of Ireland,</said> John Wyse
 <lb n="101041"/>Nolan answered from the stairfoot.</p>
 <lb n="101042"/><trailer>* * *</trailer></div>
-<div><p><lb n="101043"/>As they trod across the thick carpet Buck Mulligan whispered behind
+<div type="section" n="16"><p><lb n="101043"/>As they trod across the thick carpet Buck Mulligan whispered behind
 <lb n="101044"/>his Panama to Haines:
-<lb n="101045"/><said>―Parnell's brother. There in the corner.</said></p>
+<lb n="101045"/><said who="Buck Mulligan">―Parnell's brother. There in the corner.</said></p>
 <p><lb n="101046"/>They chose a small table near the window, opposite a longfaced man
 <lb n="101047"/>whose beard and gaze hung intently down on a chessboard.
-<lb n="101048"/><said>―Is that he?</said> Haines asked, twisting round in his seat.
-<lb n="101049"/><said>―Yes,</said> Mulligan said. <said>That's John Howard, his brother, our city marshal.</said></p>
+<lb n="101048"/><said who="Haines">―Is that he?</said> Haines asked, twisting round in his seat.
+<lb n="101049"/><said who="Buck Mulligan">―Yes,</said> Mulligan said. <said who="Buck Mulligan">That's John Howard, his brother, our city marshal.</said></p>
 <p><lb n="101050"/>John Howard Parnell translated a white bishop quietly and his grey
 <lb n="101051"/>claw went up again to his forehead whereat it rested. An instant after, under
 <lb n="101052"/>its screen, his eyes looked quickly, ghostbright, at his foe and fell once more
 <lb n="101053"/>upon a working corner.
-<lb n="101054"/><said>―I'll take a <foreign xml:lang="fr">mélange</foreign>,</said> Haines said to the waitress.
-<lb n="101055"/><said>―Two <foreign xml:lang="fr">mélanges</foreign>,</said> Buck Mulligan said. <said>And bring us some scones and butter
+<lb n="101054"/><said who="Haines">―I'll take a <foreign xml:lang="fr">mélange</foreign>,</said> Haines said to the waitress.
+<lb n="101055"/><said who="Buck Mulligan">―Two <foreign xml:lang="fr">mélanges</foreign>,</said> Buck Mulligan said. <said who="Buck Mulligan">And bring us some scones and butter
 <lb n="101056"/>and some cakes as well.</said></p>
 <p><lb n="101057"/>When she had gone he said, laughing:
-<lb n="101058"/><said>―We call it D. B. C. because they have damn bad cakes. O, but you missed
+<lb n="101058"/><said who="Buck Mulligan">―We call it D. B. C. because they have damn bad cakes. O, but you missed
 <lb n="101059"/>Dedalus on <title type="play">Hamlet</title>.</said></p>
 <p><lb n="101060"/>Haines opened his newbought book.
-<lb n="101061"/><said>―I'm sorry,</said> he said. <said>Shakespeare is the happy huntingground of all minds
+<lb n="101061"/><said who="Haines">―I'm sorry,</said> he said. <said who="Haines">Shakespeare is the happy huntingground of all minds
 <lb n="101062"/>that have lost their balance.</said></p>
 <p><lb n="101063"/>The onelegged sailor growled at the area of 14 Nelson street:
-<lb n="101064"/><said>―<emph>England expects</emph> .....</said></p>
+<lb n="101064"/><said who="onelegged sailor">―<quote type="song">England expects</quote> .....</said></p>
 <p><lb n="101065"/>Buck Mulligan's primrose waistcoat shook gaily to his laughter.
-<lb n="101066"/><said>―You should see him,</said> he said, <said>when his body loses its balance. Wandering
+<lb n="101066"/><said who="Buck Mulligan">―You should see him,</said> he said, <said who="Buck Mulligan">when his body loses its balance. Wandering
 <lb n="101067"/>Aengus I call him.</said>
-<lb n="101068"/><said>―I am sure he has an <foreign xml:lang="fr">idée fixe</foreign>,</said> Haines said, pinching his chin thoughtfully
-<lb n="101069"/>with thumb and forefinger. <said>Now I am speculating what it would be likely to
+<lb n="101068"/><said who="Haines">―I am sure he has an <foreign xml:lang="fr">idée fixe</foreign>,</said> Haines said, pinching his chin thoughtfully
+<lb n="101069"/>with thumb and forefinger. <said who="Haines">Now I am speculating what it would be likely to
 <lb n="101070"/>be. Such persons always have.</said></p>
 <p><lb n="101071"/>Buck Mulligan bent across the table gravely.
-<lb n="101072"/><said>―They drove his wits astray,</said> he said, <said>by visions of hell. He will never
+<lb n="101072"/><said who="Buck Mulligan">―They drove his wits astray,</said> he said, <said who="Buck Mulligan">by visions of hell. He will never
 <lb n="101073"/>capture the Attic note. The note of Swinburne, of all poets, the white death
 <lb n="101074"/>and the ruddy birth. That is his tragedy. He can never be a poet. The joy of
 <lb n="101075"/>creation ....</said>
-<lb n="101076"/><said>―Eternal punishment,</said> Haines said, nodding curtly. <said>I see. I tackled him this
+<lb n="101076"/><said who="Haines">―Eternal punishment,</said> Haines said, nodding curtly. <said who="Haines">I see. I tackled him this
 <lb n="101077"/>morning on belief. There was something on his mind, I saw. It's rather
 <lb n="101078"/>interesting because professor Pokorny of Vienna makes an interesting point
 <lb n="101079"/>out of that.</said></p>
 <p><lb n="101080"/>Buck Mulligan's watchful eyes saw the waitress come. He helped her
 <lb n="101081"/>to unload her tray.
-<lb n="101082"/><said>―He can find no trace of hell in ancient Irish myth,</said> Haines said, amid the
-<lb n="101083"/>cheerful cups. <said>The moral idea seems lacking, the sense of destiny, of
+<lb n="101082"/><said who="Haines">―He can find no trace of hell in ancient Irish myth,</said> Haines said, amid the
+<lb n="101083"/>cheerful cups. <said who="Haines">The moral idea seems lacking, the sense of destiny, of
 <lb n="101084"/>retribution. Rather strange he should have just that fixed idea. Does he
 <lb n="101085"/>write anything for your movement?</said></p>
 <p><lb n="101086"/>He sank two lumps of sugar deftly longwise through the whipped
 <lb n="101087"/>cream. Buck Mulligan slit a steaming scone in two and plastered butter over
 <lb n="101088"/>its smoking pith. He bit off a soft piece hungrily.
-<lb n="101089"/><said>―Ten years,</said> he said, chewing and laughing. <said>He is going to write something
+<lb n="101089"/><said who="Buck Mulligan">―Ten years,</said> he said, chewing and laughing. <said who="Buck Mulligan">He is going to write something
 <lb n="101090"/>in ten years.</said>
-<lb n="101091"/><said>―Seems a long way off,</said> Haines said, thoughtfully lifting his spoon. <said>Still, I
+<lb n="101091"/><said who="Haines">―Seems a long way off,</said> Haines said, thoughtfully lifting his spoon. <said who="Haines">Still, I
 <lb n="101092"/>shouldn't wonder if he did after all.</said></p>
 <p><lb n="101093"/>He tasted a spoonful from the creamy cone of his cup.
-<lb n="101094"/><said>―This is real Irish cream I take it,</said> he said with forbearance. <said>I don't want to
+<lb n="101094"/><said who="Haines">―This is real Irish cream I take it,</said> he said with forbearance. <said who="Haines">I don't want to
 <lb n="101095"/>be imposed on.</said></p>
 <p><lb n="101096"/>Elijah, skiff, light crumpled throwaway, sailed eastward by flanks of
 <lb n="101097"/>ships and trawlers, amid an archipelago of corks, beyond new Wapping
-<lb n="101098"/>street past Benson's ferry, and by the threemasted schooner <emph>Rosevean</emph> from
+<lb n="101098"/>street past Benson's ferry, and by the threemasted schooner <name type="ship">Rosevean</name> from
 <lb n="101099"/>Bridgwater with bricks.</p>
 <lb n="101100"/><trailer>* * *</trailer></div>
-<div><p><lb n="101101"/>Almidano Artifoni walked past Holles street, past Sewell's yard.
+<div type="section" n="17"><p><lb n="101101"/>Almidano Artifoni walked past Holles street, past Sewell's yard.
 <lb n="101102"/>Behind him Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, with
 <lb n="101103"/>stickumbrelladustcoat dangling, shunned the lamp before Mr Law Smith's
 <lb n="101104"/>house and, crossing, walked along Merrion square. Distantly behind him a
@@ -1111,16 +1111,16 @@
 <lb n="101110"/>announced on the Metropolitan hall, frowned at the distant pleasance of
 <lb n="101111"/>duke's lawn. His eyeglass flashed frowning in the sun. With ratsteeth bared
 <lb n="101112"/>he muttered:
-<lb n="101113"/><said>―<foreign xml:lang="la">Coactus volui.</foreign></said></p>
+<lb n="101113"/><said who="Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell">―<foreign xml:lang="la">Coactus volui.</foreign></said></p>
 <p><lb n="101114"/>He strode on for Clare street, grinding his fierce word.</p>
 <p><lb n="101115"/>As he strode past Mr Bloom's dental windows the sway of his
 <lb n="101116"/>dustcoat brushed rudely from its angle a slender tapping cane and swept
 <lb n="101117"/>onwards, having buffeted a thewless body. The blind stripling turned his
 <lb n="101118"/>sickly face after the striding form.
-<lb n="101119"/><said>―God's curse on you,</said> he said sourly, <said>whoever you are! You're blinder nor
+<lb n="101119"/><said who="blind stripling">―God's curse on you,</said> he said sourly, <said who="blind stripling">whoever you are! You're blinder nor
 <lb n="101120"/>I am, you bitch's bastard!</said></p>
 <lb n="101121"/><trailer>* * *</trailer></div>
-<div><p><lb n="101122"/>Opposite Ruggy O'Donohoe's Master Patrick Aloysius Dignam,
+<div type="section" n="18"><p><lb n="101122"/>Opposite Ruggy O'Donohoe's Master Patrick Aloysius Dignam,
 <lb n="101123"/>pawing the pound and a half of Mangan's, late Fehrenbach's, porksteaks he
 <lb n="101124"/>had been sent for, went along warm Wicklow street dawdling. It was too
 <lb n="101125"/>blooming dull sitting in the parlour with Mrs Stoer and Mrs Quigley and
@@ -1174,7 +1174,7 @@
 <lb n="101173"/>hope he's in purgatory now because he went to confession to Father
 <lb n="101174"/>Conroy on Saturday night.</p>
 <lb n="101175"/><trailer>* * *</trailer></div>
-<div><p><lb n="101176"/>William Humble, earl of Dudley, and lady Dudley, accompanied by
+<div type="section" n="19"><p><lb n="101176"/>William Humble, earl of Dudley, and lady Dudley, accompanied by
 <lb n="101177"/>lieutenantcolonel Heseltine, drove out after luncheon from the viceregal
 <lb n="101178"/>lodge. In the following carriage were the honourable Mrs Paget, Miss de
 <lb n="101179"/>Courcy and the honourable Gerald Ward A. D. C. in attendance.</p>
@@ -1248,15 +1248,15 @@
 <lb n="101247"/>they drove along Nassau street His Excellency drew the attention of his
 <lb n="101248"/>bowing consort to the programme of music which was being discoursed in
 <lb n="101249"/>College park. Unseen brazen highland laddies blared and drumthumped
-<lb n="101250"/>after the cortège:</p>
-<p rend="inset"><lb n="101251"/><emph>But though she's a factory lass
+<lb n="101250"/>after the cortège:
+<lb n="101251"/><quote rend="inset">But though she's a factory lass
 <lb n="101252"/>And wears no fancy clothes.
 <lb n="101253"/>Baraabum.
 <lb n="101254"/>Yet I've a sort of a
 <lb n="101255"/>Yorkshire relish for
 <lb n="101256"/>My little Yorkshire rose.
-<lb n="101257"/>Baraabum.</emph></p>
-<p rend="non-indent"><lb n="101258"/>Thither of the wall the quartermile flat handicappers, M. C. Green, H.
+<lb n="101257"/>Baraabum.</quote>
+<lb n="101258"/>Thither of the wall the quartermile flat handicappers, M. C. Green, H.
 <lb n="101259"/>Thrift, T. M. Patey, C. Scaife, J. B. Jeffs, G. N. Morphy, F. Stevenson, C.
 <lb n="101260"/>Adderly and W. C. Huggard, started in pursuit. Striding past Finn's hotel
 <lb n="101261"/>Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell stared through a fierce
