@@ -4,7 +4,7 @@
 <lb n="010002"/>bowl of lather on which a mirror and a razor lay crossed. A yellow
 <lb n="010003"/>dressinggown, ungirdled, was sustained gently behind him on the mild
 <lb n="010004"/>morning air. He held the bowl aloft and intoned:
-<lb n="010005"/><said who="Buck Mulligan">―<foreign xml:lang="la">Introibo ad altare Dei.</foreign></said></p>
+<lb n="010005"/><said who="Buck Mulligan">―<quote xml:lang="la">Introibo ad altare Dei.</quote></said></p>
 <p><lb n="010006"/>Halted, he peered down the dark winding stairs and called out
 <lb n="010007"/>coarsely:
 <lb n="010008"/><said who="Buck Mulligan">―Come up, Kinch! Come up, you fearful jesuit!</said></p>
@@ -77,9 +77,9 @@
 <p><lb n="010075"/>He mounted to the parapet again and gazed out over Dublin bay, his
 <lb n="010076"/>fair oakpale hair stirring slightly.
 <lb n="010077"/><said who="Buck Mulligan">―God! he said quietly. Isn't the sea what Algy calls it: a great sweet
-<lb n="010078"/>mother? The snotgreen sea. The scrotumtightening sea. <foreign xml:lang="grc-Latn">Epi oinopa ponton.</foreign>
+<lb n="010078"/>mother? The snotgreen sea. The scrotumtightening sea. <quote xml:lang="grc-Latn">Epi oinopa ponton.</quote>
 <lb n="010079"/>Ah, Dedalus, the Greeks! I must teach you. You must read them in the
-<lb n="010080"/>original. <foreign xml:lang="grc-Latin">Thalatta! Thalatta!</foreign> She is our great sweet mother. Come and
+<lb n="010080"/>original. <quote xml:lang="grc-Latin">Thalatta! Thalatta!</quote> She is our great sweet mother. Come and
 <lb n="010081"/>look.</said></p>
 <p><lb n="010082"/>Stephen stood up and went over to the parapet. Leaning on it he
 <lb n="010083"/>looked down on the water and on the mailboat clearing the harbourmouth
@@ -275,8 +275,8 @@
 <p><lb n="010273"/>Her glazing eyes, staring out of death, to shake and bend my soul. On
 <lb n="010274"/>me alone. The ghostcandle to light her agony. Ghostly light on the tortured
 <lb n="010275"/>face. Her hoarse loud breath rattling in horror, while all prayed on their
-<lb n="010276"/>knees. Her eyes on me to strike me down. <foreign xml:lang="la">Liliata rutilantium te confessorum
-<lb n="010277"/>turma circumdet: iubilantium te virginum chorus excipiat.</foreign></p>
+<lb n="010276"/>knees. Her eyes on me to strike me down. <quote xml:lang="la">Liliata rutilantium te confessorum
+<lb n="010277"/>turma circumdet: iubilantium te virginum chorus excipiat.</quote></p>
 <p><lb n="010278"/>Ghoul! Chewer of corpses!</p>
 <p><lb n="010279"/>No, mother! Let me be and let me live.
 <lb n="010280"/><said who="Buck Mulligan">―Kinch ahoy!</said></p>
@@ -350,7 +350,7 @@
 <lb n="010348"/>can't go fumbling at the damned eggs.</said></p>
 <p><lb n="010349"/>He hacked through the fry on the dish and slapped it out on three
 <lb n="010350"/>plates, saying:
-<lb n="010351"/><said who="Buck Mulligan">―<foreign xml:lang="la">In nomine Patris et Filii et Spiritus Sancti.</foreign></said></p>
+<lb n="010351"/><said who="Buck Mulligan">―<quote xml:lang="la">In nomine Patris et Filii et Spiritus Sancti.</quote></said></p>
 <p><lb n="010352"/>Haines sat down to pour out the tea.
 <lb n="010353"/><said who="Haines">―I'm giving you two lumps each,</said> he said. <said who="Haines">But, I say, Mulligan, you do
 <lb n="010354"/>make strong tea, don't you?</said></p>
@@ -650,7 +650,7 @@
 <lb n="010648"/>that, I daresay. We feel in England that we have treated you rather unfairly.
 <lb n="010649"/>It seems history is to blame.</said></p>
 <p><lb n="010650"/>The proud potent titles clanged over Stephen's memory the triumph
-<lb n="010651"/>of their brazen bells: <foreign xml:lang="la">et unam sanctam catholicam et apostolicam ecclesiam</foreign>:
+<lb n="010651"/>of their brazen bells: <quote xml:lang="la">et unam sanctam catholicam et apostolicam ecclesiam</quote>:
 <lb n="010652"/>the slow growth and change of rite and dogma like his own rare thoughts, a
 <lb n="010653"/>chemistry of stars. Symbol of the apostles in the mass for pope Marcellus,
 <lb n="010654"/>the voices blended, singing alone loud in affirmation: and behind their
@@ -735,9 +735,9 @@
 <lb n="010733"/><said who="Buck Mulligan">―The Ship,</said> Buck Mulligan cried. <said who="Buck Mulligan">Half twelve.</said>
 <lb n="010734"/><said who="Stephen Dedalus">―Good,</said> Stephen said.</p>
 <p><lb n="010735"/>He walked along the upwardcurving path.</p>
-<p rend="inset"><lb n="010736"/><foreign xml:lang="la">Liliata rutilantium.
+<p rend="inset"><lb n="010736"/><quote xml:lang="la">Liliata rutilantium.
 <lb n="010737"/>Turma circumdet.
-<lb n="010738"/>Iubilantium te virginum.</foreign></p>
+<lb n="010738"/>Iubilantium te virginum.</quote></p>
 <p><lb n="010739"/>The priest's grey nimbus in a niche where he dressed discreetly. I will
 <lb n="010740"/>not sleep here tonight. Home also I cannot go.</p>
 <p><lb n="010741"/>A voice, sweettoned and sustained, called to him from the sea.

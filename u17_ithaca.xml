@@ -1028,8 +1028,8 @@
 <lb n="171027"/>borne by
 <lb n="171028"/>STEPHEN</p>
 <p rend="non-indent"><lb n="171029"/>With what intonation <foreign xml:lang="la">secreto</foreign> of what commemorative psalm?</p>
-<p rend="non-indent"><lb n="171030"/>The 113th, <foreign xml:lang="la">modus peregrinus</foreign>: <foreign xml:lang="la">In exitu Israel de Egypto</foreign>: <foreign xml:lang="la">domus Jacob de
-<lb n="171031"/>populo barbaro</foreign>.</p>
+<p rend="non-indent"><lb n="171030"/>The 113th, <foreign xml:lang="la">modus peregrinus</foreign>: <quote source="bible" xml:lang="la">In exitu Israel de Egypto: domus Jacob de
+<lb n="171031"/>populo barbaro</quote>.</p>
 <p rend="non-indent"><lb n="171032"/>What did each do at the door of egress?</p>
 <p rend="non-indent"><lb n="171033"/>Bloom set the candlestick on the floor. Stephen put the hat on his head.</p>
 <p rend="non-indent"><lb n="171034"/>For what creature was the door of egress a door of ingress?</p>
@@ -1228,8 +1228,8 @@
 <lb n="171227"/>the church of Saint George.</p>
 <p rend="non-indent"><lb n="171228"/>What echoes of that sound were by both and each heard?</p>
 <p rend="non-indent"><lb n="171229"/>By Stephen:</p>
-<p rend="inset"><lb n="171230"/><foreign xml:lang="la">Liliata rutilantium. Turma circumdet.
-<lb n="171231"/>Iubilantium te virginum. Chorus excipiat.</foreign></p>
+<p rend="inset"><lb n="171230"/><quote xml:lang="la">Liliata rutilantium. Turma circumdet.
+<lb n="171231"/>Iubilantium te virginum. Chorus excipiat.</quote></p>
 <p rend="non-indent"><lb n="171232"/>By Bloom:</p>
 <p rend="inset"><lb n="171233"/><said who="bells of George's church" direct="false" rend="italics">Heigho, heigho,
 <lb n="171234"/>Heigho, heigho.</said></p>
