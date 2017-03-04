@@ -1,0 +1,75 @@
+/* Turning Metadata off for the moment */
+div#metadata { display: none; } 
+
+/* Container */
+body { 
+	width: 45em; 
+	max-width: 65%; 
+	margin: 0 auto; 
+	position: relative; /* makes absolutely positioned items below relative to this one */ 
+	font-family: 'Droid Serif', serif; 
+}
+
+.mainTitle { 
+	text-align: center; 
+	margin: 1em;
+} 
+
+#controls { 
+	padding: 1em; 
+	margin: 2em; 
+	border: 1px solid #A0A0C3; 
+	background-color: #D5D5F3; 
+} 
+
+#controls input { 
+	margin-left: 1em; 
+} 
+
+.heading { 
+	text-align: center; 
+} 
+
+p.lg, p.song { 
+	margin-left: 30%; 
+	font-style: italic; 
+} 
+
+p.dialog, span.dialog { 
+	color: #962828; 
+} 
+
+span.emph, span.lang { 
+	font-style: italic; 
+} 
+
+/* this magically matches any class ending in "-tag" */ 
+span.tag { 
+	position: absolute; 
+	color: black; 
+	font-style: normal;
+	border-radius: 4px; 
+	padding: 3px; 
+	max-width: 25%; 
+} 
+
+span.tag.type, span.tag.lang { 
+	right: -18%; 
+} 
+
+span.tag.type { 
+	border: 1px solid #D7A192; 
+	background-color: #F6CCC0; 
+} 
+
+span.tag.lang { 
+	border: 1px solid #95CB95; 
+	background-color: #CBEFCB; 
+} 
+
+span.tag.dialog { 
+	border: 1px solid #A0A0C3; 
+	background-color: #D5D5F3; 
+	left: -26%; 
+} 
+
