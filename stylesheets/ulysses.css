@@ -30,6 +30,11 @@ body {
 	text-align: center; 
 } 
 
+p.textparagraph { 
+	margin: 0; 
+	text-indent: 2em;
+} 
+
 p.lg, p.song { 
 	margin-left: 30%; 
 	font-style: italic; 
@@ -51,10 +56,12 @@ span.tag {
 	border-radius: 4px; 
 	padding: 3px; 
 	max-width: 25%; 
+	text-indent: 0;
+	font-size: 80%
 } 
 
 span.tag.type, span.tag.lang { 
-	right: -18%; 
+	right: -22%; 
 } 
 
 span.tag.type { 
@@ -70,6 +77,6 @@ span.tag.lang {
 span.tag.dialog { 
 	border: 1px solid #A0A0C3; 
 	background-color: #D5D5F3; 
-	left: -26%; 
+	left: -18%; 
 } 
 
