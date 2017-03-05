@@ -40,10 +40,23 @@
 	<p class="textParagraph"><xsl:apply-templates/></p>
 </xsl:template>
 
-<xsl:template match="lg">
+<xsl:template match="foreign | title | quote">
+	<emph><xsl:apply-templates/></emph>
+</xsl:template>
+
+<xsl:template match="*[@rend='italics']">
+	<emph><xsl:apply-templates/></emph>
+</xsl:template>
+
+<xsl:template match="lg|*[@rend='inset']">
 	<p class="lg">
 		<xsl:apply-templates/>
 	</p>
+</xsl:template>
+
+<xsl:template match="lg|*[@rend='inset']//lb">
+	<br/>
+		<xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="l">
