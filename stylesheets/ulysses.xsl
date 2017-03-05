@@ -74,7 +74,6 @@
 <xsl:template match="said[@who]">
 		<xsl:if test="substring(.,1,1)='―'"> 
 			<br class="dialog"/>
-			<br class="dialog"/>
 		</xsl:if>
 		<span class="dialog">
 			<span class="tag dialog">
