@@ -1,3 +1,5 @@
+default: index.html
+
 valid: 
 	xmllint --dtdvalid schema/tei_all.dtd --xinclude header.xml --noout            
 
