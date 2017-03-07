@@ -936,7 +936,7 @@
 <stage><lb n="150935"/>Uproar and catcalls. Bloom in a torn frockcoat stained with
 <lb n="150936"/>whitewash, dinged silk hat sideways on his head, a strip of
 <lb n="150937"/>stickingplaster across his nose, talks inaudibly.)</stage>
-<sp who="J. J. O'Molloy"><speaker><lb n="150938"/>J. J. O'Molloy</speaker>
+<sp who="J.J. O'Molloy"><speaker><lb n="150938"/>J. J. O'Molloy</speaker>
 <p><stage><lb n="150939"/>(in barrister's grey wig and stuffgown, speaking with a voice of pained
 <lb n="150940"/>protest)</stage> This is no place for indecent levity at the expense of an erring
 <lb n="150941"/>mortal disguised in liquor. We are not in a beargarden nor at an Oxford rag
@@ -964,7 +964,7 @@
 <lb n="150963"/>Blingee pigfoot evly night
 <lb n="150964"/>Payee two shilly ....</p></sp>
 <stage><lb n="150965"/>(He is howled down.)</stage>
-<sp who="J. J. O'Molloy"><speaker><lb n="150966"/>J. J. O'Molloy</speaker>
+<sp who="J.J. O'Molloy"><speaker><lb n="150966"/>J. J. O'Molloy</speaker>
 <p><stage><lb n="150967"/>(hotly to the populace)</stage> This is a lonehand fight. By Hades, I will not have
 <lb n="150968"/>any client of mine gagged and badgered in this fashion by a pack of curs
 <lb n="150969"/>and laughing hyenas. The Mosaic code has superseded the law of the
@@ -995,7 +995,7 @@
 <lb n="150994"/>with sunken eyes, the blotches of phthisis and hectic cheekbones of
 <lb n="150995"/>John F. Taylor. He applies his handkerchief to his mouth and
 <lb n="150996"/>scrutinises the galloping tide of rosepink blood.)</stage>
-<sp who="J. J. O'Molloy"><speaker><lb n="150997"/>J. J. O'Molloy</speaker>
+<sp who="J.J. O'Molloy"><speaker><lb n="150997"/>J. J. O'Molloy</speaker>
 <p><stage><lb n="150998"/>(almost voicelessly)</stage> Excuse me. I am suffering from a severe chill, have
 <lb n="150999"/>recently come from a sickbed. A few wellchosen words. <stage>(He assumes the
 <lb n="151000"/>avine head, foxy moustache and proboscidal eloquence of Seymour
@@ -1642,7 +1642,7 @@
 <sp who="Leopold Bloom"><speaker><lb n="151641"/>Bloom</speaker>
 <p><stage><lb n="151642"/>(obdurately)</stage> Sirs, take notice that by the law of torts you are bound over
 <lb n="151643"/>in your own recognisances for six months in the sum of five pounds.</p></sp>
-<sp who="J. J. O'Molloy"><speaker><lb n="151644"/>J. J. O'Molloy</speaker>
+<sp who="J.J. O'Molloy"><speaker><lb n="151644"/>J. J. O'Molloy</speaker>
 <p><lb n="151645"/>A Daniel did I say? Nay! A Peter O'Brien!</p></sp>
 <sp who="Nosey Flynn"><speaker><lb n="151646"/>Nosey Flynn</speaker>
 <p><lb n="151647"/>Where do I draw the five pounds?</p></sp>
@@ -1850,7 +1850,7 @@
 <lb n="151849"/>Holmes, Pasteur, turns each foot simultaneously in different
 <lb n="151850"/>directions, bids the tide turn back, eclipses the sun by extending his
 <lb n="151851"/>little finger.)</stage>
-<sp who="Brini, Papal Nuncio"><speaker><lb n="151852"/>Brini, Papal Nuncio</speaker>
+<sp who="Brini Papal Nuncio"><speaker><lb n="151852"/>Brini, Papal Nuncio</speaker>
 <p><stage><lb n="151853"/>(in papal zouave's uniform, steel cuirasses as breastplate, armplates,
 <lb n="151854"/>thighplates, legplates, large profane moustaches and brown paper mitre)</stage>
 <foreign xml:lang="la"><lb n="151855"/>Leopoldi autem generatio.</foreign> Moses begat Noah and Noah begat Eunuch and
@@ -2223,14 +2223,14 @@
 <lb n="152222"/>you. Mr President, you come long and help me save our sisters dear. <stage>(he
 <lb n="152223"/>winks at his audience)</stage> Our Mr President, he twig the whole lot and he aint
 <lb n="152224"/>saying nothing.</p></sp>
-<sp who="Kitty Ricketts (2)"><speaker><lb n="152225"/>Kitty-Kate</speaker>
+<sp who="Kitty Ricketts_2"><speaker><lb n="152225"/>Kitty-Kate</speaker>
 <p><lb n="152226"/>I forgot myself. In a weak moment I erred and did what I did on
 <lb n="152227"/>Constitution hill. I was confirmed by the bishop and enrolled in the brown
 <lb n="152228"/>scapular. My mother's sister married a Montmorency. It was a working
 <lb n="152229"/>plumber was my ruination when I was pure.</p></sp>
-<sp who="Zoe Higgins (2)"><speaker><lb n="152230"/>Zoe-Fanny</speaker>
+<sp who="Zoe Higgins_2"><speaker><lb n="152230"/>Zoe-Fanny</speaker>
 <p><lb n="152231"/>I let him larrup it into me for the fun of it.</p></sp>
-<sp who="Florry Talbot (2)"><speaker><lb n="152232"/>Florry-Teresa</speaker>
+<sp who="Florry Talbot_2"><speaker><lb n="152232"/>Florry-Teresa</speaker>
 <p><lb n="152233"/>It was in consequence of a portwine beverage on top of Hennessy's three
 <lb n="152234"/>star. I was guilty with Whelan when he slipped into the bed.</p></sp>
 <sp who="Stephen Dedalus"><speaker><lb n="152235"/>Stephen</speaker>
@@ -2830,25 +2830,25 @@
 <stage><lb n="152829"/>(He knots the lace. Bella places her foot on the floor. Bloom raises
 <lb n="152830"/>his head. Her heavy face, her eyes strike him in midbrow. His eyes
 <lb n="152831"/>grow dull, darker and pouched, his nose thickens.)</stage>
-<sp who="Leopold Bloom"><speaker><lb n="152832"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152832"/>Bloom</speaker>
 <p><stage><lb n="152833"/>(mumbles)</stage> Awaiting your further orders we remain, gentlemen, ....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152834"/>Bello</speaker>
 <p><stage><lb n="152835"/>(with a hard basilisk stare, in a baritone voice)</stage> Hound of dishonour!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152836"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152836"/>Bloom</speaker>
 <p><stage><lb n="152837"/>(infatuated)</stage> Empress!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152838"/>Bello</speaker>
 <p><stage><lb n="152839"/>(his heavy cheekchops sagging)</stage> Adorer of the adulterous rump!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152840"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152840"/>Bloom</speaker>
 <p><stage><lb n="152841"/>(plaintively)</stage> Hugeness!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152842"/>Bello</speaker>
 <p><lb n="152843"/>Dungdevourer!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152844"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152844"/>Bloom</speaker>
 <p><stage><lb n="152845"/>(with sinews semiflexed)</stage> Magmagnificence!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152846"/>Bello</speaker>
 <p><lb n="152847"/>Down! <stage>(he taps her on the shoulder with his fan)</stage> Incline feet forward!
 <lb n="152848"/>Slide left foot one pace back! You will fall. You are falling. On the hands
 <lb n="152849"/>down!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152850"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152850"/>Bloom</speaker>
 <p><stage><lb n="152851"/>(her eyes upturned in the sign of admiration, closing, yaps)</stage> Truffles!</p></sp>
 <stage><lb n="152852"/>(With a piercing epileptic cry she sinks on all fours, grunting,
 <lb n="152853"/>snuffling, rooting at his feet: then lies, shamming dead, with eyes
@@ -2861,7 +2861,7 @@
 <lb n="152860"/>pockets, places his heel on her neck and grinds it in)</stage> Footstool! Feel my
 <lb n="152861"/>entire weight. Bow, bondslave, before the throne of your despot's glorious
 <lb n="152862"/>heels so glistening in their proud erectness.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152863"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152863"/>Bloom</speaker>
 <p><stage><lb n="152864"/>(enthralled, bleats)</stage> I promise never to disobey.</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152865"/>Bello</speaker>
 <p><stage><lb n="152866"/>(laughs loudly)</stage> Holy smoke! You little know what's in store for you. I'm
@@ -2872,7 +2872,7 @@
 <stage><lb n="152871"/>(Bloom creeps under the sofa and peers out through the fringe.)</stage>
 <sp who="Zoe Higgins"><speaker><lb n="152872"/>Zoe</speaker>
 <p><stage><lb n="152873"/>(widening her slip to screen her)</stage> She's not here.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152874"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152874"/>Bloom</speaker>
 <p><stage><lb n="152875"/>(closing her eyes)</stage> She's not here.</p></sp>
 <sp who="Florry Talbot"><speaker><lb n="152876"/>Florry</speaker>
 <p><stage><lb n="152877"/>(hiding her with her gown)</stage> She didn't mean it, Mr Bello. She'll be good,
@@ -2886,7 +2886,7 @@
 <lb n="152885"/>violently and drags her forward)</stage> I only want to correct you for your own
 <lb n="152886"/>good on a soft safe spot. How's that tender behind? O, ever so gently, pet.
 <lb n="152887"/>Begin to get ready.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152888"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152888"/>Bloom</speaker>
 <p><stage><lb n="152889"/>(fainting)</stage> Don't tear my ...</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152890"/>Bello</speaker>
 <p><stage><lb n="152891"/>(savagely)</stage> The nosering, the pliers, the bastinado, the hanging hook, the
@@ -2901,17 +2901,17 @@
 <lb n="152900"/>crackling from the baking tin basted and baked like sucking pig with rice
 <lb n="152901"/>and lemon or currant sauce. It will hurt you. <stage>(He twists her arm. Bloom
 <lb n="152902"/>squeals, turning turtle.)</stage></p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152903"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152903"/>Bloom</speaker>
 <p><lb n="152904"/>Don't be cruel, nurse! Don't!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152905"/>Bello</speaker>
 <p><stage><lb n="152906"/>(twisting)</stage> Another!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152907"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152907"/>Bloom</speaker>
 <p><stage><lb n="152908"/>(screams)</stage> O, it's hell itself! Every nerve in my body aches like mad!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152909"/>Bello</speaker>
 <p><stage><lb n="152910"/>(shouts)</stage> Good, by the rumping jumping general! That's the best bit of
 <lb n="152911"/>news I heard these six weeks. Here, don't keep me waiting, damn you! <stage>(he
 <lb n="152912"/>slaps her face)</stage></p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152913"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152913"/>Bloom</speaker>
 <p><stage><lb n="152914"/>(whimpers)</stage> You're after hitting me. I'll tell ....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152915"/>Bello</speaker>
 <p><lb n="152916"/>Hold him down, girls, till I squat on him.</p></sp>
@@ -2936,7 +2936,7 @@
 <lb n="152935"/>Gardner told me about. Just my infernal luck, curse it. And that
 <lb n="152936"/>Goddamned outsider <name type="horse">Throwaway</name> at twenty to one. <stage>(he quenches his cigar
 <lb n="152937"/>angrily on Bloom's ear)</stage> Where's that Goddamned cursed ashtray?</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152938"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152938"/>Bloom</speaker>
 <p><stage><lb n="152939"/>(goaded, buttocksmothered)</stage> O! O! Monsters! Cruel one!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152940"/>Bello</speaker>
 <p><lb n="152941"/>Ask for that every ten minutes. Beg. Pray for it as you never prayed before.
@@ -2952,14 +2952,14 @@
 <p><stage><lb n="152951"/>(pulls at Bello)</stage> Let me on him now. You had enough. I asked before you.</p></sp>
 <sp who="Zoe Higgins"><speaker><lb n="152952"/>Zoe</speaker>
 <p><stage><lb n="152953"/>(pulling at Florry)</stage> Me. Me. Are you not finished with him yet, suckeress?</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152954"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152954"/>Bloom</speaker>
 <p><stage><lb n="152955"/>(stifling)</stage> Can't.</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152956"/>Bello</speaker>
 <p><lb n="152957"/>Well, I'm not. Wait. <stage>(he holds in his breath)</stage> Curse it. Here. This bung's
 <lb n="152958"/>about burst. <stage>(he uncorks himself behind: then, contorting his features, farts
 <lb n="152959"/>stoutly)</stage> Take that! <stage>(he recorks himself)</stage> Yes, by Jingo, sixteen three
 <lb n="152960"/>quarters.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152961"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152961"/>Bloom</speaker>
 <p><stage><lb n="152962"/>(a sweat breaking out over him)</stage> Not man. <stage>(he sniffs)</stage> Woman.</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152963"/>Bello</speaker>
 <p><stage><lb n="152964"/>(stands up)</stage> No more blow hot and cold. What you longed for has come to
@@ -2967,7 +2967,7 @@
 <lb n="152966"/>yoke. Now for your punishment frock. You will shed your male garments,
 <lb n="152967"/>you understand, Ruby Cohen? and don the shot silk luxuriously rustling
 <lb n="152968"/>over head and shoulders. And quickly too!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152969"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152969"/>Bloom</speaker>
 <p><stage><lb n="152970"/>(shrinks)</stage> Silk, mistress said! O crinkly! scrapy! Must I tiptouch it with my
 <lb n="152971"/>nails?</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152972"/>Bello</speaker>
@@ -2982,7 +2982,7 @@
 <lb n="152981"/>Alice will feel the pullpull. Martha and Mary will be a little chilly at first in
 <lb n="152982"/>such delicate thighcasing but the frilly flimsiness of lace round your bare
 <lb n="152983"/>knees will remind you .....</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152984"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152984"/>Bloom</speaker>
 <p><stage><lb n="152985"/>(charming soubrette with dauby cheeks, mustard hair and large male
 <lb n="152986"/>hands and nose, leering mouth)</stage> I tried her things on only twice, a small
 <lb n="152987"/>prank, in Holles street. When we were hard up I washed them to save the
@@ -2994,7 +2994,7 @@
 <lb n="152993"/>Ho! ho! I have to laugh! That secondhand black operatop shift and short
 <lb n="152994"/>trunkleg naughties all split up the stitches at her last rape that Mrs Miriam
 <lb n="152995"/>Dandrade sold you from the Shelbourne hotel, eh?</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="152996"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="152996"/>Bloom</speaker>
 <p><lb n="152997"/>Miriam. Black. Demimondaine.</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="152998"/>Bello</speaker>
 <p><stage><lb n="152999"/>(guffaws)</stage> Christ Almighty it's too tickling, this! You were a nicelooking
@@ -3006,7 +3006,7 @@
 <lb n="153005"/>from old Trinity, Ponto, her splendid Newfoundland and Bobs, dowager
 <lb n="153006"/>duchess of Manorhamilton. <stage>(he guffaws again)</stage> Christ, wouldn't it make a
 <lb n="153007"/>Siamese cat laugh?</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153008"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153008"/>Bloom</speaker>
 <p><stage><lb n="153009"/>(her hands and features working)</stage> It was Gerald converted me to be a true
 <lb n="153010"/>corsetlover when I was female impersonator in the High School play <foreign xml:lang="la">Vice
 <lb n="153011"/>Versa</foreign>. It was dear Gerald. He got that kink, fascinated by sister's stays.
@@ -3016,7 +3016,7 @@
 <p><stage><lb n="153015"/>(with wicked glee)</stage> Beautiful! Give us a breather! When you took your seat
 <lb n="153016"/>with womanish care, lifting your billowy flounces, on the smoothworn
 <lb n="153017"/>throne.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153018"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153018"/>Bloom</speaker>
 <p><lb n="153019"/>Science. To compare the various joys we each enjoy. <stage>(earnestly)</stage> And really
 <lb n="153020"/>it's better the position .... because often I used to wet ....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153021"/>Bello</speaker>
@@ -3046,7 +3046,7 @@
 <lb n="153045"/>Booloohoom, Poldy Kock, Bootlaces a penny, Cassidy's hag, blind
 <lb n="153046"/>stripling, Larry rhinoceros, the girl, the woman, the whore, the
 <lb n="153047"/>other the, lane the.)</stage>
-<sp who="Leopold Bloom"><speaker><lb n="153048"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153048"/>Bloom</speaker>
 <p><lb n="153049"/>Don't ask me! Our mutual faith. Pleasants street. I only thought the half of
 <lb n="153050"/>the ... I swear on my sacred oath ....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153051"/>Bello</speaker>
@@ -3054,12 +3054,12 @@
 <lb n="153053"/>something to amuse me, smut or a bloody good ghoststory or a line of
 <lb n="153054"/>poetry, quick, quick, quick! Where? How? What time? With how many? I
 <lb n="153055"/>give you just three seconds. One! Two! Thr .....</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153056"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153056"/>Bloom</speaker>
 <p><stage><lb n="153057"/>(docile, gurgles)</stage> I rererepugnosed in rerererepugnant ...</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153058"/>Bello</speaker>
 <p><stage><lb n="153059"/>(imperiously)</stage> O, get out, you skunk! Hold your tongue! Speak when
 <lb n="153060"/>you're spoken to.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153061"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153061"/>Bloom</speaker>
 <p><stage><lb n="153062"/>(bows)</stage> Master! Mistress! Mantamer!</p></sp>
 <stage><lb n="153063"/>(He lifts his arms. His bangle bracelets fall.)</stage>
 <sp who="Bello Cohen"><speaker><lb n="153064"/>Bello</speaker>
@@ -3068,7 +3068,7 @@
 <lb n="153067"/>and a dishclout tied to your tail. Won't that be nice? <stage>(he places a ruby ring
 <lb n="153068"/>on her finger)</stage> And there now! With this ring I thee own. Say, <emph>thank you,
 <lb n="153069"/>mistress</emph>.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153070"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153070"/>Bloom</speaker>
 <p><lb n="153071"/>Thank you, mistress.</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153072"/>Bello</speaker>
 <p><lb n="153073"/>You will make the beds, get my tub ready, empty the pisspots in the different
@@ -3121,7 +3121,7 @@
 <lb n="153120"/>Grecian bend with provoking croup, the thighs fluescent, knees modestly
 <lb n="153121"/>kissing. Bring all your powers of fascination to bear on them. Pander to
 <lb n="153122"/>their Gomorrahan vices.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153123"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153123"/>Bloom</speaker>
 <p><stage><lb n="153124"/>(bends his blushing face into his armpit and simpers with forefinger in
 <lb n="153125"/>mouth)</stage> O, I know what you're hinting at now!</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153126"/>Bello</speaker>
@@ -3131,7 +3131,7 @@
 <lb n="153130"/>teapot gone to or who docked it on you, cockyolly? Sing, birdy, sing. It's as
 <lb n="153131"/>limp as a boy of six's doing his pooly behind a cart. Buy a bucket or sell
 <lb n="153132"/>your pump. <stage>(loudly)</stage> Can you do a man's job?</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153133"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153133"/>Bloom</speaker>
 <p><lb n="153134"/>Eccles street ....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153135"/>Bello</speaker>
 <p><stage><lb n="153136"/>(sarcastically)</stage> I wouldn't hurt your feelings for the world but there's a
@@ -3143,12 +3143,12 @@
 <lb n="153142"/>him behind like a furzebush! Wait for nine months, my lad! Holy ginger,
 <lb n="153143"/>it's kicking and coughing up and down in her guts already! That makes
 <lb n="153144"/>you wild, don't it? Touches the spot? <stage>(he spits in contempt)</stage> Spittoon!</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153145"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153145"/>Bloom</speaker>
 <p><lb n="153146"/>I was indecently treated, I ..... Inform the police. Hundred pounds.
 <lb n="153147"/>Unmentionable. I ....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153148"/>Bello</speaker>
 <p><lb n="153149"/>Would if you could, lame duck. A downpour we want not your drizzle.</p></sp>
-<sp who="Leopold Bloom"><speaker><lb n="153150"/>Bloom</speaker>
+<sp who="Leopold Bloom_F"><speaker><lb n="153150"/>Bloom</speaker>
 <p><lb n="153151"/>To drive me mad! Moll! I forgot! Forgive! Moll .... We .... Still .....</p></sp>
 <sp who="Bello Cohen"><speaker><lb n="153152"/>Bello</speaker>
 <p><stage><lb n="153153"/>(ruthlessly)</stage> No, Leopold Bloom, all is changed by woman's will since you
@@ -4696,11 +4696,11 @@
 <lb n="154695"/>camp mass. The Reverend Mr Hugh C Haines Love M. A. in a
 <lb n="154696"/>plain cassock and mortarboard, his head and collar back to the
 <lb n="154697"/>front, holds over the celebrant's head an open umbrella.)</stage>
-<sp who="Father Malachi O'Flynn"><speaker><lb n="154698"/>Father Malachi O'Flynn</speaker>
+<sp who="Buck Mulligan AND Father O'Flynn (double figure)"><speaker><lb n="154698"/>Father Malachi O'Flynn</speaker>
 <p><foreign xml:lang="la"><lb n="154699"/>Introibo ad altare diaboli.</foreign></p></sp>
 <sp who="Hugh C. Love AND Haines (double figure)"><speaker><lb n="154700"/>The Reverend Mr Haines Love</speaker>
 <p><lb n="154701"/>To the devil which hath made glad my young days.</p></sp>
-<sp who="Father Malachi O'Flynn"><speaker><lb n="154702"/>Father Malachi O'Flynn</speaker>
+<sp who="Buck Mulligan AND Father O'Flynn (double figure)"><speaker><lb n="154702"/>Father Malachi O'Flynn</speaker>
 <p><stage><lb n="154703"/>(takes from the chalice and elevates a blooddripping host)</stage> <foreign xml:lang="la">Corpus meum.</foreign></p></sp>
 <sp who="Hugh C. Love AND Haines (double figure)"><speaker><lb n="154704"/>The Reverend Mr Haines Love</speaker>
 <p><stage><lb n="154705"/>(raises high behind the celebrant's petticoat, revealing his grey bare hairy
