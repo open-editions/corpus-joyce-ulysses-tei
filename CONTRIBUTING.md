@@ -59,7 +59,7 @@ Titles are be rendered as italicized by default, so if a given title isn’t ita
 Dialogue is marked up with `<said>` and using the `@who` attribute, as in `<said who="Stephen Dedalus">`. 
  
  - For the moment, full names should be used, where known. (Although in the future we hope to shift to XML IDs; see [#19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19). 
- - You can check the list of characters currently used with `make char`, a command in the [Makefile](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/blob/master/Makefile). (This requires that you have `ag` (The Silver Searcher) installed, and of course GNU `make`. See [Chris Foster’s comment in issue 19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19#issuecomment-278453253). 
+ - You can check the list of characters currently used with `make chars`, a command in the [Makefile](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/blob/master/Makefile). (This requires that you have `ag` (The Silver Searcher) installed, and of course GNU `make`. See [Chris Foster’s comment in issue 19](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/19#issuecomment-278453253). 
 
 If a character quotes direct speech within her speech, we’re encoding it like this:
 
