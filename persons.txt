@@ -77,6 +77,7 @@ Constable 57
 Corley
 Corny Kelleher
 Councillor Lorcan Sherlock
+Cowe Conacre
 Crab
 Crofton
 Cunty Kate
@@ -184,6 +185,8 @@ Molly Bloom
 Moses Dlugacz
 Moses Herzog
 Mother Grogan
+Mr Allfours
+Mr Staylewit
 Mrs Bellingham
 Mrs Cahill
 Mrs Cunningham
@@ -206,6 +209,7 @@ old man
 Old Monks
 one asked
 onelegged sailor
+Orelli O'Reilly
 Paddy Dignam
 Paddy Leonard
 Patrice Egan
@@ -318,6 +322,7 @@ The Sins of the Past
 The Sluts
 The Sluts and Ragamuffins
 The Soap
+The speaker
 The Timepiece
 The Torchbearers
 The Urchins
