@@ -1,4 +1,4 @@
-default: public/index.html
+default: public/index.html public/ulysses.css
 
 valid: 
 	xmllint --dtdvalid schema/tei_all.dtd --xinclude header.xml --noout            
@@ -11,3 +11,6 @@ circe_speakers:
 
 public/index.html: stylesheets/ulysses.xsl header.xml
 	xsltproc --xinclude $^ > $@
+
+public/ulysses.css:
+	cp stylesheets/ulysses.css $@
