@@ -1,4 +1,4 @@
-default: index.html
+default: public/index.html
 
 valid: 
 	xmllint --dtdvalid schema/tei_all.dtd --xinclude header.xml --noout            
@@ -6,5 +6,5 @@ valid:
 chars.txt: 
 	ag --nofilename -o "(?<=<said who=\")[\w\'\. ]*" *.xml | sort | uniq > $@
 
-index.html: stylesheets/ulysses.xsl header.xml
+public/index.html: stylesheets/ulysses.xsl header.xml
 	xsltproc --xinclude $^ > $@
