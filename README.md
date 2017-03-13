@@ -9,4 +9,4 @@ The edited shape of the reading text as constituted by the _Critical and Synopti
 The enriched corpus of episode files and metadata will, following an original suggestion by Gábor Mihály Tóth, be made available through the [University of Oxford Text Archive](https://ota.ox.ac.uk/) and will also be selectively ‘pushed’ into the TEI encoding of _Ulysses: A Digital Critical and Synoptic Edition_.
 
 ##Testing Prototype
-[A simple, proof-of-concept XSL transformation of the TEI may be found here](https://app.netlify.com/sites/ulysses-tei). At the moment, the only semantic markup rendered here is dialogue attribution. The prototype is not meant as a complete representation of the TEI text.
+[A simple, proof-of-concept XSL transformation of the TEI may be found here](https://ulysses-tei.netlify.com/). At the moment, the only semantic markup rendered here is dialogue attribution. The prototype is not meant as a complete representation of the TEI text.
