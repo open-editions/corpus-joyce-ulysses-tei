@@ -4,7 +4,7 @@
 <xsl:template match="/"> 
 	<html>
 		<head> 
-			<link rel="stylesheet" href="stylesheets/ulysses.css" />
+			<link rel="stylesheet" href="ulysses.css" />
 			<link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'/>
 			<!--<script src="vendor/jquery-2.1.4.min.js"></script>-->
 			<!--<script src="portrait.js"></script>-->
