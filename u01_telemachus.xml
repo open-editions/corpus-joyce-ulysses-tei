@@ -76,8 +76,8 @@
 <lb n="010074"/>can almost taste it, can't you?</said></p>
 <p><lb n="010075"/>He mounted to the parapet again and gazed out over Dublin bay, his
 <lb n="010076"/>fair oakpale hair stirring slightly.
-<lb n="010077"/><said who="Buck Mulligan">―God!</said> he said quietly. <said who="Buck Mulligan">Isn't the sea what Algy calls it: a great sweet
-<lb n="010078"/>mother? The snotgreen sea. The scrotumtightening sea. <quote xml:lang="grc-Latn">Epi oinopa ponton.</quote>
+<lb n="010077"/><said who="Buck Mulligan">―God!</said> he said quietly. <said who="Buck Mulligan">Isn't the sea what Algy calls it: <quote rend="none">a great sweet
+<lb n="010078"/>mother?</quote> The snotgreen sea. The scrotumtightening sea. <quote xml:lang="grc-Latn">Epi oinopa ponton.</quote>
 <lb n="010079"/>Ah, Dedalus, the Greeks! I must teach you. You must read them in the
 <lb n="010080"/>original. <quote xml:lang="grc-Latin">Thalatta! Thalatta!</quote> She is our great sweet mother. Come and
 <lb n="010081"/>look.</said></p>
@@ -299,12 +299,12 @@
 <lb n="010297"/>glorious drunk to astonish the druidy druids. Four omnipotent sovereigns.</said></p>
 <p><lb n="010298"/>He flung up his hands and tramped down the stone stairs, singing out
 <lb n="010299"/>of tune with a Cockney accent:
-<lb n="010300"/><said who="Buck Mulligan">―<emph>O, won't we have a merry time,
+<lb n="010300"/><said who="Buck Mulligan">―<quote>O, won't we have a merry time,
 <lb n="010301"/>Drinking whisky, beer and wine!
 <lb n="010302"/>On coronation,
 <lb n="010303"/>Coronation day!
 <lb n="010304"/>O, won't we have a merry time
-<lb n="010305"/>On coronation day!</emph></said></p>
+<lb n="010305"/>On coronation day!</quote></said></p>
 <p><lb n="010306"/>Warm sunshine merrying over the sea. The nickel shavingbowl shone,
 <lb n="010307"/>forgotten, on the parapet. Why should I bring it down? Or leave it there all
 <lb n="010308"/>day, forgotten friendship?</p>
@@ -381,9 +381,9 @@
 <lb n="010379"/>blinking his eyes pleasantly. <said who="Buck Mulligan">Do you think she was? Quite charming!</said></p>
 <p><lb n="010380"/>Then, suddenly overclouding all his features, he growled in a
 <lb n="010381"/>hoarsened rasping voice as he hewed again vigorously at the loaf:
-<lb n="010382"/><said who="Buck Mulligan">―<emph>For old Mary Ann
+<lb n="010382"/><said who="Buck Mulligan">―<quote>For old Mary Ann
 <lb n="010383"/>She doesn't care a damn.
-<lb n="010384"/>But, hising up her petticoats</emph> ....</said></p>
+<lb n="010384"/>But, hising up her petticoats</quote> ....</said></p>
 <p><lb n="010385"/>He crammed his mouth with fry and munched and droned.</p>
 <p><lb n="010386"/>The doorway was darkened by an entering form.
 <lb n="010387"/><said who="Milkwoman">―The milk, sir!</said>
@@ -454,16 +454,16 @@
 <lb n="010452"/>and cried:
 <lb n="010453"/><said who="Buck Mulligan">―A miracle!</said></p>
 <p><lb n="010454"/>He passed it along the table towards the old woman, saying:
-<lb n="010455"/><said who="Buck Mulligan">―<emph>Ask nothing more of me, sweet.
-<lb n="010456"/>All I can give you I give.</emph></said></p>
+<lb n="010455"/><said who="Buck Mulligan">―<quote>Ask nothing more of me, sweet.
+<lb n="010456"/>All I can give you I give.</quote></said></p>
 <p><lb n="010457"/>Stephen laid the coin in her uneager hand.
 <lb n="010458"/><said who="Stephen Dedalus">―We'll owe twopence,</said> he said.
 <lb n="010459"/><said who="Milkwoman">―Time enough, sir,</said> she said, taking the coin. <said who="Milkwoman">Time enough. Good morning,
 <lb n="010460"/>sir.</said></p>
 <p><lb n="010461"/>She curtseyed and went out, followed by Buck Mulligan's tender
 <lb n="010462"/>chant:
-<lb n="010463"/><said who="Buck Mulligan">―<emph>Heart of my heart, were it more,
-<lb n="010464"/>More would be laid at your feet.</emph></said></p>
+<lb n="010463"/><said who="Buck Mulligan">―<quote>Heart of my heart, were it more,
+<lb n="010464"/>More would be laid at your feet.</quote></said></p>
 <p><lb n="010465"/>He turned to Stephen and said:
 <lb n="010466"/><said who="Buck Mulligan">―Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring us
 <lb n="010467"/>back some money. Today the bards must drink and junket. Ireland expects
