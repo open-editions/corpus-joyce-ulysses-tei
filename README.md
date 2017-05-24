@@ -1,4 +1,4 @@
-#_Ulysses_ (1922; 1984 [rev. 1986]; 2017)
+# _Ulysses_ (1922; 1984 [rev. 1986]; 2017)
 
 [![Build Status](https://travis-ci.org/JonathanReeve/corpus-joyce-ulysses-tei.svg?branch=master)](https://travis-ci.org/JonathanReeve/corpus-joyce-ulysses-tei)
 
@@ -8,5 +8,6 @@ The edited shape of the reading text as constituted by the _Critical and Synopti
 
 The enriched corpus of episode files and metadata will, following an original suggestion by Gábor Mihály Tóth, be made available through the [University of Oxford Text Archive](https://ota.ox.ac.uk/) and will also be selectively ‘pushed’ into the TEI encoding of _Ulysses: A Digital Critical and Synoptic Edition_.
 
-##Testing Prototype
+## Testing Prototype
+
 [A simple, proof-of-concept XSL transformation of the TEI may be found here](https://ulysses-tei.netlify.com/). At the moment, the only semantic markup rendered here is dialogue attribution. The prototype is not meant as a complete representation of the TEI text.
