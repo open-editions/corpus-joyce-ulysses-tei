@@ -4,8 +4,8 @@
 <lb n="030003"/>seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust:
 <lb n="030004"/>coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was
 <lb n="030005"/>aware of them bodies before of them coloured. How? By knocking his
-<lb n="030006"/>sconce against them, sure. Go easy. Bald he was and a millionaire, <foreign xml:lang="it">maestro
-<lb n="030007"/>di color che sanno</foreign>. Limit of the diaphane in. Why in? Diaphane,
+<lb n="030006"/>sconce against them, sure. Go easy. Bald he was and a millionaire, <quote source="Inferno" xml:lang="it">maestro
+<lb n="030007"/>di color che sanno</quote>. Limit of the diaphane in. Why in? Diaphane,
 <lb n="030008"/>adiaphane. If you can put your five fingers through it it is a gate, if not a
 <lb n="030009"/>door. Shut your eyes and see.</p>
 <p><lb n="030010"/>Stephen closed his eyes to hear his boots crush crackling wrack and
@@ -111,9 +111,9 @@
 <lb n="030110"/>kind ran from them to the wood of madness, his mane foaming in the
 <lb n="030111"/>moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine
 <lb n="030112"/>faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father,
-<lb n="030113"/>furious dean, what offence laid fire to their brains? Paff! <foreign xml:lang="la">Descende, calve, ut
-<lb n="030114"/>ne amplius decalveris.</foreign> A garland of grey hair on his comminated head see
-<lb n="030115"/>him me clambering down to the footpace (<foreign xml:lang="la">descende!</foreign>), clutching a
+<lb n="030113"/>furious dean, what offence laid fire to their brains? Paff! <quote source="Vaticinia" xml:lang="la">Descende, calve, ut
+<lb n="030114"/>ne amplius decalveris.</quote> A garland of grey hair on his comminated head see
+<lb n="030115"/>him me clambering down to the footpace (<quote source="Vaticinia" xml:lang="la">descende!</quote>), clutching a
 <lb n="030116"/>monstrance, basiliskeyed. Get down, baldpoll! A choir gives back menace
 <lb n="030117"/>and echo, assisting about the altar's horns, the snorted Latin of jackpriests
 <lb n="030118"/>moving burly in their albs, tonsured and oiled and gelded, fat with the fat of
@@ -159,8 +159,8 @@
 <p><lb n="030158"/>He halted. I have passed the way to aunt Sara's. Am I not going
 <lb n="030159"/>there? Seems not. No-one about. He turned northeast and crossed the
 <lb n="030160"/>firmer sand towards the Pigeonhouse.
-<lb n="030161"/><said who="Joseph">―<foreign xml:lang="fr">Qui vous a mis dans cette fichue position?</foreign></said>
-<lb n="030162"/><said who="Mary">―<foreign xml:lang="fr">C'est le pigeon, Joseph.</foreign></said></p>
+<lb n="030161"/><quote source="La Vie de Jésus" xml:lang="fr"><said who="Joseph">―Qui vous a mis dans cette fichue position?</said>
+<lb n="030162"/><said who="Mary">―C'est le pigeon, Joseph.</said></quote></p>
 <p><lb n="030163"/>Patrice, home on furlough, lapped warm milk with me in the bar
 <lb n="030164"/>MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird,
 <lb n="030165"/>he lapped the sweet <foreign xml:lang="fr">lait chaud</foreign> with pink young tongue, plump bunny's face.
@@ -198,11 +198,11 @@
 <lb n="030197"/>Tutu</title>, five tattered numbers of <title type="magazine" xml:lang="fr">Pantalon Blanc et Culotte Rouge</title>; a blue
 <lb n="030198"/>French telegram, curiosity to show:
 <lb n="030199"/><said who="Simon Dedalus AS telegram">―Nother dying come home father.</said></p>
-<p><lb n="030200"/>The aunt thinks you killed your mother. That's why she won't.</p>
-<p rend="inset"><lb n="030201"/><quote>Then here's a health to Mulligan's aunt
-<lb n="030202"/>And I'll tell you the reason why.
-<lb n="030203"/>She always kept things decent in
-<lb n="030204"/>The Hannigan famileye.</quote></p>
+<p><lb n="030200"/>The aunt thinks you killed your mother. That's why she won't.</p>   
+<quote source="Matthew Hanigan’s Aunt"><lg rend="italics"><lb n="030201"/><l>Then here's a health to Mulligan's aunt</l>
+<lb n="030202"/><l>And I'll tell you the reason why.</l>
+<lb n="030203"/><l>She always kept things decent in</l>
+<lb n="030204"/><l>The Hannigan famileye.</l></lg></quote>
 <p><lb n="030205"/>His feet marched in sudden proud rhythm over the sand furrows,
 <lb n="030206"/>along by the boulders of the south wall. He stared at them proudly, piled
 <lb n="030207"/>stone mammoth skulls. Gold light on sea, on sand, on boulders. The sun is
@@ -231,7 +231,7 @@
 <lb n="030230"/>shirt, sanguineflowered, trembles its Spanish tassels at his secrets. M.
 <lb n="030231"/>Drumont, famous journalist, Drumont, know what he called queen
 <lb n="030232"/>Victoria? Old hag with the yellow teeth. <foreign xml:lang="fr">Vieille ogresse</foreign> with the <foreign xml:lang="fr">dents
-<lb n="030233"/>jaunes</foreign>. Maud Gonne, beautiful woman, <foreign xml:lang="fr">la Patrie</foreign>, M. Millevoye, Félix
+<lb n="030233"/>jaunes</foreign>. Maud Gonne, beautiful woman, <title type="magazine" xml:lang="fr">la Patrie</title>, <foreign xml:lang="fr" rend="none">M</foreign>. Millevoye, Félix
 <lb n="030234"/>Faure, know how he died? Licentious men. The <foreign xml:lang="sv">froeken</foreign>, <foreign xml:lang="fr">bonne à tout faire</foreign>,
 <lb n="030235"/>who rubs male nakedness in the bath at Upsala. <foreign xml:lang="fr">Moi faire</foreign>, she said, <foreign xml:lang="fr">tous les
 <lb n="030236"/>messieurs.</foreign> Not this <foreign xml:lang="fr">monsieur</foreign>, I said. Most licentious custom. Bath a most
@@ -255,11 +255,11 @@
 <lb n="030254"/>man, madame in <foreign xml:lang="fr">rue Gît-le-Cœur</foreign>, canary and two buck lodgers. Peachy
 <lb n="030255"/>cheeks, a zebra skirt, frisky as a young thing's. Spurned and undespairing.
 <lb n="030256"/>Tell Pat you saw me, won't you? I wanted to get poor Pat a job one time.
-<lb n="030257"/><foreign xml:lang="fr">Mon fils</foreign>, soldier of France. I taught him to sing <quote>The boys of Kilkenny are
+<lb n="030257"/><foreign xml:lang="fr">Mon fils</foreign>, soldier of France. I taught him to sing <quote source="The Boys of Kilkenny">The boys of Kilkenny are
 <lb n="030258"/>stout roaring blades</quote>. Know that old lay? I taught Patrice that. Old
-<lb n="030259"/>Kilkenny: saint Canice, Strongbow's castle on the Nore. Goes like this. <quote>O,
+<lb n="030259"/>Kilkenny: saint Canice, Strongbow's castle on the Nore. Goes like this. <quote source="The Boys of Kilkenny">O,
 <lb n="030260"/>O.</quote> He takes me, Napper Tandy, by the hand.</p>
-<p rend="inset"><lb n="030261"/><quote>O, O the boysof
+<p rend="inset"><lb n="030261"/><quote source="The Boys of Kilkenny">O, O the boysof
 <lb n="030262"/>Kilkenny</quote> ....</p>
 <p><lb n="030263"/>Weak wasting hand on mine. They have forgotten Kevin Egan, not he
 <lb n="030264"/>them. Remembering thee, O Sion.</p>
@@ -285,7 +285,7 @@
 <lb n="030284"/>sedge and eely oarweeds and sat on a stool of rock, resting his ashplant in a
 <lb n="030285"/>grike.</p>
 <p><lb n="030286"/>A bloated carcass of a dog lay lolled on bladderwrack. Before him the
-<lb n="030287"/>gunwale of a boat, sunk in sand. <foreign xml:lang="fr">Un coche ensablé</foreign> Louis Veuillot called
+<lb n="030287"/>gunwale of a boat, sunk in sand. <quote source="Le Vrai poète Parisien" xml:lang="fr">Un coche ensablé</quote> Louis Veuillot called
 <lb n="030288"/>Gautier's prose. These heavy sands are language tide and wind have silted
 <lb n="030289"/>here. And these, the stoneheaps of dead builders, a warren of weasel rats.
 <lb n="030290"/>Hide gold there. Try it. You have some. Sands and stones. Heavy of the
@@ -384,18 +384,18 @@
 <lb n="030383"/><l>Couch a hogshead with me then.</l>
 <lb n="030384"/><l>In the darkmans clip and kiss.</l></lg></quote>
 <p><lb n="030385"/>Morose delectation Aquinas tunbelly calls this, <foreign xml:lang="la">frate porcospino</foreign>.
-<lb n="030386"/>Unfallen Adam rode and not rutted. Call away let him: <emph>thy quarrons dainty
-<lb n="030387"/>is</emph>. Language no whit worse than his. Monkwords, marybeads jabber on
+<lb n="030386"/>Unfallen Adam rode and not rutted. Call away let him: <quote><seg rend="italics">thy quarrons dainty
+<lb n="030387"/>is</seg></quote>. Language no whit worse than his. Monkwords, marybeads jabber on
 <lb n="030388"/>their girdles: roguewords, tough nuggets patter in their pockets.</p>
 <p><lb n="030389"/>Passing now.</p>
 <p><lb n="030390"/>A side eye at my Hamlet hat. If I were suddenly naked here as I sit? I
 <lb n="030391"/>am not. Across the sands of all the world, followed by the sun's flaming
 <lb n="030392"/>sword, to the west, trekking to evening lands. She trudges, schlepps, trains,
 <lb n="030393"/>drags, trascines her load. A tide westering, moondrawn, in her wake. Tides,
-<lb n="030394"/>myriadislanded, within her, blood not mine, <foreign xml:lang="grc-Latn">oinopa ponton</foreign>, a winedark sea.
+<lb n="030394"/>myriadislanded, within her, blood not mine, <quote source="Homer" xml:lang="grc-Latn">oinopa ponton</quote>, a winedark sea.
 <lb n="030395"/>Behold the handmaid of the moon. In sleep the wet sign calls her hour, bids
-<lb n="030396"/>her rise. Bridebed, childbed, bed of death, ghostcandled. <foreign xml:lang="la">Omnis caro ad te
-<lb n="030397"/>veniet.</foreign> He comes, pale vampire, through storm his eyes, his bat sails
+<lb n="030396"/>her rise. Bridebed, childbed, bed of death, ghostcandled. <quote source="Bible" xml:lang="la">Omnis caro ad te
+<lb n="030397"/>veniet.</quote> He comes, pale vampire, through storm his eyes, his bat sails
 <lb n="030398"/>bloodying the sea, mouth to her mouth's kiss.</p>
 <p><lb n="030399"/>Here. Put a pin in that chap, will you? My tablets. Mouth to her kiss.
 <lb n="030400"/>No. Must be two of em. Glue em well. Mouth to her mouth's kiss.</p>
@@ -437,7 +437,7 @@
 <lb n="030436"/>Sad too. Touch, touch me.</p>
 <p><lb n="030437"/>He lay back at full stretch over the sharp rocks, cramming the
 <lb n="030438"/>scribbled note and pencil into a pocket, his hat tilted down on his eyes. That
-<lb n="030439"/>is Kevin Egan's movement I made, nodding for his nap, sabbath sleep. <quote xml:lang="la">Et
+<lb n="030439"/>is Kevin Egan's movement I made, nodding for his nap, sabbath sleep. <quote source="Bible" xml:lang="la">Et
 <lb n="030440"/>vidit Deus. Et erant valde bona.</quote> Hlo! <foreign xml:lang="fr">Bonjour.</foreign> Welcome as the flowers in
 <lb n="030441"/>May. Under its leaf he watched through peacocktwittering lashes the
 <lb n="030442"/>southing sun. I am caught in this burning scene. Pan's hour, the faunal
@@ -448,7 +448,7 @@
 <lb n="030447"/><foreign xml:lang="de">nebeneinander</foreign>. He counted the creases of rucked leather wherein another's
 <lb n="030448"/>foot had nested warm. The foot that beat the ground in tripudium, foot I
 <lb n="030449"/>dislove. But you were delighted when Esther Osvalt's shoe went on you:
-<lb n="030450"/>girl I knew in Paris. <foreign xml:lang="fr">Tiens, quel petit pied!</foreign> Staunch friend, a brother soul:
+<lb n="030450"/>girl I knew in Paris. <said who="Esther Osvalt" rend="italics" xml:lang="fr">Tiens, quel petit pied!</said> Staunch friend, a brother soul:
 <lb n="030451"/>Wilde's love that dare not speak its name. His arm: Cranly's arm. He now
 <lb n="030452"/>will leave me. And the blame? As I am. As I am. All or not at all.</p>
 <p><lb n="030453"/>In long lassoes from the Cock lake the water flowed full, covering
