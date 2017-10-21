@@ -259,11 +259,11 @@
 <lb n="010257"/>sunny window of her house when she was a girl. She heard old Royce sing
 <lb n="010258"/>in the pantomime of <title type="pantomime">Turko the Terrible</title> and laughed with others when he
 <lb n="010259"/>sang:</p>
-<p rend="inset"><lb n="010260"/><quote>I am the boy
-<lb n="010261"/>That can enjoy
-<lb n="010262"/>Invisibility.</quote></p>
+<quote source="Turko the Terrible"><lg rend="italics"><lb n="010260"/><l>I am the boy</l>
+<lb n="010261"/><l>That can enjoy</l>
+<lb n="010262"/><l>Invisibility.</l></lg></quote>
 <p><lb n="010263"/>Phantasmal mirth, folded away: muskperfumed.</p>
-<p rend="inset"><lb n="010264"/><quote>And no more turn aside and brood.</quote></p>
+<quote source="Who goes with Fergus"><lg rend="italics"><lb n="010264"/><l>And no more turn aside and brood.</l></lg></quote>
 <p><lb n="010265"/>Folded away in the memory of nature with her toys. Memories beset
 <lb n="010266"/>his brooding brain. Her glass of water from the kitchen tap when she had
 <lb n="010267"/>approached the sacrament. A cored apple, filled with brown sugar, roasting
@@ -735,9 +735,9 @@
 <lb n="010733"/><said who="Buck Mulligan">―The Ship,</said> Buck Mulligan cried. <said who="Buck Mulligan">Half twelve.</said>
 <lb n="010734"/><said who="Stephen Dedalus">―Good,</said> Stephen said.</p>
 <p><lb n="010735"/>He walked along the upwardcurving path.</p>
-<p rend="inset"><lb n="010736"/><quote xml:lang="la">Liliata rutilantium.
-<lb n="010737"/>Turma circumdet.
-<lb n="010738"/>Iubilantium te virginum.</quote></p>
+<quote xml:lang="la"><lg rend="italics"><lb n="010736"/><l>Liliata rutilantium.</l>
+<lb n="010737"/><l>Turma circumdet.</l>
+<lb n="010738"/><l>Iubilantium te virginum.</l></lg></quote>
 <p><lb n="010739"/>The priest's grey nimbus in a niche where he dressed discreetly. I will
 <lb n="010740"/>not sleep here tonight. Home also I cannot go.</p>
 <p><lb n="010741"/>A voice, sweettoned and sustained, called to him from the sea.
