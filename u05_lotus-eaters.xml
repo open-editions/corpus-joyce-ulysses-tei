@@ -142,10 +142,10 @@
 <lb n="050141"/><said who="C. P. M'Coy">―Wife well, I suppose?</said> M'Coy's changed voice said.
 <lb n="050142"/><said who="Leopold Bloom">―O, yes,</said> Mr Bloom said. <said who="Leopold Bloom">Tiptop, thanks.</said></p>
 <p><lb n="050143"/>He unrolled the newspaper baton idly and read idly:</p>
-<p rend="inset"><lb n="050144"/><emph>What is home without
-<lb n="050145"/>Plumtree's Potted Meat?
-<lb n="050146"/>Incomplete.
-<lb n="050147"/>With it an abode of bliss.</emph></p>
+<lg rend="italics"><lb n="050144"/><l>What is home without</l>
+<lb n="050145"/><l>Plumtree's Potted Meat?</l>
+<lb n="050146"/><l>Incomplete.</l>
+<lb n="050147"/><l>With it an abode of bliss.</l></lg>
 <p><lb n="050148"/><said who="C. P. M'Coy">―My missus has just got an engagement. At least it's not settled yet.</said></p>
 <p><lb n="050149"/>Valise tack again. By the way no harm. I'm off that, thanks.</p>
 <p><lb n="050150"/>Mr Bloom turned his largelidded eyes with unhasty friendliness.
@@ -155,11 +155,11 @@
 <p><lb n="050154"/>Mrs Marion Bloom. Not up yet. Queen was in her bedroom eating
 <lb n="050155"/>bread and. No book. Blackened court cards laid along her thigh by sevens.
 <lb n="050156"/>Dark lady and fair man. Letter. Cat furry black ball. Torn strip of envelope.</p>
-<p rend="inset"><lb n="050157"/><emph>Love's.
-<lb n="050158"/>Old.
-<lb n="050159"/>Sweet.
-<lb n="050160"/>Song.
-<lb n="050161"/>Comes lo-ove's old</emph> ....</p>
+<quote><lg rend="italics"><lb n="050157"/><l>Love's.</l>
+<lb n="050158"/><l>Old.</l>
+<lb n="050159"/><l>Sweet.</l>
+<lb n="050160"/><l>Song.</l>
+<lb n="050161"/><l>Comes lo-ove's old ....</l></lg></quote>
 <p><lb n="050162"/><said who="Leopold Bloom">―It's a kind of a tour, don't you see,</said> Mr Bloom said thoughtfully. <quote>Sweeeet
 <lb n="050163"/>song.</quote> <said who="Leopold Bloom">There's a committee formed. Part shares and part profits.</said></p>
 <p><lb n="050164"/>M'Coy nodded, picking at his moustache stubble.
@@ -225,8 +225,8 @@
 <lb n="050224"/>All weathers, all places, time or setdown, no will of their own. <foreign xml:lang="it">Voglio e non.</foreign>
 <lb n="050225"/>Like to give them an odd cigarette. Sociable. Shout a few flying syllables as
 <lb n="050226"/>they pass. He hummed:</p>
-<p rend="inset"><lb n="050227"/><foreign xml:lang="it">Là ci darem la mano
-<lb n="050228"/>La la lala la la.</foreign></p>
+<said who="Leopold Bloom"><quote xml:lang="it"><lg rend="italics"><lb n="050227"/><l>Là ci darem la mano</l>
+<lb n="050228"/><l>La la lala la la.</l></lg></quote></said>
 <p><lb n="050229"/>He turned into Cumberland street and, going on some paces, halted
 <lb n="050230"/>in the lee of the station wall. No-one. Meade's timberyard. Piled balks.
 <lb n="050231"/>Ruins and tenements. With careful tread he passed over a hopscotch court
@@ -279,18 +279,18 @@
 <lb n="050278"/>without thorns.</p>
 <p><lb n="050279"/>Flat Dublin voices bawled in his head. Those two sluts that night in
 <lb n="050280"/>the Coombe, linked together in the rain.</p>
-<p rend="inset"><lb n="050281"/><emph>O, Mairy lost the pin of her drawers.
-<lb n="050282"/>She didn't know what to do
-<lb n="050283"/>To keep it up,
-<lb n="050284"/>To keep it up.</emph></p>
+<lg rend="italics"><lb n="050281"/><l>O, Mairy lost the pin of her drawers.</l>
+<lb n="050282"/><l>She didn't know what to do</l>
+<lb n="050283"/><l>To keep it up,</l>
+<lb n="050284"/><l>To keep it up.</l></lg>
 <p rend="non-indent"><lb n="050285"/>It? Them. Such a bad headache. Has her roses probably. Or sitting all day
 <lb n="050286"/>typing. Eyefocus bad for stomach nerves. What perfume does your wife
 <lb n="050287"/>use. Now could you make out a thing like that?</p>
-<p rend="inset"><lb n="050288"/><emph>To keep it up.</emph></p>
+<lg rend="italics"><lb n="050288"/><l>To keep it up.</l></lg>
 <p rend="non-indent"><lb n="050289"/>Martha, Mary. I saw that picture somewhere I forget now old master or
 <lb n="050290"/>faked for money. He is sitting in their house, talking. Mysterious. Also the
 <lb n="050291"/>two sluts in the Coombe would listen.</p>
-<p rend="inset"><lb n="050292"/><emph>To keep it up.</emph></p>
+<lg rend="italics"><lb n="050292"/><l>To keep it up.</l></lg>
 <p rend="non-indent"><lb n="050293"/>Nice kind of evening feeling. No more wandering about. Just loll there:
 <lb n="050294"/>quiet dusk: let everything rip. Forget. Tell about places you have been,
 <lb n="050295"/>strange customs. The other one, jar on her head, was getting the supper:
@@ -400,7 +400,7 @@
 <lb n="050399"/>but don't keep us all night over it. Music they wanted. Footdrill stopped.
 <lb n="050400"/>Could hear a pin drop. I told her to pitch her voice against that corner. I
 <lb n="050401"/>could feel the thrill in the air, the full, the people looking up:</p>
-<p rend="inset"><lb n="050402"/><foreign xml:lang="lat">Quis est homo.</foreign></p>
+<quote xml:lang="lat"><lg rend="italics"><lb n="050402"/><l>Quis est homo.</l></lg></quote>
 <p><lb n="050403"/>Some of that old sacred music splendid. Mercadante: seven last
 <lb n="050404"/>words. Mozart's twelfth mass: <foreign xml:lang="lat">Gloria</foreign> in that. Those old popes keen on
 <lb n="050405"/>music, on art and statues and pictures of all kinds. Palestrina for example

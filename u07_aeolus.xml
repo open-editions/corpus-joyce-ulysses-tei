@@ -57,8 +57,8 @@
 <lb n="070056"/>Saviour.</said></p>
 <p><lb n="070057"/>Jesusmario with rougy cheeks, doublet and spindle legs. Hand on his
 <lb n="070058"/>heart. In <title type="opera">Martha</title>.</p>
-<p rend="inset"><lb n="070059"/><emph>Co-ome thou lost one,
-<lb n="070060"/>Co-ome thou dear one!</emph></p></div>
+<quote><lg rend="italics"><lb n="070059"/><l>Co-ome thou lost one,</l>
+<lb n="070060"/><l>Co-ome thou dear one!</l></lg></quote></div>
 <div><head><lb n="070061"/>THE CROZIER AND THE PEN</head>
 <p><lb n="070062"/><said who="Red Murray">―His grace phoned down twice this morning,</said> Red Murray said gravely.</p>
 <p><lb n="070063"/>They watched the knees, legs, boots vanish. Neck.</p>
@@ -520,10 +520,10 @@
 <p><lb n="070519"/>Bit torn off.
 <lb n="070520"/><said who="Stephen Dedalus">―Mr Garrett Deasy,</said> Stephen said.
 <lb n="070521"/><said who="Myles Crawford">―That old pelters,</said> the editor said. <said who="Myles Crawford">Who tore it? Was he short taken?</said></p>
-<p rend="inset"><lb n="070522"/><emph>On swift sail flaming
-<lb n="070523"/>From storm and south
-<lb n="070524"/>He comes, pale vampire,
-<lb n="070525"/>Mouth to my mouth.</emph></p>
+ <lg rend="italics"><lb n="070522"/><l>On swift sail flaming</l>
+  <lb n="070523"/><l>From storm and south</l>
+  <lb n="070524"/><l>He comes, pale vampire,</l>
+  <lb n="070525"/><l>Mouth to my mouth.</l></lg>
 <p><lb n="070526"/><said who="professor MacHugh">―Good day, Stephen,</said> the professor said, coming to peer over their
 <lb n="070527"/>shoulders. <said who="professor MacHugh">Foot and mouth? Are you turned ...?</said></p>
 <p><lb n="070528"/>Bullockbefriending bard.</p></div>
@@ -715,9 +715,9 @@
 <p><lb n="070714"/>Mouth, south. Is the mouth south someway? Or the south a mouth?
 <lb n="070715"/>Must be some. South, pout, out, shout, drouth. Rhymes: two men dressed
 <lb n="070716"/>the same, looking the same, two by two.</p>
-<p rend="inset"><lb n="070717"/>.......... <foreign xml:lang="it">la tua pace</foreign>
-<lb n="070718"/>....... <foreign xml:lang="it">che parlar ti piace
-<lb n="070719"/>Mentre che il vento, come fa, si tace.</foreign></p>
+<quote xml:lang="it"><lg rend="italics"><lb n="070717"/><l>.......... la tua pace</l>
+<lb n="070718"/><l>....... <foreign xml:lang="it">che parlar ti piace</foreign></l>
+<lb n="070719"/><l><foreign xml:lang="it">Mentre che il vento, come fa, si tace.</foreign></l></lg></quote>
 <p><lb n="070720"/>He saw them three by three, approaching girls, in green, in rose, in
 <lb n="070721"/>russet, entwining, <foreign xml:lang="it">per l'aer perso</foreign>, in mauve, in purple, <foreign xml:lang="it">quella pacifica
 <lb n="070722"/>oriafiamma</foreign>, gold of oriflamme, <foreign xml:lang="it">di rimirar fè più ardenti</foreign>. But I old men,
@@ -748,7 +748,7 @@
 <lb n="070747"/><said who="J.J. O'Molloy">―One of the most polished periods I think I ever listened to in my life fell
 <lb n="070748"/>from the lips of Seymour Bushe. It was in that case of fratricide, the Childs
 <lb n="070749"/>murder case. Bushe defended him.</said></p>
-<p rend="inset"><lb n="070750"/><quote>And in the porches of mine ear did pour.</quote></p>
+<quote><lg rend="italics"><lb n="070750"/><l>And in the porches of mine ear did pour.</l></lg></quote>
 <p><lb n="070751"/>By the way how did he find that out? He died in his sleep. Or the
 <lb n="070752"/>other story, beast with two backs?
 <lb n="070753"/><said who="professor MacHugh">―What was that?</said> the professor asked.</p></div>

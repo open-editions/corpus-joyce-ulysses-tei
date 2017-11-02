@@ -286,10 +286,10 @@
 <lb n="040284"/>Derby, smiling. Silly Milly's birthday gift. Only five she was then. No, wait:
 <lb n="040285"/>four. I gave her the amberoid necklace she broke. Putting pieces of folded
 <lb n="040286"/>brown paper in the letterbox for her. He smiled, pouring.</p>
-<p rend="inset"><lb n="040287"/><emph>O, Milly Bloom, you are my darling.
-<lb n="040288"/>You are my lookingglass from night to morning.
-<lb n="040289"/>I'd rather have you without a farthing
-<lb n="040290"/>Than Katey Keogh with her ass and garden.</emph></p>
+<lg rend="italics"><lb n="040287"/><l>O, Milly Bloom, you are my darling.</l>
+<lb n="040288"/><l>You are my lookingglass from night to morning.</l>
+<lb n="040289"/><l>I'd rather have you without a farthing</l>
+<lb n="040290"/><l>Than Katey Keogh with her ass and garden.</l></lg>
 <p><lb n="040291"/>Poor old professor Goodwin. Dreadful old case. Still he was a
 <lb n="040292"/>courteous old chap. Oldfashioned way he used to bow Molly off the
 <lb n="040293"/>platform. And the little mirror in his silk hat. The night Milly brought it
@@ -436,13 +436,13 @@
 <lb n="040434"/>little. Was given milk too long. On the <emph>Erin's King</emph> that day round the Kish.
 <lb n="040435"/>Damned old tub pitching about. Not a bit funky. Her pale blue scarf loose
 <lb n="040436"/>in the wind with her hair.</p>
-<p rend="inset"><lb n="040437"/><emph>All dimpled cheeks and curls,
-<lb n="040438"/>Your head it simply swirls.</emph></p>
+<quote><lg rend="italics"><lb n="040437"/><l>All dimpled cheeks and curls,</l>
+<lb n="040438"/><l>Your head it simply swirls.</l></lg></quote>
 <p><lb n="040439"/>Seaside girls. Torn envelope. Hands stuck in his trousers' pockets, jarvey
 <lb n="040440"/>off for the day, singing. Friend of the family. <emph>Swurls</emph>, he says. Pier with
 <lb n="040441"/>lamps, summer evening, band.</p>
-<p rend="inset"><lb n="040442"/><emph>Those girls, those girls,
-<lb n="040443"/>Those lovely seaside girls.</emph></p>
+<quote><lg rend="italics"><lb n="040442"/><l>Those girls, those girls,</l>
+<lb n="040443"/><l>Those lovely seaside girls.</l></lg></quote>
 <p><lb n="040444"/>Milly too. Young kisses: the first. Far away now past. Mrs Marion.
 <lb n="040445"/>Reading, lying back now, counting the strands of her hair, smiling,
 <lb n="040446"/>braiding.</p>
@@ -545,9 +545,9 @@
 <lb n="040543"/>the funeral? Better find out in the paper.</p>
 <p><lb n="040544"/>A creak and a dark whirr in the air high up. The bells of George's
 <lb n="040545"/>church. They tolled the hour: loud dark iron.</p>
-<p rend="inset"><lb n="040546"/><said who="bells of George's church" direct="false" rend="italics">Heigho! Heigho!
-<lb n="040547"/>Heigho! Heigho!
-<lb n="040548"/>Heigho! Heigho!</said></p>
+<lg rend="italics"><lb n="040546"/><said who="bells of George's church" direct="false" rend="italics"><l>Heigho! Heigho!</l>
+<lb n="040547"/><l>Heigho! Heigho!</l>
+<lb n="040548"/><l>Heigho! Heigho!</l></said></lg>
 <p><lb n="040549"/>Quarter to. There again: the overtone following through the air. A
 <lb n="040550"/>third.</p>
 <p><lb n="040551"/>Poor Dignam!</p>
