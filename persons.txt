@@ -1,3 +1,239 @@
+This is a plaintext list of all [365] speaking parts in the Gabler edition. 
+
+An excellent project would be preparing the listPerson from this data.
+
+========================================================================================
+
+aa	Almidano Artifoni
+ab	Alf Bergan
+ae	George Russell
+ae2	Russell as Mananaun MacLir
+ajk	Alexander J Dowie
+ak	Alexander Keyes
+apb	Andrew Pisser Burke
+ar	Armstrong
+
+bb	baby Boardman
+bc	Bella Cohen
+bc2	Bello Cohen
+bb	Blazes Boylan
+bd	Bob Doran
+bds	Burton diners	pl.
+bed	Ben Dollard
+bl	Bantam Lyons
+bm	Buck Mulligan
+bod	Boody Dedalus
+bp	Bald Pat
+bs	blind stripling
+bss	Belvedere schoolboys	pl.
+bv	Bernard Vaughan
+
+c57c	Constable 57C
+cat	the Blooms' cat
+cbocftf	Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell
+ccaff	Cissy Caffrey
+chc	Chris Callinan
+ck	Corny Kelleher
+co	Cochrane
+com	Comyn
+cor	Corley
+cpm	C. P. M'Coy
+cr	Crofton
+cr2	Crofton in pistachios parody
+csp	Charles Stewart Parnell
+
+db	Davy Byrne
+dbc	Davy Byrne's curate
+dbm	D.B. Murphy
+dd	Dan Dawson
+did	Dilly Dedalus
+djm	Denis J Maginni
+dl	Dillon's lacquey
+dr	Dante Riordan
+drc	Dr Crotthers
+drd	Dr Dixon
+drm	Dr Madden
+ds	Davy Stephens
+
+eb	Ellen Bloom
+edb	Edy Boardman
+ed	Edward Dowden
+eli	Elijah
+eo	Esther Osvalt
+es	Elizabeth Sheehy
+
+fc	Father Cowley
+fd	Freddy Dignam
+ff	Frederick Falkiner
+frc	Fr Coffey
+frd	Fr Dolan
+frof	Fr O'Flynn
+frf	Fr Farley
+ft	Florry Talbot
+fws	F. W. Sweny
+
+gc	bells of George's Church
+gd	Garrett Deasy
+gf	Gerald Fitzgerald, earl of Kildare
+gl	George Lidwell
+gm	George Moore
+gmd	Gerty MacDowell	
+grm	George Robert Mesias
+
+ha	Haines
+hcl	Hugh C. Love	
+hh	Hoppy Holohan
+hs	Hely's shopgirl
+
+jb	Josie Breen
+jc	John Conmee
+jcaff	Jacky Caffrey
+je	John Eglinton
+jf	John Fanning
+jft	John F Taylor
+jh	Joe Hynes
+jhm	John Henry Menton
+jhp	John Howard Parnell
+jih	Jimmy Henry
+jjom	J.J. O'Molloy
+jm	Julius Mastiansky
+jo	Joseph
+joc	John O'Connell
+jp	Jack Power
+jp2	Jack Power in pistachios parody
+jpn	Joseph Patrick Nannetti
+jwn	John Wyse Nolan
+
+kd	Katey Dedalus
+ke	Kevin Egan
+kr	Kitty Ricketts
+
+lb	Leopold Bloom
+ld	Lydia Douce
+len	Lenehan
+lor	Larry O'Rourke
+
+ma 	Virgin Mary
+mac	Martha Clifford
+mad	May Dedalus
+magd	Maggy Dedalus
+mard	Mary Driscoll
+mb	Molly Bloom
+mc	Martin Cunningham
+mc2	Martin Cunningham in pistachios parody
+md	Moses Dlugacz
+meg	Michael E. Geraghty
+mg	Mother Grogan
+mh	Moses Herzog
+mib	Milly Bloom
+missd	Miss Dunne
+mk	Mina Kennedy
+mra	Mr Allfours
+mrcc	Mr Cowe Conacre
+mroor	Mr Orelli O'Reilly
+mrs	Mr Staylewit
+mrsb	Mrs Bellingham
+mrsc	Mrs Cahill
+mrscu	Mrs Cunningham
+mrsk	Mrs Keogh
+mrsmt	Mrs Mervyn Talboys
+mrst	Mrs Thornton
+mrsyb	Mrs Yelverton Barry
+ms	Mary slavey
+mw	milkwoman
+myc	Myles Crawford
+
+nf	Nosey Flynn
+nl	Ned Lambert
+
+om	Old Monks
+omb	O'Madden Burke
+or	old Royce
+
+pc	Punch Costello
+pd	Paddy Dignam
+pe	Patrice Egan
+pl	Paddy Leonard
+profmh	professor MacHugh
+
+rb	Rudolph Bloom
+rg	Richie Goulding
+rib	Richard Best
+rjd	Reuben J Dodd
+rm	Red Murray
+rub	Rudy Bloom
+
+sa	Sargent
+sb	Seymour Bushe
+sd	Stephen Dedalus
+sid	Simon Dedalus
+stg	Skin the Goat
+
+ta	Talbot
+tc	the citizen
+tcaff	Tommy Caffrey
+tcob	the company of all the blessed
+ter	Terry
+tg	Thornton's girl
+tk	Tom Kernan
+tl	Thomas Lyster
+tn	The Nameless One
+tp	Theodore Purefoy
+tr	Tom Rochford
+tsp	the speaker
+tt	Tomkin-Maxwell ffrenchmullan Tomlinson
+tw	Thomas Wolsey
+
+ua	unidentified applewoman
+uatt	unidentified attendant
+uatt2	second unidentified attendant
+ub	unidentified boatman and businessman	pl.
+ubk	unidentified bookseller
+ubo	unidentified boots
+uc	unidentified cocklepicker
+ud	unidentified drover
+udr	unidentified drunk
+ug	unidentified gentleman with tankard
+uh	unidentified huckster
+uhc	unidentified Henry Campbell lookalike
+uhd	unidentified husband
+ui	unidentified Italian chap
+uis	unidentified Italians	pl.
+uj	unidentified jews in the wilderness	pl.
+ujar	unidentified jarvey
+ul	unidentified longshoreman
+ul2	unidentified loafer number two
+ul3	unidentified third loafer
+uland	unidentified landlord in pistachios parody
+uls	unidentified lovers	pl.
+un	unidentified newsboys	pl.
+uo	unidentified one
+uom	unidentified old man
+up	unidentified priest
+upr	unidentified printer
+ups	unidentified plumseller
+ur	unidentified Roman
+us	unidentified student
+usl	unidentified slut
+usom	unidentified somebody
+usr	unidentified onelegged sailor
+uss	unidentified shawls
+ut	unidentified timekeeper
+utb	unidentified telegram boy
+uyc	unidentified young cubs	pl.
+uym	unidentified young man
+uys	unidentified young student
+
+vl	Vincent Lynch
+
+w1	First Watch
+w2	Second Watch
+wg	Walter Goulding
+
+zh	Zoe Higgins
+
+
+Yet to be sorted:
 A Bellhanger
 A Bidder
 A Blacksmith
@@ -10,248 +246,57 @@ A Hag
 A Hollybush
 A Man
 A Millionairess
-a newboy
 A Noblewoman
 A Pavior and Flagger
 A Rough
-a third loafer
 A Voice
 A Voice from the Gallery
 A Whore
 Adonai
-Alexander J Dowie
-Alexander Keyes
-Alf Bergan
 All
-Almidano Artifoni
 An Applewoman
 An Elector
 An Old Resident
-Andrew Pisser Burke
-another newsboy
-Armstrong
-attendant
-attendant_2
-baby Boardman
-Bald Pat
-Bantam Lyons
-Bella Cohen
-Bello Cohen
-bells of George's church
-Belvedere schoolboys
-Ben Dollard
-Bernard Vaughan
 Biddy the Clap
 Black Liz
-Blazes Boylan
-blind stripling
 Bloom's Boys
-boatman
-Bob Doran
-Boody Dedalus
-boots
 Bridie Kelly
 Brini Papal Nuncio
 Brother Buzz
-Buck Mulligan
-Burton diner_1
-Burton diner_2
-Burton diner_3
-Burton diner_4
-Burton diner_5
-Burton diner_6
-businessman
-C. P. M'Coy
-Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell
-cat
 Cavaliers
 Charles Alberta Marsh
-Charles Stewart Parnell
-Chris Callinan
-Cissy Caffrey
 Citron
-Cochrane
-cocklepicker
-Comyn
-Constable 57
-Corley
-Corny Kelleher
 Councillor Lorcan Sherlock
-Cowe Conacre
 Crab
-Crofton
 Cunty Kate
-D.B. Murphy
-Dan Dawson
-Dante Riordan
-Davy Byrne
-Davy Byrne's curate
-Davy Stephens
-Dilly Dedalus
 Distant Voices
 Dolly Gray
 Don Emile Patrizio Franz Rupert Pope Hennessy
-Dr Crotthers
-Dr Dixon
-Dr Madden
-drover
-drunk
-earl of Kildare
-Edward Dowden
 Edward the Seventh
-Edy Boardman
-elderly party
-Elijah
-Elizabeth Sheehy
-Ellen Bloom
-Father Cowley
-Father O'Flynn
-First Watch
-Florry Talbot
-Fr Coffey
-Fr Dolan
-Fr Farley
-Freddy Dignam
-Frederick Falkiner
-Freeman's Journal
-Garrett Deasy
-gentleman with tankard
 George Fottrell
-George Lidwell
-George Moore
-George Robert Mesias
-George Russell
-Gerty MacDowell
-Haines
-Henry Campbell lookalike
 Henry Flower
-Hoppy Holohan
 Hornblower
-hotblooded young student
 Hours
-huckster
-Hugh C. Love
-husband
-Italian chap
-Italians
-J.J. O'Molloy
-Jack Power
-Jacky Caffrey
-jarvey
-jews in the wilderness
-Jimmy Henry
-Joe Hynes
-John Conmee
-John Eglinton
-John F Taylor
-John Fanning
-John Henry Menton
-John Howard Parnell
-John O'Connell
-John Wyse Nolan
-Joseph Patrick Nannetti
-Josie Breen
-Julius Mastiansky
-Katey Dedalus
-Kevin Egan
-Kitty Ricketts
-lacquey
-landlord
-Larry O'Rourke
 Late Lord Mayor Timothy Harrington
-Lenehan
-Leopold Bloom
-Lestrygonians lovers
 Lipoti Virag
-loafer number two
 Longhand and Shorthand
-longshoreman
 Lord Tennyson
-Lydia Douce
-Maggy Dedalus
 Major Brian Tweedy
-Martha Clifford
-Martin Cunningham
-Mary
-Mary Driscoll
-Mary slavey
-May Dedalus
-Michael E. Geraghty
-Milkwoman
-Milly Bloom
-Mina Kennedy
-Miss Dunne
-Molly Bloom
-Moses Dlugacz
-Moses Herzog
-Mother Grogan
-Mr Allfours
-Mr Staylewit
-Mrs Bellingham
-Mrs Cahill
-Mrs Cunningham
-Mrs Keogh
-Mrs Mervyn Talboys
-Mrs Thornton
-Mrs Yelverton Barry
-Myles Crawford
-Ned Lambert
-newsboy
-newsboy_1
-newsboys
-Nosey Flynn
 Nurse Callan
 Nurse Quigley
-O'Madden Burke
-old applewoman
 Old Gummy Granny
-old man
-Old Monks
-one asked
-onelegged sailor
-Orelli O'Reilly
-Paddy Dignam
-Paddy Leonard
-Patrice Egan
 Philip Beaufoy
 Philip Drunk
 Philip Sober
-plumseller
-porkbutcher
 priest_Lotus
 Private Carr
 Private Compton
-professor Denis J Maginni
-professor MacHugh
-Punch Costello
-Red Murray
-Reuben J Dodd
-Richard Best
-Richie Goulding
-Rudolph Bloom
-Rudy Bloom
 Rumbold
-Sargent
-Second Watch
-Seymour Bushe
 Shakespeare
-shawls
-shopman
-shrill voice
 Signor Maffei
-Simon Dedalus
-Skin_the_Goat
 Sleepy Hollow
-slut
-somebody
 Staggering Bob
-Stephen Dedalus
 Susy Dignam
-Sweny
-Talbot
-telegram boy
-Telegraph
-Terry
 The Answer
 The Artane Orphans
 The Babes and Sucklings
@@ -269,8 +314,6 @@ The Children
 The Chimes
 The Choir
 The Circumcised
-the citizen
-the company of all the blessed
 The Crier
 The Croppy Boy
 The Crowd
@@ -304,10 +347,8 @@ The Man in the Macintosh
 The Mob
 The Moth
 The Motorman
-The Nameless One
 The Nannygoat
 The Navvy
-The Newsboys
 The Nymph
 The Orange Lodges
 The Peers
@@ -315,14 +356,12 @@ The Pianola
 The Prison Gate Girls
 The Quoits
 The Retriever
-the Roman
 The Shebeenkeeper
 The Sightseers
 The Sins of the Past
 The Sluts
 The Sluts and Ragamuffins
 The Soap
-The speaker
 The Timepiece
 The Torchbearers
 The Urchins
@@ -335,29 +374,9 @@ The Whores
 The Women
 The Wreaths
 The Yews
-Theodore Purefoy
-Thomas Lyster
-Thomas Wolsey
-Thornton's girl
-timekeeper
 Sam Bohee
 Tom Bohee
-Tom Kernan
-Tom Rochford
-Tomkin
-Tommy Caffrey
 Tutti
-unidentified student
-unnamed printer
 urchin
-Vincent Lynch
 Voices
-Walter Goulding
-wild newsboys
 William Alexander
-Wisdom Hely's shopgirl
-young cub_1
-young cub_2
-young cub_3
-young man
-Zoe Higgins
