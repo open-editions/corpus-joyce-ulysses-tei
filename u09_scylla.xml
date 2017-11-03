@@ -1179,12 +1179,17 @@
 <p><lb n="091168"/>The pillared Moorish hall, shadows entwined. Gone the nine men's
 <lb n="091169"/>morrice with caps of indices.</p>
 <p><lb n="091170"/>In sweetly varying voices Buck Mulligan read his tablet:</p>
- <lg rend="italics"><lb n="091171"/><said who="Buck Mulligan">―<title type="play"><l>Everyman His Own Wife</l>
- <lb n="091172"/><l>or</l>
- <lb n="091173"/><l>A Honeymoon in the Hand</l></title>
- <lb n="091174"/><l>(a national immorality in three orgasms)</l>
- <lb n="091175"/><l>by</l>
- <lb n="091176"/><l>Ballocky Mulligan</l></said></lg>
+<said who="Buck Mulligan">
+  <lb n="091171"/>―<title type="play"><lg rend="italics"><l>Everyman His Own Wife</l>
+  <lb n="091172"/><l>or</l>
+  <lb n="091173"/><l>A Honeymoon in the Hand</l>
+</lg></title>
+<lg rend="italics">
+  <lb n="091174"/><l>(a national immorality in three orgasms)</l>
+  <lb n="091175"/><l>by</l>
+  <lb n="091176"/><l>Ballocky Mulligan</l>
+</lg>
+</said>
 <p><lb n="091177"/>He turned a happy patch's smirk to Stephen, saying:
 <lb n="091178"/><said who="Buck Mulligan">―The disguise, I fear, is thin. But listen.</said></p>
 <p><lb n="091179"/>He read, <foreign xml:lang="it">marcato</foreign>:
