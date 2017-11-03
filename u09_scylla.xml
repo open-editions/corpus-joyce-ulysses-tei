@@ -124,10 +124,12 @@
 <lb n="090115"/>know, <emph>reading the book of himself</emph>. He describes <title type="play">Hamlet</title> given in a French
 <lb n="090116"/>town, don't you know, a provincial town. They advertised it.</said></p>
 <p><lb n="090117"/>His free hand graciously wrote tiny signs in air.</p>
-<lg rend="italics"><lb n="090118"/><title type="play" xml:lang="fr"><l>Hamlet</l>
+<ab>
+<title type="play" xml:lang="fr"><lg rend="italics"><lb n="090118"/><l>Hamlet</l>
 <lb n="090119"/><l>ou</l>
 <lb n="090120"/><l>Le Distrait</l>
-<lb n="090121"/><l>Pièce de Shakespeare</l></title></lg>
+<lb n="090121"/><l>Pièce de Shakespeare</l></lg></title>
+</ab>
 <p><lb n="090122"/>He repeated to John Eglinton's newgathered frown:
 <lb n="090123"/><said who="Richard Best">―<foreign xml:lang="fr">Pièce de Shakespeare</foreign>, don't you know. It's so French. The French point
 <lb n="090124"/>of view. <foreign xml:lang="fr">Hamlet ou</foreign> ...</said>
