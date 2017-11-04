@@ -20,15 +20,19 @@ bb	Blazes Boylan
 bd	Bob Doran
 bds	Burton diners	pl.
 bed	Ben Dollard
+bk	Bridie Kelly
 bl	Bantam Lyons
+bliz	Black Liz
 bm	Buck Mulligan
 bod	Boody Dedalus
 bp	Bald Pat
 bs	blind stripling
 bss	Belvedere schoolboys	pl.
+bt	Brian Tweedy
 bv	Bernard Vaughan
 
 c57c	Constable 57C
+cam	Charles Alberta Marsh
 cat	the Blooms' cat
 cbocftf	Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell
 ccaff	Cissy Caffrey
@@ -75,6 +79,7 @@ fws	F. W. Sweny
 gc	bells of George's Church
 gd	Garrett Deasy
 gf	Gerald Fitzgerald, earl of Kildare
+gfo	George Fottrell
 gl	George Lidwell
 gm	George Moore
 gmd	Gerty MacDowell	
@@ -83,6 +88,7 @@ grm	George Robert Mesias
 ha	Haines
 hcl	Hugh C. Love	
 hh	Hoppy Holohan
+hr	Horace Rumbold
 hs	Hely's shopgirl
 
 jb	Josie Breen
@@ -109,14 +115,17 @@ ke	Kevin Egan
 kr	Kitty Ricketts
 
 lb	Leopold Bloom
+lb2	Henry Flower
 ld	Lydia Douce
 len	Lenehan
 lor	Larry O'Rourke
+ls	Lorcan Sherlock
 
 ma 	Virgin Mary
-mac	Martha Clifford
+mac	The Man in the Macintosh
 mad	May Dedalus
 magd	Maggy Dedalus
+marc	Martha Clifford
 mard	Mary Driscoll
 mb	Molly Bloom
 mc	Martin Cunningham
@@ -150,9 +159,12 @@ om	Old Monks
 omb	O'Madden Burke
 or	old Royce
 
+pb	Philip Beaufoy
 pc	Punch Costello
 pd	Paddy Dignam
 pe	Patrice Egan
+phild	Philip Drunk
+phils	Philip Sober
 pl	Paddy Leonard
 profmh	professor MacHugh
 
@@ -168,6 +180,7 @@ sb	Seymour Bushe
 sd	Stephen Dedalus
 sid	Simon Dedalus
 stg	Skin the Goat
+sud	Susy Dignam
 
 ta	Talbot
 tc	the citizen
@@ -175,6 +188,7 @@ tcaff	Tommy Caffrey
 tcob	the company of all the blessed
 ter	Terry
 tg	Thornton's girl
+th	Timothy Harrington
 tk	Tom Kernan
 tl	Thomas Lyster
 tn	The Nameless One
@@ -188,6 +202,10 @@ ua	unidentified applewoman
 uatt	unidentified attendant
 uatt2	second unidentified attendant
 uboat	unidentified boatman
+ubell	unidentified bellhanger
+ubid	unidentified bidder
+ublack	unidentified blacksmith
+ublue	unidentified bluecoat schoolboy
 ubus	unidentified businessman
 ubk	unidentified bookseller
 ubo	unidentified boots
@@ -208,6 +226,7 @@ ul3	unidentified third loafer
 uland	unidentified landlord in pistachios parody
 uls	unidentified lovers	pl.
 un	unidentified newsboys	pl.
+unav	unidentified navvy
 uo	unidentified one
 uom	unidentified old man
 up	unidentified priest
@@ -230,15 +249,17 @@ vl	Vincent Lynch
 w1	First Watch
 w2	Second Watch
 wg	Walter Goulding
+ws	William Shakespeare
 
 zh	Zoe Higgins
 
-
+========================================================================================
+========================================================================================
+========================================================================================
+========================================================================================
+========================================================================================
 Yet to be sorted:
-A Bellhanger
-A Bidder
-A Blacksmith
-A Bluecoat Schoolboy
+========================================================================================
 A Darkvisaged Man
 A Deadhand
 A Female Infant
@@ -259,45 +280,30 @@ An Applewoman
 An Elector
 An Old Resident
 Biddy the Clap
-Black Liz
 Bloom's Boys
-Bridie Kelly
 Brini Papal Nuncio
 Brother Buzz
 Cavaliers
-Charles Alberta Marsh
 Citron
-Councillor Lorcan Sherlock
 Crab
 Cunty Kate
 Distant Voices
 Dolly Gray
 Don Emile Patrizio Franz Rupert Pope Hennessy
 Edward the Seventh
-George Fottrell
-Henry Flower
 Hornblower
 Hours
-Late Lord Mayor Timothy Harrington
 Lipoti Virag
 Longhand and Shorthand
 Lord Tennyson
-Major Brian Tweedy
 Nurse Callan
 Nurse Quigley
 Old Gummy Granny
-Philip Beaufoy
-Philip Drunk
-Philip Sober
-priest_Lotus
 Private Carr
 Private Compton
-Rumbold
-Shakespeare
 Signor Maffei
 Sleepy Hollow
 Staggering Bob
-Susy Dignam
 The Answer
 The Artane Orphans
 The Babes and Sucklings
@@ -344,12 +350,10 @@ The Jurors
 The Kisses
 The Loiterers
 The Male Brutes
-The Man in the Macintosh
 The Mob
 The Moth
 The Motorman
 The Nannygoat
-The Navvy
 The Nymph
 The Orange Lodges
 The Peers

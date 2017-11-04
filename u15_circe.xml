@@ -361,7 +361,7 @@
 <lb n="150360"/>no-one in it only her old father that's dead drunk.</p></sp>
 <stage><lb n="150361"/>(She points. In the gap of her dark den furtive, rainbedraggled,
 <lb n="150362"/>Bridie Kelly stands.)</stage>
-<sp who="Bridie Kelly"><speaker><lb n="150363"/>Bridie</speaker>
+<sp who="bk"><speaker><lb n="150363"/>Bridie</speaker>
 <p><lb n="150364"/>Hatch street. Any good in your mind?</p></sp>
 <stage><lb n="150365"/>(With a squeak she flaps her bat shawl and runs. A burly rough
 <lb n="150366"/>pursues with booted strides. He stumbles on the steps, recovers,
@@ -606,11 +606,11 @@
 <lb n="150605"/>From a bulge of window curtains a gramophone rears a battered
 <lb n="150606"/>brazen trunk. In the shadow a shebeenkeeper haggles with the
 <lb n="150607"/>navvy and the two redcoats.)</stage>
-<sp who="The Navvy"><speaker><lb n="150608"/>The Navvy</speaker>
+<sp who="unav"><speaker><lb n="150608"/>The Navvy</speaker>
 <p><stage><lb n="150609"/>(belching)</stage> Where's the bloody house?</p></sp>
 <sp who="The Shebeenkeeper"><speaker><lb n="150610"/>The Shebeenkeeper</speaker>
 <p><lb n="150611"/>Purdon street. Shilling a bottle of stout. Respectable woman.</p></sp>
-<sp who="The Navvy"><speaker><lb n="150612"/>The Navvy</speaker>
+<sp who="unav"><speaker><lb n="150612"/>The Navvy</speaker>
 <p><stage><lb n="150613"/>(gripping the two redcoats, staggers forward with them)</stage> Come on, you
 <lb n="150614"/>British army!</p></sp>
 <sp who="Private Carr"><speaker><lb n="150615"/>Private Carr</speaker>
@@ -619,14 +619,14 @@
 <p><stage><lb n="150618"/>(laughs)</stage> What ho!</p></sp>
 <sp who="Private Carr"><speaker><lb n="150619"/>Private Carr</speaker>
 <p><stage><lb n="150620"/>(to the navvy)</stage> Portobello barracks canteen. You ask for Carr. Just Carr.</p></sp>
-<sp who="The Navvy"><speaker><lb n="150621"/>The Navvy</speaker>
+<sp who="unav"><speaker><lb n="150621"/>The Navvy</speaker>
 <p><stage><lb n="150622"/>(shouts)</stage>
 <lb n="150623"/>We are the boys. Of Wexford.</p></sp>
 <sp who="Private Compton"><speaker><lb n="150624"/>Private Compton</speaker>
 <p><lb n="150625"/>Say! What price the sergeantmajor?</p></sp>
 <sp who="Private Carr"><speaker><lb n="150626"/>Private Carr</speaker>
 <p><lb n="150627"/>Bennett? He's my pal. I love old Bennett.</p></sp>
-<sp who="The Navvy"><speaker><lb n="150628"/>The Navvy</speaker>
+<sp who="unav"><speaker><lb n="150628"/>The Navvy</speaker>
 <p><stage><lb n="150629"/>(shouts)</stage>
 <lb n="150630"/>The galling chain.
 <lb n="150631"/>And free our native land.</p></sp>
@@ -749,7 +749,7 @@
 <stage><lb n="150748"/>(A dark mercurialised face appears, leading a veiled figure.)</stage>
 <sp who="The Dark Mercury"><speaker><lb n="150749"/>The Dark Mercury</speaker>
 <p><lb n="150750"/>The Castle is looking for him. He was drummed out of the army.</p></sp>
-<sp who="mac"><speaker><lb n="150751"/>Martha</speaker>
+<sp who="marc"><speaker><lb n="150751"/>Martha</speaker>
 <p><stage><lb n="150752"/>(thickveiled, a crimson halter round her neck, a copy of the <title type="newspaper">Irish Times</title> in
 <lb n="150753"/>her hand, in tone of reproach, pointing)</stage> Henry! Leopold! Lionel, thou lost
 <lb n="150754"/>one! Clear my name.</p></sp>
@@ -762,7 +762,7 @@
 <lb n="150761"/>Lesurques and Dubosc. You remember the Childs fratricide case. We
 <lb n="150762"/>medical men. By striking him dead with a hatchet. I am wrongfully
 <lb n="150763"/>accused. Better one guilty escape than ninetynine wrongfully condemned.</p></sp>
-<sp who="mac"><speaker><lb n="150764"/>Martha</speaker>
+<sp who="marc"><speaker><lb n="150764"/>Martha</speaker>
 <p><stage><lb n="150765"/>(sobbing behind her veil)</stage> Breach of promise. My real name is Peggy
 <lb n="150766"/>Griffin. He wrote to me that he was miserable. I'll tell my brother, the
 <lb n="150767"/>Bective rugger fullback, on you, heartless flirt.</p></sp>
@@ -816,7 +816,7 @@
 <lb n="150815"/>morning dress, outbreast pocket with peak of handkerchief
 <lb n="150816"/>showing, creased lavender trousers and patent boots. He carries a
 <lb n="150817"/>large portfolio labelled <emph>Matcham's Masterstrokes</emph>.)</stage>
-<sp who="Philip Beaufoy"><speaker><lb n="150818"/>Beaufoy</speaker>
+<sp who="pb"><speaker><lb n="150818"/>Beaufoy</speaker>
 <p><stage><lb n="150819"/>(drawls)</stage> No, you aren't. Not by a long shot if I know it. I don't see it,
 <lb n="150820"/>that's all. No born gentleman, no-one with the most rudimentary
 <lb n="150821"/>promptings of a gentleman would stoop to such particularly loathsome
@@ -829,7 +829,7 @@
 <sp who="lb"><speaker><lb n="150828"/>Bloom</speaker>
 <p><stage><lb n="150829"/>(murmurs with hangdog meekness glum)</stage> That bit about the laughing
 <lb n="150830"/>witch hand in hand I take exception to, if I may ...</p></sp>
-<sp who="Philip Beaufoy"><speaker><lb n="150831"/>Beaufoy</speaker>
+<sp who="pb"><speaker><lb n="150831"/>Beaufoy</speaker>
 <p><stage><lb n="150832"/>(his lip upcurled, smiles superciliously on the court)</stage> You funny ass, you!
 <lb n="150833"/>You're too beastly awfully weird for words! I don't think you need over
 <lb n="150834"/>excessively disincommodate yourself in that regard. My literary agent Mr
@@ -839,7 +839,7 @@
 <lb n="150838"/>university.</p></sp>
 <sp who="lb"><speaker><lb n="150839"/>Bloom</speaker>
 <p><stage><lb n="150840"/>(indistinctly)</stage> University of life. Bad art.</p></sp>
-<sp who="Philip Beaufoy"><speaker><lb n="150841"/>Beaufoy</speaker>
+<sp who="pb"><speaker><lb n="150841"/>Beaufoy</speaker>
 <p><stage><lb n="150842"/>(shouts)</stage> It's a damnably foul lie, showing the moral rottenness of the man!
 <stage><lb n="150843"/>(he extends his portfolio)</stage> We have here damning evidence, the <foreign xml:lang="la">corpus
 <lb n="150844"/>delicti</foreign>, my lord, a specimen of my maturer work disfigured by the hallmark
@@ -849,7 +849,7 @@
 <lb n="150848"/>Wiped his arse in the <title type="newspaper">Daily News</title>.</p></sp>
 <sp who="lb"><speaker><lb n="150849"/>Bloom</speaker>
 <p><stage><lb n="150850"/>(bravely)</stage> Overdrawn.</p></sp>
-<sp who="Philip Beaufoy"><speaker><lb n="150851"/>Beaufoy</speaker>
+<sp who="pb"><speaker><lb n="150851"/>Beaufoy</speaker>
 <p><lb n="150852"/>You low cad! You ought to be ducked in the horsepond, you rotter! <stage>(to the
 <lb n="150853"/>court)</stage> Why, look at the man's private life! Leading a quadruple existence!
 <lb n="150854"/>Street angel and house devil. Not fit to be mentioned in mixed society! The
@@ -893,7 +893,7 @@
 <p><stage><lb n="150892"/>(scornfully)</stage> I had more respect for the scouringbrush, so I had. I
 <lb n="150893"/>remonstrated with him, Your lord, and he remarked: keep it quiet.</p></sp>
 <stage><lb n="150894"/>(General laughter.)</stage>
-<sp who="George Fottrell"><speaker><lb n="150895"/>George Fottrell</speaker>
+<sp who="gfo"><speaker><lb n="150895"/>George Fottrell</speaker>
 <p><stage><lb n="150896"/>(clerk of the crown and peace, resonantly)</stage> Order in court! The accused
 <lb n="150897"/>will now make a bogus statement.</p></sp>
 <stage><lb n="150898"/>(Bloom, pleading not guilty and holding a fullblown waterlily,
@@ -1179,7 +1179,7 @@
 <lb n="151178"/>tanner's apron, a rope coiled over his shoulder, mounts the block. A
 <lb n="151179"/>life preserver and a nailstudded bludgeon are stuck in his belt. He
 <lb n="151180"/>rubs grimly his grappling hands, knobbed with knuckledusters.)</stage>
-<sp who="Rumbold"><speaker><lb n="151181"/>Rumbold</speaker>
+<sp who="hr"><speaker><lb n="151181"/>Rumbold</speaker>
 <p><stage><lb n="151182"/>(to the recorder with sinister familiarity)</stage> Hanging Harry, your Majesty,
 <lb n="151183"/>the Mersey terror. Five guineas a jugular. Neck or nothing.</p></sp>
 <stage><lb n="151184"/>(The bells of George's church toll slowly, loud dark iron.)</stage>
@@ -1379,13 +1379,13 @@
 <lb n="151378"/>Harrington, late thrice Lord Mayor of Dublin, imposing in mayoral
 <lb n="151379"/>scarlet, gold chain and white silk tie, confers with councillor Lorcan
 <lb n="151380"/>Sherlock, <foreign xml:lang="la">locum tenens</foreign>. They nod vigorously in agreement.)</stage>
-<sp who="Late Lord Mayor Timothy Harrington"><speaker><lb n="151381"/>Late Lord Mayor Harrington</speaker>
+<sp who="th"><speaker><lb n="151381"/>Late Lord Mayor Harrington</speaker>
 <p><stage><lb n="151382"/>(in scarlet robe with mace, gold mayoral chain and large white silk scarf)</stage>
 <lb n="151383"/>That alderman sir Leo Bloom's speech be printed at the expense of the
 <lb n="151384"/>ratepayers. That the house in which he was born be ornamented with a
 <lb n="151385"/>commemorative tablet and that the thoroughfare hitherto known as Cow
 <lb n="151386"/>Parlour off Cork street be henceforth designated Boulevard Bloom.</p></sp>
-<sp who="Councillor Lorcan Sherlock"><speaker><lb n="151387"/>Councillor Lorcan Sherlock</speaker>
+<sp who="ls"><speaker><lb n="151387"/>Councillor Lorcan Sherlock</speaker>
 <p><lb n="151388"/>Carried unanimously.</p></sp>
 <sp who="lb"><speaker><lb n="151389"/>Bloom</speaker>
 <p><stage><lb n="151390"/>(impassionedly)</stage> These flying Dutchmen or lying Dutchmen as they recline
@@ -1453,7 +1453,7 @@
 <lb n="151452"/>The king of all birds,
 <lb n="151453"/>Saint Stephen's his day
 <lb n="151454"/>Was caught in the furze.</p></sp>
-<sp who="A Blacksmith"><speaker><lb n="151455"/>A Blacksmith</speaker>
+<sp who="ublack"><speaker><lb n="151455"/>A Blacksmith</speaker>
 <p><stage><lb n="151456"/>(murmurs)</stage> For the honour of God! And is that Bloom? He scarcely looks
 <lb n="151457"/>thirtyone.</p></sp>
 <sp who="A Pavior and Flagger"><speaker><lb n="151458"/>A Pavior and Flagger</speaker>
@@ -1465,7 +1465,7 @@
 <p><stage><lb n="151464"/>(nobly)</stage> All that man has seen!</p></sp>
 <sp who="A Feminist"><speaker><lb n="151465"/>A Feminist</speaker>
 <p><stage><lb n="151466"/>(masculinely)</stage> And done!</p></sp>
-<sp who="A Bellhanger"><speaker><lb n="151467"/>A Bellhanger</speaker>
+<sp who="ubell"><speaker><lb n="151467"/>A Bellhanger</speaker>
 <p><lb n="151468"/>A classic face! He has the forehead of a thinker.</p></sp>
 <stage><lb n="151469"/>(Bloom's weather. A sunburst appears in the northwest.)</stage>
 <sp who="The Bishop of Down and Connor Michael Cardinal Logue"><speaker><lb n="151470"/>The Bishop of Down and Connor</speaker>
@@ -1533,7 +1533,7 @@
 <p><lb n="151532"/>Hear! Hear!</p></sp>
 <sp who="jwn"><speaker><lb n="151533"/>John Wyse Nolan</speaker>
 <p><lb n="151534"/>There's the man that got away James Stephens.</p></sp>
-<sp who="A Bluecoat Schoolboy"><speaker><lb n="151535"/>A Bluecoat Schoolboy</speaker>
+<sp who="ublue"><speaker><lb n="151535"/>A Bluecoat Schoolboy</speaker>
 <p><lb n="151536"/>Bravo!</p></sp>
 <sp who="An Old Resident"><speaker><lb n="151537"/>An Old Resident</speaker>
 <p><lb n="151538"/>You're a credit to your country, sir, that's what you are.</p></sp>
@@ -1558,7 +1558,7 @@
 <p><stage><lb n="151557"/>(dying)</stage> <foreign xml:lang="la">Morituri te salutant.</foreign> <stage>(they die)</stage></p></sp>
 <stage><lb n="151558"/>(A man in a brown macintosh springs up through a trapdoor. He
 <lb n="151559"/>points an elongated finger at Bloom.)</stage>
-<sp who="The Man in the Macintosh"><speaker><lb n="151560"/>The Man in the Macintosh</speaker>
+<sp who="mac"><speaker><lb n="151560"/>The Man in the Macintosh</speaker>
 <p><lb n="151561"/>Don't you believe a word he says. That man is Leopold M'Intosh, the
 <lb n="151562"/>notorious fireraiser. His real name is Higgins.</p></sp>
 <sp who="lb"><speaker><lb n="151563"/>Bloom</speaker>
@@ -2486,7 +2486,7 @@
 <lb n="152485"/>sparrow feet are those of the tenor Mario, prince of Candia. He
 <lb n="152486"/>settles down his goffered ruffs and moistens his lips with a passage
 <lb n="152487"/>of his amorous tongue.)</stage>
-<sp who="Henry Flower"><speaker><lb n="152488"/>Henry</speaker>
+<sp who="lb2"><speaker><lb n="152488"/>Henry</speaker>
 <p><stage><lb n="152489"/>(in a low dulcet voice, touching the strings of his guitar)</stage> There is a flower
 <lb n="152490"/>that bloometh.</p></sp>
 <stage><lb n="152491"/>(Virag truculent, his jowl set, stares at the lamp. Grave Bloom
@@ -2513,13 +2513,13 @@
 <stage><lb n="152512"/>(The Siamese twins, Philip Drunk and Philip Sober, two Oxford
 <lb n="152513"/>dons with lawnmowers, appear in the window embrasure. Both are
 <lb n="152514"/>masked with Matthew Arnold's face.)</stage>
-<sp who="Philip Sober"><speaker><lb n="152515"/>Philip Sober</speaker>
+<sp who="phils"><speaker><lb n="152515"/>Philip Sober</speaker>
 <p><lb n="152516"/>Take a fool's advice. All is not well. Work it out with the buttend of a pencil,
 <lb n="152517"/>like a good young idiot. Three pounds twelve you got, two notes, one
 <lb n="152518"/>sovereign, two crowns, if youth but knew. Mooney's en ville, Mooney's sur
 <lb n="152519"/>mer, the Moira, Larchet's, Holles street hospital, Burke's. Eh? I am
 <lb n="152520"/>watching you.</p></sp>
-<sp who="Philip Drunk"><speaker><lb n="152521"/>Philip Drunk</speaker>
+<sp who="phild"><speaker><lb n="152521"/>Philip Drunk</speaker>
 <p><stage><lb n="152522"/>(impatiently)</stage> Ah, bosh, man. Go to hell! I paid my way. If I could only
 <lb n="152523"/>find out about octaves. Reduplication of personality. Who was it told me his
 <lb n="152524"/>name? <stage>(his lawnmower begins to purr)</stage> Aha, yes. <foreign xml:lang="grc-Latn">Zoe mou sas agapo.</foreign> Have
@@ -2580,9 +2580,9 @@
 <lb n="152579"/>Pidgeon in the blue caps had a child off him that couldn't swallow and was
 <lb n="152580"/>smothered with the convulsions in the mattress and we all subscribed for
 <lb n="152581"/>the funeral.</p></sp>
-<sp who="Philip Drunk"><speaker><lb n="152582"/>Philip Drunk</speaker>
+<sp who="phild"><speaker><lb n="152582"/>Philip Drunk</speaker>
 <p><stage><lb n="152583"/>(gravely)</stage> <foreign xml:lang="fr">Qui vous a mis dans cette fichue position, Philippe?</foreign></p></sp>
-<sp who="Philip Sober"><speaker><lb n="152584"/>Philip Sober</speaker>
+<sp who="phils"><speaker><lb n="152584"/>Philip Sober</speaker>
 <p><stage><lb n="152585"/>(gaily)</stage> <foreign xml:lang="fr">C'était le sacré pigeon, Philippe.</foreign></p></sp>
 <stage><lb n="152586"/>(Kitty unpins her hat and sets it down calmly, patting her henna
 <lb n="152587"/>hair. And a prettier, a daintier head of winsome curls was never seen
@@ -2617,7 +2617,7 @@
 <p><lb n="152616"/>Hold that fellow with the bad breeches.</p></sp>
 <sp who="bed"><speaker><lb n="152617"/>Ben Dollard</speaker>
 <p><stage><lb n="152618"/>(smites his thigh in abundant laughter)</stage> Hold him now.</p></sp>
-<sp who="Henry Flower"><speaker><lb n="152619"/>Henry</speaker>
+<sp who="lb2"><speaker><lb n="152619"/>Henry</speaker>
 <p><stage><lb n="152620"/>(caressing on his breast a severed female head, murmurs)</stage> Thine heart,
 <lb n="152621"/>mine love. <stage>(he plucks his lutestrings)</stage> When first I saw ...</p></sp>
 <sp who="Lipoti Virag"><speaker><lb n="152622"/>Virag</speaker>
@@ -2632,7 +2632,7 @@
 <lb n="152631"/>sideways on the wall a pusyellow flybill, butting it with his head.)</stage>
 <sp who="The Flybill"><speaker><lb n="152632"/>The Flybill</speaker>
 <p><lb n="152633"/>K. 11. Post No Bills. Strictly confidential. Dr Hy Franks.</p></sp>
-<sp who="Henry Flower"><speaker><lb n="152634"/>Henry</speaker>
+<sp who="lb2"><speaker><lb n="152634"/>Henry</speaker>
 <p><lb n="152635"/>All is lost now.</p></sp>
 <stage><lb n="152636"/>(Virag unscrews his head in a trice and holds it under his arm.)</stage>
 <sp who="Lipoti Virag AS Head"><speaker><lb n="152637"/>Virag's Head</speaker>
@@ -3090,14 +3090,14 @@
 <lb n="153089"/>bares his arm and plunges it elbowdeep in Bloom's vulva)</stage> There's fine
 <lb n="153090"/>depth for you! What, boys? That give you a hardon? <stage>(he shoves his arm in
 <lb n="153091"/>a bidder's face)</stage> Here wet the deck and wipe it round!</p></sp>
-<sp who="A Bidder"><speaker><lb n="153092"/>A Bidder</speaker>
+<sp who="ubid"><speaker><lb n="153092"/>A Bidder</speaker>
 <p><lb n="153093"/>A florin.</p></sp>
 <stage><lb n="153094"/>(Dillon's lacquey rings his handbell.)</stage>
 <sp who="dl"><speaker><lb n="153095"/>The Lacquey</speaker>
 <p><lb n="153096"/>Barang!</p></sp>
 <sp who="A Voice AND Simon Dedalus"><speaker><lb n="153097"/>A Voice</speaker>
 <p><lb n="153098"/>One and eightpence too much.</p></sp>
-<sp who="Charles Alberta Marsh"><speaker><lb n="153099"/>Charles Alberta Marsh</speaker>
+<sp who="cam"><speaker><lb n="153099"/>Charles Alberta Marsh</speaker>
 <p><lb n="153100"/>Must be virgin. Good breath. Clean.</p></sp>
 <sp who="bc2"><speaker><lb n="153101"/>Bello</speaker>
 <p><stage><lb n="153102"/>(gives a rap with his gavel)</stage> Two bar. Rockbottom figure and cheap at the
@@ -3707,7 +3707,7 @@
 <p><stage><lb n="153706"/>(quickly)</stage> O, I see. Short little finger. Henpecked husband. That wrong?</p></sp>
 <stage><lb n="153707"/>(Black Liz, a huge rooster hatching in a chalked circle, rises,
 <lb n="153708"/>stretches her wings and clucks.)</stage>
-<sp who="Black Liz"><speaker><lb n="153709"/>Black Liz</speaker>
+<sp who="bliz"><speaker><lb n="153709"/>Black Liz</speaker>
 <p><lb n="153710"/>Gara. Klook. Klook. Klook. <stage>(she sidles from her newlaid egg and waddles
 <lb n="153711"/>off)</stage></p></sp>
 <sp who="lb"><speaker><lb n="153712"/>Bloom</speaker>
@@ -3823,7 +3823,7 @@
 <lb n="153822"/>Shakespeare, beardless, appears there, rigid in facial paralysis,
 <lb n="153823"/>crowned by the reflection of the reindeer antlered hatrack in the
 <lb n="153824"/>hall.)</stage>
-<sp who="Shakespeare"><speaker><lb n="153825"/>Shakespeare</speaker>
+<sp who="ws"><speaker><lb n="153825"/>Shakespeare</speaker>
 <p><stage><lb n="153826"/>(in dignified ventriloquy)</stage> 'Tis the loud laugh bespeaks the vacant mind. <stage>(to
 <lb n="153827"/>Bloom)</stage> Thou thoughtest as how thou wastest invisible. Gaze. <stage>(he crows
 <lb n="153828"/>with a black capon's laugh)</stage> Iagogo! How my Oldfellow chokit his
@@ -3848,9 +3848,9 @@
 <lb n="153847"/>flaunting aloft.)</stage>
 <sp who="fd"><speaker><lb n="153848"/>Freddy</speaker>
 <p><lb n="153849"/>Ah, ma, you're dragging me along!</p></sp>
-<sp who="Susy Dignam"><speaker><lb n="153850"/>Susy</speaker>
+<sp who="sud"><speaker><lb n="153850"/>Susy</speaker>
 <p><lb n="153851"/>Mamma, the beeftea is fizzing over!</p></sp>
-<sp who="Shakespeare"><speaker><lb n="153852"/>Shakespeare</speaker>
+<sp who="ws"><speaker><lb n="153852"/>Shakespeare</speaker>
 <p><stage><lb n="153853"/>(with paralytic rage)</stage> Weda seca whokilla farst.</p></sp>
 <stage><lb n="153854"/>(The face of Martin Cunningham, bearded, refeatures
 <lb n="153855"/>Shakespeare's beardless face. The marquee umbrella sways
@@ -4534,7 +4534,7 @@
 <lb n="154533"/>hands)</stage>
 <lb n="154534"/>I bear no hate to a living thing,
 <lb n="154535"/>But I love my country beyond the king.</p></sp>
-<sp who="Rumbold"><speaker><lb n="154536"/>Rumbold, Demon Barber</speaker>
+<sp who="hr"><speaker><lb n="154536"/>Rumbold, Demon Barber</speaker>
 <p><stage><lb n="154537"/>(accompanied by two blackmasked assistants, advances with gladstone bag
 <lb n="154538"/>which he opens)</stage> Ladies and gents, cleaver purchased by Mrs Pearcy to slay
 <lb n="154539"/>Mogg. Knife with which Voisin dismembered the wife of a compatriot and
@@ -4551,7 +4551,7 @@
 <lb n="154550"/>Mrs Bellingham, Mrs Yelverton Barry and the Honourable Mrs
 <lb n="154551"/>Mervyn Talboys rush forward with their handkerchiefs to sop it
 <lb n="154552"/>up.)</stage>
-<sp who="Rumbold"><speaker><lb n="154553"/>Rumbold</speaker>
+<sp who="hr"><speaker><lb n="154553"/>Rumbold</speaker>
 <p><lb n="154554"/>I'm near it myself. <stage>(he undoes the noose)</stage> Rope which hanged the awful
 <lb n="154555"/>rebel. Ten shillings a time. As applied to Her Royal Highness. <stage>(he plunges
 <lb n="154556"/>his head into the gaping belly of the hanged and draws out his head again
@@ -4606,7 +4606,7 @@
 <sp who="lb"><speaker><lb n="154605"/>Bloom</speaker>
 <p><stage><lb n="154606"/>(to the redcoats)</stage> We fought for you in South Africa, Irish missile troops.
 <lb n="154607"/>Isn't that history? Royal Dublin Fusiliers. Honoured by our monarch.</p></sp>
-<sp who="The Navvy"><speaker><lb n="154608"/>The Navvy</speaker>
+<sp who="unav"><speaker><lb n="154608"/>The Navvy</speaker>
 <p><stage><lb n="154609"/>(staggering past)</stage> O, yes! O God, yes! O, make the kwawr a krowawr! O!
 <lb n="154610"/>Bo!</p></sp>
 <stage><lb n="154611"/>(Casqued halberdiers in armour thrust forward a pentice of gutted
@@ -4615,7 +4615,7 @@
 <lb n="154614"/>gilt chevrons and sabretaches, his breast bright with medals, toes
 <lb n="154615"/>the line. He gives the pilgrim warrior's sign of the knights
 <lb n="154616"/>templars.)</stage>
-<sp who="Major Brian Tweedy"><speaker><lb n="154617"/>Major Tweedy</speaker>
+<sp who="bt"><speaker><lb n="154617"/>Major Tweedy</speaker>
 <p><stage><lb n="154618"/>(growls gruffly)</stage> Rorke's Drift! Up, guards, and at them! Mahar shalal
 <lb n="154619"/>hashbaz.</p></sp>
 <sp who="tc"><speaker><lb n="154620"/>The Citizen</speaker>
@@ -4749,7 +4749,7 @@
 <lb n="154748"/>the face. Stephen totters, collapses, falls, stunned. He lies prone, his
 <lb n="154749"/>face to the sky, his hat rolling to the wall. Bloom follows and picks it
 <lb n="154750"/>up.)</stage>
-<sp who="Major Brian Tweedy"><speaker><lb n="154751"/>Major Tweedy</speaker>
+<sp who="bt"><speaker><lb n="154751"/>Major Tweedy</speaker>
 <p><stage><lb n="154752"/>(loudly)</stage> Carbine in bucket! Cease fire! Salute!</p></sp>
 <sp who="The Retriever"><speaker><lb n="154753"/>The Retriever</speaker>
 <p><stage><lb n="154754"/>(barking furiously)</stage> Ute ute ute ute ute ute ute ute.</p></sp>
