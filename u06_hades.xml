@@ -2,11 +2,11 @@
 <p><lb n="060001"/>Martin Cunningham, first, poked his silkhatted head into the creaking
 <lb n="060002"/>carriage and, entering deftly, seated himself. Mr Power stepped in after him,
 <lb n="060003"/>curving his height with care.
-<lb n="060004"/><said who="unclear: Cunningham or Power">―Come on, Simon.</said>
-<lb n="060005"/><said who="Leopold Bloom">―After you,</said> Mr Bloom said.</p>
+<lb n="060004"/><said xml:id="060004_unclear" who="mc">―Come on, Simon.<certainty target="#060004_unclear" match="@who" locus="value" assertedValue="jp" degree="0.5"><desc>It's unclear whether Cunningham or Power speaks.</desc></certainty></said>
+<lb n="060005"/><said who="lb">―After you,</said> Mr Bloom said.</p>
 <p><lb n="060006"/>Mr Dedalus covered himself quickly and got in, saying:
-<lb n="060007"/><said who="Simon Dedalus">―Yes, yes.</said>
-<lb n="060008"/><said who="Martin Cunningham">―Are we all here now?</said> Martin Cunningham asked. <said who="Martin Cunningham">Come along, Bloom.</said></p>
+<lb n="060007"/><said who="sid">―Yes, yes.</said>
+<lb n="060008"/><said who="mc">―Are we all here now?</said> Martin Cunningham asked. <said who="mc">Come along, Bloom.</said></p>
 <p><lb n="060009"/>Mr Bloom entered and sat in the vacant place. He pulled the door to
 <lb n="060010"/>after him and slammed it twice till it shut tight. He passed an arm through
 <lb n="060011"/>the armstrap and looked seriously from the open carriagewindow at the
@@ -31,25 +31,25 @@
 <lb n="060030"/>passing along the tramtracks. Tritonville road. Quicker. The wheels rattled
 <lb n="060031"/>rolling over the cobbled causeway and the crazy glasses shook rattling in
 <lb n="060032"/>the doorframes.
-<lb n="060033"/><said who="Jack Power">―What way is he taking us?</said> Mr Power asked through both windows.
-<lb n="060034"/><said who="Martin Cunningham">―Irishtown,</said> Martin Cunningham said. <said who="Martin Cunningham">Ringsend. Brunswick street.</said></p>
+<lb n="060033"/><said who="jp">―What way is he taking us?</said> Mr Power asked through both windows.
+<lb n="060034"/><said who="mc">―Irishtown,</said> Martin Cunningham said. <said who="mc">Ringsend. Brunswick street.</said></p>
 <p><lb n="060035"/>Mr Dedalus nodded, looking out.
-<lb n="060036"/><said who="Simon Dedalus">―That's a fine old custom,</said> he said. <said who="Simon Dedalus">I am glad to see it has not died out.</said></p>
+<lb n="060036"/><said who="sid">―That's a fine old custom,</said> he said. <said who="sid">I am glad to see it has not died out.</said></p>
 <p><lb n="060037"/>All watched awhile through their windows caps and hats lifted by
 <lb n="060038"/>passers. Respect. The carriage swerved from the tramtrack to the smoother
 <lb n="060039"/>road past Watery lane. Mr Bloom at gaze saw a lithe young man, clad in
 <lb n="060040"/>mourning, a wide hat.
-<lb n="060041"/><said who="Leopold Bloom">―There's a friend of yours gone by, Dedalus,</said> he said.
-<lb n="060042"/><said who="Simon Dedalus">―Who is that?</said>
-<lb n="060043"/><said who="Leopold Bloom">―Your son and heir.</said>
-<lb n="060044"/><said who="Simon Dedalus">―Where is he?</said> Mr Dedalus said, stretching over across.</p>
+<lb n="060041"/><said who="lb">―There's a friend of yours gone by, Dedalus,</said> he said.
+<lb n="060042"/><said who="sid">―Who is that?</said>
+<lb n="060043"/><said who="lb">―Your son and heir.</said>
+<lb n="060044"/><said who="sid">―Where is he?</said> Mr Dedalus said, stretching over across.</p>
 <p><lb n="060045"/>The carriage, passing the open drains and mounds of rippedup
 <lb n="060046"/>roadway before the tenement houses, lurched round the corner and,
 <lb n="060047"/>swerving back to the tramtrack, rolled on noisily with chattering wheels.
 <lb n="060048"/>Mr Dedalus fell back, saying:
-<lb n="060049"/><said who="Simon Dedalus">―Was that Mulligan cad with him? His <foreign xml:lang="la">fidus Achates</foreign>!</said>
-<lb n="060050"/><said who="Leopold Bloom">―No,</said> Mr Bloom said. <said who="Leopold Bloom">He was alone.</said>
-<lb n="060051"/><said who="Simon Dedalus">―Down with his aunt Sally, I suppose,</said> Mr Dedalus said, <said who="Simon Dedalus">the Goulding
+<lb n="060049"/><said who="sid">―Was that Mulligan cad with him? His <foreign xml:lang="la">fidus Achates</foreign>!</said>
+<lb n="060050"/><said who="lb">―No,</said> Mr Bloom said. <said who="lb">He was alone.</said>
+<lb n="060051"/><said who="sid">―Down with his aunt Sally, I suppose,</said> Mr Dedalus said, <said who="sid">the Goulding
 <lb n="060052"/>faction, the drunken little costdrawer and Crissie, papa's little lump of
 <lb n="060053"/>dung, the wise child that knows her own father.</said></p>
 <p><lb n="060054"/>Mr Bloom smiled joylessly on Ringsend road. Wallace Bros: the
@@ -61,14 +61,14 @@
 <lb n="060060"/>Beginning to tell on him now: that backache of his, I fear. Wife ironing his
 <lb n="060061"/>back. Thinks he'll cure it with pills. All breadcrumbs they are. About six
 <lb n="060062"/>hundred per cent profit.
-<lb n="060063"/><said who="Simon Dedalus">―He's in with a lowdown crowd,</said> Mr Dedalus snarled. <said who="Simon Dedalus">That Mulligan is a
+<lb n="060063"/><said who="sid">―He's in with a lowdown crowd,</said> Mr Dedalus snarled. <said who="sid">That Mulligan is a
 <lb n="060064"/>contaminated bloody doubledyed ruffian by all accounts. His name stinks
 <lb n="060065"/>all over Dublin. But with the help of God and His blessed mother I'll make
 <lb n="060066"/>it my business to write a letter one of those days to his mother or his aunt or
 <lb n="060067"/>whatever she is that will open her eye as wide as a gate. I'll tickle his
 <lb n="060068"/>catastrophe, believe you me.</said></p>
 <p><lb n="060069"/>He cried above the clatter of the wheels:
-<lb n="060070"/><said who="Simon Dedalus">―I won't have her bastard of a nephew ruin my son. A counterjumper's
+<lb n="060070"/><said who="sid">―I won't have her bastard of a nephew ruin my son. A counterjumper's
 <lb n="060071"/>son. Selling tapes in my cousin, Peter Paul M'Swiney's. Not likely.</said></p>
 <p><lb n="060072"/>He ceased. Mr Bloom glanced from his angry moustache to Mr
 <lb n="060073"/>Power's mild face and Martin Cunningham's eyes and beard, gravely
@@ -83,42 +83,42 @@
 <p><lb n="060082"/>Got big then. Had to refuse the Greystones concert. My son inside
 <lb n="060083"/>her. I could have helped him on in life. I could. Make him independent.
 <lb n="060084"/>Learn German too.
-<lb n="060085"/><said who="Jack Power">―Are we late?</said> Mr Power asked.
-<lb n="060086"/><said who="Martin Cunningham">―Ten minutes,</said> Martin Cunningham said, looking at his watch.</p>
+<lb n="060085"/><said who="jp">―Are we late?</said> Mr Power asked.
+<lb n="060086"/><said who="mc">―Ten minutes,</said> Martin Cunningham said, looking at his watch.</p>
 <p><lb n="060087"/>Molly. Milly. Same thing watered down. Her tomboy oaths. O
 <lb n="060088"/>jumping Jupiter! Ye gods and little fishes! Still, she's a dear girl. Soon be a
 <lb n="060089"/>woman. Mullingar. Dearest Papli. Young student. Yes, yes: a woman too.
 <lb n="060090"/>Life, life.</p>
 <p><lb n="060091"/>The carriage heeled over and back, their four trunks swaying.
-<lb n="060092"/><said who="Jack Power">―Corny might have given us a more commodious yoke,</said> Mr Power said.
-<lb n="060093"/><said who="Simon Dedalus">―He might,</said> Mr Dedalus said, <said who="Simon Dedalus">if he hadn't that squint troubling him. <said who="Corny Kelleher" rend="none">Do
+<lb n="060092"/><said who="jp">―Corny might have given us a more commodious yoke,</said> Mr Power said.
+<lb n="060093"/><said who="sid">―He might,</said> Mr Dedalus said, <said who="sid">if he hadn't that squint troubling him. <said who="ck" rend="none">Do
 <lb n="060094"/>you follow me?</said></said></p>
 <p><lb n="060095"/>He closed his left eye. Martin Cunningham began to brush away
 <lb n="060096"/>crustcrumbs from under his thighs.
-<lb n="060097"/><said who="Martin Cunningham">―What is this,</said> he said, <said who="Martin Cunningham">in the name of God? Crumbs?</said>
-<lb n="060098"/><said who="Jack Power">―Someone seems to have been making a picnic party here lately,</said> Mr Power
+<lb n="060097"/><said who="mc">―What is this,</said> he said, <said who="mc">in the name of God? Crumbs?</said>
+<lb n="060098"/><said who="jp">―Someone seems to have been making a picnic party here lately,</said> Mr Power
 <lb n="060099"/>said.</p>
 <p><lb n="060100"/>All raised their thighs and eyed with disfavour the mildewed
 <lb n="060101"/>buttonless leather of the seats. Mr Dedalus, twisting his nose, frowned
 <lb n="060102"/>downward and said:
-<lb n="060103"/><said who="Simon Dedalus">―Unless I'm greatly mistaken ... What do you think, Martin?</said>
-<lb n="060104"/><said who="Martin Cunningham">―It struck me too,</said> Martin Cunningham said.</p>
+<lb n="060103"/><said who="sid">―Unless I'm greatly mistaken ... What do you think, Martin?</said>
+<lb n="060104"/><said who="mc">―It struck me too,</said> Martin Cunningham said.</p>
 <p><lb n="060105"/>Mr Bloom set his thigh down. Glad I took that bath. Feel my feet
 <lb n="060106"/>quite clean. But I wish Mrs Fleming had darned these socks better.</p>
 <p><lb n="060107"/>Mr Dedalus sighed resignedly.
-<lb n="060108"/><said who="Simon Dedalus">―After all,</said> he said, <said who="Simon Dedalus">it's the most natural thing in the world.</said>
-<lb n="060109"/><said who="Martin Cunningham">―Did Tom Kernan turn up?</said> Martin Cunningham asked, twirling the peak
+<lb n="060108"/><said who="sid">―After all,</said> he said, <said who="sid">it's the most natural thing in the world.</said>
+<lb n="060109"/><said who="mc">―Did Tom Kernan turn up?</said> Martin Cunningham asked, twirling the peak
 <lb n="060110"/>of his beard gently.
-<lb n="060111"/><said who="Leopold Bloom">―Yes,</said> Mr Bloom answered. <said who="Leopold Bloom">He's behind with Ned Lambert and Hynes.</said>
-<lb n="060112"/><said who="Jack Power">―And Corny Kelleher himself?</said> Mr Power asked.
-<lb n="060113"/><said who="Martin Cunningham">―At the cemetery,</said> Martin Cunningham said.
-<lb n="060114"/><said who="Leopold Bloom">―I met M'Coy this morning,</said> Mr Bloom said. <said who="Leopold Bloom">He said he'd try to come.</said></p>
+<lb n="060111"/><said who="lb">―Yes,</said> Mr Bloom answered. <said who="lb">He's behind with Ned Lambert and Hynes.</said>
+<lb n="060112"/><said who="jp">―And Corny Kelleher himself?</said> Mr Power asked.
+<lb n="060113"/><said who="mc">―At the cemetery,</said> Martin Cunningham said.
+<lb n="060114"/><said who="lb">―I met M'Coy this morning,</said> Mr Bloom said. <said who="lb">He said he'd try to come.</said></p>
 <p><lb n="060115"/>The carriage halted short.
 <lb n="060116"/><said who="unclear">―What's wrong?</said>
 <lb n="060117"/><said who="unclear">―We're stopped.</said>
 <lb n="060118"/><said who="unclear">―Where are we?</said></p>
 <p><lb n="060119"/>Mr Bloom put his head out of the window.
-<lb n="060120"/><said who="Leopold Bloom">―The grand canal,</said> he said.</p>
+<lb n="060120"/><said who="lb">―The grand canal,</said> he said.</p>
 <p><lb n="060121"/>Gasworks. Whooping cough they say it cures. Good job Milly never
 <lb n="060122"/>got it. Poor children! Doubles them up black and blue in convulsions.
 <lb n="060123"/>Shame really. Got off lightly with illnesses compared. Only measles.
@@ -130,31 +130,31 @@
 <p><lb n="060129"/>A raindrop spat on his hat. He drew back and saw an instant of
 <lb n="060130"/>shower spray dots over the grey flags. Apart. Curious. Like through a
 <lb n="060131"/>colander. I thought it would. My boots were creaking I remember now.
-<lb n="060132"/><said who="Leopold Bloom">―The weather is changing,</said> he said quietly.
-<lb n="060133"/><said who="Martin Cunningham">―A pity it did not keep up fine,</said> Martin Cunningham said.
-<lb n="060134"/><said who="Jack Power">―Wanted for the country,</said> Mr Power said. <said who="Jack Power">There's the sun again coming
+<lb n="060132"/><said who="lb">―The weather is changing,</said> he said quietly.
+<lb n="060133"/><said who="mc">―A pity it did not keep up fine,</said> Martin Cunningham said.
+<lb n="060134"/><said who="jp">―Wanted for the country,</said> Mr Power said. <said who="jp">There's the sun again coming
 <lb n="060135"/>out.</said></p>
 <p><lb n="060136"/>Mr Dedalus, peering through his glasses towards the veiled sun,
 <lb n="060137"/>hurled a mute curse at the sky.
-<lb n="060138"/><said who="Simon Dedalus">―It's as uncertain as a child's bottom,</said> he said.
+<lb n="060138"/><said who="sid">―It's as uncertain as a child's bottom,</said> he said.
 <lb n="060139"/><said who="unclear">―We're off again.</said></p>
 <p><lb n="060140"/>The carriage turned again its stiff wheels and their trunks swayed
 <lb n="060141"/>gently. Martin Cunningham twirled more quickly the peak of his beard.
-<lb n="060142"/><said who="Martin Cunningham">―Tom Kernan was immense last night,</said> he said. <said who="Martin Cunningham">And Paddy Leonard taking
+<lb n="060142"/><said who="mc">―Tom Kernan was immense last night,</said> he said. <said who="mc">And Paddy Leonard taking
 <lb n="060143"/>him off to his face.</said>
-<lb n="060144"/><said who="Jack Power">―O, draw him out, Martin,</said> Mr Power said eagerly. <said who="Jack Power">Wait till you hear him,
+<lb n="060144"/><said who="jp">―O, draw him out, Martin,</said> Mr Power said eagerly. <said who="jp">Wait till you hear him,
 <lb n="060145"/>Simon, on Ben Dollard's singing of <title type="song">The Croppy Boy</title>.</said>
-<lb n="060146"/><said who="Martin Cunningham">―Immense,</said> Martin Cunningham said pompously. <said who="Martin Cunningham"><said who="Tom Kernan" rend="italics">His singing of that simple
+<lb n="060146"/><said who="mc">―Immense,</said> Martin Cunningham said pompously. <said who="mc"><said who="tk" rend="italics">His singing of that simple
 <lb n="060147"/>ballad, Martin, is the most trenchant rendering I ever heard in the whole
 <lb n="060148"/>course of my experience.</said></said>
-<lb n="060149"/><said who="Jack Power">―<said who="Tom Kernan" rend="italics">Trenchant</said>,</said> Mr Power said laughing. <said who="Jack Power">He's dead nuts on that. And the
-<lb n="060150"/><said who="Tom Kernan" rend="italics">retrospective arrangement</said>.</said>
-<lb n="060151"/><said who="Martin Cunningham">―Did you read Dan Dawson's speech?</said> Martin Cunningham asked.
-<lb n="060152"/><said who="Simon Dedalus">―I did not then,</said> Mr Dedalus said. <said who="Simon Dedalus">Where is it?</said>
-<lb n="060153"/><said who="Martin Cunningham">―In the paper this morning.</said></p>
+<lb n="060149"/><said who="jp">―<said who="tk" rend="italics">Trenchant</said>,</said> Mr Power said laughing. <said who="jp">He's dead nuts on that. And the
+<lb n="060150"/><said who="tk" rend="italics">retrospective arrangement</said>.</said>
+<lb n="060151"/><said who="mc">―Did you read Dan Dawson's speech?</said> Martin Cunningham asked.
+<lb n="060152"/><said who="sid">―I did not then,</said> Mr Dedalus said. <said who="sid">Where is it?</said>
+<lb n="060153"/><said who="mc">―In the paper this morning.</said></p>
 <p><lb n="060154"/>Mr Bloom took the paper from his inside pocket. That book I must
 <lb n="060155"/>change for her.
-<lb n="060156"/><said who="Simon Dedalus">―No, no,</said> Mr Dedalus said quickly. <said who="Simon Dedalus">Later on please.</said></p>
+<lb n="060156"/><said who="sid">―No, no,</said> Mr Dedalus said quickly. <said who="sid">Later on please.</said></p>
 <p><lb n="060157"/>Mr Bloom's glance travelled down the edge of the paper, scanning the
 <lb n="060158"/>deaths: Callan, Coleman, Dignam, Fawcett, Lowry, Naumann, Peake, what
 <lb n="060159"/>Peake is that? is it the chap was in Crosbie and Alleyne's? no, Sexton,
@@ -162,10 +162,10 @@
 <lb n="060161"/>Thanks to the Little Flower. Sadly missed. To the inexpressible grief of his.
 <lb n="060162"/>Aged 88 after a long and tedious illness. Month's mind: Quinlan. On whose
 <lb n="060163"/>soul Sweet Jesus have mercy.</p>
-<lg rend="italics"><lb n="060164"/><said who="Freeman's Journal" rend="italics"><l>It is now a month since dear Henry fled</l>
+<q><lg rend="italics"><lb n="060164"/><l>It is now a month since dear Henry fled</l>
 <lb n="060165"/><l>To his home up above in the sky</l>
 <lb n="060166"/><l>While his family weeps and mourns his loss</l>
-        <lb n="060167"/><l>Hoping some day to meet him on high.</l></said></lg>
+<lb n="060167"/><l>Hoping some day to meet him on high.</l></lg></q>
 <p><lb n="060168"/>I tore up the envelope? Yes. Where did I put her letter after I read it in
 <lb n="060169"/>the bath? He patted his waistcoatpocket. There all right. Dear Henry fled.
 <lb n="060170"/>Before my patience are exhausted.</p>
@@ -190,11 +190,11 @@
 <lb n="060189"/>two. As broad as it's long.</p>
 <p><lb n="060190"/>He's coming in the afternoon. Her songs.</p>
 <p><lb n="060191"/>Plasto's. Sir Philip Crampton's memorial fountain bust. Who was he?
-<lb n="060192"/><said who="Martin Cunningham">―How do you do?</said> Martin Cunningham said, raising his palm to his brow
+<lb n="060192"/><said who="mc">―How do you do?</said> Martin Cunningham said, raising his palm to his brow
 <lb n="060193"/>in salute.
-<lb n="060194"/><said who="Jack Power">―He doesn't see us,</said> Mr Power said. <said who="Jack Power">Yes, he does. How do you do?</said>
-<lb n="060195"/><said who="Simon Dedalus">―Who?</said> Mr Dedalus asked.
-<lb n="060196"/><said who="Jack Power">―Blazes Boylan,</said> Mr Power said. <said who="Jack Power">There he is airing his quiff.</said></p>
+<lb n="060194"/><said who="jp">―He doesn't see us,</said> Mr Power said. <said who="jp">Yes, he does. How do you do?</said>
+<lb n="060195"/><said who="sid">―Who?</said> Mr Dedalus asked.
+<lb n="060196"/><said who="jp">―Blazes Boylan,</said> Mr Power said. <said who="jp">There he is airing his quiff.</said></p>
 <p><lb n="060197"/>Just that moment I was thinking.</p>
 <p><lb n="060198"/>Mr Dedalus bent across to salute. From the door of the Red Bank the
 <lb n="060199"/>white disc of a straw hat flashed reply: spruce figure: passed.</p>
@@ -210,26 +210,26 @@
 <p><lb n="060209"/>He clasped his hands between his knees and, satisfied, sent his vacant
 <lb n="060210"/>glance over their faces.</p>
 <p><lb n="060211"/>Mr Power asked:
-<lb n="060212"/><said who="Jack Power">―How is the concert tour getting on, Bloom?</said>
-<lb n="060213"/><said who="Leopold Bloom">―O, very well,</said> Mr Bloom said. <said who="Leopold Bloom">I hear great accounts of it. It's a good idea,
+<lb n="060212"/><said who="jp">―How is the concert tour getting on, Bloom?</said>
+<lb n="060213"/><said who="lb">―O, very well,</said> Mr Bloom said. <said who="lb">I hear great accounts of it. It's a good idea,
 <lb n="060214"/>you see ...</said>
 <lb n="060215"/><said who="unclear">―Are you going yourself?</said>
-<lb n="060216"/><said who="Leopold Bloom">―Well no,</said> Mr Bloom said. <said who="Leopold Bloom">In point of fact I have to go down to the county
+<lb n="060216"/><said who="lb">―Well no,</said> Mr Bloom said. <said who="lb">In point of fact I have to go down to the county
 <lb n="060217"/>Clare on some private business. You see the idea is to tour the chief towns.
 <lb n="060218"/>What you lose on one you can make up on the other.</said>
-<lb n="060219"/><said who="Martin Cunningham">―Quite so,</said> Martin Cunningham said. <said who="Martin Cunningham">Mary Anderson is up there now.
+<lb n="060219"/><said who="mc">―Quite so,</said> Martin Cunningham said. <said who="mc">Mary Anderson is up there now.
 <lb n="060220"/>Have you good artists?</said>
-<lb n="060221"/><said who="Leopold Bloom">―Louis Werner is touring her,</said> Mr Bloom said. <said who="Leopold Bloom">O yes, we'll have all
+<lb n="060221"/><said who="lb">―Louis Werner is touring her,</said> Mr Bloom said. <said who="lb">O yes, we'll have all
 <lb n="060222"/>topnobbers. J. C. Doyle and John MacCormack I hope and. The best, in
 <lb n="060223"/>fact.</said>
-<lb n="060224"/><said who="Jack Power">―And <foreign xml:lang="fr">madame</foreign>,</said> Mr Power said smiling. <said who="Jack Power">Last but not least.</said></p>
+<lb n="060224"/><said who="jp">―And <foreign xml:lang="fr">madame</foreign>,</said> Mr Power said smiling. <said who="jp">Last but not least.</said></p>
 <p><lb n="060225"/>Mr Bloom unclasped his hands in a gesture of soft politeness and
 <lb n="060226"/>clasped them. Smith O'Brien. Someone has laid a bunch of flowers there.
 <lb n="060227"/>Woman. Must be his deathday. For many happy returns. The carriage
 <lb n="060228"/>wheeling by Farrell's statue united noiselessly their unresisting knees.</p>
 <p><lb n="060229"/>Oot: a dullgarbed old man from the curbstone tendered his wares, his
 <lb n="060230"/>mouth opening: oot.
-<lb n="060231"/><said who="old man">―Four bootlaces for a penny.</said></p>
+<lb n="060231"/><said who="uom">―Four bootlaces for a penny.</said></p>
 <p><lb n="060232"/>Wonder why he was struck off the rolls. Had his office in Hume
 <lb n="060233"/>street. Same house as Molly's namesake, Tweedy, crown solicitor for
 <lb n="060234"/>Waterford. Has that silk hat ever since. Relics of old decency. Mourning
@@ -249,70 +249,70 @@
 <lb n="060248"/>rumpsteak. What is this she was? Barmaid in Jury's. Or the Moira, was it?</p>
 <p><lb n="060249"/>They passed under the hugecloaked Liberator's form.</p>
 <p><lb n="060250"/>Martin Cunningham nudged Mr Power.
-<lb n="060251"/><said who="Martin Cunningham">―Of the tribe of Reuben,</said> he said.</p>
+<lb n="060251"/><said who="mc">―Of the tribe of Reuben,</said> he said.</p>
 <p><lb n="060252"/>A tall blackbearded figure, bent on a stick, stumping round the corner
 <lb n="060253"/>of Elvery's Elephant house, showed them a curved hand open on his spine.
-<lb n="060254"/><said who="Jack Power">―In all his pristine beauty,</said> Mr Power said.</p>
+<lb n="060254"/><said who="jp">―In all his pristine beauty,</said> Mr Power said.</p>
 <p><lb n="060255"/>Mr Dedalus looked after the stumping figure and said mildly:
-<lb n="060256"/><said who="Simon Dedalus">―The devil break the hasp of your back!</said></p>
+<lb n="060256"/><said who="sid">―The devil break the hasp of your back!</said></p>
 <p><lb n="060257"/>Mr Power, collapsing in laughter, shaded his face from the window as
 <lb n="060258"/>the carriage passed Gray's statue.
-<lb n="060259"/><said who="Martin Cunningham">―We have all been there,</said> Martin Cunningham said broadly.</p>
+<lb n="060259"/><said who="mc">―We have all been there,</said> Martin Cunningham said broadly.</p>
 <p><lb n="060260"/>His eyes met Mr Bloom's eyes. He caressed his beard, adding:
-<lb n="060261"/><said who="Martin Cunningham">―Well, nearly all of us.</said></p>
+<lb n="060261"/><said who="mc">―Well, nearly all of us.</said></p>
 <p><lb n="060262"/>Mr Bloom began to speak with sudden eagerness to his companions'
 <lb n="060263"/>faces.
-<lb n="060264"/><said who="Leopold Bloom">―That's an awfully good one that's going the rounds about Reuben J and
+<lb n="060264"/><said who="lb">―That's an awfully good one that's going the rounds about Reuben J and
 <lb n="060265"/>the son.</said>
-<lb n="060266"/><said who="Jack Power">―About the boatman?</said> Mr Power asked.
-<lb n="060267"/><said who="Leopold Bloom">―Yes. Isn't it awfully good?</said>
-<lb n="060268"/><said who="Simon Dedalus">―What is that?</said> Mr Dedalus asked. <said who="Simon Dedalus">I didn't hear it.</said>
-<lb n="060269"/><said who="Leopold Bloom">―There was a girl in the case,</said> Mr Bloom began, <said who="Leopold Bloom">and he determined to send
+<lb n="060266"/><said who="jp">―About the boatman?</said> Mr Power asked.
+<lb n="060267"/><said who="lb">―Yes. Isn't it awfully good?</said>
+<lb n="060268"/><said who="sid">―What is that?</said> Mr Dedalus asked. <said who="sid">I didn't hear it.</said>
+<lb n="060269"/><said who="lb">―There was a girl in the case,</said> Mr Bloom began, <said who="lb">and he determined to send
 <lb n="060270"/>him to the Isle of Man out of harm's way but when they were both ...</said>
-<lb n="060271"/><said who="Simon Dedalus">―What?</said> Mr Dedalus asked. <said who="Simon Dedalus">That confirmed bloody hobbledehoy is it?</said>
-<lb n="060272"/><said who="Leopold Bloom">―Yes,</said> Mr Bloom said. <said who="Leopold Bloom">They were both on the way to the boat and he tried
+<lb n="060271"/><said who="sid">―What?</said> Mr Dedalus asked. <said who="sid">That confirmed bloody hobbledehoy is it?</said>
+<lb n="060272"/><said who="lb">―Yes,</said> Mr Bloom said. <said who="lb">They were both on the way to the boat and he tried
 <lb n="060273"/>to drown .....</said>
-<lb n="060274"/><said who="Simon Dedalus">―Drown Barabbas!</said> Mr Dedalus cried. <said who="Simon Dedalus">I wish to Christ he did!</said></p>
+<lb n="060274"/><said who="sid">―Drown Barabbas!</said> Mr Dedalus cried. <said who="sid">I wish to Christ he did!</said></p>
 <p><lb n="060275"/>Mr Power sent a long laugh down his shaded nostrils.
-<lb n="060276"/><said who="Leopold Bloom">―No,</said> Mr Bloom said, <said who="Leopold Bloom">the son himself ....</said></p>
+<lb n="060276"/><said who="lb">―No,</said> Mr Bloom said, <said who="lb">the son himself ....</said></p>
 <p><lb n="060277"/>Martin Cunningham thwarted his speech rudely:
-<lb n="060278"/><said who="Martin Cunningham">―Reuben J and the son were piking it down the quay next the river on their
+<lb n="060278"/><said who="mc">―Reuben J and the son were piking it down the quay next the river on their
 <lb n="060279"/>way to the Isle of Man boat and the young chiseller suddenly got loose and
 <lb n="060280"/>over the wall with him into the Liffey.</said>
-<lb n="060281"/><said who="Simon Dedalus">―For God' sake!</said> Mr Dedalus exclaimed in fright. <said who="Simon Dedalus">Is he dead?</said>
-<lb n="060282"/><said who="Martin Cunningham">―Dead!</said> Martin Cunningham cried. <said who="Martin Cunningham">Not he! A boatman got a pole and
+<lb n="060281"/><said who="sid">―For God' sake!</said> Mr Dedalus exclaimed in fright. <said who="sid">Is he dead?</said>
+<lb n="060282"/><said who="mc">―Dead!</said> Martin Cunningham cried. <said who="mc">Not he! A boatman got a pole and
 <lb n="060283"/>fished him out by the slack of the breeches and he was landed up to the
 <lb n="060284"/>father on the quay more dead than alive. Half the town was there.</said>
-<lb n="060285"/><said who="Leopold Bloom">―Yes,</said> Mr Bloom said. <said who="Leopold Bloom">But the funny part is ....</said>
-<lb n="060286"/><said who="Martin Cunningham">―And Reuben J,</said> Martin Cunningham said, <said who="Martin Cunningham">gave the boatman a florin for
+<lb n="060285"/><said who="lb">―Yes,</said> Mr Bloom said. <said who="lb">But the funny part is ....</said>
+<lb n="060286"/><said who="mc">―And Reuben J,</said> Martin Cunningham said, <said who="mc">gave the boatman a florin for
 <lb n="060287"/>saving his son's life.</said></p>
 <p><lb n="060288"/>A stifled sigh came from under Mr Power's hand.
-<lb n="060289"/><said who="Martin Cunningham">―O, he did,</said> Martin Cunningham affirmed. <said who="Martin Cunningham">Like a hero. A silver florin.</said>
-<lb n="060290"/><said who="Leopold Bloom">―Isn't it awfully good?</said> Mr Bloom said eagerly.
-<lb n="060291"/><said who="Simon Dedalus">―One and eightpence too much,</said> Mr Dedalus said drily.</p>
+<lb n="060289"/><said who="mc">―O, he did,</said> Martin Cunningham affirmed. <said who="mc">Like a hero. A silver florin.</said>
+<lb n="060290"/><said who="lb">―Isn't it awfully good?</said> Mr Bloom said eagerly.
+<lb n="060291"/><said who="sid">―One and eightpence too much,</said> Mr Dedalus said drily.</p>
 <p><lb n="060292"/>Mr Power's choked laugh burst quietly in the carriage.</p>
 <p><lb n="060293"/>Nelson's pillar.
-<lb n="060294"/><said who="plumseller">―Eight plums a penny! Eight for a penny!</said>
-<lb n="060295"/><said who="Martin Cunningham">―We had better look a little serious,</said> Martin Cunningham said.</p>
+<lb n="060294"/><said who="ups">―Eight plums a penny! Eight for a penny!</said>
+<lb n="060295"/><said who="mc">―We had better look a little serious,</said> Martin Cunningham said.</p>
 <p><lb n="060296"/>Mr Dedalus sighed.
-<lb n="060297"/><said who="Simon Dedalus">―Ah then indeed,</said> he said, <said who="Simon Dedalus">poor little Paddy wouldn't grudge us a laugh.
+<lb n="060297"/><said who="sid">―Ah then indeed,</said> he said, <said who="sid">poor little Paddy wouldn't grudge us a laugh.
 <lb n="060298"/>Many a good one he told himself.</said>
-<lb n="060299"/><said who="Jack Power">―The Lord forgive me!</said> Mr Power said, wiping his wet eyes with his
-<lb n="060300"/>fingers. <said who="Jack Power">Poor Paddy! I little thought a week ago when I saw him last and he
+<lb n="060299"/><said who="jp">―The Lord forgive me!</said> Mr Power said, wiping his wet eyes with his
+<lb n="060300"/>fingers. <said who="jp">Poor Paddy! I little thought a week ago when I saw him last and he
 <lb n="060301"/>was in his usual health that I'd be driving after him like this. He's gone
 <lb n="060302"/>from us.</said>
-<lb n="060303"/><said who="Simon Dedalus">―As decent a little man as ever wore a hat,</said> Mr Dedalus said. <said who="Simon Dedalus">He went very
+<lb n="060303"/><said who="sid">―As decent a little man as ever wore a hat,</said> Mr Dedalus said. <said who="sid">He went very
 <lb n="060304"/>suddenly.</said>
-<lb n="060305"/><said who="Martin Cunningham">―Breakdown,</said> Martin Cunningham said. <said who="Martin Cunningham">Heart.</said></p>
+<lb n="060305"/><said who="mc">―Breakdown,</said> Martin Cunningham said. <said who="mc">Heart.</said></p>
 <p><lb n="060306"/>He tapped his chest sadly.</p>
 <p><lb n="060307"/>Blazing face: redhot. Too much John Barleycorn. Cure for a red
 <lb n="060308"/>nose. Drink like the devil till it turns adelite. A lot of money he spent
 <lb n="060309"/>colouring it.</p>
 <p><lb n="060310"/>Mr Power gazed at the passing houses with rueful apprehension.
-<lb n="060311"/><said who="Jack Power">―He had a sudden death, poor fellow,</said> he said.
-<lb n="060312"/><said who="Leopold Bloom">―The best death,</said> Mr Bloom said.</p>
+<lb n="060311"/><said who="jp">―He had a sudden death, poor fellow,</said> he said.
+<lb n="060312"/><said who="lb">―The best death,</said> Mr Bloom said.</p>
 <p><lb n="060313"/>Their wideopen eyes looked at him.
-<lb n="060314"/><said who="Leopold Bloom">―No suffering,</said> he said. <said who="Leopold Bloom">A moment and all is over. Like dying in sleep.</said></p>
+<lb n="060314"/><said who="lb">―No suffering,</said> he said. <said who="lb">A moment and all is over. Like dying in sleep.</said></p>
 <p><lb n="060315"/>No-one spoke.</p>
 <p><lb n="060316"/>Dead side of the street this. Dull business by day, land agents,
 <lb n="060317"/>temperance hotel, Falconer's railway guide, civil service college, Gill's,
@@ -323,24 +323,24 @@
 <lb n="060322"/>corner, galloping. A tiny coffin flashed by. In a hurry to bury. A mourning
 <lb n="060323"/>coach. Unmarried. Black for the married. Piebald for bachelors. Dun for a
 <lb n="060324"/>nun.
-<lb n="060325"/><said who="Martin Cunningham">―Sad,</said> Martin Cunningham said. <said who="Martin Cunningham">A child.</said></p>
+<lb n="060325"/><said who="mc">―Sad,</said> Martin Cunningham said. <said who="mc">A child.</said></p>
 <p><lb n="060326"/>A dwarf's face, mauve and wrinkled like little Rudy's was. Dwarf's
 <lb n="060327"/>body, weak as putty, in a whitelined deal box. Burial friendly society pays.
 <lb n="060328"/>Penny a week for a sod of turf. Our. Little. Beggar. Baby. Meant nothing.
 <lb n="060329"/>Mistake of nature. If it's healthy it's from the mother. If not from the man.
 <lb n="060330"/>Better luck next time.
-<lb n="060331"/><said who="Simon Dedalus">―Poor little thing,</said> Mr Dedalus said. <said who="Simon Dedalus">It's well out of it.</said></p>
+<lb n="060331"/><said who="sid">―Poor little thing,</said> Mr Dedalus said. <said who="sid">It's well out of it.</said></p>
 <p><lb n="060332"/>The carriage climbed more slowly the hill of Rutland square. Rattle
 <lb n="060333"/>his bones. Over the stones. Only a pauper. Nobody owns.
-<lb n="060334"/><said who="Martin Cunningham">―In the midst of life,</said> Martin Cunningham said.
-<lb n="060335"/><said who="Jack Power">―But the worst of all,</said> Mr Power said, <said who="Jack Power">is the man who takes his own life.</said></p>
+<lb n="060334"/><said who="mc">―In the midst of life,</said> Martin Cunningham said.
+<lb n="060335"/><said who="jp">―But the worst of all,</said> Mr Power said, <said who="jp">is the man who takes his own life.</said></p>
 <p><lb n="060336"/>Martin Cunningham drew out his watch briskly, coughed and put it
 <lb n="060337"/>back.
-<lb n="060338"/><said who="Jack Power">―The greatest disgrace to have in the family,</said> Mr Power added.
-<lb n="060339"/><said who="Martin Cunningham">―Temporary insanity, of course,</said> Martin Cunningham said decisively. <said who="Martin Cunningham">We
+<lb n="060338"/><said who="jp">―The greatest disgrace to have in the family,</said> Mr Power added.
+<lb n="060339"/><said who="mc">―Temporary insanity, of course,</said> Martin Cunningham said decisively. <said who="mc">We
 <lb n="060340"/>must take a charitable view of it.</said>
-<lb n="060341"/><said who="Simon Dedalus">―They say a man who does it is a coward,</said> Mr Dedalus said.
-<lb n="060342"/><said who="Martin Cunningham">―It is not for us to judge,</said> Martin Cunningham said.</p>
+<lb n="060341"/><said who="sid">―They say a man who does it is a coward,</said> Mr Dedalus said.
+<lb n="060342"/><said who="mc">―It is not for us to judge,</said> Martin Cunningham said.</p>
 <p><lb n="060343"/>Mr Bloom, about to speak, closed his lips again. Martin
 <lb n="060344"/>Cunningham's large eyes. Looking away now. Sympathetic human man he
 <lb n="060345"/>is. Intelligent. Like Shakespeare's face. Always a good word to say. They
@@ -365,11 +365,11 @@
 <lb n="060364"/>Death by misadventure. The letter. For my son Leopold.</p>
 <p><lb n="060365"/>No more pain. Wake no more. Nobody owns.</p>
 <p><lb n="060366"/>The carriage rattled swiftly along Blessington street. Over the stones.
-<lb n="060367"/><said who="Martin Cunningham">―We are going the pace, I think,</said> Martin Cunningham said.
-<lb n="060368"/><said who="Jack Power">―God grant he doesn't upset us on the road,</said> Mr Power said.
-<lb n="060369"/><said who="Martin Cunningham">―I hope not,</said> Martin Cunningham said. <said who="Martin Cunningham">That will be a great race tomorrow
+<lb n="060367"/><said who="mc">―We are going the pace, I think,</said> Martin Cunningham said.
+<lb n="060368"/><said who="jp">―God grant he doesn't upset us on the road,</said> Mr Power said.
+<lb n="060369"/><said who="mc">―I hope not,</said> Martin Cunningham said. <said who="mc">That will be a great race tomorrow
 <lb n="060370"/>in Germany. The Gordon Bennett.</said>
-<lb n="060371"/><said who="Simon Dedalus">―Yes, by Jove,</said> Mr Dedalus said. <said who="Simon Dedalus">That will be worth seeing, faith.</said></p>
+<lb n="060371"/><said who="sid">―Yes, by Jove,</said> Mr Dedalus said. <said who="sid">That will be worth seeing, faith.</said></p>
 <p><lb n="060372"/>As they turned into Berkeley street a streetorgan near the Basin sent
 <lb n="060373"/>over and after them a rollicking rattling song of the halls. Has anybody
 <lb n="060374"/>here seen Kelly? Kay ee double ell wy. Dead March from <title type="oratorio">Saul</title>. He's as bad
@@ -387,9 +387,9 @@
 <lb n="060386"/>slouching by on padded hoofs, whisking their tails slowly on their clotted
 <lb n="060387"/>bony croups. Outside them and through them ran raddled sheep bleating
 <lb n="060388"/>their fear.
-<lb n="060389"/><said who="Jack Power">―Emigrants,</said> Mr Power said.
-<lb n="060390"/><said who="drover">―Huuuh!</said> the drover's voice cried, his switch sounding on their flanks.
-<lb n="060391"/><said who="drover">Huuuh! out of that!</said></p>
+<lb n="060389"/><said who="jp">―Emigrants,</said> Mr Power said.
+<lb n="060390"/><said who="ud">―Huuuh!</said> the drover's voice cried, his switch sounding on their flanks.
+<lb n="060391"/><said who="ud">Huuuh! out of that!</said></p>
 <p><lb n="060392"/>Thursday, of course. Tomorrow is killing day. Springers. Cuffe sold
 <lb n="060393"/>them about twentyseven quid each. For Liverpool probably. Roastbeef for
 <lb n="060394"/>old England. They buy up all the juicy ones. And then the fifth quarter lost:
@@ -398,34 +398,34 @@
 <lb n="060397"/>margarine. Wonder if that dodge works now getting dicky meat off the
 <lb n="060398"/>train at Clonsilla.</p>
 <p><lb n="060399"/>The carriage moved on through the drove.
-<lb n="060400"/><said who="Leopold Bloom">―I can't make out why the corporation doesn't run a tramline from the
-<lb n="060401"/>parkgate to the quays,</said> Mr Bloom said. <said who="Leopold Bloom">All those animals could be taken in
+<lb n="060400"/><said who="lb">―I can't make out why the corporation doesn't run a tramline from the
+<lb n="060401"/>parkgate to the quays,</said> Mr Bloom said. <said who="lb">All those animals could be taken in
 <lb n="060402"/>trucks down to the boats.</said>
-<lb n="060403"/><said who="Martin Cunningham">―Instead of blocking up the thoroughfare,</said> Martin Cunningham said. <said who="Martin Cunningham">Quite
+<lb n="060403"/><said who="mc">―Instead of blocking up the thoroughfare,</said> Martin Cunningham said. <said who="mc">Quite
 <lb n="060404"/>right. They ought to.</said>
-<lb n="060405"/><said who="Leopold Bloom">―Yes,</said> Mr Bloom said, <said who="Leopold Bloom">and another thing I often thought, is to have
+<lb n="060405"/><said who="lb">―Yes,</said> Mr Bloom said, <said who="lb">and another thing I often thought, is to have
 <lb n="060406"/>municipal funeral trams like they have in Milan, you know. Run the line out
 <lb n="060407"/>to the cemetery gates and have special trams, hearse and carriage and all.
 <lb n="060408"/>Don't you see what I mean?</said>
-<lb n="060409"/><said who="Simon Dedalus">―O, that be damned for a story,</said> Mr Dedalus said. <said who="Simon Dedalus">Pullman car and saloon
+<lb n="060409"/><said who="sid">―O, that be damned for a story,</said> Mr Dedalus said. <said who="sid">Pullman car and saloon
 <lb n="060410"/>diningroom.</said>
-<lb n="060411"/><said who="Jack Power">―A poor lookout for Corny,</said> Mr Power added.
-<lb n="060412"/><said who="Leopold Bloom">―Why?</said> Mr Bloom asked, turning to Mr Dedalus. <said who="Leopold Bloom">Wouldn't it be more
+<lb n="060411"/><said who="jp">―A poor lookout for Corny,</said> Mr Power added.
+<lb n="060412"/><said who="lb">―Why?</said> Mr Bloom asked, turning to Mr Dedalus. <said who="lb">Wouldn't it be more
 <lb n="060413"/>decent than galloping two abreast?</said>
-<lb n="060414"/><said who="Simon Dedalus">―Well, there's something in that,</said> Mr Dedalus granted.
-<lb n="060415"/><said who="Martin Cunningham">―And,</said> Martin Cunningham said, <said who="Martin Cunningham">we wouldn't have scenes like that when
+<lb n="060414"/><said who="sid">―Well, there's something in that,</said> Mr Dedalus granted.
+<lb n="060415"/><said who="mc">―And,</said> Martin Cunningham said, <said who="mc">we wouldn't have scenes like that when
 <lb n="060416"/>the hearse capsized round Dunphy's and upset the coffin on to the road.</said>
-<lb n="060417"/><said who="Jack Power">―That was terrible,</said> Mr Power's shocked face said, <said who="Jack Power">and the corpse fell
+<lb n="060417"/><said who="jp">―That was terrible,</said> Mr Power's shocked face said, <said who="jp">and the corpse fell
 <lb n="060418"/>about the road. Terrible!</said>
-<lb n="060419"/><said who="Simon Dedalus">―First round Dunphy's,</said> Mr Dedalus said, nodding. <said who="Simon Dedalus">Gordon Bennett cup.</said>
-<lb n="060420"/><said who="Martin Cunningham">―Praises be to God!</said> Martin Cunningham said piously.</p>
+<lb n="060419"/><said who="sid">―First round Dunphy's,</said> Mr Dedalus said, nodding. <said who="sid">Gordon Bennett cup.</said>
+<lb n="060420"/><said who="mc">―Praises be to God!</said> Martin Cunningham said piously.</p>
 <p><lb n="060421"/>Bom! Upset. A coffin bumped out on to the road. Burst open. Paddy
 <lb n="060422"/>Dignam shot out and rolling over stiff in the dust in a brown habit too large
 <lb n="060423"/>for him. Red face: grey now. Mouth fallen open. Asking what's up now.
 <lb n="060424"/>Quite right to close it. Looks horrid open. Then the insides decompose
 <lb n="060425"/>quickly. Much better to close up all the orifices. Yes, also. With wax. The
 <lb n="060426"/>sphincter loose. Seal up all.
-<lb n="060427"/><said who="Jack Power">―Dunphy's,</said> Mr Power announced as the carriage turned right.</p>
+<lb n="060427"/><said who="jp">―Dunphy's,</said> Mr Power announced as the carriage turned right.</p>
 <p><lb n="060428"/>Dunphy's corner. Mourning coaches drawn up, drowning their grief.
 <lb n="060429"/>A pause by the wayside. Tiptop position for a pub. Expect we'll pull up here
 <lb n="060430"/>on the way back to drink his health. Pass round the consolation. Elixir of
@@ -452,10 +452,10 @@
 <lb n="060451"/>Dublin. With turf from the midland bogs. Salute. He lifted his brown straw
 <lb n="060452"/>hat, saluting Paddy Dignam.</p>
 <p><lb n="060453"/>They drove on past Brian Boroimhe house. Near it now.
-<lb n="060454"/><said who="Jack Power">―I wonder how is our friend Fogarty getting on,</said> Mr Power said.
-<lb n="060455"/><said who="Simon Dedalus">―Better ask Tom Kernan,</said> Mr Dedalus said.
-<lb n="060456"/><said who="Martin Cunningham">―How is that?</said> Martin Cunningham said. <said who="Martin Cunningham">Left him weeping, I suppose?</said>
-<lb n="060457"/><said who="Simon Dedalus">―Though lost to sight,</said> Mr Dedalus said, <said who="Simon Dedalus">to memory dear.</said></p>
+<lb n="060454"/><said who="jp">―I wonder how is our friend Fogarty getting on,</said> Mr Power said.
+<lb n="060455"/><said who="sid">―Better ask Tom Kernan,</said> Mr Dedalus said.
+<lb n="060456"/><said who="mc">―How is that?</said> Martin Cunningham said. <said who="mc">Left him weeping, I suppose?</said>
+<lb n="060457"/><said who="sid">―Though lost to sight,</said> Mr Dedalus said, <said who="sid">to memory dear.</said></p>
 <p><lb n="060458"/>The carriage steered left for Finglas road.</p>
 <p><lb n="060459"/>The stonecutter's yard on the right. Last lap. Crowded on the spit of
 <lb n="060460"/>land silent shapes appeared, white, sorrowful, holding out calm hands, knelt
@@ -467,11 +467,11 @@
 <lb n="060466"/>yawning boot. After life's journey.</p>
 <p><lb n="060467"/>Gloomy gardens then went by: one by one: gloomy houses.</p>
 <p><lb n="060468"/>Mr Power pointed.
-<lb n="060469"/><said who="Jack Power">―That is where Childs was murdered,</said> he said. <said who="Jack Power">The last house.</said>
-<lb n="060470"/><said who="Simon Dedalus">―So it is,</said> Mr Dedalus said. <said who="Simon Dedalus">A gruesome case. Seymour Bushe got him off.
+<lb n="060469"/><said who="jp">―That is where Childs was murdered,</said> he said. <said who="jp">The last house.</said>
+<lb n="060470"/><said who="sid">―So it is,</said> Mr Dedalus said. <said who="sid">A gruesome case. Seymour Bushe got him off.
 <lb n="060471"/>Murdered his brother. Or so they said.</said>
-<lb n="060472"/><said who="Jack Power">―The crown had no evidence,</said> Mr Power said.
-<lb n="060473"/><said who="Martin Cunningham">―Only circumstantial,</said> Martin Cunningham added. <said who="Martin Cunningham">That's the maxim of
+<lb n="060472"/><said who="jp">―The crown had no evidence,</said> Mr Power said.
+<lb n="060473"/><said who="mc">―Only circumstantial,</said> Martin Cunningham added. <said who="mc">That's the maxim of
 <lb n="060474"/>the law. Better for ninetynine guilty to escape than for one innocent person
 <lb n="060475"/>to be wrongfully condemned.</said></p>
 <p><lb n="060476"/>They looked. Murderer's ground. It passed darkly. Shuttered,
@@ -525,22 +525,22 @@
 <lb n="060524"/>their wreaths. Who is that beside them? Ah, the brother-in-law.</p>
 <p><lb n="060525"/>All walked after.</p>
 <p><lb n="060526"/>Martin Cunningham whispered:
-<lb n="060527"/><said who="Martin Cunningham">―I was in mortal agony with you talking of suicide before Bloom.</said>
-<lb n="060528"/><said who="Jack Power">―What?</said> Mr Power whispered. <said who="Jack Power">How so?</said>
-<lb n="060529"/><said who="Martin Cunningham">―His father poisoned himself,</said> Martin Cunningham whispered. <said who="Martin Cunningham">Had the
+<lb n="060527"/><said who="mc">―I was in mortal agony with you talking of suicide before Bloom.</said>
+<lb n="060528"/><said who="jp">―What?</said> Mr Power whispered. <said who="jp">How so?</said>
+<lb n="060529"/><said who="mc">―His father poisoned himself,</said> Martin Cunningham whispered. <said who="mc">Had the
 <lb n="060530"/>Queen's hotel in Ennis. You heard him say he was going to Clare.
 <lb n="060531"/>Anniversary.</said>
-<lb n="060532"/><said who="Jack Power">―O God!</said> Mr Power whispered. <said who="Jack Power">First I heard of it. Poisoned himself?</said></p>
+<lb n="060532"/><said who="jp">―O God!</said> Mr Power whispered. <said who="jp">First I heard of it. Poisoned himself?</said></p>
 <p><lb n="060533"/>He glanced behind him to where a face with dark thinking eyes
 <lb n="060534"/>followed towards the cardinal's mausoleum. Speaking.
-<lb n="060535"/><said who="Leopold Bloom">―Was he insured?</said> Mr Bloom asked.
-<lb n="060536"/><said who="Tom Kernan">―I believe so,</said> Mr Kernan answered. <said who="Tom Kernan">But the policy was heavily mortgaged.
+<lb n="060535"/><said who="lb">―Was he insured?</said> Mr Bloom asked.
+<lb n="060536"/><said who="tk">―I believe so,</said> Mr Kernan answered. <said who="tk">But the policy was heavily mortgaged.
 <lb n="060537"/>Martin is trying to get the youngster into Artane.</said>
-<lb n="060538"/><said who="Leopold Bloom">―How many children did he leave?</said>
-<lb n="060539"/><said who="Tom Kernan">―Five. Ned Lambert says he'll try to get one of the girls into Todd's.</said>
-<lb n="060540"/><said who="Leopold Bloom">―A sad case,</said> Mr Bloom said gently. <said who="Leopold Bloom">Five young children.</said>
-<lb n="060541"/><said who="Tom Kernan">―A great blow to the poor wife,</said> Mr Kernan added.
-<lb n="060542"/><said who="Leopold Bloom">―Indeed yes,</said> Mr Bloom agreed.</p>
+<lb n="060538"/><said who="lb">―How many children did he leave?</said>
+<lb n="060539"/><said who="tk">―Five. Ned Lambert says he'll try to get one of the girls into Todd's.</said>
+<lb n="060540"/><said who="lb">―A sad case,</said> Mr Bloom said gently. <said who="lb">Five young children.</said>
+<lb n="060541"/><said who="tk">―A great blow to the poor wife,</said> Mr Kernan added.
+<lb n="060542"/><said who="lb">―Indeed yes,</said> Mr Bloom agreed.</p>
 <p><lb n="060543"/>Has the laugh at him now.</p>
 <p><lb n="060544"/>He looked down at the boots he had blacked and polished. She had
 <lb n="060545"/>outlived him. Lost her husband. More dead for her than for me. One must
@@ -554,24 +554,24 @@
 <lb n="060553"/>Something new to hope for not like the past she wanted back, waiting. It
 <lb n="060554"/>never comes. One must go first: alone, under the ground: and lie no more
 <lb n="060555"/>in her warm bed.
-<lb n="060556"/><said who="Ned Lambert">―How are you, Simon?</said> Ned Lambert said softly, clasping hands. <said who="Ned Lambert">Haven't
+<lb n="060556"/><said who="nl">―How are you, Simon?</said> Ned Lambert said softly, clasping hands. <said who="nl">Haven't
 <lb n="060557"/>seen you for a month of Sundays.</said>
-<lb n="060558"/><said who="Simon Dedalus">―Never better. How are all in Cork's own town?</said>
-<lb n="060559"/><said who="Ned Lambert">―I was down there for the Cork park races on Easter Monday,</said> Ned
-<lb n="060560"/>Lambert said. <said who="Ned Lambert">Same old six and eightpence. Stopped with Dick Tivy.</said>
-<lb n="060561"/><said who="Simon Dedalus">―And how is Dick, the solid man?</said>
-<lb n="060562"/><said who="Ned Lambert">―Nothing between himself and heaven,</said> Ned Lambert answered.
-<lb n="060563"/><said who="Simon Dedalus">―By the holy Paul!</said> Mr Dedalus said in subdued wonder. <said who="Simon Dedalus">Dick Tivy bald?</said>
-<lb n="060564"/><said who="Ned Lambert">―Martin is going to get up a whip for the youngsters,</said> Ned Lambert said,
-<lb n="060565"/>pointing ahead. <said who="Ned Lambert">A few bob a skull. Just to keep them going till the insurance
+<lb n="060558"/><said who="sid">―Never better. How are all in Cork's own town?</said>
+<lb n="060559"/><said who="nl">―I was down there for the Cork park races on Easter Monday,</said> Ned
+<lb n="060560"/>Lambert said. <said who="nl">Same old six and eightpence. Stopped with Dick Tivy.</said>
+<lb n="060561"/><said who="sid">―And how is Dick, the solid man?</said>
+<lb n="060562"/><said who="nl">―Nothing between himself and heaven,</said> Ned Lambert answered.
+<lb n="060563"/><said who="sid">―By the holy Paul!</said> Mr Dedalus said in subdued wonder. <said who="sid">Dick Tivy bald?</said>
+<lb n="060564"/><said who="nl">―Martin is going to get up a whip for the youngsters,</said> Ned Lambert said,
+<lb n="060565"/>pointing ahead. <said who="nl">A few bob a skull. Just to keep them going till the insurance
 <lb n="060566"/>is cleared up.</said>
-<lb n="060567"/><said who="Simon Dedalus">―Yes, yes,</said> Mr Dedalus said dubiously. <said who="Simon Dedalus">Is that the eldest boy in front?</said>
-<lb n="060568"/><said who="Ned Lambert">―Yes,</said> Ned Lambert said, <said who="Ned Lambert">with the wife's brother. John Henry Menton is
+<lb n="060567"/><said who="sid">―Yes, yes,</said> Mr Dedalus said dubiously. <said who="sid">Is that the eldest boy in front?</said>
+<lb n="060568"/><said who="nl">―Yes,</said> Ned Lambert said, <said who="nl">with the wife's brother. John Henry Menton is
 <lb n="060569"/>behind. He put down his name for a quid.</said>
-<lb n="060570"/><said who="Simon Dedalus">―I'll engage he did,</said> Mr Dedalus said. <said who="Simon Dedalus">I often told poor Paddy he ought to
+<lb n="060570"/><said who="sid">―I'll engage he did,</said> Mr Dedalus said. <said who="sid">I often told poor Paddy he ought to
 <lb n="060571"/>mind that job. John Henry is not the worst in the world.</said>
-<lb n="060572"/><said who="Ned Lambert">―How did he lose it?</said> Ned Lambert asked. <said who="Ned Lambert">Liquor, what?</said>
-<lb n="060573"/><said who="Simon Dedalus">―Many a good man's fault,</said> Mr Dedalus said with a sigh.</p>
+<lb n="060572"/><said who="nl">―How did he lose it?</said> Ned Lambert asked. <said who="nl">Liquor, what?</said>
+<lb n="060573"/><said who="sid">―Many a good man's fault,</said> Mr Dedalus said with a sigh.</p>
 <p><lb n="060574"/>They halted about the door of the mortuary chapel. Mr Bloom stood
 <lb n="060575"/>behind the boy with the wreath looking down at his sleekcombed hair and
 <lb n="060576"/>at the slender furrowed neck inside his brandnew collar. Poor boy! Was he
@@ -599,7 +599,7 @@
 <lb n="060598"/>sideways like a sheep in clover Dedalus says he will. With a belly on him
 <lb n="060599"/>like a poisoned pup. Most amusing expressions that man finds. Hhhn: burst
 <lb n="060600"/>sideways.
-<lb n="060601"/><said who="Fr Coffey">―<foreign xml:lang="la">Non intres in judicium cum servo tuo, Domine.</foreign></said></p>
+<lb n="060601"/><said who="frc">―<foreign xml:lang="la">Non intres in judicium cum servo tuo, Domine.</foreign></said></p>
 <p><lb n="060602"/>Makes them feel more important to be prayed over in Latin. Requiem
 <lb n="060603"/>mass. Crape weepers. Blackedged notepaper. Your name on the altarlist.
 <lb n="060604"/>Chilly place this. Want to feed well, sitting in there all the morning in the
@@ -616,7 +616,7 @@
 <lb n="060615"/>bucket and shook it over the coffin. Then he walked to the other end and
 <lb n="060616"/>shook it again. Then he came back and put it back in the bucket. As you
 <lb n="060617"/>were before you rested. It's all written down: he has to do it.
-<lb n="060618"/><said who="Fr Coffey">―<foreign xml:lang="la">Et ne nos inducas in tentationem.</foreign></said></p>
+<lb n="060618"/><said who="frc">―<foreign xml:lang="la">Et ne nos inducas in tentationem.</foreign></said></p>
 <p><lb n="060619"/>The server piped the answers in the treble. I often thought it would be
 <lb n="060620"/>better to have boy servants. Up to fifteen or so. After that, of course ...</p>
 <p><lb n="060621"/>Holy water that was, I expect. Shaking sleep out of it. He must be fed
@@ -626,7 +626,7 @@
 <lb n="060625"/>men with beards, baldheaded businessmen, consumptive girls with little
 <lb n="060626"/>sparrows' breasts. All the year round he prayed the same thing over them
 <lb n="060627"/>all and shook water on top of them: sleep. On Dignam now.
-<lb n="060628"/><said who="Fr Coffey">―<foreign xml:lang="la">In paradisum.</foreign></said></p>
+<lb n="060628"/><said who="frc">―<foreign xml:lang="la">In paradisum.</foreign></said></p>
 <p><lb n="060629"/>Said he was going to paradise or is in paradise. Says that over
 <lb n="060630"/>everybody. Tiresome kind of a job. But he has to say something.</p>
 <p><lb n="060631"/>The priest closed his book and went off, followed by the server.
@@ -639,37 +639,37 @@
 <lb n="060638"/>with a sharp grating cry and the pack of blunt boots followed the trundled
 <lb n="060639"/>barrow along a lane of sepulchres.</p>
 <p><lb n="060640"/>The ree the ra the ree the ra the roo. Lord, I mustn't lilt here.
-<lb n="060641"/><said who="Simon Dedalus">―The O'Connell circle,</said> Mr Dedalus said about him.</p>
+<lb n="060641"/><said who="sid">―The O'Connell circle,</said> Mr Dedalus said about him.</p>
 <p><lb n="060642"/>Mr Power's soft eyes went up to the apex of the lofty cone.
-<lb n="060643"/><said who="Jack Power">―He's at rest,</said> he said, <said who="Jack Power">in the middle of his people, old Dan O'. But his heart
+<lb n="060643"/><said who="jp">―He's at rest,</said> he said, <said who="jp">in the middle of his people, old Dan O'. But his heart
 <lb n="060644"/>is buried in Rome. How many broken hearts are buried here, Simon!</said>
-<lb n="060645"/><said who="Simon Dedalus">―Her grave is over there, Jack,</said> Mr Dedalus said. <said who="Simon Dedalus">I'll soon be stretched
+<lb n="060645"/><said who="sid">―Her grave is over there, Jack,</said> Mr Dedalus said. <said who="sid">I'll soon be stretched
 <lb n="060646"/>beside her. Let Him take me whenever He likes.</said></p>
 <p><lb n="060647"/>Breaking down, he began to weep to himself quietly, stumbling a little
 <lb n="060648"/>in his walk. Mr Power took his arm.
-<lb n="060649"/><said who="Jack Power">―She's better where she is,</said> he said kindly.
-<lb n="060650"/><said who="Simon Dedalus">―I suppose so,</said> Mr Dedalus said with a weak gasp. <said who="Simon Dedalus">I suppose she is in
+<lb n="060649"/><said who="jp">―She's better where she is,</said> he said kindly.
+<lb n="060650"/><said who="sid">―I suppose so,</said> Mr Dedalus said with a weak gasp. <said who="sid">I suppose she is in
 <lb n="060651"/>heaven if there is a heaven.</said></p>
 <p><lb n="060652"/>Corny Kelleher stepped aside from his rank and allowed the
 <lb n="060653"/>mourners to plod by.
-<lb n="060654"/><said who="Tom Kernan">―Sad occasions,</said> Mr Kernan began politely.</p>
+<lb n="060654"/><said who="tk">―Sad occasions,</said> Mr Kernan began politely.</p>
 <p><lb n="060655"/>Mr Bloom closed his eyes and sadly twice bowed his head.
-<lb n="060656"/><said who="Tom Kernan">―The others are putting on their hats,</said> Mr Kernan said. <said who="Tom Kernan">I suppose we can
+<lb n="060656"/><said who="tk">―The others are putting on their hats,</said> Mr Kernan said. <said who="tk">I suppose we can
 <lb n="060657"/>do so too. We are the last. This cemetery is a treacherous place.</said></p>
 <p><lb n="060658"/>They covered their heads.
-<lb n="060659"/><said who="Tom Kernan">―The reverend gentleman read the service too quickly, don't you think?</said> Mr
+<lb n="060659"/><said who="tk">―The reverend gentleman read the service too quickly, don't you think?</said> Mr
 <lb n="060660"/>Kernan said with reproof.</p>
 <p><lb n="060661"/>Mr Bloom nodded gravely looking in the quick bloodshot eyes. Secret
 <lb n="060662"/>eyes, secretsearching. Mason, I think: not sure. Beside him again. We are
 <lb n="060663"/>the last. In the same boat. Hope he'll say something else.</p>
 <p><lb n="060664"/>Mr Kernan added:
-<lb n="060665"/><said who="Tom Kernan">―The service of the Irish church used in Mount Jerome is simpler, more
+<lb n="060665"/><said who="tk">―The service of the Irish church used in Mount Jerome is simpler, more
 <lb n="060666"/>impressive I must say.</said></p>
 <p><lb n="060667"/>Mr Bloom gave prudent assent. The language of course was another
 <lb n="060668"/>thing.</p>
 <p><lb n="060669"/>Mr Kernan said with solemnity:
-<lb n="060670"/><said who="Tom Kernan">―<quote>I am the resurrection and the life.</quote> That touches a man's inmost heart.</said>
-<lb n="060671"/><said who="Leopold Bloom">―It does,</said> Mr Bloom said.</p>
+<lb n="060670"/><said who="tk">―<quote>I am the resurrection and the life.</quote> That touches a man's inmost heart.</said>
+<lb n="060671"/><said who="lb">―It does,</said> Mr Bloom said.</p>
 <p><lb n="060672"/>Your heart perhaps but what price the fellow in the six feet by two
 <lb n="060673"/>with his toes to the daisies? No touching that. Seat of the affections. Broken
 <lb n="060674"/>heart. A pump after all, pumping thousands of gallons of blood every day.
@@ -682,45 +682,45 @@
 <lb n="060681"/>damn all of himself that morning. Pennyweight of powder in a skull.
 <lb n="060682"/>Twelve grammes one pennyweight. Troy measure.</p>
 <p><lb n="060683"/>Corny Kelleher fell into step at their side.
-<lb n="060684"/><said who="Corny Kelleher">―Everything went off A 1,</said> he said. <said who="Corny Kelleher">What?</said></p>
+<lb n="060684"/><said who="ck">―Everything went off A 1,</said> he said. <said who="ck">What?</said></p>
 <p><lb n="060685"/>He looked on them from his drawling eye. Policeman's shoulders.
 <lb n="060686"/>With your tooraloom tooraloom.
-<lb n="060687"/><said who="Tom Kernan">―As it should be,</said> Mr Kernan said.
-<lb n="060688"/><said who="Corny Kelleher">―What? Eh?</said> Corny Kelleher said.</p>
+<lb n="060687"/><said who="tk">―As it should be,</said> Mr Kernan said.
+<lb n="060688"/><said who="ck">―What? Eh?</said> Corny Kelleher said.</p>
 <p><lb n="060689"/>Mr Kernan assured him.
-<lb n="060690"/><said who="John Henry Menton">―Who is that chap behind with Tom Kernan?</said> John Henry Menton asked. <said who="John Henry Menton">I
+<lb n="060690"/><said who="jhm">―Who is that chap behind with Tom Kernan?</said> John Henry Menton asked. <said who="jhm">I
 <lb n="060691"/>know his face.</said></p>
 <p><lb n="060692"/>Ned Lambert glanced back.
-<lb n="060693"/><said who="Ned Lambert">―Bloom,</said> he said, <said who="Ned Lambert">Madame Marion Tweedy that was, is, I mean, the
+<lb n="060693"/><said who="nl">―Bloom,</said> he said, <said who="nl">Madame Marion Tweedy that was, is, I mean, the
 <lb n="060694"/>soprano. She's his wife.</said>
-<lb n="060695"/><said who="John Henry Menton">―O, to be sure,</said> John Henry Menton said. <said who="John Henry Menton">I haven't seen her for some time.
+<lb n="060695"/><said who="jhm">―O, to be sure,</said> John Henry Menton said. <said who="jhm">I haven't seen her for some time.
 <lb n="060696"/>She was a finelooking woman. I danced with her, wait, fifteen seventeen
 <lb n="060697"/>golden years ago, at Mat Dillon's in Roundtown. And a good armful she
 <lb n="060698"/>was.</said></p>
 <p><lb n="060699"/>He looked behind through the others.
-<lb n="060700"/><said who="John Henry Menton">―What is he?</said> he asked. <said who="John Henry Menton">What does he do? Wasn't he in the stationery line?
+<lb n="060700"/><said who="jhm">―What is he?</said> he asked. <said who="jhm">What does he do? Wasn't he in the stationery line?
 <lb n="060701"/>I fell foul of him one evening, I remember, at bowls.</said></p>
 <p><lb n="060702"/>Ned Lambert smiled.
-<lb n="060703"/><said who="Ned Lambert">―Yes, he was,</said> he said, <said who="Ned Lambert">in Wisdom Hely's. A traveller for blottingpaper.</said>
-<lb n="060704"/><said who="John Henry Menton">―In God's name,</said> John Henry Menton said, <said who="John Henry Menton">what did she marry a coon like
+<lb n="060703"/><said who="nl">―Yes, he was,</said> he said, <said who="nl">in Wisdom Hely's. A traveller for blottingpaper.</said>
+<lb n="060704"/><said who="jhm">―In God's name,</said> John Henry Menton said, <said who="jhm">what did she marry a coon like
 <lb n="060705"/>that for? She had plenty of game in her then.</said>
-<lb n="060706"/><said who="Ned Lambert">―Has still,</said> Ned Lambert said. <said who="Ned Lambert">He does some canvassing for ads.</said></p>
+<lb n="060706"/><said who="nl">―Has still,</said> Ned Lambert said. <said who="nl">He does some canvassing for ads.</said></p>
 <p><lb n="060707"/>John Henry Menton's large eyes stared ahead.</p>
 <p><lb n="060708"/>The barrow turned into a side lane. A portly man, ambushed among
 <lb n="060709"/>the grasses, raised his hat in homage. The gravediggers touched their caps.
-<lb n="060710"/><said who="Jack Power">―John O'Connell,</said> Mr Power said pleased. <said who="Jack Power">He never forgets a friend.</said></p>
+<lb n="060710"/><said who="jp">―John O'Connell,</said> Mr Power said pleased. <said who="jp">He never forgets a friend.</said></p>
 <p><lb n="060711"/>Mr O'Connell shook all their hands in silence. Mr Dedalus said:
-<lb n="060712"/><said who="Simon Dedalus">―I am come to pay you another visit.</said>
-<lb n="060713"/><said who="John O'Connell">―My dear Simon,</said> the caretaker answered in a low voice. <said who="John O'Connell">I don't want your
+<lb n="060712"/><said who="sid">―I am come to pay you another visit.</said>
+<lb n="060713"/><said who="joc">―My dear Simon,</said> the caretaker answered in a low voice. <said who="joc">I don't want your
 <lb n="060714"/>custom at all.</said></p>
 <p><lb n="060715"/>Saluting Ned Lambert and John Henry Menton he walked on at
 <lb n="060716"/>Martin Cunningham's side puzzling two long keys at his back.
-<lb n="060717"/><said who="John O'Connell">―Did you hear that one,</said> he asked them, <said who="John O'Connell">about Mulcahy from the Coombe?</said>
-<lb n="060718"/><said who="Martin Cunningham">―I did not,</said> Martin Cunningham said.</p>
+<lb n="060717"/><said who="joc">―Did you hear that one,</said> he asked them, <said who="joc">about Mulcahy from the Coombe?</said>
+<lb n="060718"/><said who="mc">―I did not,</said> Martin Cunningham said.</p>
 <p><lb n="060719"/>They bent their silk hats in concert and Hynes inclined his ear. The
 <lb n="060720"/>caretaker hung his thumbs in the loops of his gold watchchain and spoke in
 <lb n="060721"/>a discreet tone to their vacant smiles.
-<lb n="060722"/><said who="John O'Connell">―They tell the story,</said> he said, <said who="John O'Connell">that two drunks came out here one foggy
+<lb n="060722"/><said who="joc">―They tell the story,</said> he said, <said who="joc">that two drunks came out here one foggy
 <lb n="060723"/>evening to look for the grave of a friend of theirs. They asked for Mulcahy
 <lb n="060724"/>from the Coombe and were told where he was buried. After traipsing about
 <lb n="060725"/>in the fog they found the grave sure enough. One of the drunks spelt out the
@@ -728,14 +728,14 @@
 <lb n="060727"/>Our Saviour the widow had got put up.</said></p>
 <p><lb n="060728"/>The caretaker blinked up at one of the sepulchres they passed. He
 <lb n="060729"/>resumed:
-<lb n="060730"/><said who="John O'Connell">―And, after blinking up at the sacred figure, <said who="drunk" rend="italics">Not a bloody bit like the man</said>,
-<lb n="060731"/>says he. <said who="drunk" rend="italics">That's not Mulcahy</said>, says he, <said who="drunk" rend="italics">whoever done it</said>.</said></p>
+<lb n="060730"/><said who="joc">―And, after blinking up at the sacred figure, <said who="udr" rend="italics">Not a bloody bit like the man</said>,
+<lb n="060731"/>says he. <said who="udr" rend="italics">That's not Mulcahy</said>, says he, <said who="udr" rend="italics">whoever done it</said>.</said></p>
 <p><lb n="060732"/>Rewarded by smiles he fell back and spoke with Corny Kelleher,
 <lb n="060733"/>accepting the dockets given him, turning them over and scanning them as he
 <lb n="060734"/>walked.
-<lb n="060735"/><said who="Martin Cunningham">―That's all done with a purpose,</said> Martin Cunningham explained to Hynes.
-<lb n="060736"/><said who="Joe Hynes">―I know,</said> Hynes said. <said who="Joe Hynes">I know that.</said>
-<lb n="060737"/><said who="Martin Cunningham">―To cheer a fellow up,</said> Martin Cunningham said. <said who="Martin Cunningham">It's pure good-
+<lb n="060735"/><said who="mc">―That's all done with a purpose,</said> Martin Cunningham explained to Hynes.
+<lb n="060736"/><said who="jh">―I know,</said> Hynes said. <said who="jh">I know that.</said>
+<lb n="060737"/><said who="mc">―To cheer a fellow up,</said> Martin Cunningham said. <said who="mc">It's pure good-
 <lb n="060738"/>heartedness: damn the thing else.</said></p>
 <p><lb n="060739"/>Mr Bloom admired the caretaker's prosperous bulk. All want to be on
 <lb n="060740"/>good terms with him. Decent fellow, John O'Connell, real good sort. Keys:
@@ -795,8 +795,8 @@
 <lb n="060794"/>two years at least. <foreign xml:lang="la">De mortuis nil nisi prius.</foreign> Go out of mourning first. Hard
 <lb n="060795"/>to imagine his funeral. Seems a sort of a joke. Read your own obituary
 <lb n="060796"/>notice they say you live longer. Gives you second wind. New lease of life.
-<lb n="060797"/><said who="John O'Connell">―How many have you for tomorrow?</said> the caretaker asked.
-<lb n="060798"/><said who="Corny Kelleher">―Two,</said> Corny Kelleher said. <said who="Corny Kelleher">Half ten and eleven.</said></p>
+<lb n="060797"/><said who="joc">―How many have you for tomorrow?</said> the caretaker asked.
+<lb n="060798"/><said who="ck">―Two,</said> Corny Kelleher said. <said who="ck">Half ten and eleven.</said></p>
 <p><lb n="060799"/>The caretaker put the papers in his pocket. The barrow had ceased to
 <lb n="060800"/>trundle. The mourners split and moved to each side of the hole, stepping
 <lb n="060801"/>with care round the graves. The gravediggers bore the coffin and set its nose
@@ -878,31 +878,31 @@
 <lb n="060877"/>ground, he traversed the dismal fields.</p>
 <p><lb n="060878"/>Hynes jotting down something in his notebook. Ah, the names. But he
 <lb n="060879"/>knows them all. No: coming to me.
-<lb n="060880"/><said who="Joe Hynes">―I am just taking the names,</said> Hynes said below his breath. <said who="Joe Hynes">What is your
+<lb n="060880"/><said who="jh">―I am just taking the names,</said> Hynes said below his breath. <said who="jh">What is your
 <lb n="060881"/>christian name? I'm not sure.</said>
-<lb n="060882"/><said who="Leopold Bloom">―L,</said> Mr Bloom said. <said who="Leopold Bloom">Leopold. And you might put down M'Coy's name too.
+<lb n="060882"/><said who="lb">―L,</said> Mr Bloom said. <said who="lb">Leopold. And you might put down M'Coy's name too.
 <lb n="060883"/>He asked me to.</said>
-<lb n="060884"/><said who="Joe Hynes">―Charley,</said> Hynes said writing. <said who="Joe Hynes">I know. He was on the <title type="newspaper">Freeman</title> once.</said></p>
+<lb n="060884"/><said who="jh">―Charley,</said> Hynes said writing. <said who="jh">I know. He was on the <title type="newspaper">Freeman</title> once.</said></p>
 <p><lb n="060885"/>So he was before he got the job in the morgue under Louis Byrne.
 <lb n="060886"/>Good idea a postmortem for doctors. Find out what they imagine they
 <lb n="060887"/>know. He died of a Tuesday. Got the run. Levanted with the cash of a few
 <lb n="060888"/>ads. Charley, you're my darling. That was why he asked me to. O well,
 <lb n="060889"/>does no harm. I saw to that, M'Coy. Thanks, old chap: much obliged.
 <lb n="060890"/>Leave him under an obligation: costs nothing.
-<lb n="060891"/><said who="Joe Hynes">―And tell us,</said> Hynes said, <said who="Joe Hynes">do you know that fellow in the, fellow was over
+<lb n="060891"/><said who="jh">―And tell us,</said> Hynes said, <said who="jh">do you know that fellow in the, fellow was over
 <lb n="060892"/>there in the ...</said></p>
 <p><lb n="060893"/>He looked around.
-<lb n="060894"/><said who="Leopold Bloom">―Macintosh. Yes, I saw him,</said> Mr Bloom said. <said who="Leopold Bloom">Where is he now?</said>
-<lb n="060895"/><said who="Joe Hynes">―M'Intosh,</said> Hynes said scribbling. <said who="Joe Hynes">I don't know who he is. Is that his
+<lb n="060894"/><said who="lb">―Macintosh. Yes, I saw him,</said> Mr Bloom said. <said who="lb">Where is he now?</said>
+<lb n="060895"/><said who="jh">―M'Intosh,</said> Hynes said scribbling. <said who="jh">I don't know who he is. Is that his
 <lb n="060896"/>name?</said></p>
 <p><lb n="060897"/>He moved away, looking about him.
-<lb n="060898"/><said who="Leopold Bloom">―No,</said> Mr Bloom began, turning and stopping. <said who="Leopold Bloom">I say, Hynes!</said></p>
+<lb n="060898"/><said who="lb">―No,</said> Mr Bloom began, turning and stopping. <said who="lb">I say, Hynes!</said></p>
 <p><lb n="060899"/>Didn't hear. What? Where has he disappeared to? Not a sign. Well of
 <lb n="060900"/>all the. Has anybody here seen? Kay ee double ell. Become invisible. Good
 <lb n="060901"/>Lord, what became of him?</p>
 <p><lb n="060902"/>A seventh gravedigger came beside Mr Bloom to take up an idle
 <lb n="060903"/>spade.
-<lb n="060904"/><said who="Leopold Bloom">―O, excuse me!</said></p>
+<lb n="060904"/><said who="lb">―O, excuse me!</said></p>
 <p><lb n="060905"/>He stepped aside nimbly.</p>
 <p><lb n="060906"/>Clay, brown, damp, began to be seen in the hole. It rose. Nearly over.
 <lb n="060907"/>A mound of damp clods rose more, rose, and the gravediggers rested their
@@ -917,14 +917,14 @@
 <lb n="060916"/>trouble. Headshake. I know that. For yourselves just.</p>
 <p><lb n="060917"/>The mourners moved away slowly without aim, by devious paths,
 <lb n="060918"/>staying at whiles to read a name on a tomb.
-<lb n="060919"/><said who="Joe Hynes">―Let us go round by the chief's grave,</said> Hynes said. <said who="Joe Hynes">We have time.</said>
-<lb n="060920"/><said who="Jack Power">―Let us,</said> Mr Power said.</p>
+<lb n="060919"/><said who="jh">―Let us go round by the chief's grave,</said> Hynes said. <said who="jh">We have time.</said>
+<lb n="060920"/><said who="jp">―Let us,</said> Mr Power said.</p>
 <p><lb n="060921"/>They turned to the right, following their slow thoughts. With awe Mr
 <lb n="060922"/>Power's blank voice spoke:
-<lb n="060923"/><said who="Jack Power">―Some say he is not in that grave at all. That the coffin was filled with
+<lb n="060923"/><said who="jp">―Some say he is not in that grave at all. That the coffin was filled with
 <lb n="060924"/>stones. That one day he will come again.</said></p>
 <p><lb n="060925"/>Hynes shook his head.
-<lb n="060926"/><said who="Joe Hynes">―Parnell will never come again,</said> he said. <said who="Joe Hynes">He's there, all that was mortal of
+<lb n="060926"/><said who="jh">―Parnell will never come again,</said> he said. <said who="jh">He's there, all that was mortal of
 <lb n="060927"/>him. Peace to his ashes.</said></p>
 <p><lb n="060928"/>Mr Bloom walked unheeded along his grove by saddened angels,
 <lb n="060929"/>crosses, broken pillars, family vaults, stone hopes praying with upcast eyes,
@@ -1014,17 +1014,17 @@
 <lb n="061013"/>Molly and Floey Dillon linked under the lilactree, laughing. Fellow always
 <lb n="061014"/>like that, mortified if women are by.</p>
 <p><lb n="061015"/>Got a dinge in the side of his hat. Carriage probably.
-<lb n="061016"/><said who="Leopold Bloom">―Excuse me, sir,</said> Mr Bloom said beside them.</p>
+<lb n="061016"/><said who="lb">―Excuse me, sir,</said> Mr Bloom said beside them.</p>
 <p><lb n="061017"/>They stopped.
-<lb n="061018"/><said who="Leopold Bloom">―Your hat is a little crushed,</said> Mr Bloom said pointing.</p>
+<lb n="061018"/><said who="lb">―Your hat is a little crushed,</said> Mr Bloom said pointing.</p>
 <p><lb n="061019"/>John Henry Menton stared at him for an instant without moving.
-<lb n="061020"/><said who="Martin Cunningham">―There,</said> Martin Cunningham helped, pointing also.</p>
+<lb n="061020"/><said who="mc">―There,</said> Martin Cunningham helped, pointing also.</p>
 <p><lb n="061021"/>John Henry Menton took off his hat, bulged out the dinge and
 <lb n="061022"/>smoothed the nap with care on his coatsleeve. He clapped the hat on his
 <lb n="061023"/>head again.
-<lb n="061024"/><said who="Martin Cunningham">―It's all right now,</said> Martin Cunningham said.</p>
+<lb n="061024"/><said who="mc">―It's all right now,</said> Martin Cunningham said.</p>
 <p><lb n="061025"/>John Henry Menton jerked his head down in acknowledgment.
-<lb n="061026"/><said who="John Henry Menton">―Thank you,</said> he said shortly.</p>
+<lb n="061026"/><said who="jhm">―Thank you,</said> he said shortly.</p>
 <p><lb n="061027"/>They walked on towards the gates. Mr Bloom, chapfallen, drew
 <lb n="061028"/>behind a few paces so as not to overhear. Martin laying down the law.
 <lb n="061029"/>Martin could wind a sappyhead like that round his little finger, without his
