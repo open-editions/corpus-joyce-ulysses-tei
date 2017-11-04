@@ -67,7 +67,7 @@
 <lb n="080066"/>Solemn.</p>
 <quote><lg rend="italics"><lb n="080067"/><l>Hamlet, I am thy father's spirit</l>
 <lb n="080068"/><l>Doomed for a certain time to walk the earth.</l></lg></quote>
-<p><lb n="080069"/><said who="old applewoman">―Two apples a penny! Two for a penny!</said></p>
+<p><lb n="080069"/><said who="ua">―Two apples a penny! Two for a penny!</said></p>
 <p><lb n="080070"/>His gaze passed over the glazed apples serried on her stand.
 <lb n="080071"/>Australians they must be this time of year. Shiny peels: polishes them up
 <lb n="080072"/>with a rag or a handkerchief.</p>
@@ -140,7 +140,7 @@
 <lb n="080139"/>Plumtree's potted under the obituaries, cold meat department. You can't
 <lb n="080140"/>lick 'em. What? Our envelopes. Hello, Jones, where are you going? Can't
 <lb n="080141"/>stop, Robinson, I am hastening to purchase the only reliable inkeraser
-<lb n="080142"/><emph>Kansell</emph>, sold by Hely's Ltd, 85 Dame street. Well out of that ruck I am.
+<lb n="080142"/><name>Kansell</name>, sold by Hely's Ltd, 85 Dame street. Well out of that ruck I am.
 <lb n="080143"/>Devil of a job it was collecting accounts of those convents. Tranquilla
 <lb n="080144"/>convent. That was a nice nun there, really sweet face. Wimple suited her
 <lb n="080145"/>small head. Sister? Sister? I am sure she was crossed in love by her eyes.
@@ -181,7 +181,7 @@
 <lb n="080180"/>if he couldn't remember the dayfather's name that he sees every day.</p>
 <p><lb n="080181"/>Bartell d'Arcy was the tenor, just coming out then. Seeing her home
 <lb n="080182"/>after practice. Conceited fellow with his waxedup moustache. Gave her that
-<lb n="080183"/>song <emph>Winds that blow from the south</emph>.</p>
+<lb n="080183"/>song <quote>Winds that blow from the south</quote>.</p>
 <p><lb n="080184"/>Windy night that was I went to fetch her there was that lodge meeting
 <lb n="080185"/>on about those lottery tickets after Goodwin's concert in the supperroom or
 <lb n="080186"/>oakroom of the Mansion house. He and I behind. Sheet of her music blew
@@ -200,34 +200,34 @@
 <lb n="080199"/>her. Always liked to let her self out. Sitting there after till near two taking
 <lb n="080200"/>out her hairpins. Milly tucked up in beddyhouse. Happy. Happy. That was
 <lb n="080201"/>the night .....
-<lb n="080202"/><said who="Josie Breen">―O, Mr Bloom, how do you do?</said>
-<lb n="080203"/><said who="Leopold Bloom">―O, how do you do, Mrs Breen?</said>
-<lb n="080204"/><said who="Josie Breen">―No use complaining. How is Molly those times? Haven't seen her for
+<lb n="080202"/><said who="jb">―O, Mr Bloom, how do you do?</said>
+<lb n="080203"/><said who="lb">―O, how do you do, Mrs Breen?</said>
+<lb n="080204"/><said who="jb">―No use complaining. How is Molly those times? Haven't seen her for
 <lb n="080205"/>ages.</said>
-<lb n="080206"/><said who="Leopold Bloom">―In the pink,</said> Mr Bloom said gaily. <said who="Leopold Bloom">Milly has a position down in Mullingar,
+<lb n="080206"/><said who="lb">―In the pink,</said> Mr Bloom said gaily. <said who="lb">Milly has a position down in Mullingar,
 <lb n="080207"/>you know.</said>
-<lb n="080208"/><said who="Josie Breen">―Go away! Isn't that grand for her?</said>
-<lb n="080209"/><said who="Leopold Bloom">―Yes. In a photographer's there. Getting on like a house on fire. How are
+<lb n="080208"/><said who="jb">―Go away! Isn't that grand for her?</said>
+<lb n="080209"/><said who="lb">―Yes. In a photographer's there. Getting on like a house on fire. How are
 <lb n="080210"/>all your charges?</said>
-<lb n="080211"/><said who="Josie Breen">―All on the baker's list,</said> Mrs Breen said.</p>
+<lb n="080211"/><said who="jb">―All on the baker's list,</said> Mrs Breen said.</p>
 <p><lb n="080212"/>How many has she? No other in sight.
-<lb n="080213"/><said who="Josie Breen">―You're in black, I see. You have no ...?</said>
-<lb n="080214"/><said who="Leopold Bloom">―No,</said> Mr Bloom said. <said who="Leopold Bloom">I have just come from a funeral.</said></p>
+<lb n="080213"/><said who="jb">―You're in black, I see. You have no ...?</said>
+<lb n="080214"/><said who="lb">―No,</said> Mr Bloom said. <said who="lb">I have just come from a funeral.</said></p>
 <p><lb n="080215"/>Going to crop up all day, I foresee. Who's dead, when and what did
 <lb n="080216"/>he die of? Turn up like a bad penny.
-<lb n="080217"/><said who="Josie Breen">―O, dear me,</said> Mrs Breen said. <said who="Josie Breen">I hope it wasn't any near relation.</said></p>
+<lb n="080217"/><said who="jb">―O, dear me,</said> Mrs Breen said. <said who="jb">I hope it wasn't any near relation.</said></p>
 <p><lb n="080218"/>May as well get her sympathy.
-<lb n="080219"/><said who="Leopold Bloom">―Dignam,</said> Mr Bloom said. <said who="Leopold Bloom">An old friend of mine. He died quite suddenly,
+<lb n="080219"/><said who="lb">―Dignam,</said> Mr Bloom said. <said who="lb">An old friend of mine. He died quite suddenly,
 <lb n="080220"/>poor fellow. Heart trouble, I believe. Funeral was this morning.</said></p>
 <quote><lg rend="italics"><lb n="080221"/><l>Your funeral's tomorrow</l>
 <lb n="080222"/><l>While you're coming through the rye.</l>
 <lb n="080223"/><l>Diddlediddle dumdum</l>
 <lb n="080224"/><l>Diddlediddle ...</l></lg></quote>
-<p><lb n="080225"/><said who="Josie Breen">―Sad to lose the old friends,</said> Mrs Breen's womaneyes said melancholily.</p>
+<p><lb n="080225"/><said who="jb">―Sad to lose the old friends,</said> Mrs Breen's womaneyes said melancholily.</p>
 <p><lb n="080226"/>Now that's quite enough about that. Just: quietly: husband.
-<lb n="080227"/><said who="Leopold Bloom">―And your lord and master?</said></p>
+<lb n="080227"/><said who="lb">―And your lord and master?</said></p>
 <p><lb n="080228"/>Mrs Breen turned up her two large eyes. Hasn't lost them anyhow.
-<lb n="080229"/><said who="Josie Breen">―O, don't be talking!</said> she said. <said who="Josie Breen">He's a caution to rattlesnakes. He's in there
+<lb n="080229"/><said who="jb">―O, don't be talking!</said> she said. <said who="jb">He's a caution to rattlesnakes. He's in there
 <lb n="080230"/>now with his lawbooks finding out the law of libel. He has me heartscalded.
 <lb n="080231"/>Wait till I show you.</said></p>
 <p><lb n="080232"/>Hot mockturtle vapour and steam of newbaked jampuffs rolypoly
@@ -243,24 +243,24 @@
 <lb n="080242"/>Husband barging. Where's the ten shillings I gave you on Monday? Are
 <lb n="080243"/>you feeding your little brother's family? Soiled handkerchief:
 <lb n="080244"/>medicinebottle. Pastille that was fell. What is she ...?
-<lb n="080245"/><said who="Josie Breen">―There must be a new moon out,</said> she said. <said who="Josie Breen">He's always bad then. Do you
+<lb n="080245"/><said who="jb">―There must be a new moon out,</said> she said. <said who="jb">He's always bad then. Do you
 <lb n="080246"/>know what he did last night?</said></p>
 <p><lb n="080247"/>Her hand ceased to rummage. Her eyes fixed themselves on him, wide
 <lb n="080248"/>in alarm, yet smiling.
-<lb n="080249"/><said who="Leopold Bloom">―What?</said> Mr Bloom asked.</p>
+<lb n="080249"/><said who="lb">―What?</said> Mr Bloom asked.</p>
 <p><lb n="080250"/>Let her speak. Look straight in her eyes. I believe you. Trust me.
-<lb n="080251"/><said who="Josie Breen">―Woke me up in the night,</said> she said. <said who="Josie Breen">Dream he had, a nightmare.</said></p>
+<lb n="080251"/><said who="jb">―Woke me up in the night,</said> she said. <said who="jb">Dream he had, a nightmare.</said></p>
 <p><lb n="080252"/>Indiges.
-<lb n="080253"/><said who="Josie Breen">―Said the ace of spades was walking up the stairs.</said>
-<lb n="080254"/><said who="Leopold Bloom">―The ace of spades!</said> Mr Bloom said.</p>
+<lb n="080253"/><said who="jb">―Said the ace of spades was walking up the stairs.</said>
+<lb n="080254"/><said who="lb">―The ace of spades!</said> Mr Bloom said.</p>
 <p><lb n="080255"/>She took a folded postcard from her handbag.
-<lb n="080256"/><said who="Josie Breen">―Read that,</said> she said. <said who="Josie Breen">He got it this morning.</said>
-<lb n="080257"/><said who="Leopold Bloom">―What is it?</said> Mr Bloom asked, taking the card. <said who="Leopold Bloom">U. P.?</said>
-<lb n="080258"/><said who="Josie Breen">―U. p: up,</said> she said. <said who="Josie Breen">Someone taking a rise out of him. It's a great shame
+<lb n="080256"/><said who="jb">―Read that,</said> she said. <said who="jb">He got it this morning.</said>
+<lb n="080257"/><said who="lb">―What is it?</said> Mr Bloom asked, taking the card. <said who="lb">U. P.?</said>
+<lb n="080258"/><said who="jb">―U. p: up,</said> she said. <said who="jb">Someone taking a rise out of him. It's a great shame
 <lb n="080259"/>for them whoever he is.</said>
-<lb n="080260"/><said who="Leopold Bloom">―Indeed it is,</said> Mr Bloom said.</p>
+<lb n="080260"/><said who="lb">―Indeed it is,</said> Mr Bloom said.</p>
 <p><lb n="080261"/>She took back the card, sighing.
-<lb n="080262"/><said who="Josie Breen">―And now he's going round to Mr Menton's office. He's going to take an
+<lb n="080262"/><said who="jb">―And now he's going round to Mr Menton's office. He's going to take an
 <lb n="080263"/>action for ten thousand pounds,</said> he says.</p>
 <p><lb n="080264"/>She folded the card into her untidy bag and snapped the catch.</p>
 <p><lb n="080265"/>Same blue serge dress she had two years ago, the nap bleaching. Seen
@@ -274,39 +274,39 @@
 <lb n="080273"/>Rhubarb tart with liberal fillings, rich fruit interior. Josie Powell that was.
 <lb n="080274"/>In Luke Doyle's long ago. Dolphin's Barn, the charades. U. p: up.</p>
 <p><lb n="080275"/>Change the subject.
-<lb n="080276"/><said who="Leopold Bloom">―Do you ever see anything of Mrs Beaufoy?</said> Mr Bloom asked.
-<lb n="080277"/><said who="Josie Breen">―Mina Purefoy?</said> she said.</p>
+<lb n="080276"/><said who="lb">―Do you ever see anything of Mrs Beaufoy?</said> Mr Bloom asked.
+<lb n="080277"/><said who="jb">―Mina Purefoy?</said> she said.</p>
 <p><lb n="080278"/>Philip Beaufoy I was thinking. Playgoers' Club. Matcham often
 <lb n="080279"/>thinks of the masterstroke. Did I pull the chain? Yes. The last act.
-<lb n="080280"/><said who="Leopold Bloom">―Yes.</said>
-<lb n="080281"/><said who="Josie Breen">―I just called to ask on the way in is she over it. She's in the lying-in
+<lb n="080280"/><said who="lb">―Yes.</said>
+<lb n="080281"/><said who="jb">―I just called to ask on the way in is she over it. She's in the lying-in
 <lb n="080282"/>hospital in Holles street. Dr Horne got her in. She's three days bad now.</said>
-<lb n="080283"/><said who="Leopold Bloom">―O,</said> Mr Bloom said. <said who="Leopold Bloom">I'm sorry to hear that.</said>
-<lb n="080284"/><said who="Josie Breen">―Yes,</said> Mrs Breen said. <said who="Josie Breen">And a houseful of kids at home. It's a very stiff birth,
+<lb n="080283"/><said who="lb">―O,</said> Mr Bloom said. <said who="lb">I'm sorry to hear that.</said>
+<lb n="080284"/><said who="jb">―Yes,</said> Mrs Breen said. <said who="jb">And a houseful of kids at home. It's a very stiff birth,
 <lb n="080285"/>the nurse told me.</said>
-<lb n="080286"/><said who="Leopold Bloom">―O,</said> Mr Bloom said.</p>
+<lb n="080286"/><said who="lb">―O,</said> Mr Bloom said.</p>
 <p><lb n="080287"/>His heavy pitying gaze absorbed her news. His tongue clacked in
 <lb n="080288"/>compassion. Dth! Dth!
-<lb n="080289"/><said who="Leopold Bloom">―I'm sorry to hear that,</said> he said. <said who="Leopold Bloom">Poor thing! Three days! That's terrible
+<lb n="080289"/><said who="lb">―I'm sorry to hear that,</said> he said. <said who="lb">Poor thing! Three days! That's terrible
 <lb n="080290"/>for her.</said></p>
 <p><lb n="080291"/>Mrs Breen nodded.
-<lb n="080292"/><said who="Josie Breen">―She was taken bad on the Tuesday ...</said></p>
+<lb n="080292"/><said who="jb">―She was taken bad on the Tuesday ...</said></p>
 <p><lb n="080293"/>Mr Bloom touched her funnybone gently, warning her:
-<lb n="080294"/><said who="Leopold Bloom">―Mind! Let this man pass.</said></p>
+<lb n="080294"/><said who="lb">―Mind! Let this man pass.</said></p>
 <p><lb n="080295"/>A bony form strode along the curbstone from the river staring with a
 <lb n="080296"/>rapt gaze into the sunlight through a heavystringed glass. Tight as a
 <lb n="080297"/>skullpiece a tiny hat gripped his head. From his arm a folded dustcoat, a
 <lb n="080298"/>stick and an umbrella dangled to his stride.
-<lb n="080299"/><said who="Leopold Bloom">―Watch him,</said> Mr Bloom said. <said who="Leopold Bloom">He always walks outside the lampposts.
+<lb n="080299"/><said who="lb">―Watch him,</said> Mr Bloom said. <said who="lb">He always walks outside the lampposts.
 <lb n="080300"/>Watch!</said>
-<lb n="080301"/><said who="Josie Breen">―Who is he if it's a fair question?</said> Mrs Breen asked. <said who="Josie Breen">Is he dotty?</said>
-<lb n="080302"/><said who="Leopold Bloom">―His name is Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell,</said> Mr
-<lb n="080303"/>Bloom said smiling. <said who="Leopold Bloom">Watch!</said>
-<lb n="080304"/><said who="Josie Breen">―He has enough of them,</said> she said. <said who="Josie Breen">Denis will be like that one of these days.</said></p>
+<lb n="080301"/><said who="jb">―Who is he if it's a fair question?</said> Mrs Breen asked. <said who="jb">Is he dotty?</said>
+<lb n="080302"/><said who="lb">―His name is Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell,</said> Mr
+<lb n="080303"/>Bloom said smiling. <said who="lb">Watch!</said>
+<lb n="080304"/><said who="jb">―He has enough of them,</said> she said. <said who="jb">Denis will be like that one of these days.</said></p>
 <p><lb n="080305"/>She broke off suddenly.
-<lb n="080306"/><said who="Josie Breen">―There he is,</said> she said. <said who="Josie Breen">I must go after him. Goodbye. Remember me to
+<lb n="080306"/><said who="jb">―There he is,</said> she said. <said who="jb">I must go after him. Goodbye. Remember me to
 <lb n="080307"/>Molly, won't you?</said>
-<lb n="080308"/><said who="Leopold Bloom">―I will,</said> Mr Bloom said.</p>
+<lb n="080308"/><said who="lb">―I will,</said> Mr Bloom said.</p>
 <p><lb n="080309"/>He watched her dodge through passers towards the shopfronts. Denis
 <lb n="080310"/>Breen in skimpy frockcoat and blue canvas shoes shuffled out of Harrison's
 <lb n="080311"/>hugging two heavy tomes to his ribs. Blown in from the bay. Like old times.
@@ -414,8 +414,8 @@
 <lb n="080413"/>troughs. Prepare to receive cavalry. Prepare to receive soup.</p>
 <p><lb n="080414"/>He crossed under Tommy Moore's roguish finger. They did right to
 <lb n="080415"/>put him up over a urinal: meeting of the waters. Ought to be places for
-<lb n="080416"/>women. Running into cakeshops. Settle my hat straight. <title type="song">There is not in this
-<lb n="080417"/>wide world a vallee.</title> Great song of Julia Morkan's. Kept her voice up to the
+<lb n="080416"/>women. Running into cakeshops. Settle my hat straight. <quote>There is not in this
+<lb n="080417"/>wide world a vallee.</quote> Great song of Julia Morkan's. Kept her voice up to the
 <lb n="080418"/>very last. Pupil of Michael Balfe's, wasn't she?</p>
 <p><lb n="080419"/>He gazed after the last broad tunic. Nasty customers to tackle. Jack
 <lb n="080420"/>Power could a tale unfold: father a G man. If a fellow gave them trouble
@@ -432,9 +432,9 @@
 <lb n="080431"/>where Mrs Purefoy. Wheels within wheels. Police whistle in my ears still.
 <lb n="080432"/>All skedaddled. Why he fixed on me. Give me in charge. Right here it
 <lb n="080433"/>began.
-<lb n="080434"/><said who="young cub_1">―Up the Boers!</said>
-<lb n="080435"/><said who="young cub_2">―Three cheers for De Wet!</said>
-<lb n="080436"/><said who="young cub_3">―We'll hang Joe Chamberlain on a sourapple tree.</said></p>
+<lb n="080434"/><said who="uyc">―Up the Boers!</said>
+<lb n="080435"/><said who="uyc">―Three cheers for De Wet!</said>
+<lb n="080436"/><said who="uyc">―We'll hang Joe Chamberlain on a sourapple tree.</said></p>
 <p><lb n="080437"/>Silly billies: mob of young cubs yelling their guts out. Vinegar hill.
 <lb n="080438"/>The Butter exchange band. Few years' time half of them magistrates and
 <lb n="080439"/>civil servants. War comes on: into the army helterskelter: same fellows used
@@ -449,11 +449,11 @@
 <lb n="080448"/>gentleman does be visiting there? Was the young master saying anything?
 <lb n="080449"/>Peeping Tom through the keyhole. Decoy duck. Hotblooded young student
 <lb n="080450"/>fooling round her fat arms ironing.
-<lb n="080451"/><said who="hotblooded young student">―Are those yours, Mary?</said>
-<lb n="080452"/><said who="Mary slavey">―I don't wear such things ..... Stop or I'll tell the missus on you. Out half
+<lb n="080451"/><said who="uys">―Are those yours, Mary?</said>
+<lb n="080452"/><said who="ms">―I don't wear such things ..... Stop or I'll tell the missus on you. Out half
 <lb n="080453"/>the night.</said>
-<lb n="080454"/><said who="hotblooded young student">―There are great times coming, Mary. Wait till you see.</said>
-<lb n="080455"/><said who="Mary slavey">―Ah, gelong with your great times coming.</said></p>
+<lb n="080454"/><said who="uys">―There are great times coming, Mary. Wait till you see.</said>
+<lb n="080455"/><said who="ms">―Ah, gelong with your great times coming.</said></p>
 <p><lb n="080456"/>Barmaids too. Tobaccoshopgirls.</p>
 <p><lb n="080457"/>James Stephens' idea was the best. He knew them. Circles of ten so
 <lb n="080458"/>that a fellow couldn't round on more than his own ring. Sinn Fein. Back
@@ -518,7 +518,7 @@
 <lb n="080517"/>park. Simon Dedalus said when they put him in parliament that Parnell
 <lb n="080518"/>would come back from the grave and lead him out of the house of commons
 <lb n="080519"/>by the arm.
-<lb n="080520"/><said who="George Russell">―Of the twoheaded octopus, one of whose heads is the head upon which
+<lb n="080520"/><said who="ae">―Of the twoheaded octopus, one of whose heads is the head upon which
 <lb n="080521"/>the ends of the world have forgotten to come while the other speaks with a
 <lb n="080522"/>Scotch accent. The tentacles ....</said></p>
 <p><lb n="080523"/>They passed from behind Mr Bloom along the curbstone. Beard and
@@ -621,8 +621,8 @@
 <p><lb n="080620"/>He passed, dallying, the windows of Brown Thomas, silk mercers.
 <lb n="080621"/>Cascades of ribbons. Flimsy China silks. A tilted urn poured from its mouth
 <lb n="080622"/>a flood of bloodhued poplin: lustrous blood. The huguenots brought that
-<lb n="080623"/>here. <foreign xml:lang="it">Lacaus esant tara tara.</foreign> Great chorus that. <foreign xml:lang="it">Taree tara.</foreign> Must be washed
-<lb n="080624"/>in rainwater. Meyerbeer. <foreign xml:lang="it">Tara: bom bom bom.</foreign></p>
+<lb n="080623"/>here. <quote xml:lang="it">Lacaus esant tara tara.</quote> Great chorus that. <quote>Taree tara.</quote> Must be washed
+<lb n="080624"/>in rainwater. Meyerbeer. <quote>Tara: bom bom bom.</quote></p>
 <p><lb n="080625"/>Pincushions. I'm a long time threatening to buy one. Sticking them all
 <lb n="080626"/>over the place. Needles in window curtains.</p>
 <p><lb n="080627"/>He bared slightly his left forearm. Scrape: nearly gone. Not today
@@ -643,11 +643,11 @@
 <lb n="080642"/>Perfumed bodies, warm, full. All kissed, yielded: in deep summer fields,
 <lb n="080643"/>tangled pressed grass, in trickling hallways of tenements, along sofas,
 <lb n="080644"/>creaking beds.
-<lb n="080645"/><said who="Lestrygonians lovers">―Jack, love!</said>
-<lb n="080646"/><said who="Lestrygonians lovers">―Darling!</said>
-<lb n="080647"/><said who="Lestrygonians lovers">―Kiss me, Reggy!</said>
-<lb n="080648"/><said who="Lestrygonians lovers">―My boy!</said>
-<lb n="080649"/><said who="Lestrygonians lovers">―Love!</said></p>
+<lb n="080645"/><said who="uls">―Jack, love!</said>
+<lb n="080646"/><said who="uls">―Darling!</said>
+<lb n="080647"/><said who="uls">―Kiss me, Reggy!</said>
+<lb n="080648"/><said who="uls">―My boy!</said>
+<lb n="080649"/><said who="uls">―Love!</said></p>
 <p><lb n="080650"/>His heart astir he pushed in the door of the Burton restaurant. Stink
 <lb n="080651"/>gripped his trembling breath: pungent meatjuice, slush of greens. See the
 <lb n="080652"/>animals feed.</p>
@@ -666,8 +666,8 @@
 <lb n="080665"/>southward of the Boyne. Wonder what he was eating. Something
 <lb n="080666"/>galoptious. Saint Patrick converted him to Christianity. Couldn't swallow it
 <lb n="080667"/>all however.
-<lb n="080668"/><said who="Burton diner_1">―Roast beef and cabbage.</said>
-<lb n="080669"/><said who="Burton diner_2">―One stew.</said></p>
+<lb n="080668"/><said who="bds">―Roast beef and cabbage.</said>
+<lb n="080669"/><said who="bds">―One stew.</said></p>
 <p><lb n="080670"/>Smells of men. Spaton sawdust, sweetish warmish cigarettesmoke,
 <lb n="080671"/>reek of plug, spilt beer, men's beery piss, the stale of ferment.</p>
 <p><lb n="080672"/>His gorge rose.</p>
@@ -678,8 +678,8 @@
 <lb n="080677"/>man! Get out of this.</p>
 <p><lb n="080678"/>He gazed round the stooled and tabled eaters, tightening the wings of
 <lb n="080679"/>his nose.
-<lb n="080680"/><said who="Burton diner_3">―Two stouts here.</said>
-<lb n="080681"/><said who="Burton diner_4">―One corned and cabbage.</said></p>
+<lb n="080680"/><said who="bds">―Two stouts here.</said>
+<lb n="080681"/><said who="bds">―One corned and cabbage.</said></p>
 <p><lb n="080682"/>That fellow ramming a knifeful of cabbage down as if his life
 <lb n="080683"/>depended on it. Good stroke. Give me the fidgets to look. Safer to eat from
 <lb n="080684"/>his three hands. Tear it limb from limb. Second nature to him. Born with a
@@ -693,12 +693,12 @@
 <lb n="080692"/>mouth full. Sympathetic listener. Table talk. I munched hum un thu
 <lb n="080693"/>Unchster Bunk un Munchday. Ha? Did you, faith?</p>
 <p><lb n="080694"/>Mr Bloom raised two fingers doubtfully to his lips. His eyes said:
-<lb n="080695"/><said who="Leopold Bloom">―Not here. Don't see him.</said></p>
+<lb n="080695"/><said who="lb">―Not here. Don't see him.</said></p>
 <p><lb n="080696"/>Out. I hate dirty eaters.</p>
 <p><lb n="080697"/>He backed towards the door. Get a light snack in Davy Byrne's.
 <lb n="080698"/>Stopgap. Keep me going. Had a good breakfast.
-<lb n="080699"/><said who="Burton diner_5">―Roast and mashed here.</said>
-<lb n="080700"/><said who="Burton diner_6">―Pint of stout.</said></p>
+<lb n="080699"/><said who="bds">―Roast and mashed here.</said>
+<lb n="080700"/><said who="bds">―Pint of stout.</said></p>
 <p><lb n="080701"/>Every fellow for his own, tooth and nail. Gulp. Grub. Gulp. Gobstuff.</p>
 <p><lb n="080702"/>He came out into clearer air and turned back towards Grafton street.
 <lb n="080703"/>Eat or be eaten. Kill! Kill!</p>
@@ -735,10 +735,10 @@
 <lb n="080734"/>once.</p>
 <p><lb n="080735"/>What will I take now? He drew his watch. Let me see now.
 <lb n="080736"/>Shandygaff?
-<lb n="080737"/><said who="Nosey Flynn">―Hello, Bloom,</said> Nosey Flynn said from his nook.
-<lb n="080738"/><said who="Leopold Bloom">―Hello, Flynn.</said>
-<lb n="080739"/><said who="Nosey Flynn">―How's things?</said>
-<lb n="080740"/><said who="Leopold Bloom">―Tiptop ... Let me see. I'll take a glass of burgundy and ... let me see.</said></p>
+<lb n="080737"/><said who="nf">―Hello, Bloom,</said> Nosey Flynn said from his nook.
+<lb n="080738"/><said who="lb">―Hello, Flynn.</said>
+<lb n="080739"/><said who="nf">―How's things?</said>
+<lb n="080740"/><said who="lb">―Tiptop ... Let me see. I'll take a glass of burgundy and ... let me see.</said></p>
 <p><lb n="080741"/>Sardines on the shelves. Almost taste them by looking. Sandwich?
 <lb n="080742"/>Ham and his descendants musterred and bred there. Potted meats. What is
 <lb n="080743"/>home without Plumtree's potted meat? Incomplete. What a stupid ad!
@@ -746,46 +746,46 @@
 <lb n="080745"/>potted meat. Cannibals would with lemon and rice. White missionary too
 <lb n="080746"/>salty. Like pickled pork. Expect the chief consumes the parts of honour.
 <lb n="080747"/>Ought to be tough from exercise. His wives in a row to watch the effect.
-<lb n="080748"/><quote>There was a right royal old nigger. Who ate or something the somethings of
-<lb n="080749"/>the reverend Mr MacTrigger.</quote> With it an abode of bliss. Lord knows what
+<lb n="080748"/><q>There was a right royal old nigger. Who ate or something the somethings of
+<lb n="080749"/>the reverend Mr MacTrigger.</q> With it an abode of bliss. Lord knows what
 <lb n="080750"/>concoction. Cauls mouldy tripes windpipes faked and minced up. Puzzle
 <lb n="080751"/>find the meat. Kosher. No meat and milk together. Hygiene that was what
 <lb n="080752"/>they call now. Yom Kippur fast spring cleaning of inside. Peace and war
 <lb n="080753"/>depend on some fellow's digestion. Religions. Christmas turkeys and geese.
 <lb n="080754"/>Slaughter of innocents. Eat drink and be merry. Then casual wards full
 <lb n="080755"/>after. Heads bandaged. Cheese digests all but itself. Mity cheese.
-<lb n="080756"/><said who="Leopold Bloom">―Have you a cheese sandwich?</said>
-<lb n="080757"/><said who="Davy Byrne's curate">―Yes, sir.</said></p>
+<lb n="080756"/><said who="lb">―Have you a cheese sandwich?</said>
+<lb n="080757"/><said who="dbc">―Yes, sir.</said></p>
 <p><lb n="080758"/>Like a few olives too if they had them. Italian I prefer. Good glass of
 <lb n="080759"/>burgundy take away that. Lubricate. A nice salad, cool as a cucumber, Tom
 <lb n="080760"/>Kernan can dress. Puts gusto into it. Pure olive oil. Milly served me that
 <lb n="080761"/>cutlet with a sprig of parsley. Take one Spanish onion. God made food, the
 <lb n="080762"/>devil the cooks. Devilled crab.
-<lb n="080763"/><said who="Nosey Flynn">―Wife well?</said>
-<lb n="080764"/><said who="Leopold Bloom">―Quite well, thanks .... A cheese sandwich, then. Gorgonzola, have you?</said>
-<lb n="080765"/><said who="Davy Byrne's curate">―Yes, sir.</said></p>
+<lb n="080763"/><said who="nf">―Wife well?</said>
+<lb n="080764"/><said who="lb">―Quite well, thanks .... A cheese sandwich, then. Gorgonzola, have you?</said>
+<lb n="080765"/><said who="dbc">―Yes, sir.</said></p>
 <p><lb n="080766"/>Nosey Flynn sipped his grog.
-<lb n="080767"/><said who="Nosey Flynn">―Doing any singing those times?</said></p>
+<lb n="080767"/><said who="nf">―Doing any singing those times?</said></p>
 <p><lb n="080768"/>Look at his mouth. Could whistle in his own ear. Flap ears to match.
 <lb n="080769"/>Music. Knows as much about it as my coachman. Still better tell him. Does
 <lb n="080770"/>no harm. Free ad.
-<lb n="080771"/><said who="Leopold Bloom">―She's engaged for a big tour end of this month. You may have heard
+<lb n="080771"/><said who="lb">―She's engaged for a big tour end of this month. You may have heard
 <lb n="080772"/>perhaps.</said>
-<lb n="080773"/><said who="Nosey Flynn">―No. O, that's the style. Who's getting it up?</said></p>
+<lb n="080773"/><said who="nf">―No. O, that's the style. Who's getting it up?</said></p>
 <p><lb n="080774"/>The curate served.
-<lb n="080775"/><said who="Leopold Bloom">―How much is that?</said>
-<lb n="080776"/><said who="Davy Byrne's curate">―Seven d, sir .... Thank you, sir.</said></p>
-<p><lb n="080777"/>Mr Bloom cut his sandwich into slender strips. <emph>Mr MacTrigger.</emph> Easier
-<lb n="080778"/>than the dreamy creamy stuff. <emph>His five hundred wives. Had the time of their
-<lb n="080779"/>lives.</emph>
-<lb n="080780"/><said who="Davy Byrne's curate">―Mustard, sir?</said>
-<lb n="080781"/><said who="Leopold Bloom">―Thank you.</said></p>
-<p><lb n="080782"/>He studded under each lifted strip yellow blobs. <emph>Their lives.</emph> I have it.
-<lb n="080783"/><emph>It grew bigger and bigger and bigger.</emph>
-<lb n="080784"/><said who="Leopold Bloom">―Getting it up?</said> he said. <said who="Leopold Bloom">Well, it's like a company idea, you see. Part shares
+<lb n="080775"/><said who="lb">―How much is that?</said>
+<lb n="080776"/><said who="dbc">―Seven d, sir .... Thank you, sir.</said></p>
+<p><lb n="080777"/>Mr Bloom cut his sandwich into slender strips. <q>Mr MacTrigger.</q> Easier
+<lb n="080778"/>than the dreamy creamy stuff. <q>His five hundred wives. Had the time of their
+<lb n="080779"/>lives.</q>
+<lb n="080780"/><said who="dbc">―Mustard, sir?</said>
+<lb n="080781"/><said who="lb">―Thank you.</said></p>
+<p><lb n="080782"/>He studded under each lifted strip yellow blobs. <q>Their lives.</q> I have it.
+<lb n="080783"/><q>It grew bigger and bigger and bigger.</q>
+<lb n="080784"/><said who="lb">―Getting it up?</said> he said. <said who="lb">Well, it's like a company idea, you see. Part shares
 <lb n="080785"/>and part profits.</said>
-<lb n="080786"/><said who="Nosey Flynn">―Ay, now I remember,</said> Nosey Flynn said, putting his hand in his pocket to
-<lb n="080787"/>scratch his groin. <said who="Nosey Flynn">Who is this was telling me? Isn't Blazes Boylan mixed up
+<lb n="080786"/><said who="nf">―Ay, now I remember,</said> Nosey Flynn said, putting his hand in his pocket to
+<lb n="080787"/>scratch his groin. <said who="nf">Who is this was telling me? Isn't Blazes Boylan mixed up
 <lb n="080788"/>in it?</said></p>
 <p><lb n="080789"/>A warm shock of air heat of mustard hanched on Mr Bloom's heart.
 <lb n="080790"/>He raised his eyes and met the stare of a bilious clock. Two. Pub clock five
@@ -795,52 +795,52 @@
 <p><lb n="080794"/>Wine.</p>
 <p><lb n="080795"/>He smellsipped the cordial juice and, bidding his throat strongly to
 <lb n="080796"/>speed it, set his wineglass delicately down.
-<lb n="080797"/><said who="Leopold Bloom">―Yes,</said> he said. <said who="Leopold Bloom">He's the organiser in point of fact.</said></p>
+<lb n="080797"/><said who="lb">―Yes,</said> he said. <said who="lb">He's the organiser in point of fact.</said></p>
 <p><lb n="080798"/>No fear: no brains.</p>
 <p><lb n="080799"/>Nosey Flynn snuffled and scratched. Flea having a good square meal.
-<lb n="080800"/><said who="Nosey Flynn">―He had a good slice of luck, Jack Mooney was telling me, over that
+<lb n="080800"/><said who="nf">―He had a good slice of luck, Jack Mooney was telling me, over that
 <lb n="080801"/>boxingmatch Myler Keogh won again that soldier in the Portobello
 <lb n="080802"/>barracks. By God, he had the little kipper down in the county Carlow he
 <lb n="080803"/>was telling me ...</said></p>
 <p><lb n="080804"/>Hope that dewdrop doesn't come down into his glass. No, snuffled it
 <lb n="080805"/>up.
-<lb n="080806"/><said who="Nosey Flynn">―For near a month, man, before it came off. Sucking duck eggs by God till
+<lb n="080806"/><said who="nf">―For near a month, man, before it came off. Sucking duck eggs by God till
 <lb n="080807"/>further orders. Keep him off the boose, see? O, by God, Blazes is a hairy
 <lb n="080808"/>chap.</said></p>
 <p><lb n="080809"/>Davy Byrne came forward from the hindbar in tuckstitched
 <lb n="080810"/>shirtsleeves, cleaning his lips with two wipes of his napkin. Herring's blush.
 <lb n="080811"/>Whose smile upon each feature plays with such and such replete. Too much
 <lb n="080812"/>fat on the parsnips.
-<lb n="080813"/><said who="Nosey Flynn">―And here's himself and pepper on him,</said> Nosey Flynn said. <said who="Nosey Flynn">Can you give
+<lb n="080813"/><said who="nf">―And here's himself and pepper on him,</said> Nosey Flynn said. <said who="nf">Can you give
 <lb n="080814"/>us a good one for the Gold cup?</said>
-<lb n="080815"/><said who="Davy Byrne">―I'm off that, Mr Flynn,</said> Davy Byrne answered. <said who="Davy Byrne">I never put anything on a
+<lb n="080815"/><said who="db">―I'm off that, Mr Flynn,</said> Davy Byrne answered. <said who="db">I never put anything on a
 <lb n="080816"/>horse.</said>
-<lb n="080817"/><said who="Nosey Flynn">―You're right there,</said> Nosey Flynn said.</p>
+<lb n="080817"/><said who="nf">―You're right there,</said> Nosey Flynn said.</p>
 <p><lb n="080818"/>Mr Bloom ate his strips of sandwich, fresh clean bread, with relish of
 <lb n="080819"/>disgust pungent mustard, the feety savour of green cheese. Sips of his wine
 <lb n="080820"/>soothed his palate. Not logwood that. Tastes fuller this weather with the
 <lb n="080821"/>chill off.</p>
 <p><lb n="080822"/>Nice quiet bar. Nice piece of wood in that counter. Nicely planed.
 <lb n="080823"/>Like the way it curves there.
-<lb n="080824"/><said who="Davy Byrne">―I wouldn't do anything at all in that line,</said> Davy Byrne said. <said who="Davy Byrne">It ruined
+<lb n="080824"/><said who="db">―I wouldn't do anything at all in that line,</said> Davy Byrne said. <said who="db">It ruined
 <lb n="080825"/>many a man, the same horses.</said></p>
 <p><lb n="080826"/>Vintners' sweepstake. Licensed for the sale of beer, wine and spirits
 <lb n="080827"/>for consumption on the premises. Heads I win tails you lose.
-<lb n="080828"/><said who="Nosey Flynn">―True for you,</said> Nosey Flynn said. <said who="Nosey Flynn">Unless you're in the know. There's no
+<lb n="080828"/><said who="nf">―True for you,</said> Nosey Flynn said. <said who="nf">Unless you're in the know. There's no
 <lb n="080829"/>straight sport going now. Lenehan gets some good ones. He's giving
 <lb n="080830"/><name type="horse" rend="none">Sceptre</name> today. <name type="horse" rend="none">Zinfandel</name>'s the favourite, lord Howard de Walden's, won at
 <lb n="080831"/>Epsom. Morny Cannon is riding him. I could have got seven to one against
 <lb n="080832"/><name type="horse" rend="none">Saint Amant</name> a fortnight before.</said>
-<lb n="080833"/><said who="Davy Byrne">―That so?</said> Davy Byrne said.</p>
+<lb n="080833"/><said who="db">―That so?</said> Davy Byrne said.</p>
 <p><lb n="080834"/>He went towards the window and, taking up the pettycash book,
 <lb n="080835"/>scanned its pages.
-<lb n="080836"/><said who="Nosey Flynn">―I could, faith,</said> Nosey Flynn said, snuffling. <said who="Nosey Flynn">That was a rare bit of
+<lb n="080836"/><said who="nf">―I could, faith,</said> Nosey Flynn said, snuffling. <said who="nf">That was a rare bit of
 <lb n="080837"/>horseflesh. <name type="horse" rend="none">Saint Frusquin</name> was her sire. She won in a thunderstorm,
 <lb n="080838"/>Rothschild's filly, with wadding in her ears. Blue jacket and yellow cap.
 <lb n="080839"/>Bad luck to big Ben Dollard and his John O'Gaunt. He put me off it. Ay.</said></p>
 <p><lb n="080840"/>He drank resignedly from his tumbler, running his fingers down the
 <lb n="080841"/>flutes.
-<lb n="080842"/><said who="Nosey Flynn">―Ay,</said> he said, sighing.</p>
+<lb n="080842"/><said who="nf">―Ay,</said> he said, sighing.</p>
 <p><lb n="080843"/>Mr Bloom, champing, standing, looked upon his sigh. Nosey
 <lb n="080844"/>numbskull. Will I tell him that horse Lenehan? He knows already. Better let
 <lb n="080845"/>him forget. Go and lose more. Fool and his money. Dewdrop coming down
@@ -937,95 +937,95 @@
 <lb n="080936"/>youth enjoyed her, to the yard.</p>
 <p><lb n="080937"/>When the sound of his boots had ceased Davy Byrne said from his
 <lb n="080938"/>book:
-<lb n="080939"/><said who="Davy Byrne">―What is this he is? Isn't he in the insurance line?</said>
-<lb n="080940"/><said who="Nosey Flynn">―He's out of that long ago,</said> Nosey Flynn said. <said who="Nosey Flynn">He does canvassing for the
+<lb n="080939"/><said who="db">―What is this he is? Isn't he in the insurance line?</said>
+<lb n="080940"/><said who="nf">―He's out of that long ago,</said> Nosey Flynn said. <said who="nf">He does canvassing for the
 <lb n="080941"/><title type="newspaper">Freeman</title>.</said>
-<lb n="080942"/><said who="Davy Byrne">―I know him well to see,</said> Davy Byrne said. <said who="Davy Byrne">Is he in trouble?</said>
-<lb n="080943"/><said who="Nosey Flynn">―Trouble?</said> Nosey Flynn said. <said who="Nosey Flynn">Not that I heard of. Why?</said>
-<lb n="080944"/><said who="Davy Byrne">―I noticed he was in mourning.</said>
-<lb n="080945"/><said who="Nosey Flynn">―Was he?</said> Nosey Flynn said. <said who="Nosey Flynn">So he was, faith. I asked him how was all at
+<lb n="080942"/><said who="db">―I know him well to see,</said> Davy Byrne said. <said who="db">Is he in trouble?</said>
+<lb n="080943"/><said who="nf">―Trouble?</said> Nosey Flynn said. <said who="nf">Not that I heard of. Why?</said>
+<lb n="080944"/><said who="db">―I noticed he was in mourning.</said>
+<lb n="080945"/><said who="nf">―Was he?</said> Nosey Flynn said. <said who="nf">So he was, faith. I asked him how was all at
 <lb n="080946"/>home. You're right, by God. So he was.</said>
-<lb n="080947"/><said who="Davy Byrne">―I never broach the subject,</said> Davy Byrne said humanely, <said who="Davy Byrne">if I see a
+<lb n="080947"/><said who="db">―I never broach the subject,</said> Davy Byrne said humanely, <said who="db">if I see a
 <lb n="080948"/>gentleman is in trouble that way. It only brings it up fresh in their minds.</said>
-<lb n="080949"/><said who="Nosey Flynn">―It's not the wife anyhow,</said> Nosey Flynn said. <said who="Nosey Flynn">I met him the day before
+<lb n="080949"/><said who="nf">―It's not the wife anyhow,</said> Nosey Flynn said. <said who="nf">I met him the day before
 <lb n="080950"/>yesterday and he coming out of that Irish farm dairy John Wyse Nolan's
 <lb n="080951"/>wife has in Henry street with a jar of cream in his hand taking it home to
 <lb n="080952"/>his better half. She's well nourished, I tell you. Plovers on toast.</said>
-<lb n="080953"/><said who="Davy Byrne">―And is he doing for the <title type="newspaper">Freeman</title>?</said> Davy Byrne said.</p>
+<lb n="080953"/><said who="db">―And is he doing for the <title type="newspaper">Freeman</title>?</said> Davy Byrne said.</p>
 <p><lb n="080954"/>Nosey Flynn pursed his lips.
-<lb n="080955"/><said who="Nosey Flynn">―He doesn't buy cream on the ads he picks up. You can make bacon of
+<lb n="080955"/><said who="nf">―He doesn't buy cream on the ads he picks up. You can make bacon of
 <lb n="080956"/>that.</said>
-<lb n="080957"/><said who="Davy Byrne">―How so?</said> Davy Byrne asked, coming from his book.</p>
+<lb n="080957"/><said who="db">―How so?</said> Davy Byrne asked, coming from his book.</p>
 <p><lb n="080958"/>Nosey Flynn made swift passes in the air with juggling fingers. He
 <lb n="080959"/>winked.
-<lb n="080960"/><said who="Nosey Flynn">―He's in the craft,</said> he said.
-<lb n="080961"/><said who="Davy Byrne">―Do you tell me so?</said> Davy Byrne said.
-<lb n="080962"/><said who="Nosey Flynn">―Very much so,</said> Nosey Flynn said. <said who="Nosey Flynn">Ancient free and accepted order. He's
+<lb n="080960"/><said who="nf">―He's in the craft,</said> he said.
+<lb n="080961"/><said who="db">―Do you tell me so?</said> Davy Byrne said.
+<lb n="080962"/><said who="nf">―Very much so,</said> Nosey Flynn said. <said who="nf">Ancient free and accepted order. He's
 <lb n="080963"/>an excellent brother. Light, life and love, by God. They give him a leg up. I
 <lb n="080964"/>was told that by a – well, I won't say who.</said>
-<lb n="080965"/><said who="Davy Byrne">―Is that a fact?</said>
-<lb n="080966"/><said who="Nosey Flynn">―O, it's a fine order,</said> Nosey Flynn said. <said who="Nosey Flynn">They stick to you when you're
+<lb n="080965"/><said who="db">―Is that a fact?</said>
+<lb n="080966"/><said who="nf">―O, it's a fine order,</said> Nosey Flynn said. <said who="nf">They stick to you when you're
 <lb n="080967"/>down. I know a fellow was trying to get into it. But they're as close as damn
 <lb n="080968"/>it. By God they did right to keep the women out of it.</said></p>
 <p><lb n="080969"/>Davy Byrne smiledyawnednodded all in one:
-<lb n="080970"/><said who="Davy Byrne">―Iiiiiichaaaaaaach!</said>
-<lb n="080971"/><said who="Nosey Flynn">―There was one woman,</said> Nosey Flynn said, <said who="Nosey Flynn">hid herself in a clock to find
+<lb n="080970"/><said who="db">―Iiiiiichaaaaaaach!</said>
+<lb n="080971"/><said who="nf">―There was one woman,</said> Nosey Flynn said, <said who="nf">hid herself in a clock to find
 <lb n="080972"/>out what they do be doing. But be damned but they smelt her out and swore
 <lb n="080973"/>her in on the spot a master mason. That was one of the saint Legers of
 <lb n="080974"/>Doneraile.</said></p>
 <p><lb n="080975"/>Davy Byrne, sated after his yawn, said with tearwashed eyes:
-<lb n="080976"/><said who="Davy Byrne">―And is that a fact? Decent quiet man he is. I often saw him in here and I
+<lb n="080976"/><said who="db">―And is that a fact? Decent quiet man he is. I often saw him in here and I
 <lb n="080977"/>never once saw him – you know, over the line.</said>
-<lb n="080978"/><said who="Nosey Flynn">―God Almighty couldn't make him drunk,</said> Nosey Flynn said firmly. <said who="Nosey Flynn">Slips
+<lb n="080978"/><said who="nf">―God Almighty couldn't make him drunk,</said> Nosey Flynn said firmly. <said who="nf">Slips
 <lb n="080979"/>off when the fun gets too hot. Didn't you see him look at his watch? Ah,
 <lb n="080980"/>you weren't there. If you ask him to have a drink first thing he does he outs
 <lb n="080981"/>with the watch to see what he ought to imbibe. Declare to God he does.</said>
-<lb n="080982"/><said who="Davy Byrne">―There are some like that,</said> Davy Byrne said. <said who="Davy Byrne">He's a safe man, I'd say.</said>
-<lb n="080983"/><said who="Nosey Flynn">―He's not too bad,</said> Nosey Flynn said, snuffling it up. <said who="Nosey Flynn">He's been known to
+<lb n="080982"/><said who="db">―There are some like that,</said> Davy Byrne said. <said who="db">He's a safe man, I'd say.</said>
+<lb n="080983"/><said who="nf">―He's not too bad,</said> Nosey Flynn said, snuffling it up. <said who="nf">He's been known to
 <lb n="080984"/>put his hand down too to help a fellow. Give the devil his due. O, Bloom has
 <lb n="080985"/>his good points. But there's one thing he'll never do.</said></p>
 <p><lb n="080986"/>His hand scrawled a dry pen signature beside his grog.
-<lb n="080987"/><said who="Davy Byrne">―I know,</said> Davy Byrne said.
-<lb n="080988"/><said who="Nosey Flynn">―Nothing in black and white,</said> Nosey Flynn said.</p>
+<lb n="080987"/><said who="db">―I know,</said> Davy Byrne said.
+<lb n="080988"/><said who="nf">―Nothing in black and white,</said> Nosey Flynn said.</p>
 <p><lb n="080989"/>Paddy Leonard and Bantam Lyons came in. Tom Rochford followed
 <lb n="080990"/>frowning, a plaining hand on his claret waistcoat.
 <lb n="080991"/><said who="unclear: Leonard Lyons or Rochford (or all three?)">―Day, Mr Byrne.</said>
-<lb n="080992"/><said who="Davy Byrne">―Day, gentlemen.</said></p>
+<lb n="080992"/><said who="db">―Day, gentlemen.</said></p>
 <p><lb n="080993"/>They paused at the counter.
-<lb n="080994"/><said who="Paddy Leonard">―Who's standing?</said> Paddy Leonard asked.
-<lb n="080995"/><said who="Nosey Flynn">―I'm sitting anyhow,</said> Nosey Flynn answered.
-<lb n="080996"/><said who="Paddy Leonard">―Well, what'll it be?</said> Paddy Leonard asked.
-<lb n="080997"/><said who="Bantam Lyons">―I'll take a stone ginger,</said> Bantam Lyons said.
-<lb n="080998"/><said who="Paddy Leonard">―How much?</said> Paddy Leonard cried. <said who="Paddy Leonard">Since when, for God' sake? What's
+<lb n="080994"/><said who="pl">―Who's standing?</said> Paddy Leonard asked.
+<lb n="080995"/><said who="nf">―I'm sitting anyhow,</said> Nosey Flynn answered.
+<lb n="080996"/><said who="pl">―Well, what'll it be?</said> Paddy Leonard asked.
+<lb n="080997"/><said who="bl">―I'll take a stone ginger,</said> Bantam Lyons said.
+<lb n="080998"/><said who="pl">―How much?</said> Paddy Leonard cried. <said who="pl">Since when, for God' sake? What's
 <lb n="080999"/>yours, Tom?</said>
-<lb n="081000"/><said who="Nosey Flynn">―How is the main drainage?</said> Nosey Flynn asked, sipping.</p>
+<lb n="081000"/><said who="nf">―How is the main drainage?</said> Nosey Flynn asked, sipping.</p>
 <p><lb n="081001"/>For answer Tom Rochford pressed his hand to his breastbone and
 <lb n="081002"/>hiccupped.
-<lb n="081003"/><said who="Tom Rochford">―Would I trouble you for a glass of fresh water, Mr Byrne?</said> he said.
-<lb n="081004"/><said who="Davy Byrne">―Certainly, sir.</said></p>
+<lb n="081003"/><said who="tr">―Would I trouble you for a glass of fresh water, Mr Byrne?</said> he said.
+<lb n="081004"/><said who="db">―Certainly, sir.</said></p>
 <p><lb n="081005"/>Paddy Leonard eyed his alemates.
-<lb n="081006"/><said who="Paddy Leonard">―Lord love a duck,</said> he said. <said who="Paddy Leonard">Look at what I'm standing drinks to! Cold
+<lb n="081006"/><said who="pl">―Lord love a duck,</said> he said. <said who="pl">Look at what I'm standing drinks to! Cold
 <lb n="081007"/>water and gingerpop! Two fellows that would suck whisky off a sore leg.
 <lb n="081008"/>He has some bloody horse up his sleeve for the Gold cup. A dead snip.</said>
-<lb n="081009"/><said who="Nosey Flynn">―<name type="horse" rend="none">Zinfandel</name> is it?</said> Nosey Flynn asked.</p>
+<lb n="081009"/><said who="nf">―<name type="horse" rend="none">Zinfandel</name> is it?</said> Nosey Flynn asked.</p>
 <p><lb n="081010"/>Tom Rochford spilt powder from a twisted paper into the water set
 <lb n="081011"/>before him.
-<lb n="081012"/><said who="Tom Rochford">―That cursed dyspepsia,</said> he said before drinking.
-<lb n="081013"/><said who="Davy Byrne">―Breadsoda is very good,</said> Davy Byrne said.</p>
+<lb n="081012"/><said who="tr">―That cursed dyspepsia,</said> he said before drinking.
+<lb n="081013"/><said who="db">―Breadsoda is very good,</said> Davy Byrne said.</p>
 <p><lb n="081014"/>Tom Rochford nodded and drank.
 <lb n="081015"/><said who="unclear: likely Nosey Flynn">―Is it <name type="horse" rend="none">Zinfandel?</name></said>
-<lb n="081016"/><said who="Bantam Lyons">―Say nothing!</said> Bantam Lyons winked. <said who="Bantam Lyons">I'm going to plunge five bob on my
+<lb n="081016"/><said who="bl">―Say nothing!</said> Bantam Lyons winked. <said who="bl">I'm going to plunge five bob on my
 <lb n="081017"/>own.</said>
-<lb n="081018"/><said who="Paddy Leonard">―Tell us if you're worth your salt and be damned to you,</said> Paddy Leonard
-<lb n="081019"/>said. <said who="Paddy Leonard">Who gave it to you?</said></p>
+<lb n="081018"/><said who="pl">―Tell us if you're worth your salt and be damned to you,</said> Paddy Leonard
+<lb n="081019"/>said. <said who="pl">Who gave it to you?</said></p>
 <p><lb n="081020"/>Mr Bloom on his way out raised three fingers in greeting.
-<lb n="081021"/><said who="Nosey Flynn">―So long!</said> Nosey Flynn said.</p>
+<lb n="081021"/><said who="nf">―So long!</said> Nosey Flynn said.</p>
 <p><lb n="081022"/>The others turned.
-<lb n="081023"/><said who="Bantam Lyons">―That's the man now that gave it to me,</said> Bantam Lyons whispered.
-<lb n="081024"/><said who="Paddy Leonard">―Prrwht!</said> Paddy Leonard said with scorn. <said who="Paddy Leonard">Mr Byrne, sir, we'll take two of
+<lb n="081023"/><said who="bl">―That's the man now that gave it to me,</said> Bantam Lyons whispered.
+<lb n="081024"/><said who="pl">―Prrwht!</said> Paddy Leonard said with scorn. <said who="pl">Mr Byrne, sir, we'll take two of
 <lb n="081025"/>your small Jamesons after that and a ....</said>
-<lb n="081026"/><said who="Davy Byrne">―Stone ginger,</said> Davy Byrne added civilly.
-<lb n="081027"/><said who="Paddy Leonard">―Ay,</said> Paddy Leonard said. <said who="Paddy Leonard">A suckingbottle for the baby.</said></p>
+<lb n="081026"/><said who="db">―Stone ginger,</said> Davy Byrne added civilly.
+<lb n="081027"/><said who="pl">―Ay,</said> Paddy Leonard said. <said who="pl">A suckingbottle for the baby.</said></p>
 <p><lb n="081028"/>Mr Bloom walked towards Dawson street, his tongue brushing his
 <lb n="081029"/>teeth smooth. Something green it would have to be: spinach, say. Then with
 <lb n="081030"/>those Röntgen rays searchlight you could.</p>
@@ -1038,8 +1038,8 @@
 <lb n="081037"/>Ought to be a hall or a place where inventors could go in and invent free.
 <lb n="081038"/>Course then you'd have all the cranks pestering.</p>
 <p><lb n="081039"/>He hummed, prolonging in solemn echo the closes of the bars:
-<lb n="081040"/><said who="Leopold Bloom">―<foreign xml:lang="it">Don Giovanni, a cenar teco
-<lb n="081041"/>M'invitasti.</foreign></said></p>
+<quote xml:lang="it"><lb n="081040"/><said who="lb">―Don Giovanni, a cenar teco
+<lb n="081041"/>M'invitasti.</said></quote></p>
 <p><lb n="081042"/>Feel better. Burgundy. Good pick me up. Who distilled first? Some
 <lb n="081043"/>chap in the blues. Dutch courage. That <title type="newspaper">Kilkenny People</title> in the national
 <lb n="081044"/>library now I must.</p>
@@ -1049,11 +1049,11 @@
 <lb n="081048"/>the body changing biliary duct spleen squirting liver gastric juice coils of
 <lb n="081049"/>intestines like pipes. But the poor buffer would have to stand all the time
 <lb n="081050"/>with his insides entrails on show. Science.
-<lb n="081051"/><said who="Leopold Bloom">―<foreign xml:lang="it">A cenar teco.</foreign></said></p>
-<p><lb n="081052"/>What does that <foreign xml:lang="it">teco</foreign> mean? Tonight perhaps.
-<lb n="081053"/><said who="Leopold Bloom">―<emph>Don Giovanni, thou hast me invited
+<lb n="081051"/><said who="lb">―<quote xml:lang="it">A cenar teco.</quote></said></p>
+<p><lb n="081052"/>What does that <quote xml:lang="it">teco</quote> mean? Tonight perhaps.
+<lb n="081053"/><said who="lb">―<q>Don Giovanni, thou hast me invited
 <lb n="081054"/>To come to supper tonight,
-<lb n="081055"/>The rum the rumdum.</emph></said></p>
+<lb n="081055"/>The rum the rumdum.</q></said></p>
 <p><lb n="081056"/>Doesn't go properly.</p>
 <p><lb n="081057"/>Keyes: two months if I get Nannetti to. That'll be two pounds ten
 <lb n="081058"/>about two pounds eight. Three Hynes owes me. Two eleven. Prescott's
@@ -1072,36 +1072,36 @@
 <lb n="081071"/>church of Rome.</title> Birds' nest women run him. They say they used to give
 <lb n="081072"/>pauper children soup to change to protestants in the time of the potato
 <lb n="081073"/>blight. Society over the way papa went to for the conversion of poor jews.
-<lb n="081074"/>Same bait. <emph>Why we left the church of Rome.</emph></p>
+<lb n="081074"/>Same bait. <title>Why we left the church of Rome.</title></p>
 <p><lb n="081075"/>A blind stripling stood tapping the curbstone with his slender cane.
 <lb n="081076"/>No tram in sight. Wants to cross.
-<lb n="081077"/><said who="Leopold Bloom">―Do you want to cross?</said> Mr Bloom asked.</p>
+<lb n="081077"/><said who="lb">―Do you want to cross?</said> Mr Bloom asked.</p>
 <p><lb n="081078"/>The blind stripling did not answer. His wallface frowned weakly. He
 <lb n="081079"/>moved his head uncertainly.
-<lb n="081080"/><said who="Leopold Bloom">―You're in Dawson street,</said> Mr Bloom said. <said who="Leopold Bloom">Molesworth street is opposite.
+<lb n="081080"/><said who="lb">―You're in Dawson street,</said> Mr Bloom said. <said who="lb">Molesworth street is opposite.
 <lb n="081081"/>Do you want to cross? There's nothing in the way.</said></p>
 <p><lb n="081082"/>The cane moved out trembling to the left. Mr Bloom's eye followed its
 <lb n="081083"/>line and saw again the dyeworks' van drawn up before Drago's. Where I
 <lb n="081084"/>saw his brillantined hair just when I was. Horse drooping. Driver in John
 <lb n="081085"/>Long's. Slaking his drouth.
-<lb n="081086"/><said who="Leopold Bloom">―There's a van there,</said> Mr Bloom said, <said who="Leopold Bloom">but it's not moving. I'll see you
+<lb n="081086"/><said who="lb">―There's a van there,</said> Mr Bloom said, <said who="lb">but it's not moving. I'll see you
 <lb n="081087"/>across. Do you want to go to Molesworth street?</said>
-<lb n="081088"/><said who="blind stripling">―Yes,</said> the stripling answered. <said who="blind stripling">South Frederick street.</said>
-<lb n="081089"/><said who="Leopold Bloom">―Come,</said> Mr Bloom said.</p>
+<lb n="081088"/><said who="bs">―Yes,</said> the stripling answered. <said who="bs">South Frederick street.</said>
+<lb n="081089"/><said who="lb">―Come,</said> Mr Bloom said.</p>
 <p><lb n="081090"/>He touched the thin elbow gently: then took the limp seeing hand to
 <lb n="081091"/>guide it forward.</p>
 <p><lb n="081092"/>Say something to him. Better not do the condescending. They mistrust
 <lb n="081093"/>what you tell them. Pass a common remark.
-<lb n="081094"/><said who="Leopold Bloom">―The rain kept off.</said></p>
+<lb n="081094"/><said who="lb">―The rain kept off.</said></p>
 <p><lb n="081095"/>No answer.</p>
 <p><lb n="081096"/>Stains on his coat. Slobbers his food, I suppose. Tastes all different for
 <lb n="081097"/>him. Have to be spoonfed first. Like a child's hand, his hand. Like Milly's
 <lb n="081098"/>was. Sensitive. Sizing me up I daresay from my hand. Wonder if he has a
 <lb n="081099"/>name. Van. Keep his cane clear of the horse's legs: tired drudge get his
 <lb n="081100"/>doze. That's right. Clear. Behind a bull: in front of a horse.
-<lb n="081101"/><said who="blind stripling">―Thanks, sir.</said></p>
+<lb n="081101"/><said who="bs">―Thanks, sir.</said></p>
 <p><lb n="081102"/>Knows I'm a man. Voice.
-<lb n="081103"/><said who="Leopold Bloom">―Right now? First turn to the left.</said></p>
+<lb n="081103"/><said who="lb">―Right now? First turn to the left.</said></p>
 <p><lb n="081104"/>The blind stripling tapped the curbstone and went on his way,
 <lb n="081105"/>drawing his cane back, feeling again.</p>
 <p><lb n="081106"/>Mr Bloom walked behind the eyeless feet, a flatcut suit of herringbone
