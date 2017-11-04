@@ -237,10 +237,10 @@
 <lb n="010235"/><said who="bm">―Don't mope over it all day,</said> he said. <said who="bm">I'm inconsequent. Give up the moody
 <lb n="010236"/>brooding.</said></p>
 <p><lb n="010237"/>His head vanished but the drone of his descending voice boomed out
-<lb n="010238"/>of the stairhead:
-<lb n="010239"/><said who="bm">―<quote>And no more turn aside and brood
-<lb n="010240"/>Upon love's bitter mystery
-<lb n="010241"/>For Fergus rules the brazen cars.</quote></said></p>
+<lb n="010238"/>of the stairhead:</p>
+<said who="bm">―<quote><lg rend="italics"><lb n="010239"/><l>And no more turn aside and brood</l>
+<lb n="010240"/><l>Upon love's bitter mystery</l>
+<lb n="010241"/><l>For Fergus rules the brazen cars.</l></lg></quote></said>
 <p><lb n="010242"/>Woodshadows floated silently by through the morning peace from the
 <lb n="010243"/>stairhead seaward where he gazed. Inshore and farther out the mirror of
 <lb n="010244"/>water whitened, spurned by lightshod hurrying feet. White breast of the
@@ -259,9 +259,9 @@
 <lb n="010257"/>sunny window of her house when she was a girl. She heard old Royce sing
 <lb n="010258"/>in the pantomime of <title type="pantomime">Turko the Terrible</title> and laughed with others when he
 <lb n="010259"/>sang:</p>
-<quote><lg rend="italics"><lb n="010260"/><l>I am the boy</l>
+<said who="or" direct="false"><quote><lg rend="italics"><lb n="010260"/><l>I am the boy</l>
 <lb n="010261"/><l>That can enjoy</l>
-<lb n="010262"/><l>Invisibility.</l></lg></quote>
+<lb n="010262"/><l>Invisibility.</l></lg></quote></said>
 <p><lb n="010263"/>Phantasmal mirth, folded away: muskperfumed.</p>
 <quote><lg rend="italics"><lb n="010264"/><l>And no more turn aside and brood.</l></lg></quote>
 <p><lb n="010265"/>Folded away in the memory of nature with her toys. Memories beset
@@ -298,13 +298,13 @@
 <lb n="010296"/><said who="bm">―Four shining sovereigns,</said> Buck Mulligan cried with delight. <said who="bm">We'll have a
 <lb n="010297"/>glorious drunk to astonish the druidy druids. Four omnipotent sovereigns.</said></p>
 <p><lb n="010298"/>He flung up his hands and tramped down the stone stairs, singing out
-<lb n="010299"/>of tune with a Cockney accent:
-<lb n="010300"/><said who="bm">―<quote>O, won't we have a merry time,
-<lb n="010301"/>Drinking whisky, beer and wine!
-<lb n="010302"/>On coronation,
-<lb n="010303"/>Coronation day!
-<lb n="010304"/>O, won't we have a merry time
-<lb n="010305"/>On coronation day!</quote></said></p>
+<lb n="010299"/>of tune with a Cockney accent:</p>
+<said who="bm">―<quote><lg rend="italics"><lb n="010300"/><l>O, won't we have a merry time,</l>
+<lb n="010301"/><l>Drinking whisky, beer and wine!</l>
+<lb n="010302"/><l>On coronation,</l>
+<lb n="010303"/><l>Coronation day!</l>
+<lb n="010304"/><l>O, won't we have a merry time</l>
+<lb n="010305"/><l>On coronation day!</l></lg></quote></said>
 <p><lb n="010306"/>Warm sunshine merrying over the sea. The nickel shavingbowl shone,
 <lb n="010307"/>forgotten, on the parapet. Why should I bring it down? Or leave it there all
 <lb n="010308"/>day, forgotten friendship?</p>
@@ -380,10 +380,10 @@
 <lb n="010378"/><said who="bm">―Charming!</said> he said in a finical sweet voice, showing his white teeth and
 <lb n="010379"/>blinking his eyes pleasantly. <said who="bm">Do you think she was? Quite charming!</said></p>
 <p><lb n="010380"/>Then, suddenly overclouding all his features, he growled in a
-<lb n="010381"/>hoarsened rasping voice as he hewed again vigorously at the loaf:
-<lb n="010382"/><said who="bm">―<quote>For old Mary Ann
-<lb n="010383"/>She doesn't care a damn.
-<lb n="010384"/>But, hising up her petticoats</quote> ....</said></p>
+<lb n="010381"/>hoarsened rasping voice as he hewed again vigorously at the loaf:</p>
+<said who="bm">―<quote><lg rend="italics"><lb n="010382"/><l>For old Mary Ann</l>
+<lb n="010383"/><l>She doesn't care a damn.</l>
+<lb n="010384"/><l>But, hising up her petticoats ....</l></lg></quote></said>
 <p><lb n="010385"/>He crammed his mouth with fry and munched and droned.</p>
 <p><lb n="010386"/>The doorway was darkened by an entering form.
 <lb n="010387"/><said who="mw">―The milk, sir!</said>
@@ -453,9 +453,9 @@
 <lb n="010451"/>rich milk. Buck Mulligan brought up a florin, twisted it round in his fingers
 <lb n="010452"/>and cried:
 <lb n="010453"/><said who="bm">―A miracle!</said></p>
-<p><lb n="010454"/>He passed it along the table towards the old woman, saying:
-<lb n="010455"/><said who="bm">―<quote>Ask nothing more of me, sweet.
-<lb n="010456"/>All I can give you I give.</quote></said></p>
+<p><lb n="010454"/>He passed it along the table towards the old woman, saying:</p>
+<said who="bm"><lb n="010455"/>―<quote>Ask nothing more of me, sweet.
+<lb n="010456"/>All I can give you I give.</quote></said>
 <p><lb n="010457"/>Stephen laid the coin in her uneager hand.
 <lb n="010458"/><said who="sd">―We'll owe twopence,</said> he said.
 <lb n="010459"/><said who="mw">―Time enough, sir,</said> she said, taking the coin. <said who="mw">Time enough. Good morning,
@@ -670,9 +670,9 @@
 <lb n="010668"/>our national problem, I'm afraid, just now.</said></p>
 <p><lb n="010669"/>Two men stood at the verge of the cliff, watching: businessman,
 <lb n="010670"/>boatman.
-<lb n="010671"/><said who="ub">―She's making for Bullock harbour.</said></p>
+<lb n="010671"/><said xml:id="010671_unclear" who="ubus">―She's making for Bullock harbour.<certainty target="#010671_unclear" match="@who" locus="value" assertedValue="uboat" degree="0.5"> <desc>It's unclear whether the businessman or the boatman speaks.</desc></certainty></said></p>
 <p><lb n="010672"/>The boatman nodded towards the north of the bay with some disdain.
-<lb n="010673"/><said who="ub">―There's five fathoms out there,</said> he said. <said who="ub">It'll be swept up that way when
+<lb n="010673"/><said who="uboat">―There's five fathoms out there,</said> he said. <said who="uboat">It'll be swept up that way when
 <lb n="010674"/>the tide comes in about one. It's nine days today.</said></p>
 <p><lb n="010675"/>The man that was drowned. A sail veering about the blank bay
 <lb n="010676"/>waiting for a swollen bundle to bob up, roll over to the sun a puffy face,

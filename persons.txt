@@ -187,7 +187,8 @@ tw	Thomas Wolsey
 ua	unidentified applewoman
 uatt	unidentified attendant
 uatt2	second unidentified attendant
-ub	unidentified boatman and businessman	pl.
+uboat	unidentified boatman
+ubus	unidentified businessman
 ubk	unidentified bookseller
 ubo	unidentified boots
 uc	unidentified cocklepicker
