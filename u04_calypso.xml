@@ -1,5 +1,4 @@
 <div type="episode" n="04">
-<p rend="inset"><lb n="040000"/>II</p>
 <p><lb n="040001"/>Mr Leopold Bloom ate with relish the inner organs of beasts and
 <lb n="040002"/>fowls. He liked thick giblet soup, nutty gizzards, a stuffed roast heart,
 <lb n="040003"/>liverslices fried with crustcrumbs, fried hencods' roes. Most of all he liked
@@ -16,20 +15,20 @@
 <lb n="040014"/>out. Cup of tea soon. Good. Mouth dry.</p>
 <p><lb n="040015"/>The cat walked stiffly round a leg of the table with tail on high.
 <lb n="040016"/><said who="cat">―Mkgnao!</said>
-<lb n="040017"/><said who="Leopold Bloom">―O, there you are,</said> Mr Bloom said, turning from the fire.</p>
+<lb n="040017"/><said who="lb">―O, there you are,</said> Mr Bloom said, turning from the fire.</p>
 <p><lb n="040018"/>The cat mewed in answer and stalked again stiffly round a leg of the
 <lb n="040019"/>table, mewing. Just how she stalks over my writingtable. Prr. Scratch my
 <lb n="040020"/>head. Prr.</p>
 <p><lb n="040021"/>Mr Bloom watched curiously, kindly the lithe black form. Clean to
 <lb n="040022"/>see: the gloss of her sleek hide, the white button under the butt of her tail,
 <lb n="040023"/>the green flashing eyes. He bent down to her, his hands on his knees.
-<lb n="040024"/><said who="Leopold Bloom">―Milk for the pussens,</said> he said.
+<lb n="040024"/><said who="lb">―Milk for the pussens,</said> he said.
 <lb n="040025"/><said who="cat">―Mrkgnao!</said> the cat cried.</p>
 <p><lb n="040026"/>They call them stupid. They understand what we say better than we
 <lb n="040027"/>understand them. She understands all she wants to. Vindictive too. Cruel.
 <lb n="040028"/>Her nature. Curious mice never squeal. Seem to like it. Wonder what I look
 <lb n="040029"/>like to her. Height of a tower? No, she can jump me.
-<lb n="040030"/><said who="Leopold Bloom">―Afraid of the chickens she is,</said> he said mockingly. <said who="Leopold Bloom">Afraid of the
+<lb n="040030"/><said who="lb">―Afraid of the chickens she is,</said> he said mockingly. <said who="lb">Afraid of the
 <lb n="040031"/>chookchooks. I never saw such a stupid pussens as the pussens.</said>
 <lb n="040032"/><said who="cat">―Mrkrgnao!</said> the cat said loudly.</p>
 <p><lb n="040033"/>She blinked up out of her avid shameclosing eyes, mewing plaintively
@@ -52,11 +51,11 @@
 <lb n="040050"/>by the bedroom door. She might like something tasty. Thin bread and
 <lb n="040051"/>butter she likes in the morning. Still perhaps: once in a way.</p>
 <p><lb n="040052"/>He said softly in the bare hall:
-<lb n="040053"/><said who="Leopold Bloom">―I'm going round the corner. Be back in a minute.</said></p>
+<lb n="040053"/><said who="lb">―I'm going round the corner. Be back in a minute.</said></p>
 <p><lb n="040054"/>And when he had heard his voice say it he added:
-<lb n="040055"/><said who="Leopold Bloom">―You don't want anything for breakfast?</said></p>
+<lb n="040055"/><said who="lb">―You don't want anything for breakfast?</said></p>
 <p><lb n="040056"/>A sleepy soft grunt answered:
-<lb n="040057"/><said who="Molly Bloom">―Mn.</said></p>
+<lb n="040057"/><said who="mb">―Mn.</said></p>
 <p><lb n="040058"/>No. She didn't want anything. He heard then a warm heavy sigh,
 <lb n="040059"/>softer, as she turned over and the loose brass quoits of the bedstead jingled.
 <lb n="040060"/>Must get those settled really. Pity. All the way from Gibraltar. Forgotten
@@ -121,10 +120,10 @@
 <lb n="040119"/>poor Dignam, Mr O'Rourke.</p>
 <p><lb n="040120"/>Turning into Dorset street he said freshly in greeting through the
 <lb n="040121"/>doorway:
-<lb n="040122"/><said who="Leopold Bloom">―Good day, Mr O'Rourke.</said>
-<lb n="040123"/><said who="Larry O'Rourke">―Good day to you.</said>
-<lb n="040124"/><said who="Leopold Bloom">―Lovely weather, sir.</said>
-<lb n="040125"/><said who="Larry O'Rourke">―'Tis all that.</said></p>
+<lb n="040122"/><said who="lb">―Good day, Mr O'Rourke.</said>
+<lb n="040123"/><said who="lor">―Good day to you.</said>
+<lb n="040124"/><said who="lb">―Lovely weather, sir.</said>
+<lb n="040125"/><said who="lor">―'Tis all that.</said></p>
 <p><lb n="040126"/>Where do they get the money? Coming up redheaded curates from
 <lb n="040127"/>the county Leitrim, rinsing empties and old man in the cellar. Then, lo and
 <lb n="040128"/>behold, they blossom out as Adam Findlaters or Dan Tallons. Then think of
@@ -166,9 +165,9 @@
 <lb n="040164"/>The crooked skirt swinging, whack by whack by whack.</p>
 <p><lb n="040165"/>The porkbutcher snapped two sheets from the pile, wrapped up her
 <lb n="040166"/>prime sausages and made a red grimace.
-<lb n="040167"/><said who="porkbutcher">―Now, my miss,</said> he said.</p>
+<lb n="040167"/><said who="md">―Now, my miss,</said> he said.</p>
 <p><lb n="040168"/>She tendered a coin, smiling boldly, holding her thick wrist out.
-<lb n="040169"/><said who="porkbutcher">―Thank you, my miss. And one shilling threepence change. For you,
+<lb n="040169"/><said who="md">―Thank you, my miss. And one shilling threepence change. For you,
 <lb n="040170"/>please?</said></p>
 <p><lb n="040171"/>Mr Bloom pointed quickly. To catch up and walk behind her if she
 <lb n="040172"/>went slowly, behind her moving hams. Pleasant to see first thing in the
@@ -179,16 +178,16 @@
 <lb n="040177"/>of disregard glowed to weak pleasure within his breast. For another: a
 <lb n="040178"/>constable off duty cuddling her in Eccles lane. They like them sizeable.
 <lb n="040179"/>Prime sausage. O please, Mr Policeman, I'm lost in the wood.
-<lb n="040180"/><said who="porkbutcher">―Threepence, please.</said></p>
+<lb n="040180"/><said who="md">―Threepence, please.</said></p>
 <p><lb n="040181"/>His hand accepted the moist tender gland and slid it into a sidepocket.
 <lb n="040182"/>Then it fetched up three coins from his trousers' pocket and laid them on
 <lb n="040183"/>the rubber prickles. They lay, were read quickly and quickly slid, disc by
 <lb n="040184"/>disc, into the till.
-<lb n="040185"/><said who="porkbutcher">―Thank you, sir. Another time.</said></p>
+<lb n="040185"/><said who="md">―Thank you, sir. Another time.</said></p>
 <p><lb n="040186"/>A speck of eager fire from foxeyes thanked him. He withdrew his
 <lb n="040187"/>gaze after an instant. No: better not: another time.
-<lb n="040188"/><said who="Leopold Bloom">―Good morning,</said> he said, moving away.
-<lb n="040189"/><said who="porkbutcher">―Good morning, sir.</said></p>
+<lb n="040188"/><said who="lb">―Good morning,</said> he said, moving away.
+<lb n="040189"/><said who="md">―Good morning, sir.</said></p>
 <p><lb n="040190"/>No sign. Gone. What matter?</p>
 <p><lb n="040191"/>He walked back along Dorset street, reading gravely. Agendath
 <lb n="040192"/>Netaim: planters' company. To purchase waste sandy tracts from Turkish
@@ -245,31 +244,31 @@
 <p><lb n="040243"/>Two letters and a card lay on the hallfloor. He stooped and gathered
 <lb n="040244"/>them. Mrs Marion Bloom. His quickened heart slowed at once. Bold hand.
 <lb n="040245"/>Mrs Marion.
-<lb n="040246"/><said who="Molly Bloom">―Poldy!</said></p>
+<lb n="040246"/><said who="mb">―Poldy!</said></p>
 <p><lb n="040247"/>Entering the bedroom he halfclosed his eyes and walked through
 <lb n="040248"/>warm yellow twilight towards her tousled head.
-<lb n="040249"/><said who="Molly Bloom">―Who are the letters for?</said></p>
+<lb n="040249"/><said who="mb">―Who are the letters for?</said></p>
 <p><lb n="040250"/>He looked at them. Mullingar. Milly.
-<lb n="040251"/><said who="Leopold Bloom">―A letter for me from Milly,</said> he said carefully, <said who="Leopold Bloom">and a card to you. And a
+<lb n="040251"/><said who="lb">―A letter for me from Milly,</said> he said carefully, <said who="lb">and a card to you. And a
 <lb n="040252"/>letter for you.</said></p>
 <p><lb n="040253"/>He laid her card and letter on the twill bedspread near the curve of
 <lb n="040254"/>her knees.
-<lb n="040255"/><said who="Leopold Bloom">―Do you want the blind up?</said></p>
+<lb n="040255"/><said who="lb">―Do you want the blind up?</said></p>
 <p><lb n="040256"/>Letting the blind up by gentle tugs halfway his backward eye saw her
 <lb n="040257"/>glance at the letter and tuck it under her pillow.
-<lb n="040258"/><said who="Leopold Bloom">―That do?</said> he asked, turning.</p>
+<lb n="040258"/><said who="lb">―That do?</said> he asked, turning.</p>
 <p><lb n="040259"/>She was reading the card, propped on her elbow.
-<lb n="040260"/><said who="Molly Bloom">―She got the things,</said> she said.</p>
+<lb n="040260"/><said who="mb">―She got the things,</said> she said.</p>
 <p><lb n="040261"/>He waited till she had laid the card aside and curled herself back
 <lb n="040262"/>slowly with a snug sigh.
-<lb n="040263"/><said who="Molly Bloom">―Hurry up with that tea,</said> she said. <said who="Molly Bloom">I'm parched.</said>
-<lb n="040264"/><said who="Leopold Bloom">―The kettle is boiling,</said> he said.</p>
+<lb n="040263"/><said who="mb">―Hurry up with that tea,</said> she said. <said who="mb">I'm parched.</said>
+<lb n="040264"/><said who="lb">―The kettle is boiling,</said> he said.</p>
 <p><lb n="040265"/>But he delayed to clear the chair: her striped petticoat, tossed soiled
 <lb n="040266"/>linen: and lifted all in an armful on to the foot of the bed.</p>
 <p><lb n="040267"/>As he went down the kitchen stairs she called:
-<lb n="040268"/><said who="Molly Bloom">―Poldy!</said>
-<lb n="040269"/><said who="Leopold Bloom">―What?</said>
-<lb n="040270"/><said who="Molly Bloom">―Scald the teapot.</said></p>
+<lb n="040268"/><said who="mb">―Poldy!</said>
+<lb n="040269"/><said who="lb">―What?</said>
+<lb n="040270"/><said who="mb">―Scald the teapot.</said></p>
 <p><lb n="040271"/>On the boil sure enough: a plume of steam from the spout. He
 <lb n="040272"/>scalded and rinsed out the teapot and put in four full spoons of tea, tilting
 <lb n="040273"/>the kettle then to let the water flow in. Having set it to draw he took off the
@@ -301,7 +300,7 @@
 <lb n="040299"/>his thumb hooked in the teapot handle.</p>
 <p><lb n="040300"/>Nudging the door open with his knee he carried the tray in and set it
 <lb n="040301"/>on the chair by the bedhead.
-<lb n="040302"/><said who="Molly Bloom">―What a time you were!</said> she said.</p>
+<lb n="040302"/><said who="mb">―What a time you were!</said> she said.</p>
 <p><lb n="040303"/>She set the brasses jingling as she raised herself briskly, an elbow on
 <lb n="040304"/>the pillow. He looked calmly down on her bulk and between her large soft
 <lb n="040305"/>bubs, sloping within her nightdress like a shegoat's udder. The warmth of
@@ -309,59 +308,59 @@
 <lb n="040307"/>poured.</p>
 <p><lb n="040308"/>A strip of torn envelope peeped from under the dimpled pillow. In the
 <lb n="040309"/>act of going he stayed to straighten the bedspread.
-<lb n="040310"/><said who="Leopold Bloom">―Who was the letter from?</said> he asked.</p>
+<lb n="040310"/><said who="lb">―Who was the letter from?</said> he asked.</p>
 <p><lb n="040311"/>Bold hand. Marion.
-<lb n="040312"/><said who="Molly Bloom">―O, Boylan,</said> she said. <said who="Molly Bloom">He's bringing the programme.</said>
-<lb n="040313"/><said who="Leopold Bloom">―What are you singing?</said>
-<lb n="040314"/><said who="Molly Bloom">―<title type="song">Là ci darem</title> with J. C. Doyle,</said> she said, <said who="Molly Bloom">and <title type="song">Love's Old Sweet Song</title>.</said></p>
+<lb n="040312"/><said who="mb">―O, Boylan,</said> she said. <said who="mb">He's bringing the programme.</said>
+<lb n="040313"/><said who="lb">―What are you singing?</said>
+<lb n="040314"/><said who="mb">―<title type="song">Là ci darem</title> with J. C. Doyle,</said> she said, <said who="mb">and <title type="song">Love's Old Sweet Song</title>.</said></p>
 <p><lb n="040315"/>Her full lips, drinking, smiled. Rather stale smell that incense leaves
 <lb n="040316"/>next day. Like foul flowerwater.
-<lb n="040317"/><said who="Leopold Bloom">―Would you like the window open a little?</said></p>
+<lb n="040317"/><said who="lb">―Would you like the window open a little?</said></p>
 <p><lb n="040318"/>She doubled a slice of bread into her mouth, asking:
-<lb n="040319"/><said who="Molly Bloom">―What time is the funeral?</said>
-<lb n="040320"/><said who="Leopold Bloom">―Eleven, I think,</said> he answered. <said who="Leopold Bloom">I didn't see the paper.</said></p>
+<lb n="040319"/><said who="mb">―What time is the funeral?</said>
+<lb n="040320"/><said who="lb">―Eleven, I think,</said> he answered. <said who="lb">I didn't see the paper.</said></p>
 <p><lb n="040321"/>Following the pointing of her finger he took up a leg of her soiled
 <lb n="040322"/>drawers from the bed. No? Then, a twisted grey garter looped round a
 <lb n="040323"/>stocking: rumpled, shiny sole.
-<lb n="040324"/><said who="Molly Bloom">―No: that book.</said></p>
+<lb n="040324"/><said who="mb">―No: that book.</said></p>
 <p><lb n="040325"/>Other stocking. Her petticoat.
-<lb n="040326"/><said who="Molly Bloom">―It must have fell down,</said> she said.</p>
-<p><lb n="040327"/>He felt here and there. <foreign xml:lang="it">Voglio e non vorrei.</foreign> Wonder if she pronounces
-<lb n="040328"/>that right: <foreign xml:lang="it">voglio</foreign>. Not in the bed. Must have slid down. He stooped and
+<lb n="040326"/><said who="mb">―It must have fell down,</said> she said.</p>
+<p><lb n="040327"/>He felt here and there. <quote xml:lang="it">Voglio e non vorrei.</quote> Wonder if she pronounces
+<lb n="040328"/>that right: <quote xml:lang="it">voglio</quote>. Not in the bed. Must have slid down. He stooped and
 <lb n="040329"/>lifted the valance. The book, fallen, sprawled against the bulge of the
 <lb n="040330"/>orangekeyed chamberpot.
-<lb n="040331"/><said who="Molly Bloom">―Show here,</said> she said. <said who="Molly Bloom">I put a mark in it. There's a word I wanted to ask
+<lb n="040331"/><said who="mb">―Show here,</said> she said. <said who="mb">I put a mark in it. There's a word I wanted to ask
 <lb n="040332"/>you.</said></p>
 <p><lb n="040333"/>She swallowed a draught of tea from her cup held by nothandle and,
 <lb n="040334"/>having wiped her fingertips smartly on the blanket, began to search the text
 <lb n="040335"/>with the hairpin till she reached the word.
-<lb n="040336"/><said who="Leopold Bloom">―Met him what?</said> he asked.
-<lb n="040337"/><said who="Molly Bloom">―Here,</said> she said. <said who="Molly Bloom">What does that mean?</said></p>
+<lb n="040336"/><said who="lb">―Met him what?</said> he asked.
+<lb n="040337"/><said who="mb">―Here,</said> she said. <said who="mb">What does that mean?</said></p>
 <p><lb n="040338"/>He leaned downward and read near her polished thumbnail.
-<lb n="040339"/><said who="Leopold Bloom">―Metempsychosis?</said>
-<lb n="040340"/><said who="Molly Bloom">―Yes. Who's he when he's at home?</said>
-<lb n="040341"/><said who="Leopold Bloom">―Metempsychosis,</said> he said, frowning. <said who="Leopold Bloom">It's Greek: from the Greek. That
+<lb n="040339"/><said who="lb">―Metempsychosis?</said>
+<lb n="040340"/><said who="mb">―Yes. Who's he when he's at home?</said>
+<lb n="040341"/><said who="lb">―Metempsychosis,</said> he said, frowning. <said who="lb">It's Greek: from the Greek. That
 <lb n="040342"/>means the transmigration of souls.</said>
-<lb n="040343"/><said who="Molly Bloom">―O, rocks!</said> she said. <said who="Molly Bloom">Tell us in plain words.</said></p>
+<lb n="040343"/><said who="mb">―O, rocks!</said> she said. <said who="mb">Tell us in plain words.</said></p>
 <p><lb n="040344"/>He smiled, glancing askance at her mocking eyes. The same young
 <lb n="040345"/>eyes. The first night after the charades. Dolphin's Barn. He turned over the
 <lb n="040346"/>smudged pages. <title type="book">Ruby: the Pride of the Ring.</title> Hello. Illustration. Fierce
 <lb n="040347"/>Italian with carriagewhip. Must be Ruby pride of the on the floor naked.
-<lb n="040348"/>Sheet kindly lent. <emph>The monster Maffei desisted and flung his victim from him
-<lb n="040349"/>with an oath.</emph> Cruelty behind it all. Doped animals. Trapeze at Hengler's.
+<lb n="040348"/>Sheet kindly lent. <q rend="italics">The monster Maffei desisted and flung his victim from him
+<lb n="040349"/>with an oath.</q> Cruelty behind it all. Doped animals. Trapeze at Hengler's.
 <lb n="040350"/>Had to look the other way. Mob gaping. Break your neck and we'll break
 <lb n="040351"/>our sides. Families of them. Bone them young so they metamspychosis.
 <lb n="040352"/>That we live after death. Our souls. That a man's soul after he dies,
 <lb n="040353"/>Dignam's soul ....
-<lb n="040354"/><said who="Leopold Bloom">―Did you finish it?</said> he asked.
-<lb n="040355"/><said who="Molly Bloom">―Yes,</said> she said. <said who="Molly Bloom">There's nothing smutty in it. Is she in love with the first
+<lb n="040354"/><said who="lb">―Did you finish it?</said> he asked.
+<lb n="040355"/><said who="mb">―Yes,</said> she said. <said who="mb">There's nothing smutty in it. Is she in love with the first
 <lb n="040356"/>fellow all the time?</said>
-<lb n="040357"/><said who="Leopold Bloom">―Never read it. Do you want another?</said>
-<lb n="040358"/><said who="Molly Bloom">―Yes. Get another of Paul de Kock's. Nice name he has.</said></p>
+<lb n="040357"/><said who="lb">―Never read it. Do you want another?</said>
+<lb n="040358"/><said who="mb">―Yes. Get another of Paul de Kock's. Nice name he has.</said></p>
 <p><lb n="040359"/>She poured more tea into her cup, watching it flow sideways.</p>
 <p><lb n="040360"/>Must get that Capel street library book renewed or they'll write to
 <lb n="040361"/>Kearney, my guarantor. Reincarnation: that's the word.
-<lb n="040362"/><said who="Leopold Bloom">―Some people believe,</said> he said, <said who="Leopold Bloom">that we go on living in another body after
+<lb n="040362"/><said who="lb">―Some people believe,</said> he said, <said who="lb">that we go on living in another body after
 <lb n="040363"/>death, that we lived before. They call it reincarnation. That we all lived
 <lb n="040364"/>before on the earth thousands of years ago or some other planet. They say
 <lb n="040365"/>we have forgotten it. Some say they remember their past lives.</said></p>
@@ -374,13 +373,13 @@
 <lb n="040372"/>gave for the frame. She said it would look nice over the bed. Naked
 <lb n="040373"/>nymphs: Greece: and for instance all the people that lived then.</p>
 <p><lb n="040374"/>He turned the pages back.
-<lb n="040375"/><said who="Leopold Bloom">―Metempsychosis,</said> he said, <said who="Leopold Bloom">is what the ancient Greeks called it. They used
+<lb n="040375"/><said who="lb">―Metempsychosis,</said> he said, <said who="lb">is what the ancient Greeks called it. They used
 <lb n="040376"/>to believe you could be changed into an animal or a tree, for instance. What
 <lb n="040377"/>they called nymphs, for example.</said></p>
 <p><lb n="040378"/>Her spoon ceased to stir up the sugar. She gazed straight before her,
 <lb n="040379"/>inhaling through her arched nostrils.
-<lb n="040380"/><said who="Molly Bloom">―There's a smell of burn,</said> she said. <said who="Molly Bloom">Did you leave anything on the fire?</said>
-<lb n="040381"/><said who="Leopold Bloom">―The kidney!</said> he cried suddenly.</p>
+<lb n="040380"/><said who="mb">―There's a smell of burn,</said> she said. <said who="mb">Did you leave anything on the fire?</said>
+<lb n="040381"/><said who="lb">―The kidney!</said> he cried suddenly.</p>
 <p><lb n="040382"/>He fitted the book roughly into his inner pocket and, stubbing his toes
 <lb n="040383"/>against the broken commode, hurried out towards the smell, stepping
 <lb n="040384"/>hastily down the stairs with a flurried stork's legs. Pungent smoke shot up
@@ -433,13 +432,13 @@
 <lb n="040431"/>Vain: very.</p>
 <p><lb n="040432"/>He smiled with troubled affection at the kitchen window. Day I
 <lb n="040433"/>caught her in the street pinching her cheeks to make them red. Anemic a
-<lb n="040434"/>little. Was given milk too long. On the <emph>Erin's King</emph> that day round the Kish.
+<lb n="040434"/>little. Was given milk too long. On the <name type="ship">Erin's King</name> that day round the Kish.
 <lb n="040435"/>Damned old tub pitching about. Not a bit funky. Her pale blue scarf loose
 <lb n="040436"/>in the wind with her hair.</p>
 <quote><lg rend="italics"><lb n="040437"/><l>All dimpled cheeks and curls,</l>
 <lb n="040438"/><l>Your head it simply swirls.</l></lg></quote>
 <p><lb n="040439"/>Seaside girls. Torn envelope. Hands stuck in his trousers' pockets, jarvey
-<lb n="040440"/>off for the day, singing. Friend of the family. <emph>Swurls</emph>, he says. Pier with
+<lb n="040440"/>off for the day, singing. Friend of the family. <said who="bb" rend="italics" direct="false"><quote>Swurls</quote></said>, he says. Pier with
 <lb n="040441"/>lamps, summer evening, band.</p>
 <quote><lg rend="italics"><lb n="040442"/><l>Those girls, those girls,</l>
 <lb n="040443"/><l>Those lovely seaside girls.</l></lg></quote>
@@ -461,7 +460,7 @@
 <lb n="040459"/>to the fire too.</p>
 <p><lb n="040460"/>He felt heavy, full: then a gentle loosening of his bowels. He stood up,
 <lb n="040461"/>undoing the waistband of his trousers. The cat mewed to him.
-<lb n="040462"/><said who="Leopold Bloom">―Miaow!</said> he said in answer. <said who="Leopold Bloom">Wait till I'm ready.</said></p>
+<lb n="040462"/><said who="lb">―Miaow!</said> he said in answer. <said who="lb">Wait till I'm ready.</said></p>
 <p><lb n="040463"/>Heaviness: hot day coming. Too much trouble to fag up the stairs to
 <lb n="040464"/>the landing.</p>
 <p><lb n="040465"/>A paper. He liked to read at stool. Hope no ape comes knocking just
@@ -470,7 +469,7 @@
 <lb n="040468"/>under his armpit, went to the door and opened it. The cat went up in soft
 <lb n="040469"/>bounds. Ah, wanted to go upstairs, curl up in a ball on the bed.</p>
 <p><lb n="040470"/>Listening, he heard her voice:
-<lb n="040471"/><said who="Molly Bloom">―Come, come, pussy. Come.</said></p>
+<lb n="040471"/><said who="mb">―Come, come, pussy. Come.</said></p>
 <p><lb n="040472"/>He went out through the backdoor into the garden: stood to listen
 <lb n="040473"/>towards the next garden. No sound. Perhaps hanging clothes out to dry.
 <lb n="040474"/>The maid was in the garden. Fine morning.</p>
@@ -501,7 +500,7 @@
 <lb n="040499"/>countinghouse. Nobody.</p>
 <p><lb n="040500"/>Asquat on the cuckstool he folded out his paper, turning its pages
 <lb n="040501"/>over on his bared knees. Something new and easy. No great hurry. Keep it
-<lb n="040502"/>a bit. Our prize titbit: <title type="short story">Matcham's Masterstroke</title>. Written by Mr Philip
+<lb n="040502"/>a bit. Our prize titbit: <title type="shortstory">Matcham's Masterstroke</title>. Written by Mr Philip
 <lb n="040503"/>Beaufoy, Playgoers' Club, London. Payment at the rate of one guinea a
 <lb n="040504"/>column has been made to the writer. Three and a half. Three pounds three.
 <lb n="040505"/>Three pounds, thirteen and six.</p>
@@ -512,9 +511,9 @@
 <lb n="040510"/>piles again. No, just right. So. Ah! Costive. One tabloid of cascara sagrada.
 <lb n="040511"/>Life might be so. It did not move or touch him but it was something quick
 <lb n="040512"/>and neat. Print anything now. Silly season. He read on, seated calm above
-<lb n="040513"/>his own rising smell. Neat certainly. <emph>Matcham often thinks of the
-<lb n="040514"/>masterstroke by which he won the laughing witch who now.</emph> Begins and
-<lb n="040515"/>ends morally. <emph>Hand in hand.</emph> Smart. He glanced back through what he had
+<lb n="040513"/>his own rising smell. Neat certainly. <q rend="italics">Matcham often thinks of the
+<lb n="040514"/>masterstroke by which he won the laughing witch who now.</q> Begins and
+<lb n="040515"/>ends morally. <q rend="italics">Hand in hand.</q> Smart. He glanced back through what he had
 <lb n="040516"/>read and, while feeling his water flow quietly, he envied kindly Mr Beaufoy
 <lb n="040517"/>who had written it and received payment of three pounds, thirteen and six.</p>
 <p><lb n="040518"/>Might manage a sketch. By Mr and Mrs L. M. Bloom. Invent a story
@@ -545,7 +544,7 @@
 <lb n="040543"/>the funeral? Better find out in the paper.</p>
 <p><lb n="040544"/>A creak and a dark whirr in the air high up. The bells of George's
 <lb n="040545"/>church. They tolled the hour: loud dark iron.</p>
-<lg rend="italics"><lb n="040546"/><said who="bells of George's church" direct="false" rend="italics"><l>Heigho! Heigho!</l>
+<lg rend="italics"><lb n="040546"/><said who="gc" direct="false" rend="italics"><l>Heigho! Heigho!</l>
 <lb n="040547"/><l>Heigho! Heigho!</l>
 <lb n="040548"/><l>Heigho! Heigho!</l></said></lg>
 <p><lb n="040549"/>Quarter to. There again: the overtone following through the air. A
