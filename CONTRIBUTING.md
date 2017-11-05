@@ -75,4 +75,12 @@ she was one of those good souls who had always to be told twice <said who="Fathe
 
 For more on this, see [the discussion in issue #20](https://github.com/JonathanReeve/corpus-joyce-ulysses-tei/issues/20#issuecomment-280171254). 
 
+When it is not clear who is speaking, you can mark up your guesses using the `certainty` tag, like this: 
 
+```xml
+<lb n="060004"/><said xml:id="060004-a" who="Cunningham">―Come on, Simon.
+<certainty target="#060004-a" match="@who" locus="value" assertedValue="Power" degree="0.5">
+    <desc>It's unclear here whether it's Cunningham or Power speaking.</desc>
+</certainty>
+</said>
+```
