@@ -394,12 +394,12 @@
 <lb n="170393"/>potential poet, at the age of 11 in 1877 on the occasion of the offering of
 <lb n="170394"/>three prizes of 10/-, 5/- and 2/6 respectively for competition by the
 <lb n="170395"/><title type="newspaper">Shamrock</title>, a weekly newspaper?</p>
-<p rend="inset"><lb n="170396"/><said who="lb" direct="false" rend="italics">An ambition to squint
-<lb n="170397"/>At my verses in print
-<lb n="170398"/>Makes me hope that for these you'll find room.
-<lb n="170399"/>If you so condescend
-<lb n="170400"/>Then please place at the end
-<lb n="170401"/>The name of yours truly, L. Bloom.</said></p>
+<q><lg rend="italics"><lb n="170396"/><l>An ambition to squint</l>
+<lb n="170397"/><l>At my verses in print</l>
+<lb n="170398"/><l>Makes me hope that for these you'll find room.</l>
+<lb n="170399"/><l>If you so condescend</l>
+<lb n="170400"/><l>Then please place at the end</l>
+<lb n="170401"/><l>The name of yours truly, L. Bloom.</l></lg></q>
 <p rend="non-indent"><lb n="170402"/>Did he find four separating forces between his temporary guest and him?</p>
 <p rend="non-indent"><lb n="170403"/>Name, age, race, creed.</p>
 <p rend="non-indent"><lb n="170404"/>What anagrams had he made on his name in youth?</p>
@@ -410,11 +410,11 @@
 <lb n="170409"/>Old Ollebo, M. P.</p>
 <p rend="non-indent"><lb n="170410"/>What acrostic upon the abbreviation of his first name had he (kinetic poet)
 <lb n="170411"/>sent to Miss Marion (Molly) Tweedy on the 14 February 1888?</p>
-<p rend="inset"><lb n="170412"/><said who="lb" direct="false" rend="italics"><hi rend="bold">P</hi>oets oft have sung in rhyme
-<lb n="170413"/><hi rend="bold">O</hi>f music sweet their praise divine.
-<lb n="170414"/><hi rend="bold">L</hi>et them hymn it nine times nine.
-<lb n="170415"/><hi rend="bold">D</hi>earer far than song or wine.
-<lb n="170416"/><hi rend="bold">Y</hi>ou are mine. The world is mine.</said></p>
+<q><lg rend="italics"><lb n="170412"/><l><hi rend="bold">P</hi>oets oft have sung in rhyme</l>
+<lb n="170413"/><l><hi rend="bold">O</hi>f music sweet their praise divine.</l>
+<lb n="170414"/><l><hi rend="bold">L</hi>et them hymn it nine times nine.</l>
+<lb n="170415"/><l><hi rend="bold">D</hi>earer far than song or wine.</l>
+<lb n="170416"/><l><hi rend="bold">Y</hi>ou are mine. The world is mine.</l></lg></q>
 <p rend="non-indent"><lb n="170417"/>What had prevented him from completing a topical song (music by R. G.
 <lb n="170418"/>Johnston) on the events of the past, or fixtures for the actual, years, entitled
 <lb n="170419"/><title type="song">If Brian Boru could but come back and see old Dublin now</title>, commissioned
@@ -761,8 +761,8 @@
 <lb n="170760"/>possibility of Irish political autonomy or devolution.</p>
 <p rend="non-indent"><lb n="170761"/>What anthem did Bloom chant partially in anticipation of that multiple,
 <lb n="170762"/>ethnically irreducible consummation?</p>
-<p rend="inset"><lb n="170763"/><foreign xml:lang="he">Kolod balejwaw pnimah
-<lb n="170764"/>Nefesch, jehudi, homijah.</foreign></p>
+<quote xml:lang="he"><lg rend="italics"><lb n="170763"/><l>Kolod balejwaw pnimah</l>
+<lb n="170764"/><l>Nefesch, jehudi, homijah.</l></lg></quote>
 <p rend="non-indent"><lb n="170765"/>Why was the chant arrested at the conclusion of this first distich?</p>
 <p rend="non-indent"><lb n="170766"/>In consequence of defective mnemotechnic.</p>
 <p rend="non-indent"><lb n="170767"/>How did the chanter compensate for this deficiency?</p>
@@ -800,33 +800,34 @@
 <lb n="170799"/>of a mechanical mixture, water plus sugar plus cream plus cocoa, having
 <lb n="170800"/>been consumed.</p>
 <p rend="non-indent"><lb n="170801"/>Recite the first (major) part of this chanted legend.</p>
-<p rend="inset"><lb n="170802"/><quote>Little Harry Hughes and his schoolfellows all
-<lb n="170803"/>Went out for to play ball.
-<lb n="170804"/>And the very first ball little Harry Hughes played
-<lb n="170805"/>He drove it o'er the jew's garden wall.
-<lb n="170806"/>And the very second ball little Harry Hughes played
-<lb n="170807"/>He broke the jew's windows all.</quote></p>
+<quote><lg rend="italics"><lb n="170802"/><l>Little Harry Hughes and his schoolfellows all</l>
+<lb n="170803"/><l>Went out for to play ball.</l>
+<lb n="170804"/><l>And the very first ball little Harry Hughes played</l>
+<lb n="170805"/><l>He drove it o'er the jew's garden wall.</l>
+<lb n="170806"/><l>And the very second ball little Harry Hughes played</l>
+<lb n="170807"/><l>He broke the jew's windows all.</l></lg></quote>
 <p rend="non-indent"><lb n="170808"/>[MUSIC]</p>
 <p rend="non-indent"><lb n="170809"/>How did the son of Rudolph receive this first part?</p>
 <p rend="non-indent"><lb n="170810"/>With unmixed feeling. Smiling, a jew, he heard with pleasure and saw the
 <lb n="170811"/>unbroken kitchen window.</p>
 <p rend="non-indent"><lb n="170812"/>Recite the second part (minor) of the legend.</p>
-<p rend="inset"><lb n="170813"/><quote>Then out there came the jew's daughter
-<lb n="170814"/>And she all dressed in green.
-<lb n="170815"/>"Come back, come back, you pretty little boy,
-<lb n="170816"/>And play your ball again."
-<lb n="170817"/>"I can't come back and I won't come back
-<lb n="170818"/>Without my schoolfellows all.
-<lb n="170819"/>For if my master he did hear
-<lb n="170820"/>He'd make it a sorry ball."
-<lb n="170821"/>She took him by the lilywhite hand
-<lb n="170822"/>And led him along the hall
-<lb n="170823"/>Until she led him to a room
-<lb n="170824"/>Where none could hear him call.
-<lb n="170825"/>She took a penknife out of her pocket
-<lb n="170826"/>And cut off his little head.
-<lb n="170827"/>And now he'll play his ball no more
-<lb n="170828"/>For he lies among the dead.</quote> [MUSIC]</p>
+<quote><lg rend="italics"><lb n="170813"/><l>Then out there came the jew's daughter</l>
+<lb n="170814"/><l>And she all dressed in green.</l>
+<lb n="170815"/><l>"Come back, come back, you pretty little boy,</l>
+<lb n="170816"/><l>And play your ball again."</l>
+<lb n="170817"/><l>"I can't come back and I won't come back</l>
+<lb n="170818"/><l>Without my schoolfellows all.</l>
+<lb n="170819"/><l>For if my master he did hear</l>
+<lb n="170820"/><l>He'd make it a sorry ball."</l>
+<lb n="170821"/><l>She took him by the lilywhite hand</l>
+<lb n="170822"/><l>And led him along the hall</l>
+<lb n="170823"/><l>Until she led him to a room</l>
+<lb n="170824"/><l>Where none could hear him call.</l>
+<lb n="170825"/><l>She took a penknife out of her pocket</l>
+<lb n="170826"/><l>And cut off his little head.</l>
+<lb n="170827"/><l>And now he'll play his ball no more</l>
+<lb n="170828"/><l>For he lies among the dead.</l></lg></quote>
+    [MUSIC]
 <p rend="non-indent"><lb n="170829"/>How did the father of Millicent receive this second part?</p>
 <p rend="non-indent"><lb n="170830"/>With mixed feelings. Unsmiling, he heard and saw with wonder a jew's
 <lb n="170831"/>daughter, all dressed in green.</p>
@@ -1228,11 +1229,11 @@
 <lb n="171227"/>the church of Saint George.</p>
 <p rend="non-indent"><lb n="171228"/>What echoes of that sound were by both and each heard?</p>
 <p rend="non-indent"><lb n="171229"/>By Stephen:</p>
-<p rend="inset"><lb n="171230"/><quote xml:lang="la">Liliata rutilantium. Turma circumdet.
-<lb n="171231"/>Iubilantium te virginum. Chorus excipiat.</quote></p>
+<quote xml:lang="la"><lg rend="italics"><lb n="171230"/><l>Liliata rutilantium. Turma circumdet.</l>
+<lb n="171231"/><l>Iubilantium te virginum. Chorus excipiat.</l></lg></quote>
 <p rend="non-indent"><lb n="171232"/>By Bloom:</p>
-<p rend="inset"><lb n="171233"/><said who="gc" direct="false" rend="italics">Heigho, heigho,
-<lb n="171234"/>Heigho, heigho.</said></p>
+<said who="gc" direct="false" rend="italics"><lg rend="italics"><lb n="171233"/><l>Heigho, heigho,</l>
+<lb n="171234"/><l>Heigho, heigho.</l></lg></said>
 <p rend="non-indent"><lb n="171235"/>Where were the several members of the company which with Bloom that
 <lb n="171236"/>day at the bidding of that peal had travelled from Sandymount in the south
 <lb n="171237"/>to Glasnevin in the north?</p>
@@ -1350,8 +1351,8 @@
 <lb n="171349"/>attention?</p>
 <p rend="non-indent"><lb n="171350"/>The image of a solitary (ipsorelative) mutable (aliorelative) man.</p>
 <p rend="non-indent"><lb n="171351"/>Why solitary (ipsorelative)?</p>
-<p rend="inset"><lb n="171352"/><quote>Brothers and sisters had he none.
-<lb n="171353"/>Yet that man's father was his grandfather's son.</quote></p>
+<quote><lg rend="italics"><lb n="171352"/><l>Brothers and sisters had he none.</l>
+<lb n="171353"/><l>Yet that man's father was his grandfather's son.</l></lg></quote>
 <p rend="non-indent"><lb n="171354"/>Why mutable (aliorelative)?</p>
 <p rend="non-indent"><lb n="171355"/>From infancy to maturity he had resembled his maternal procreatrix. From
 <lb n="171356"/>maturity to senility he would increasingly resemble his paternal procreator.</p>
