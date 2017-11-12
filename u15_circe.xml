@@ -42,10 +42,10 @@
 <lb n="150041"/>from the hair of a scrofulous child. Cissy Caffrey's voice, still
 <lb n="150042"/>young, sings shrill from a lane.)</stage>
 <sp who="ccaff"><speaker><lb n="150043"/>Cissy Caffrey</speaker>
-<p><lb n="150044"/>I gave it to Molly
-<lb n="150045"/>Because she was jolly,
-<lb n="150046"/>The leg of the duck,
-<lb n="150047"/>The leg of the duck.</p></sp>
+<quote><lg><lb n="150044"/><l>I gave it to Molly</l>
+<lb n="150045"/><l>Because she was jolly,</l>
+<lb n="150046"/><l>The leg of the duck,</l>
+<lb n="150047"/><l>The leg of the duck.</l></lg></quote></sp>
 <stage><lb n="150048"/>(Private Carr and Private Compton, swaggersticks tight in their
 <lb n="150049"/>oxters, as they march unsteadily rightaboutface and burst together
 <lb n="150050"/>from their mouths a volleyed fart. Laughter of men from the lane. A
@@ -54,10 +54,10 @@
 <p><lb n="150053"/>Signs on you, hairy arse. More power the Cavan girl.</p></sp>
 <sp who="ccaff"><speaker><lb n="150054"/>Cissy Caffrey</speaker>
 <p><lb n="150055"/>More luck to me. Cavan, Cootehill and Belturbet.<stage>(she sings)</stage></p>
-<p><lb n="150056"/>I gave it to Nelly
-<lb n="150057"/>To stick in her belly,
-<lb n="150058"/>The leg of the duck,
-<lb n="150059"/>The leg of the duck.</p></sp>
+<quote><lg><lb n="150056"/><l>I gave it to Nelly</l>
+<lb n="150057"/><l>To stick in her belly,</l>
+<lb n="150058"/><l>The leg of the duck,</l>
+<lb n="150059"/><l>The leg of the duck.</l></lg></quote></sp>
 <stage><lb n="150060"/>(Private Carr and Private Compton turn and counterretort, their
 <lb n="150061"/>tunics bloodbright in a lampglow, black sockets of caps on their
 <lb n="150062"/>blond cropped polls. Stephen Dedalus and Lynch pass through the
@@ -67,10 +67,10 @@
 <sp who="Private Carr"><speaker><lb n="150066"/>Private Carr</speaker>
 <p><stage><lb n="150067"/>(turns and calls)</stage> What ho, parson!</p></sp>
 <sp who="ccaff"><speaker><lb n="150068"/>Cissy Caffrey</speaker>
-<p><stage><lb n="150069"/>(her voice soaring higher)</stage></p>
-<p><lb n="150070"/>She has it, she got it,
-<lb n="150071"/>Wherever she put it,
-<lb n="150072"/>The leg of the duck.</p></sp>
+<stage><lb n="150069"/>(her voice soaring higher)</stage>
+<quote><lg><lb n="150070"/><l>She has it, she got it,</l>
+<lb n="150071"/><l>Wherever she put it,</l>
+<lb n="150072"/><l>The leg of the duck.</l></lg></quote></sp>
 <stage><lb n="150073"/>(Stephen, flourishing the ashplant in his left hand, chants with joy
 <lb n="150074"/>the <foreign xml:lang="la">introit</foreign> for paschal time. Lynch, his jockeycap low on his brow,
 <lb n="150075"/>attends him, a sneer of discontent wrinkling his face.)</stage>
@@ -336,8 +336,8 @@
 <stage><lb n="150335"/>(He points to the south, then to the east. A cake of new clean lemon
 <lb n="150336"/>soap arises, diffusing light and perfume.)</stage>
 <sp who="The Soap"><speaker><lb n="150337"/>The Soap</speaker>
-<p><lb n="150338"/>We're a capital couple are Bloom and I.
-<lb n="150339"/>He brightens the earth. I polish the sky.</p></sp>
+<quote><lg><lb n="150338"/><l>We're a capital couple are Bloom and I.</l>
+<lb n="150339"/><l>He brightens the earth. I polish the sky.</l></lg></quote></sp>
 <stage><lb n="150340"/>(The freckled face of Sweny, the druggist, appears in the disc of the
 <lb n="150341"/>soapsun.)</stage>
 <sp who="fws"><speaker><lb n="150342"/>Sweny</speaker>
@@ -418,10 +418,10 @@
 <lb n="150417"/>twinging, singing, back to back, toe heel, heel toe, with
 <lb n="150418"/>smackfatclacking nigger lips.)</stage>
 <sp who="Tom Bohee AND Sam Bohee"><speaker><lb n="150419"/>Tom and Sam</speaker>
-<p><lb n="150420"/>There's someone in the house with Dina,
-<lb n="150421"/>There's someone in the house, I know,
-<lb n="150422"/>There's someone in the house with Dina
-<lb n="150423"/>Playing on the old banjo.</p></sp>
+<quote><lg><lb n="150420"/><l>There's someone in the house with Dina,</l>
+<lb n="150421"/><l>There's someone in the house, I know,</l>
+<lb n="150422"/><l>There's someone in the house with Dina</l>
+<lb n="150423"/><l>Playing on the old banjo.</l></lg></quote></sp>
 <stage><lb n="150424"/>(They whisk black masks from raw babby faces: then, chuckling,
 <lb n="150425"/>chortling, trumming, twanging, they diddle diddle cakewalk dance
 <lb n="150426"/>away.)</stage>
@@ -627,9 +627,9 @@
 <sp who="Private Carr"><speaker><lb n="150626"/>Private Carr</speaker>
 <p><lb n="150627"/>Bennett? He's my pal. I love old Bennett.</p></sp>
 <sp who="unav"><speaker><lb n="150628"/>The Navvy</speaker>
-<p><stage><lb n="150629"/>(shouts)</stage>
-<lb n="150630"/>The galling chain.
-<lb n="150631"/>And free our native land.</p></sp>
+<stage><lb n="150629"/>(shouts)</stage>
+<quote><lg><lb n="150630"/><l>The galling chain.</l>
+<lb n="150631"/><l>And free our native land.</l></lg></quote></sp>
 <stage><lb n="150632"/>(He staggers forward, dragging them with him. Bloom stops, at
 <lb n="150633"/>fault. The dog approaches, his tongue outlolling, panting.)</stage>
 <sp who="lb"><speaker><lb n="150634"/>Bloom</speaker>
@@ -845,8 +845,8 @@
 <lb n="150844"/>delicti</foreign>, my lord, a specimen of my maturer work disfigured by the hallmark
 <lb n="150845"/>of the beast.</p></sp>
 <sp who="A Voice from the Gallery"><speaker><lb n="150846"/>A Voice from the Gallery</speaker>
-<p><lb n="150847"/>Moses, Moses, king of the jews,
-<lb n="150848"/>Wiped his arse in the <title type="newspaper">Daily News</title>.</p></sp>
+<quote><lg><lb n="150847"/><l>Moses, Moses, king of the jews,</l>
+<lb n="150848"/><l>Wiped his arse in the <title type="newspaper">Daily News</title>.</l></lg></quote></sp>
 <sp who="lb"><speaker><lb n="150849"/>Bloom</speaker>
 <p><stage><lb n="150850"/>(bravely)</stage> Overdrawn.</p></sp>
 <sp who="pb"><speaker><lb n="150851"/>Beaufoy</speaker>
@@ -960,9 +960,9 @@
 <lb n="150959"/>slow hand across his forehead. Then he hitches his belt sailor fashion and
 <lb n="150960"/>with a shrug of oriental obeisance salutes the court, pointing one thumb
 <lb n="150961"/>heavenward.)</stage> Him makee velly muchee fine night. <stage>(he begins to lilt simply)</stage></p>
-<p><lb n="150962"/>Li li poo lil chile
-<lb n="150963"/>Blingee pigfoot evly night
-<lb n="150964"/>Payee two shilly ....</p></sp>
+<lg><lb n="150962"/><l>Li li poo lil chile</l>
+<lb n="150963"/><l>Blingee pigfoot evly night</l>
+<lb n="150964"/><l>Payee two shilly ....</l></lg></sp>
 <stage><lb n="150965"/>(He is howled down.)</stage>
 <sp who="jjom"><speaker><lb n="150966"/>J. J. O'Molloy</speaker>
 <p><stage><lb n="150967"/>(hotly to the populace)</stage> This is a lonehand fight. By Hades, I will not have
@@ -1130,10 +1130,10 @@
 <lb n="151129"/>and exposes a marble timepiece. Before him Father Conroy and the
 <lb n="151130"/>reverend John Hughes S. J. bend low.)</stage>
 <sp who="The Timepiece"><speaker><lb n="151131"/>The Timepiece</speaker>
-<p><stage><lb n="151132"/>(unportalling)</stage></p>
-<p><lb n="151133"/>Cuckoo.
-<lb n="151134"/>Cuckoo.
-<lb n="151135"/>Cuckoo.</p></sp>
+<stage><lb n="151132"/>(unportalling)</stage>
+<lg><lb n="151133"/><l>Cuckoo.</l>
+<lb n="151134"/><l>Cuckoo.</l>
+<lb n="151135"/><l>Cuckoo.</l></lg></sp>
 <stage><lb n="151136"/>(The brass quoits of a bed are heard to jingle.)</stage>
 <sp who="The Quoits"><speaker><lb n="151137"/>The Quoits</speaker>
 <p><lb n="151138"/>Jigjag. Jigajiga. Jigjag.</p></sp>
@@ -1449,10 +1449,10 @@
 <lb n="151448"/>run amid the bystanders with branches of hawthorn and
 <lb n="151449"/>wrenbushes.)</stage>
 <sp who="Bloom's Boys"><speaker><lb n="151450"/>Bloom's Boys</speaker>
-<p><lb n="151451"/>The wren, the wren,
-<lb n="151452"/>The king of all birds,
-<lb n="151453"/>Saint Stephen's his day
-<lb n="151454"/>Was caught in the furze.</p></sp>
+<quote><lg><lb n="151451"/><l>The wren, the wren,</l>
+<lb n="151452"/><l>The king of all birds,</l>
+<lb n="151453"/><l>Saint Stephen's his day</l>
+<lb n="151454"/><l>Was caught in the furze.</l></lg></quote></sp>
 <sp who="ublack"><speaker><lb n="151455"/>A Blacksmith</speaker>
 <p><stage><lb n="151456"/>(murmurs)</stage> For the honour of God! And is that Bloom? He scarcely looks
 <lb n="151457"/>thirtyone.</p></sp>
@@ -1591,8 +1591,8 @@
 <sp who="The Women"><speaker><lb n="151590"/>The Women</speaker>
 <p><lb n="151591"/>Little father! Little father!</p></sp>
 <sp who="The Babes and Sucklings"><speaker><lb n="151592"/>The Babes and Sucklings</speaker>
-<p><lb n="151593"/>Clap clap hands till Poldy comes home,
-<lb n="151594"/>Cakes in his pocket for Leo alone.</p></sp>
+<quote><lg><lb n="151593"/><l>Clap clap hands till Poldy comes home,</l>
+<lb n="151594"/><l>Cakes in his pocket for Leo alone.</l></lg></quote></sp>
 <stage><lb n="151595"/>(Bloom, bending down, pokes Baby Boardman gently in the
 <lb n="151596"/>stomach.)</stage>
 <sp who="bb"><speaker><lb n="151597"/>Baby Boardman</speaker>
@@ -1720,10 +1720,10 @@
 <sp who="nf"><speaker><lb n="151719"/>Nosey Flynn</speaker>
 <p><lb n="151720"/>Give us a tune, Bloom. One of the old sweet songs.</p></sp>
 <sp who="lb"><speaker><lb n="151721"/>Bloom</speaker>
-<p><stage><lb n="151722"/>(with rollicking humour)</stage>
-<lb n="151723"/>I vowed that I never would leave her,
-<lb n="151724"/>She turned out a cruel deceiver.
-<lb n="151725"/>With my tooraloom tooraloom tooraloom tooraloom.</p></sp>
+<stage><lb n="151722"/>(with rollicking humour)</stage>
+<quote><lg><lb n="151723"/><l>I vowed that I never would leave her,</l>
+<lb n="151724"/><l>She turned out a cruel deceiver.</l>
+<lb n="151725"/><l>With my tooraloom tooraloom tooraloom tooraloom.</l></lg></quote></sp>
 <sp who="hh"><speaker><lb n="151726"/>Hoppy Holohan</speaker>
 <p><lb n="151727"/>Good old Bloom! There's nobody like him after all.</p></sp>
 <sp who="pl"><speaker><lb n="151728"/>Paddy Leonard</speaker>
@@ -1888,13 +1888,13 @@
 <lb n="151887"/>Artane orphans, joining hands, caper round him. Girls of the Prison
 <lb n="151888"/>Gate Mission, joining hands, caper round in the opposite direction.)</stage>
 <sp who="The Artane Orphans"><speaker><lb n="151889"/>The Artane Orphans</speaker>
-<p><lb n="151890"/>You hig, you hog, you dirty dog!
-<lb n="151891"/>You think the ladies love you!</p></sp>
+<quote><lg><lb n="151890"/><l>You hig, you hog, you dirty dog!</l>
+<lb n="151891"/><l>You think the ladies love you!</l></lg></quote></sp>
 <sp who="The Prison Gate Girls"><speaker><lb n="151892"/>The Prison Gate Girls</speaker>
-<p><lb n="151893"/>If you see Kay
-<lb n="151894"/>Tell him he may
-<lb n="151895"/>See you in tea
-<lb n="151896"/>Tell him from me.</p></sp>
+<lg><lb n="151893"/><l>If you see Kay</l>
+<lb n="151894"/><l>Tell him he may</l>
+<lb n="151895"/><l>See you in tea</l>
+<lb n="151896"/><l>Tell him from me.</l></lg></sp>
 <sp who="Hornblower"><speaker><lb n="151897"/>Hornblower</speaker>
 <p><stage><lb n="151898"/>(in ephod and huntingcap, announces)</stage> And he shall carry the sins of the
 <lb n="151899"/>people to Azazel, the spirit which is in the wilderness, and to Lilith, the
@@ -1939,21 +1939,21 @@
 <stage><lb n="151938"/>(The daughters of Erin, in black garments, with large prayerbooks
 <lb n="151939"/>and long lighted candles in their hands, kneel down and pray.)</stage>
 <sp who="The Daughters of Erin"><speaker><lb n="151940"/>The Daughters of Erin</speaker>
-<p><lb n="151941"/>Kidney of Bloom, pray for us
-<lb n="151942"/>Flower of the Bath, pray for us
-<lb n="151943"/>Mentor of Menton, pray for us
-<lb n="151944"/>Canvasser for the Freeman, pray for us
-<lb n="151945"/>Charitable Mason, pray for us
-<lb n="151946"/>Wandering Soap, pray for us
-<lb n="151947"/>Sweets of Sin, pray for us
-<lb n="151948"/>Music without Words, pray for us
-<lb n="151949"/>Reprover of the Citizen, pray for us
-<lb n="151950"/>Friend of all Frillies, pray for us
-<lb n="151951"/>Midwife Most Merciful, pray for us
-<lb n="151952"/>Potato Preservative against Plague and Pestilence, pray for us.</p></sp>
+<lg><lb n="151941"/><l>Kidney of Bloom, pray for us</l>
+ <lb n="151942"/><l>Flower of the Bath, pray for us</l>
+ <lb n="151943"/><l>Mentor of Menton, pray for us</l>
+ <lb n="151944"/><l>Canvasser for the Freeman, pray for us</l>
+ <lb n="151945"/><l>Charitable Mason, pray for us</l>
+ <lb n="151946"/><l>Wandering Soap, pray for us</l>
+ <lb n="151947"/><l>Sweets of Sin, pray for us</l>
+ <lb n="151948"/><l>Music without Words, pray for us</l>
+ <lb n="151949"/><l>Reprover of the Citizen, pray for us</l>
+ <lb n="151950"/><l>Friend of all Frillies, pray for us</l>
+ <lb n="151951"/><l>Midwife Most Merciful, pray for us</l>
+ <lb n="151952"/><l>Potato Preservative against Plague and Pestilence, pray for us.</l></lg></sp>
 <stage><lb n="151953"/>(A choir of six hundred voices, conducted by Vincent O'Brien,
-<lb n="151954"/>sings the chorus from Handel's Messiah <emph>Alleluia for the Lord God
-<lb n="151955"/>Omnipotent reigneth</emph>, accompanied on the organ by Joseph Glynn.
+<lb n="151954"/>sings the chorus from Handel's Messiah <quote>Alleluia for the Lord God
+<lb n="151955"/>Omnipotent reigneth</quote>, accompanied on the organ by Joseph Glynn.
 <lb n="151956"/>Bloom becomes mute, shrunken, carbonised.)</stage>
 <sp who="zh"><speaker><lb n="151957"/>Zoe</speaker>
 <p><lb n="151958"/>Talk away till you're black in the face.</p></sp>
@@ -2169,9 +2169,9 @@
 <lb n="152168"/>occupies space. Through the drifting fog without the gramophone
 <lb n="152169"/>blares over coughs and feetshuffling.)</stage>
 <sp who="The Gramophone"><speaker><lb n="152170"/>The Gramophone</speaker>
-<p><lb n="152171"/>Jerusalem!
-<lb n="152172"/>Open your gates and sing
-<lb n="152173"/>Hosanna ....</p></sp>
+<quote><lg><lb n="152171"/><l>Jerusalem!</l>
+<lb n="152172"/><l>Open your gates and sing</l>
+<lb n="152173"/><l>Hosanna ....</l></lg></quote></sp>
 <stage><lb n="152174"/>(A rocket rushes up the sky and bursts. A white star falls from it,
 <lb n="152175"/>proclaiming the consummation of all things and second coming of
 <lb n="152176"/>Elijah. Along an infinite invisible tightrope taut from zenith to nadir
@@ -2467,15 +2467,15 @@
 <lb n="152466"/>stares sideways down with dropping underjaw)</stage> Well, well. He doth rest
 <lb n="152467"/>anon. <stage>(he snaps his jaws suddenly on the air)</stage></p></sp>
 <sp who="The Moth"><speaker><lb n="152468"/>The Moth</speaker>
-<p><lb n="152469"/>I'm a tiny tiny thing
-<lb n="152470"/>Ever flying in the spring
-<lb n="152471"/>Round and round a ringaring.
-<lb n="152472"/>Long ago I was a king
-<lb n="152473"/>Now I do this kind of thing
-<lb n="152474"/>On the wing, on the wing!
-<lb n="152475"/>Bing!
+<quote><lg><lb n="152469"/><l>I'm a tiny tiny thing</l>
+<lb n="152470"/><l>Ever flying in the spring</l>
+<lb n="152471"/><l>Round and round a ringaring.</l>
+<lb n="152472"/><l>Long ago I was a king</l>
+<lb n="152473"/><l>Now I do this kind of thing</l>
+<lb n="152474"/><l>On the wing, on the wing!</l>
+<lb n="152475"/><l>Bing!</l></lg></quote>
 <stage><lb n="152476"/>(he rushes against the mauve shade, flapping noisily)</stage>
-<lb n="152477"/>Pretty pretty pretty pretty pretty pretty petticoats.</p></sp>
+<quote><lg><lb n="152477"/><l>Pretty pretty pretty pretty pretty pretty petticoats.</l></lg></quote></sp>
 <stage><lb n="152478"/>(From left upper entrance with two gliding steps Henry Flower
 <lb n="152479"/>comes forward to left front centre. He wears a dark mantle and
 <lb n="152480"/>drooping plumed sombrero. He carries a silverstringed inlaid
@@ -2662,34 +2662,34 @@
 <lb n="152661"/>grace from on high with large wave gestures and proclaims with
 <lb n="152662"/>bloated pomp:)</stage>
 <sp who="Simon Dedalus AS The Cardinal"><speaker><lb n="152663"/>The Cardinal</speaker>
-<p><lb n="152664"/>Conservio lies captured
-<lb n="152665"/>He lies in the lowest dungeon
-<lb n="152666"/>With manacles and chains around his limbs
-<lb n="152667"/>Weighing upwards of three tons.
+<quote><lg><lb n="152664"/><l>Conservio lies captured</l>
+<lb n="152665"/><l>He lies in the lowest dungeon</l>
+<lb n="152666"/><l>With manacles and chains around his limbs</l>
+<lb n="152667"/><l>Weighing upwards of three tons.</l></lg></quote>
 <stage><lb n="152668"/>(He looks at all for a moment, his right eye closed tight, his left
 <lb n="152669"/>cheek puffed out. Then, unable to repress his merriment, he rocks to
 <lb n="152670"/>and fro, arms akimbo, and sings with broad rollicking humour:)</stage>
-<lb n="152671"/>O, the poor little fellow
-<lb n="152672"/>Hihihihihis legs they were yellow
-<lb n="152673"/>He was plump, fat and heavy and brisk as a snake
-<lb n="152674"/>But some bloody savage
-<lb n="152675"/>To graize his white cabbage
-<lb n="152676"/>He murdered Nell Flaherty's duckloving drake.
-<stage><lb n="152677"/>(A multitude of midges swarms white over his robe. He scratches
+<quote><lg><lb n="152671"/><l>O, the poor little fellow</l>
+<lb n="152672"/><l>Hihihihihis legs they were yellow</l>
+<lb n="152673"/><l>He was plump, fat and heavy and brisk as a snake</l>
+<lb n="152674"/><l>But some bloody savage</l>
+<lb n="152675"/><l>To graize his white cabbage</l>
+<lb n="152676"/><l>He murdered Nell Flaherty's duckloving drake.</l></lg></quote>
+<p><stage><lb n="152677"/>(A multitude of midges swarms white over his robe. He scratches
 <lb n="152678"/>himself with crossed arms at his ribs, grimacing, and exclaims:)</stage>
 <lb n="152679"/>I'm suffering the agony of the damned. By the hoky fiddle, thanks be to
 <lb n="152680"/>Jesus those funny little chaps are not unanimous. If they were they'd walk
-<lb n="152681"/>me off the face of the bloody globe.
+<lb n="152681"/>me off the face of the bloody globe.</p>
 <stage><lb n="152682"/>(His head aslant he blesses curtly with fore and middle fingers,
 <lb n="152683"/>imparts the Easter kiss and doubleshuffles off comically, swaying his
 <lb n="152684"/>hat from side to side, shrinking quickly to the size of his
 <lb n="152685"/>trainbearers. The dwarf acolytes, giggling, peeping, nudging, ogling,
 <lb n="152686"/>easterkissing, zigzag behind him. His voice is heard mellow from
 <lb n="152687"/>afar, merciful male, melodious:)</stage>
-<lb n="152688"/>Shall carry my heart to thee,
-<lb n="152689"/>Shall carry my heart to thee,
-<lb n="152690"/>And the breath of the balmy night
-<lb n="152691"/>Shall carry my heart to thee!</p></sp>
+<quote><lg><lb n="152688"/><l>Shall carry my heart to thee,</l>
+<lb n="152689"/><l>Shall carry my heart to thee,</l>
+<lb n="152690"/><l>And the breath of the balmy night</l>
+<lb n="152691"/><l>Shall carry my heart to thee!</l></lg></quote></sp>
 <stage><lb n="152692"/>(The trick doorhandle turns.)</stage>
 <sp who="The Doorhandle"><speaker><lb n="152693"/>The Doorhandle</speaker>
 <p><lb n="152694"/>Theeee!</p></sp>
@@ -3297,8 +3297,8 @@
 <lb n="153296"/>which has only one handle.</p></sp>
 <stage><lb n="153297"/>(The sound of a waterfall is heard in bright cascade.)</stage>
 <sp who="The Waterfall"><speaker><lb n="153298"/>The Waterfall</speaker>
-<p><lb n="153299"/>Poulaphouca Poulaphouca
-<lb n="153300"/>Poulaphouca Poulaphouca.</p></sp>
+<lg><lb n="153299"/><l>Poulaphouca Poulaphouca</l>
+<lb n="153300"/><l>Poulaphouca Poulaphouca.</l></lg></sp>
 <sp who="The Yews"><speaker><lb n="153301"/>The Yews</speaker>
 <p><stage><lb n="153302"/>(mingling their boughs)</stage> Listen. Whisper. She is right, our sister. We grew
 <lb n="153303"/>by Poulaphouca waterfall. We gave shade on languorous summer days.</p></sp>
@@ -3346,8 +3346,8 @@
 <sp who="The Yews"><speaker><lb n="153345"/>The Yews</speaker>
 <p><stage><lb n="153346"/>(sweeping downward)</stage> Sister, yes. And on our virgin sward.</p></sp>
 <sp who="The Waterfall"><speaker><lb n="153347"/>The Waterfall</speaker>
-<p><lb n="153348"/>Poulaphouca Poulaphouca
-<lb n="153349"/>Phoucaphouca Phoucaphouca.</p></sp>
+<lg><lb n="153348"/><l>Poulaphouca Poulaphouca</l>
+<lb n="153349"/><l>Phoucaphouca Phoucaphouca.</l></lg></sp>
 <sp who="The Nymph"><speaker><lb n="153350"/>The Nymph</speaker>
 <p><stage><lb n="153351"/>(with wide fingers)</stage> O, infamy!</p></sp>
 <sp who="lb"><speaker><lb n="153352"/>Bloom</speaker>
@@ -3427,8 +3427,8 @@
 <lb n="153426"/>last favours, most especially with previously well uplifted white sateen
 <lb n="153427"/>coatpans. So womanly, full. It fills me full.</p></sp>
 <sp who="The Waterfall"><speaker><lb n="153428"/>The Waterfall</speaker>
-<p><lb n="153429"/>Phillaphulla Poulaphouca
-<lb n="153430"/>Poulaphouca Poulaphouca.</p></sp>
+<lg><lb n="153429"/><l>Phillaphulla Poulaphouca</l>
+<lb n="153430"/><l>Poulaphouca Poulaphouca.</l></lg></sp>
 <sp who="The Yews"><speaker><lb n="153431"/>The Yews</speaker>
 <p><lb n="153432"/>Ssh! Sister, speak!</p></sp>
 <sp who="The Nymph"><speaker><lb n="153433"/>The Nymph</speaker>
@@ -3442,10 +3442,10 @@
 <p><lb n="153441"/>Bip!</p></sp>
 <stage><lb n="153442"/>(Two sluts of the Coombe dance rainily by, shawled, yelling flatly.)</stage>
 <sp who="The Sluts"><speaker><lb n="153443"/>The Sluts</speaker>
-<p><lb n="153444"/>O, Leopold lost the pin of his drawers
-<lb n="153445"/>He didn't know what to do,
-<lb n="153446"/>To keep it up,
-<lb n="153447"/>To keep it up.</p></sp>
+<lg><lb n="153444"/><l>O, Leopold lost the pin of his drawers</l>
+<lb n="153445"/><l>He didn't know what to do,</l>
+<lb n="153446"/><l>To keep it up,</l>
+<lb n="153447"/><l>To keep it up.</l></lg></sp>
 <sp who="lb"><speaker><lb n="153448"/>Bloom</speaker>
 <p><stage><lb n="153449"/>(coldly)</stage> You have broken the spell. The last straw. If there were only
 <lb n="153450"/>ethereal where would you all be, postulants and novices? Shy but willing
@@ -3513,10 +3513,10 @@
 <sp who="lb"><speaker><lb n="153512"/>Bloom</speaker>
 <p><stage><lb n="153513"/>(with feeling)</stage> It is nothing, but still, a relic of poor mamma.</p></sp>
 <sp who="zh"><speaker><lb n="153514"/>Zoe</speaker>
-<p><lb n="153515"/>Give a thing and take it back
-<lb n="153516"/>God'll ask you where is that
-<lb n="153517"/>You'll say you don't know
-<lb n="153518"/>God'll send you down below.</p></sp>
+<quote><lg><lb n="153515"/><l>Give a thing and take it back</l>
+<lb n="153516"/><l>God'll ask you where is that</l>
+<lb n="153517"/><l>You'll say you don't know</l>
+<lb n="153518"/><l>God'll send you down below.</l></lg></quote></sp>
 <sp who="lb"><speaker><lb n="153519"/>Bloom</speaker>
 <p><lb n="153520"/>There is a memory attached to it. I should like to have it.</p></sp>
 <sp who="sd"><speaker><lb n="153521"/>Stephen</speaker>
@@ -3575,11 +3575,11 @@
 <p><lb n="153574"/>Hoopla!</p></sp>
 <stage><lb n="153575"/>(He lifts her, carries her and bumps her down on the sofa.)</stage>
 <sp who="sd"><speaker><lb n="153576"/>Stephen</speaker>
-<p><lb n="153577"/>The fox crew, the cocks flew,
-<lb n="153578"/>The bells in heaven
-<lb n="153579"/>Were striking eleven.
-<lb n="153580"/>'Tis time for her poor soul
-<lb n="153581"/>To get out of heaven.</p></sp>
+<quote><lg><lb n="153577"/><l>The fox crew, the cocks flew,</l>
+<lb n="153578"/><l>The bells in heaven</l>
+<lb n="153579"/><l>Were striking eleven.</l>
+<lb n="153580"/><l>'Tis time for her poor soul</l>
+<lb n="153581"/><l>To get out of heaven.</l></lg></quote></sp>
 <sp who="lb"><speaker><lb n="153582"/>Bloom</speaker>
 <p><stage><lb n="153583"/>(quietly lays a half sovereign on the table between Bella and Florry)</stage> So.
 <lb n="153584"/>Allow me. <stage>(he takes up the poundnote)</stage> Three times ten. We're square.</p></sp>
@@ -3647,11 +3647,11 @@
 <sp who="zh"><speaker><lb n="153646"/>Zoe</speaker>
 <p><lb n="153647"/>Is he hungry?</p></sp>
 <sp who="sd"><speaker><lb n="153648"/>Stephen</speaker>
-<p><stage><lb n="153649"/>(extends his hand to her smiling and chants to the air of the bloodoath in
+<stage><lb n="153649"/>(extends his hand to her smiling and chants to the air of the bloodoath in
 <title type="opera"><lb n="153650"/>The Dusk of the Gods</title>)</stage>
-<lb n="153651"/>Hangende Hunger,
-<lb n="153652"/>Fragende Frau,
-<lb n="153653"/>Macht uns alle kaputt.</p></sp>
+<lg><lb n="153651"/><l>Hangende Hunger,</l>
+<lb n="153652"/><l>Fragende Frau,</l>
+<lb n="153653"/><l>Macht uns alle kaputt.</l></lg></sp>
 <sp who="zh"><speaker><lb n="153654"/>Zoe</speaker>
 <p><stage><lb n="153655"/>(tragically)</stage> Hamlet, I am thy father's gimlet! <stage>(she takes his hand)</stage> Blue
 <lb n="153656"/>eyes beauty I'll read your hand. <stage>(she points to his forehead)</stage> No wit, no
@@ -3858,8 +3858,8 @@
 <lb n="153857"/>Cunningham in merry widow hat and kimono gown. She glides
 <lb n="153858"/>sidling and bowing, twirling japanesily.)</stage>
 <sp who="mrscu"><speaker><lb n="153859"/>Mrs Cunningham</speaker>
-<p><stage><lb n="153860"/>(sings)</stage>
-<lb n="153861"/>And they call me the jewel of Asia!</p></sp>
+<stage><lb n="153860"/>(sings)</stage>
+<quote><lg><lb n="153861"/><l>And they call me the jewel of Asia!</l></lg></quote></sp>
 <sp who="mc"><speaker><lb n="153862"/>Martin Cunningham</speaker>
 <p><stage><lb n="153863"/>(gazes on her, impassive)</stage> Immense! Most bloody awful demirep!</p></sp>
 <sp who="sd"><speaker><lb n="153864"/>Stephen</speaker>
@@ -4000,8 +4000,8 @@
 <sp who="zh"><speaker><lb n="153999"/>Zoe</speaker>
 <p><stage><lb n="154000"/>(holds up her hand)</stage> Stop!</p></sp>
 <sp who="Private Carr AND Private Compton AND Cissy Caffrey"><speaker><lb n="154001"/>Private Carr, Private Compton and Cissy Caffrey</speaker>
-<p><lb n="154002"/>Yet I've a sort of a
-<lb n="154003"/>Yorkshire relish for ...</p></sp>
+<quote><lg><lb n="154002"/><l>Yet I've a sort of a</l>
+<lb n="154003"/><l>Yorkshire relish for ...</l></lg></quote></sp>
 <sp who="zh"><speaker><lb n="154004"/>Zoe</speaker>
 <p><lb n="154005"/>That's me. <stage>(she claps her hands)</stage> Dance! Dance! <stage>(she runs to the pianola)</stage>
 <lb n="154006"/>Who has twopence?</p></sp>
@@ -4072,7 +4072,7 @@
 <sp who="Cavaliers"><speaker><lb n="154071"/>Cavaliers</speaker>
 <p><lb n="154072"/>O, so lightly!</p></sp>
 <sp who="The Pianola"><speaker><lb n="154073"/>The Pianola</speaker>
-<p><lb n="154074"/>My little shy little lass has a waist.</p></sp>
+<quote><lg><lb n="154074"/><l>My little shy little lass has a waist.</l></lg></quote></sp>
 <stage><lb n="154075"/>(Zoe and Stephen turn boldly with looser swing. The twilight hours
 <lb n="154076"/>advance from long landshadows, dispersed, lagging, languideyed,
 <lb n="154077"/>their cheeks delicate with cipria and false faint bloom. They are in
@@ -4104,8 +4104,8 @@
 <p><foreign xml:lang="fr"><lb n="154103"/>Dansez avec vos dames! Changez de dames! Donnez le petit bouquet à votre
 <lb n="154104"/>dame! Remerciez!</foreign></p></sp>
 <sp who="The Pianola"><speaker><lb n="154105"/>The Pianola</speaker>
-<p><lb n="154106"/>Best, best of all,
-<lb n="154107"/>Baraabum!</p></sp>
+<quote><lg><lb n="154106"/><l>Best, best of all,</l>
+<lb n="154107"/><l>Baraabum!</l></lg></quote></sp>
 <sp who="kr"><speaker><lb n="154108"/>Kitty</speaker>
 <p><stage><lb n="154109"/>(jumps up)</stage> O, they played that on the hobbyhorses at the <emph>Mirus</emph> bazaar!</p></sp>
 <stage><lb n="154110"/>(She runs to Stephen. He leaves Florry brusquely and seizes
@@ -4113,7 +4113,7 @@
 <lb n="154112"/>Groangrousegurgling Toft's cumbersome whirligig turns slowly the
 <lb n="154113"/>room right roundabout the room.)</stage>
 <sp who="The Pianola"><speaker><lb n="154114"/>The Pianola</speaker>
-<p><lb n="154115"/>My girl's a Yorkshire girl.</p></sp>
+<quote><lg><lb n="154115"/><l>My girl's a Yorkshire girl.</l></lg></quote></sp>
 <sp who="zh"><speaker><lb n="154116"/>Zoe</speaker>
 <p><lb n="154117"/>Yorkshire through and through. Come on all!</p></sp>
 <stage><lb n="154118"/>(She seizes Florry and waltzes her.)</stage>
@@ -4128,8 +4128,8 @@
 <lb n="154127"/>hobbyhorse riders from gilded snakes dangled, bowels fandango
 <lb n="154128"/>leaping spurn soil foot and fall again.)</stage>
 <sp who="The Pianola"><speaker><lb n="154129"/>The Pianola</speaker>
-<p><lb n="154130"/>Though she's a factory lass
-<lb n="154131"/>And wears no fancy clothes.</p></sp>
+<quote><lg><lb n="154130"/><l>Though she's a factory lass</l>
+<lb n="154131"/><l>And wears no fancy clothes.</l></lg></quote></sp>
 <stage><lb n="154132"/>(Closeclutched swift swifter with glareblareflare scudding they
 <lb n="154133"/>scootlootshoot lumbering by. Baraabum!)</stage>
 <sp who="Tutti"><speaker><lb n="154134"/>Tutti</speaker>
@@ -4162,8 +4162,8 @@
 <lb n="154161"/>Stephen and opens her toothless mouth uttering a silent word. A
 <lb n="154162"/>choir of virgins and confessors sing voicelessly.)</stage>
 <sp who="The Choir"><speaker><lb n="154163"/>The Choir</speaker>
-<p><lb n="154164"/><quote xml:lang="la" rend="none">Liliata rutilantium te confessorum ....
-<lb n="154165"/>Iubilantium te virginum .....</quote></p></sp>
+<quote xml:lang="la" rend="none"><lg><lb n="154164"/><l>Liliata rutilantium te confessorum ....</l>
+<lb n="154165"/><l>Iubilantium te virginum .....</l></lg></quote></sp>
 <stage><lb n="154166"/>(From the top of a tower Buck Mulligan, in particoloured jester's
 <lb n="154167"/>dress of puce and yellow and clown's cap with curling bell, stands
 <lb n="154168"/>gaping at her, a smoking buttered split scone in his hand.)</stage>
@@ -4474,10 +4474,10 @@
 <lb n="154473"/>Not that I wish it for you. But I say: Let my country die for me. Up to the
 <lb n="154474"/>present it has done so. I didn't want it to die. Damn death. Long live life!</p></sp>
 <sp who="Edward the Seventh"><speaker><lb n="154475"/>Edward the Seventh</speaker>
-<p><stage><lb n="154476"/>(levitates over heaps of slain, in the garb and with the halo of Joking Jesus,
+<stage><lb n="154476"/>(levitates over heaps of slain, in the garb and with the halo of Joking Jesus,
 <lb n="154477"/>a white jujube in his phosphorescent face)</stage>
-<lb n="154478"/>My methods are new and are causing surprise.
-<lb n="154479"/>To make the blind see I throw dust in their eyes.</p></sp>
+<quote><lg><lb n="154478"/><l>My methods are new and are causing surprise.</l>
+<lb n="154479"/><l>To make the blind see I throw dust in their eyes.</l></lg></quote></sp>
 <sp who="sd"><speaker><lb n="154480"/>Stephen</speaker>
 <p><lb n="154481"/>Kings and unicorns! <stage>(he falls back a pace)</stage> Come somewhere and we'll ...
 <lb n="154482"/>What was that girl saying ...?</p></sp>
@@ -4522,18 +4522,18 @@
 <sp who="A Rough"><speaker><lb n="154521"/>A Rough</speaker>
 <p><stage><lb n="154522"/>(laughs)</stage> Ay! Hands up to De Wet.</p></sp>
 <sp who="tc"><speaker><lb n="154523"/>The Citizen</speaker>
-<p><stage><lb n="154524"/>(with a huge emerald muffler and shillelagh, calls)</stage>
-<lb n="154525"/>May the God above
-<lb n="154526"/>Send down a dove
-<lb n="154527"/>With teeth as sharp as razors
-<lb n="154528"/>To slit the throats
-<lb n="154529"/>Of the English dogs
-<lb n="154530"/>That hanged our Irish leaders.</p></sp>
+<stage><lb n="154524"/>(with a huge emerald muffler and shillelagh, calls)</stage>
+<quote><lg><lb n="154525"/><l>May the God above</l>
+<lb n="154526"/><l>Send down a dove</l>
+<lb n="154527"/><l>With teeth as sharp as razors</l>
+<lb n="154528"/><l>To slit the throats</l>
+<lb n="154529"/><l>Of the English dogs</l>
+<lb n="154530"/><l>That hanged our Irish leaders.</l></lg></quote></sp>
 <sp who="The Croppy Boy"><speaker><lb n="154531"/>The Croppy Boy</speaker>
-<p><stage><lb n="154532"/>(the ropenoose round his neck, gripes in his issuing bowels with both
+<stage><lb n="154532"/>(the ropenoose round his neck, gripes in his issuing bowels with both
 <lb n="154533"/>hands)</stage>
-<lb n="154534"/>I bear no hate to a living thing,
-<lb n="154535"/>But I love my country beyond the king.</p></sp>
+<quote><lg><lb n="154534"/><l>I bear no hate to a living thing,</l>
+<lb n="154535"/><l>But I love my country beyond the king.</l></lg></quote></sp>
 <sp who="hr"><speaker><lb n="154536"/>Rumbold, Demon Barber</speaker>
 <p><stage><lb n="154537"/>(accompanied by two blackmasked assistants, advances with gladstone bag
 <lb n="154538"/>which he opens)</stage> Ladies and gents, cleaver purchased by Mrs Pearcy to slay
@@ -4558,11 +4558,11 @@
 <lb n="154557"/>clotted with coiled and smoking entrails)</stage> My painful duty has now been
 <lb n="154558"/>done. God save the king!</p></sp>
 <sp who="Edward the Seventh"><speaker><lb n="154559"/>Edward the Seventh</speaker>
-<p><stage><lb n="154560"/>(dances slowly, solemnly, rattling his bucket, and sings with soft
+<stage><lb n="154560"/>(dances slowly, solemnly, rattling his bucket, and sings with soft
 <lb n="154561"/>contentment)</stage>
-<lb n="154562"/>On coronation day, on coronation day,
-<lb n="154563"/>O, won't we have a merry time,
-<lb n="154564"/>Drinking whisky, beer and wine!</p></sp>
+<quote><lg><lb n="154562"/><l>On coronation day, on coronation day,</l>
+<lb n="154563"/><l>O, won't we have a merry time,</l>
+<lb n="154564"/><l>Drinking whisky, beer and wine!</l></lg></quote></sp>
 <sp who="Private Carr"><speaker><lb n="154565"/>Private Carr</speaker>
 <p><lb n="154566"/>Here. What are you saying about my king?</p></sp>
 <sp who="sd"><speaker><lb n="154567"/>Stephen</speaker>
@@ -4639,8 +4639,8 @@
 <p><stage><lb n="154638"/>(blushing deeply)</stage> Nay, madam. The gules doublet and merry saint George
 <lb n="154639"/>for me!</p></sp>
 <sp who="sd"><speaker><lb n="154640"/>Stephen</speaker>
-<p><lb n="154641"/>The harlot's cry from street to street
-<lb n="154642"/>Shall weave Old Ireland's windingsheet.</p></sp>
+<quote><lg><lb n="154641"/><l>The harlot's cry from street to street</l>
+<lb n="154642"/><l>Shall weave Old Ireland's windingsheet.</l></lg></quote></sp>
 <sp who="Private Carr"><speaker><lb n="154643"/>Private Carr</speaker>
 <p><stage><lb n="154644"/>(loosening his belt, shouts)</stage> I'll wring the neck of any fucking bastard says
 <lb n="154645"/>a word against my bleeding fucking king.</p></sp>
@@ -4652,9 +4652,9 @@
 <p><stage><lb n="154651"/>(alarmed, seizes Private Carr's sleeve)</stage> Amn't I with you? Amn't I your
 <lb n="154652"/>girl? Cissy's your girl. <stage>(she cries)</stage> Police!</p></sp>
 <sp who="sd"><speaker><lb n="154653"/>Stephen</speaker>
-<p><stage><lb n="154654"/>(ecstatically, to Cissy Caffrey)</stage>
-<lb n="154655"/>White thy fambles, red thy gan
-<lb n="154656"/>And thy quarrons dainty is.</p></sp>
+<stage><lb n="154654"/>(ecstatically, to Cissy Caffrey)</stage>
+<quote><lg><lb n="154655"/><l>White thy fambles, red thy gan</l>
+<lb n="154656"/><l>And thy quarrons dainty is.</l></lg></quote></sp>
 <sp who="Voices"><speaker><lb n="154657"/>Voices</speaker>
 <p><lb n="154658"/>Police!</p></sp>
 <sp who="Distant Voices"><speaker><lb n="154659"/>Distant Voices</speaker>
@@ -4929,9 +4929,9 @@
 <stage><lb n="154928"/>(There is no answer. He calls again.)</stage> Stephen!</p></sp>
 <sp who="sd"><speaker><lb n="154929"/>Stephen</speaker>
 <p><stage><lb n="154930"/>(frowns)</stage> Who? Black panther. Vampire. <stage>(he sighs and stretches himself,
-<lb n="154931"/>then murmurs thickly with prolonged vowels)</stage>
-<lb n="154932"/>Who ... drive ... Fergus now
-<lb n="154933"/>And pierce ... wood's woven shade ..?</p></sp>
+<lb n="154931"/>then murmurs thickly with prolonged vowels)</stage></p>
+<quote><lg><lb n="154932"/><l>Who ... drive ... Fergus now</l>
+<lb n="154933"/><l>And pierce ... wood's woven shade ..?</l></lg></quote></sp>
 <stage><lb n="154934"/>(He turns on his left side, sighing, doubling himself together.)</stage>
 <sp who="lb"><speaker><lb n="154935"/>Bloom</speaker>
 <p><lb n="154936"/>Poetry. Well educated. Pity. <stage>(he bends again and undoes the buttons of
@@ -4939,9 +4939,9 @@
 <lb n="154938"/>Stephen's clothes with light hand and fingers)</stage> One pound seven. Not hurt
 <lb n="154939"/>anyhow. <stage>(he listens)</stage> What?</p></sp>
 <sp who="sd"><speaker><lb n="154940"/>Stephen</speaker>
-<p><stage><lb n="154941"/>(murmurs)</stage>
-<lb n="154942"/>.... shadows ... the woods
-<lb n="154943"/>... white breast ... dim sea.</p></sp>
+<stage><lb n="154941"/>(murmurs)</stage>
+<quote><lg><lb n="154942"/><l>.... shadows ... the woods</l>
+<lb n="154943"/><l>... white breast ... dim sea.</l></lg></quote></sp>
 <stage><lb n="154944"/>(He stretches out his arms, sighs again and curls his body. Bloom,
 <lb n="154945"/>holding the hat and ashplant, stands erect. A dog barks in the
 <lb n="154946"/>distance. Bloom tightens and loosens his grip on the ashplant. He
