@@ -112,16 +112,14 @@
 <p><lb n="090111"/>From these words Mr Best turned an unoffending face to Stephen.
 <lb n="090112"/><said who="rib">―Mallarmé, don't you know,</said> he said, <said who="rib">has written those wonderful prose
 <lb n="090113"/>poems Stephen MacKenna used to read to me in Paris. The one about
-<lb n="090114"/><title type="play">Hamlet</title>. He says: <foreign xml:lang="fr">il se promène, lisant au livre de lui-même</foreign>, don't you
-<lb n="090115"/>know, <emph>reading the book of himself</emph>. He describes <title type="play">Hamlet</title> given in a French
+<lb n="090114"/><title type="play">Hamlet</title>. He says: <quote xml:lang="fr">il se promène, lisant au livre de lui-même</quote>, don't you
+<lb n="090115"/>know, <quote>reading the book of himself</quote>. He describes <title type="play">Hamlet</title> given in a French
 <lb n="090116"/>town, don't you know, a provincial town. They advertised it.</said></p>
 <p><lb n="090117"/>His free hand graciously wrote tiny signs in air.</p>
-<ab>
-<title type="play" xml:lang="fr"><lg rend="italics"><lb n="090118"/><l>Hamlet</l>
+<ab><title type="play" xml:lang="fr"><lg rend="italics"><lb n="090118"/><l>Hamlet</l>
 <lb n="090119"/><l>ou</l>
 <lb n="090120"/><l>Le Distrait</l>
-<lb n="090121"/><l>Pièce de Shakespeare</l></lg></title>
-</ab>
+<lb n="090121"/><l>Pièce de Shakespeare</l></lg></title></ab>
 <p><lb n="090122"/>He repeated to John Eglinton's newgathered frown:
 <lb n="090123"/><said who="rib">―<foreign xml:lang="fr">Pièce de Shakespeare</foreign>, don't you know. It's so French. The French point
 <lb n="090124"/>of view. <foreign xml:lang="fr">Hamlet ou</foreign> ...</said>
@@ -637,7 +635,7 @@
 <lb n="090634"/>bed after she had seen him in <title type="play">Richard III</title> and how Shakespeare,
 <lb n="090635"/>overhearing, without more ado about nothing, took the cow by the horns
 <lb n="090636"/>and, when Burbage came knocking at the gate, answered from the capon's
-<lb n="090637"/>blankets: <emph>William the conqueror came before Richard III.</emph> And the gay
+<lb n="090637"/>blankets: <quote>William the conqueror came before Richard III.</quote> And the gay
 <lb n="090638"/>lakin, mistress Fitton, mount and cry O, and his dainty birdsnies, lady
 <lb n="090639"/>Penelope Rich, a clean quality woman is suited for a player, and the punks
 <lb n="090640"/>of the bankside, a penny a time.</said></p>
@@ -1042,9 +1040,9 @@
 <lb n="091039"/>good man rewarded, Lizzie, grandpa's lump of love, and nuncle Richie, the
 <lb n="091040"/>bad man taken off by poetic justice to the place where the bad niggers go.
 <lb n="091041"/>Strong curtain. He found in the world without as actual what was in his
-<lb n="091042"/>world within as possible. Maeterlinck says: <emph>If Socrates leave his house today
+<lb n="091042"/>world within as possible. Maeterlinck says: <quote>If Socrates leave his house today
 <lb n="091043"/>he will find the sage seated on his doorstep. If Judas go forth tonight it is to
-<lb n="091044"/>Judas his steps will tend.</emph> Every life is many days, day after day. We walk
+<lb n="091044"/>Judas his steps will tend.</quote> Every life is many days, day after day. We walk
 <lb n="091045"/>through ourselves, meeting robbers, ghosts, giants, old men, young men,
 <lb n="091046"/>wives, widows, brothers-in-love, but always meeting ourselves. The
 <lb n="091047"/>playwright who wrote the folio of this world and wrote it badly (He gave us
@@ -1079,7 +1077,7 @@
 <lb n="091076"/>Piper says, and prove to him that his ancestor wrote the plays. It will come
 <lb n="091077"/>as a surprise to his grace. But he believes his theory.</said></p>
 <p><lb n="091078"/>I believe, O Lord, help my unbelief. That is, help me to believe or help
-<lb n="091079"/>me to unbelieve? Who helps to believe? <emph>Egomen.</emph> Who to unbelieve? Other
+<lb n="091079"/>me to unbelieve? Who helps to believe? <foreign xml:lang="grc-Latn">Egomen.</foreign> Who to unbelieve? Other
 <lb n="091080"/>chap.
 <lb n="091081"/><said who="je">―You are the only contributor to <title type="magazine">Dana</title> who asks for pieces of silver. Then
 <lb n="091082"/>I don't know about the next number. Fred Ryan wants space for an article
@@ -1125,9 +1123,9 @@
 <p><lb n="091122"/>The turnstile.</p>
 <p><lb n="091123"/>Is that ...? Blueribboned hat ...? Idly writing ...? What? .... Looked ...?</p>
 <p><lb n="091124"/>The curving balustrade: smoothsliding Mincius.</p>
-<p><lb n="091125"/>Puck Mulligan, panamahelmeted, went step by step, iambing, trolling:
-<lb n="091126"/><said who="bm">―<emph>John Eglinton, my jo, John,
-<lb n="091127"/>Why won't you wed a wife?</emph></said></p>
+<p><lb n="091125"/>Puck Mulligan, panamahelmeted, went step by step, iambing, trolling:</p>
+<lb n="091126"/><said who="bm">―<quote><lg rend="italics"><l>John Eglinton, my jo, John,</l>
+<lb n="091127"/><l>Why won't you wed a wife?</l></lg></quote></said>
 <p><lb n="091128"/>He spluttered to the air:
 <lb n="091129"/><said who="bm">―O, the chinless Chinaman! Chin Chon Eg Lin Ton. We went over to their
 <lb n="091130"/>playbox, Haines and I, the plumbers' hall. Our players are creating a new
@@ -1142,17 +1140,17 @@
 <lb n="091139"/>minion of pleasure, Phedo's toyable fair hair.</p>
 <p><lb n="091140"/>Eh ... I just eh .... wanted ... I forgot ... eh ...
 <lb n="091141"/><said who="bm">―Longworth and M'Curdy Atkinson were there ...</said></p>
-<p><lb n="091142"/>Puck Mulligan footed featly, trilling:
-<lb n="091143"/><said who="bm">―<emph>I hardly hear the purlieu cry
-<lb n="091144"/>Or a Tommy talk as I pass one by
-<lb n="091145"/>Before my thoughts begin to run
-<lb n="091146"/>On F. M'Curdy Atkinson,
-<lb n="091147"/>The same that had the wooden leg
-<lb n="091148"/>And that filibustering filibeg
-<lb n="091149"/>That never dared to slake his drouth,
-<lb n="091150"/>Magee that had the chinless mouth.
-<lb n="091151"/>Being afraid to marry on earth
-<lb n="091152"/>They masturbated for all they were worth.</emph></said></p>
+<p><lb n="091142"/>Puck Mulligan footed featly, trilling:</p>
+<lb n="091143"/><said who="bm">―<quote><lg rend="italics"><l>I hardly hear the purlieu cry</l>
+<lb n="091144"/><l>Or a Tommy talk as I pass one by</l>
+<lb n="091145"/><l>Before my thoughts begin to run</l>
+<lb n="091146"/><l>On F. M'Curdy Atkinson,</l>
+<lb n="091147"/><l>The same that had the wooden leg</l>
+<lb n="091148"/><l>And that filibustering filibeg</l>
+<lb n="091149"/><l>That never dared to slake his drouth,</l>
+<lb n="091150"/><l>Magee that had the chinless mouth.</l>
+<lb n="091151"/><l>Being afraid to marry on earth</l>
+<lb n="091152"/><l>They masturbated for all they were worth.</l></lg></quote></said>
 <p><lb n="091153"/>Jest on. Know thyself.</p>
 <p><lb n="091154"/>Halted, below me, a quizzer looks at me. I halt.
 <lb n="091155"/><said who="bm">―Mournful mummer,</said> Buck Mulligan moaned. <said who="bm">Synge has left off wearing
@@ -1171,7 +1169,7 @@
 <p><lb n="091168"/>The pillared Moorish hall, shadows entwined. Gone the nine men's
 <lb n="091169"/>morrice with caps of indices.</p>
 <p><lb n="091170"/>In sweetly varying voices Buck Mulligan read his tablet:</p>
-<said who="bm"><lb n="091171"/>―<title type="play"><lg rend="italics"><l>Everyman His Own Wife</l>
+<lb n="091171"/><said who="bm">―<title type="play"><lg rend="italics"><l>Everyman His Own Wife</l>
 <lb n="091172"/><l>or</l>
 <lb n="091173"/><l>A Honeymoon in the Hand</l></lg></title>
 <lg rend="italics"><lb n="091174"/><l>(a national immorality in three orgasms)</l>
