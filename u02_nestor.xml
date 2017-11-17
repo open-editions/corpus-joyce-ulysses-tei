@@ -249,10 +249,10 @@
 <lb n="020248"/><said who="sd">―That on his empire,</said> Stephen said, <said who="sd">the sun never sets.</said>
 <lb n="020249"/><said who="gd">―Ba!</said> Mr Deasy cried. <said who="gd">That's not English. A French Celt said that.</said></p>
 <p><lb n="020250"/>He tapped his savingsbox against his thumbnail.
-<lb n="020251"/><said who="gd">―I will tell you,</said> he said solemnly, <said who="gd">what is his proudest boast. <emph>I paid my way.</emph></said></p>
+<lb n="020251"/><said who="gd">―I will tell you,</said> he said solemnly, <said who="gd">what is his proudest boast. <said who="eng" direct="false" rend="italics">I paid my way.</said></said></p>
 <p><lb n="020252"/>Good man, good man.
-<lb n="020253"/><said who="gd">―<emph>I paid my way. I never borrowed a shilling in my life.</emph> Can you feel that? <emph>I
-<lb n="020254"/>owe nothing.</emph> Can you?</said></p>
+<lb n="020253"/><said who="gd">―<said who="eng" direct="false" rend="italics">I paid my way. I never borrowed a shilling in my life.</said> Can you feel that? <said who="eng" direct="false" rend="italics">I
+<lb n="020254"/>owe nothing.</said> Can you?</said></p>
 <p><lb n="020255"/>Mulligan, nine pounds, three pairs of socks, one pair brogues, ties.
 <lb n="020256"/>Curran, ten guineas. McCann, one guinea. Fred Ryan, two shillings.
 <lb n="020257"/>Temple, two lunches. Russell, one guinea, Cousins, ten shillings, Bob
@@ -292,8 +292,8 @@
 <lb n="020291"/>down a moment. I have just to copy the end.</said></p>
 <p><lb n="020292"/>He went to the desk near the window, pulled in his chair twice and
 <lb n="020293"/>read off some words from the sheet on the drum of his typewriter.
-<lb n="020294"/><said who="gd">―Sit down. Excuse me,</said> he said over his shoulder, <said who="gd"><emph>the dictates of common
-<lb n="020295"/>sense</emph>. Just a moment.</said></p>
+<lb n="020294"/><said who="gd">―Sit down. Excuse me,</said> he said over his shoulder, <said who="gd"><q>the dictates of common
+<lb n="020295"/>sense</q>. Just a moment.</said></p>
 <p><lb n="020296"/>He peered from under his shaggy brows at the manuscript by his
 <lb n="020297"/>elbow and, muttering, began to prod the stiff buttons of the keyboard
 <lb n="020298"/>slowly, sometimes blowing as he screwed up the drum to erase an error.</p>
@@ -303,8 +303,8 @@
 <lb n="020302"/>Westminster's <name type="horse">Shotover</name>, the duke of Beaufort's <name type="horse">Ceylon</name>, <foreign xml:lang="fr">prix de Paris</foreign>,
 <lb n="020303"/>1866. Elfin riders sat them, watchful of a sign. He saw their speeds, backing
 <lb n="020304"/>king's colours, and shouted with the shouts of vanished crowds.
-<lb n="020305"/><said who="gd">―Full stop,</said> Mr Deasy bade his keys. <said who="gd"><emph>But prompt ventilation of this
-<lb n="020306"/>allimportant question</emph> ....</said></p>
+<lb n="020305"/><said who="gd">―Full stop,</said> Mr Deasy bade his keys. <said who="gd"><q>But prompt ventilation of this
+<lb n="020306"/>allimportant question</q> ....</said></p>
 <p><lb n="020307"/>Where Cranly led me to get rich quick, hunting his winners among
 <lb n="020308"/>the mudsplashed brakes, amid the bawls of bookies on their pitches and
 <lb n="020309"/>reek of the canteen, over the motley slush. <name type="horse">Fair Rebel</name>! <name type="horse">Fair Rebel</name>! Even

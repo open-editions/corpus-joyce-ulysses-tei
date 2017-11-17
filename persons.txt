@@ -63,6 +63,7 @@ eb	Ellen Bloom
 edb	Edy Boardman
 ed	Edward Dowden
 eli	Elijah
+eng	an Englishman
 eo	Esther Osvalt
 es	Elizabeth Sheehy
 
