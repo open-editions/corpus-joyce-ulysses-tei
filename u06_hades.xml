@@ -2,7 +2,7 @@
 <p><lb n="060001"/>Martin Cunningham, first, poked his silkhatted head into the creaking
 <lb n="060002"/>carriage and, entering deftly, seated himself. Mr Power stepped in after him,
 <lb n="060003"/>curving his height with care.
-<lb n="060004"/><said xml:id="060004_unclear" who="mc">―Come on, Simon.<certainty target="#060004_unclear" match="@who" locus="value" assertedValue="jp" degree="0.5"><desc>It's unclear whether Cunningham or Power speaks.</desc></certainty></said>
+<lb n="060004"/><said xml:id="said_060004_unclear" who="mc">―Come on, Simon.<certainty target="#said_060004_unclear" match="@who" locus="value" assertedValue="jp" degree="0.5"><desc>It's unclear whether Cunningham or Power speaks.</desc></certainty></said>
 <lb n="060005"/><said who="lb">―After you,</said> Mr Bloom said.</p>
 <p><lb n="060006"/>Mr Dedalus covered himself quickly and got in, saying:
 <lb n="060007"/><said who="sid">―Yes, yes.</said>
