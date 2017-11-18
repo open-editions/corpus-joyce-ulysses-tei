@@ -511,7 +511,7 @@
 <lb n="050510"/>take one of these soaps. How much are they?</said>
 <lb n="050511"/><said who="fws">―Fourpence, sir.</said></p>
 <p><lb n="050512"/>Mr Bloom raised a cake to his nostrils. Sweet lemony wax.
-<lb n="050513"/><said who="lb">―I'll take this one,</said> he said. <said who="lb">That makes three and a penny.</said>
+<lb n="050513" xml:id="lb_050513"/><said who="lb">―I'll take this one,</said> he said. <said who="lb">That makes three and a penny.</said>
 <lb n="050514"/><said who="fws">―Yes, sir,</said> the chemist said. <said who="fws">You can pay all together, sir, when you come
 <lb n="050515"/>back.</said>
 <lb n="050516"/><said who="lb">―Good,</said> Mr Bloom said.</p>
