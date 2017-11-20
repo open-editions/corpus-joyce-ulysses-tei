@@ -1,6 +1,6 @@
 # _Ulysses_ (1922; 1984 [rev. 1986]; 2017)
 
-[![Build Status](https://travis-ci.org/open-editions/corpus-joyce-ulysses-tei.svg?branch=master)](https://travis-ci.org/JonathanReeve/corpus-joyce-ulysses-tei)
+[![Build Status](https://travis-ci.org/open-editions/corpus-joyce-ulysses-tei.svg?branch=master)](https://travis-ci.org/open-editions/corpus-joyce-ulysses-tei)
 
 [![DOI](https://zenodo.org/badge/79138597.svg)](https://zenodo.org/badge/latestdoi/79138597)
 
