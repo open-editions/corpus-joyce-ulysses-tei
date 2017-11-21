@@ -580,9 +580,9 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170575"/>zoological biscuits, globemap playing balls, historically costumed dolls.</p>
 <p rend="non-indent"><lb n="170576"/>What also stimulated him in his cogitations?</p>
 <p rend="non-indent"><lb n="170577"/>The financial success achieved by Ephraim Marks and Charles A. James,
-<lb n="170578"/>the former by his 1d bazaar at 42 George's street, south, the latter at his
-<lb n="170579"/>6½d shop and world's fancy fair and waxwork exhibition at 30 Henry
-<lb n="170580"/>street, admission 2d, children 1d: and the infinite possibilities hitherto
+<lb n="170578"/>the former by his 1d bazaar at <place type="street"><placeName><num>42</num> George's street, south</placeName></place>, the latter at his
+<lb n="170579"/>6½d shop and world's fancy fair and waxwork exhibition at <place type="street"><placeName><num>30</num> Henry
+<lb n="170580"/>street</placeName></place>, admission 2d, children 1d: and the infinite possibilities hitherto
 <lb n="170581"/>unexploited of the modern art of advertisement if condensed in triliteral
 <lb n="170582"/>monoideal symbols, vertically of maximum visibility (divined), horizontally
 <lb n="170583"/>of maximum legibility (deciphered) and of magnetising efficacy to arrest
@@ -593,7 +593,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <p rend="non-indent"><lb n="170588"/>Such as not?</p>
 <p rend="non-indent"><lb n="170589"/>Look at this long candle. Calculate when it burns out and you receive gratis
 <lb n="170590"/>1 pair of our special non-compo boots, guaranteed 1 candle power.
-<lb n="170591"/>Address: Barclay and Cook, 18 Talbot street.
+<lb n="170591"/>Address: Barclay and Cook, <place type="street"><placeName><num>18</num> Talbot street</placeName></place>.
 <lb n="170592"/>Bacilikil (Insect Powder).
 <lb n="170593"/>Veribest (Boot Blacking).
 <lb n="170594"/>Uwantit (Combined pocket twoblade penknife with corkscrew, nailfile and
@@ -602,9 +602,9 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <p rend="non-indent"><lb n="170597"/>What is home without Plumtree's Potted Meat?
 <lb n="170598"/>Incomplete.
 <lb n="170599"/>With it an abode of bliss.</p>
-<p rend="non-indent"><lb n="170600"/>Manufactured by George Plumtree, 23 Merchants' quay, Dublin, put up in
+<p rend="non-indent"><lb n="170600"/>Manufactured by George Plumtree, <place type="street"><placeName><num>23</num> Merchants' quay, Dublin</placeName></place>, put up in
 <lb n="170601"/>4 oz pots, and inserted by Councillor Joseph P. Nannetti, M. P., Rotunda
-<lb n="170602"/>Ward, 19 Hardwicke street, under the obituary notices and anniversaries of
+<lb n="170602"/>Ward, <place><placeName><num>19</num> Hardwicke street</placeName></place>, under the obituary notices and anniversaries of
 <lb n="170603"/>deceases. The name on the label is Plumtree. A plumtree in a meatpot,
 <lb n="170604"/>registered trade mark. Beware of imitations. Peatmot. Trumplee. Moutpat.
 <lb n="170605"/>Plamtroo.</p>
@@ -624,7 +624,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <p rend="non-indent"><lb n="170619"/>In sloping, upright and backhands: Queen's Hotel, Queen's Hotel,
 <lb n="170620"/>Queen's Hotel. Queen's Ho ...</p>
 <p rend="non-indent"><lb n="170621"/>What suggested scene was then reconstructed by Bloom?</p>
-<p rend="non-indent"><lb n="170622"/>The Queen's Hotel, Ennis, county Clare, where Rudolph Bloom (Rudolf
+<p rend="non-indent"><lb n="170622"/><place><placeName>The Queen's Hotel, Ennis, county Clare</placeName></place>, where Rudolph Bloom (Rudolf
 <lb n="170623"/>Virag) died on the evening of the 27 June 1886, at some hour unstated, in
 <lb n="170624"/>consequence of an overdose of monkshood (aconite) selfadministered in the
 <lb n="170625"/>form of a neuralgic liniment composed of 2 parts of aconite liniment to 1 of
@@ -634,7 +634,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170629"/>on the afternoon of 27 June 1886 a new boater straw hat, extra smart (after
 <lb n="170630"/>having, though not in consequence of having, purchased at the hour and in
 <lb n="170631"/>the place aforesaid, the toxin aforesaid), at the general drapery store of
-<lb n="170632"/>James Cullen, 4 Main street, Ennis.</p>
+<lb n="170632"/>James Cullen, <place><placeName><num>4</num> Main street, Ennis</placeName></place>.</p>
 <p rend="non-indent"><lb n="170633"/>Did he attribute this homonymity to information or coincidence or
 <lb n="170634"/>intuition?</p>
 <p rend="non-indent"><lb n="170635"/>Coincidence.</p>
@@ -863,7 +863,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170857"/>night attire had lain, sleeping.</p>
 <p rend="non-indent"><lb n="170858"/>Had this latter or any cognate phenomenon declared itself in any member
 <lb n="170859"/>of his family?</p>
-<p rend="non-indent"><lb n="170860"/>Twice, in Holles street and in Ontario terrace, his daughter Millicent
+<p rend="non-indent"><lb n="170860"/>Twice, in <place type="street"><placeName>Holles street</placeName></place> and in <place><placeName>Ontario terrace</placeName></place>, his daughter Millicent
 <lb n="170861"/>(Milly) at the ages of 6 and 8 years had uttered in sleep an exclamation of
 <lb n="170862"/>terror and had replied to the interrogations of two figures in night attire
 <lb n="170863"/>with a vacant mute expression.</p>
@@ -883,9 +883,9 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170877"/>entreated by an English visitor, she declined to permit him to make and take
 <lb n="170878"/>away her photographic image (objection not stated). On the South Circular
 <lb n="170879"/>road in the company of Elsa Potter, followed by an individual of sinister
-<lb n="170880"/>aspect, she went half way down Stamer street and turned abruptly back
+<lb n="170880"/>aspect, she went half way down <place type="street"><placeName>Stamer street</placeName></place> and turned abruptly back
 <lb n="170881"/>(reason of change not stated). On the vigil of the 15th anniversary of her
-<lb n="170882"/>birth she wrote a letter from Mullingar, county Westmeath, making a brief
+<lb n="170882"/>birth she wrote a letter from <place><placeName>Mullingar, county Westmeath</placeName></place>, making a brief
 <lb n="170883"/>allusion to a local student (faculty and year not stated).</p>
 <p rend="non-indent"><lb n="170884"/>Did that first division, portending a second division, afflict him?</p>
 <p rend="non-indent"><lb n="170885"/>Less than he had imagined, more than he had hoped.</p>
@@ -950,8 +950,8 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170944"/>through daughter.</p>
 <p rend="non-indent"><lb n="170945"/>To what inconsequent polysyllabic question of his host did the guest return
 <lb n="170946"/>a monosyllabic negative answer?</p>
-<p rend="non-indent"><lb n="170947"/>If he had known the late Mrs Emily Sinico, accidentally killed at Sydney
-<lb n="170948"/>Parade railway station, 14 October 1903.</p>
+<p rend="non-indent"><lb n="170947"/>If he had known the late Mrs Emily Sinico, accidentally killed at <place><placeName>Sydney
+<lb n="170948"/>Parade railway station</placeName></place>, 14 October 1903.</p>
 <p rend="non-indent"><lb n="170949"/>What inchoate corollary statement was consequently suppressed by the
 <lb n="170950"/>host?</p>
 <p rend="non-indent"><lb n="170951"/>A statement explanatory of his absence on the occasion of the interment of
@@ -970,9 +970,9 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170964"/>place the residence of the instructress. To inaugurate a series of static,
 <lb n="170965"/>semistatic and peripatetic intellectual dialogues, places the residence of both
 <lb n="170966"/>speakers (if both speakers were resident in the same place), the Ship hotel
-<lb n="170967"/>and tavern, 6 Lower Abbey street (W. and E. Connery, proprietors), the
-<lb n="170968"/>National Library of Ireland, 10 Kildare street, the National Maternity
-<lb n="170969"/>Hospital, 29, 30 and 31 Holles street, a public garden, the vicinity of a place
+<lb n="170967"/>and tavern, <place type="street"><placeName><num>6</num> Lower Abbey street</placeName></place> (W. and E. Connery, proprietors), the
+<lb n="170968"/>National Library of Ireland, <place><placeName type="street"><num>10</num> Kildare street</placeName></place>, the National Maternity
+<lb n="170969"/>Hospital, <place type="street"><placeName><num>29, 30 and 31</num> Holles street</placeName></place>, a public garden, the vicinity of a place
 <lb n="170970"/>of worship, a conjunction of two or more public thoroughfares, the point of
 <lb n="170971"/>bisection of a right line drawn between their residences (if both speakers
 <lb n="170972"/>were resident in different places).</p>
@@ -986,7 +986,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="170980"/>imprevidibility of the future: once in the summer of 1898 he (Bloom) had
 <lb n="170981"/>marked a florin (2/-) with three notches on the milled edge and tendered it
 <lb n="170982"/>in payment of an account due to and received by J. and T. Davy, family
-<lb n="170983"/>grocers, 1 Charlemont Mall, Grand Canal, for circulation on the waters of
+<lb n="170983"/>grocers, <place type="street"><placeName><num>1</num> Charlemont Mall, Grand Canal</placeName></place>, for circulation on the waters of
 <lb n="170984"/>civic finance, for possible, circuitous or direct, return.</p>
 <p rend="non-indent"><lb n="170985"/>Was the clown Bloom's son?</p>
 <p rend="non-indent"><lb n="170986"/>No.</p>
@@ -1176,10 +1176,10 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171170"/>attraction, when invisible.</p>
 <p rend="non-indent"><lb n="171171"/>What visible luminous sign attracted Bloom's, who attracted Stephen's,
 <lb n="171172"/>gaze?</p>
-<p rend="non-indent"><lb n="171173"/>In the second storey (rere) of his (Bloom's) house the light of a paraffin oil
+<p rend="non-indent"><lb n="171173"/>In the second storey (rere) of <place><placeName>his (Bloom's) house</placeName></place> the light of a paraffin oil
 <lb n="171174"/>lamp with oblique shade projected on a screen of roller blind supplied by
 <lb n="171175"/>Frank O'Hara, window blind, curtain pole and revolving shutter
-<lb n="171176"/>manufacturer, 16 Aungier street.</p>
+<lb n="171176"/>manufacturer, <place type="street"><placeName><num>16</num> Aungier street</placeName></place>.</p>
 <p rend="non-indent"><lb n="171177"/>How did he elucidate the mystery of an invisible attractive person, his wife
 <lb n="171178"/>Marion (Molly) Bloom, denoted by a visible splendid sign, a lamp?</p>
 <p rend="non-indent"><lb n="171179"/>With indirect and direct verbal allusions or affirmations: with subdued
@@ -1210,7 +1210,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171204"/>January, holiday of obligation to hear mass and abstain from unnecessary
 <lb n="171205"/>servile work) and the problem as to whether the divine prepuce, the carnal
 <lb n="171206"/>bridal ring of the holy Roman catholic apostolic church, conserved in
-<lb n="171207"/>Calcata, were deserving of simple hyperduly or of the fourth degree of
+<lb n="171207"/><place type="city"><placeName>Calcata</placeName></place>, were deserving of simple hyperduly or of the fourth degree of
 <lb n="171208"/>latria accorded to the abscission of such divine excrescences as hair and
 <lb n="171209"/>toenails.</p>
 <p rend="non-indent"><lb n="171210"/>What celestial sign was by both simultaneously observed?</p>
@@ -1239,8 +1239,8 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <said who="gc" direct="false" rend="italics"><lg rend="italics"><lb n="171233"/><l>Heigho, heigho,</l>
 <lb n="171234"/><l>Heigho, heigho.</l></lg></said>
 <p rend="non-indent"><lb n="171235"/>Where were the several members of the company which with Bloom that
-<lb n="171236"/>day at the bidding of that peal had travelled from Sandymount in the south
-<lb n="171237"/>to Glasnevin in the north?</p>
+<lb n="171236"/>day at the bidding of that peal had travelled from <place><placeName>Sandymount<place><placeName> in the south
+<lb n="171237"/>to <place><placeName>Glasnevin</placeName></place> in the north?</p>
 <p rend="non-indent"><lb n="171238"/>Martin Cunningham (in bed), Jack Power (in bed), Simon Dedalus (in
 <lb n="171239"/>bed), Ned Lambert (in bed), Tom Kernan (in bed), Joe Hynes (in bed),
 <lb n="171240"/>John Henry Menton (in bed), Bernard Corrigan (in bed), Patsy Dignam (in
@@ -1255,18 +1255,18 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <p rend="non-indent"><lb n="171249"/>Of what did bellchime and handtouch and footstep and lonechill remind
 <lb n="171250"/>him?</p>
 <p rend="non-indent"><lb n="171251"/>Of companions now in various manners in different places defunct: Percy
-<lb n="171252"/>Apjohn (killed in action, Modder River), Philip Gilligan (phthisis, Jervis
-<lb n="171253"/>Street hospital), Matthew F. Kane (accidental drowning, Dublin Bay),
-<lb n="171254"/>Philip Moisel (pyemia, Heytesbury street), Michael Hart (phthisis, Mater
-<lb n="171255"/>Misericordiae hospital), Patrick Dignam (apoplexy, Sandymount).</p>
+<lb n="171252"/>Apjohn (killed in action, <place><placeName>Modder River</placeName></place>), Philip Gilligan (phthisis, <place><placeName>Jervis
+<lb n="171253"/>Street hospital</placeName></place>), Matthew F. Kane (accidental drowning, <place><placeName>Dublin Bay</placeName></place>),
+<lb n="171254"/>Philip Moisel (pyemia, <place><placeName>Heytesbury street</placeName></place>), Michael Hart (phthisis, <place><placeName>Mater
+<lb n="171255"/>Misericordiae hospital</placeName></place>), Patrick Dignam (apoplexy, <place><placeName>Sandymount</placeName></place>).</p>
 <p rend="non-indent"><lb n="171256"/>What prospect of what phenomena inclined him to remain?</p>
 <p rend="non-indent"><lb n="171257"/>The disparition of three final stars, the diffusion of daybreak, the apparition
 <lb n="171258"/>of a new solar disk.</p>
 <p rend="non-indent"><lb n="171259"/>Had he ever been a spectator of those phenomena?</p>
-<p rend="non-indent"><lb n="171260"/>Once, in 1887, after a protracted performance of charades in the house of
-<lb n="171261"/>Luke Doyle, Kimmage, he had awaited with patience the apparition of the
+<p rend="non-indent"><lb n="171260"/>Once, in 1887, after a protracted performance of charades in <place><placeName>the house of
+<lb n="171261"/>Luke Doyle, Kimmage</placeName></place>, he had awaited with patience the apparition of the
 <lb n="171262"/>diurnal phenomenon, seated on a wall, his gaze turned in the direction of
-<lb n="171263"/>Mizrach, the east.</p>
+<lb n="171263"/><place><placeName>Mizrach</placeName></place>, the east.</p>
 <p rend="non-indent"><lb n="171264"/>He remembered the initial paraphenomena?</p>
 <p rend="non-indent"><lb n="171265"/>More active air, a matutinal distant cock, ecclesiastical clocks at various
 <lb n="171266"/>points, avine music, the isolated tread of an early wayfarer, the visible
@@ -1378,8 +1378,8 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171372"/><title type="book">Thoughts from Spinoza</title> (maroon leather).
 <lb n="171373"/><title type="book">The Story of the Heavens</title> by Sir Robert Ball (blue cloth).
 <lb n="171374"/>Ellis's <title type="book">Three Trips to Madagascar</title> (brown cloth, title obliterated).
-<lb n="171375"/><title type="book">The Stark-Munro Letters</title> by A. Conan Doyle, property of the City of
-<lb n="171376"/>Dublin Public Library, 106 Capel street, lent 21 May (Whitsun Eve)
+<lb n="171375"/><title type="book">The Stark-Munro Letters</title> by A. Conan Doyle, property of the <place type="street"><placeName>City of
+<lb n="171376"/>Dublin Public Library, <num>106</num> Capel street</placeName></place>, lent 21 May (Whitsun Eve)
 <lb n="171377"/>1904, due 4 June 1904, 13 days overdue (black cloth binding, bearing
 <lb n="171378"/>white letternumber ticket).
 <lb n="171379"/><title type="book">Voyages in China</title> by "Viator" (recovered with brown paper, red ink title).
@@ -1405,11 +1405,11 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171399"/>Pardies and rendered into Engliſh by John Harris D. D. London, printed
 <lb n="171400"/>for R. Knaplock at the Biſhop's Head, MDCCXI, with dedicatory epiſtle
 <lb n="171401"/>to his worthy friend Charles Cox, eſquire, Member of Parliament for the
-<lb n="171402"/>burgh of Southwark and having ink calligraphed statement on the flyleaf
+<lb n="171402"/>burgh of <place><placeName>Southwark</placeName></place> and having ink calligraphed statement on the flyleaf
 <lb n="171403"/>certifying that the book was the property of Michael Gallagher, dated
 <lb n="171404"/>this 10th day of May 1822 and requeſting the perſon who should find it, if
 <lb n="171405"/>the book should be loſt or go aſtray, to reſtore it to Michael Gallagher,
-<lb n="171406"/>carpenter, Dufery Gate, Enniſcorthy, county Wicklow, the fineſt place in
+<lb n="171406"/>carpenter, <place><placeName>Dufery Gate, Enniſcorthy, county Wicklow</placeName></place>, the fineſt place in
 <lb n="171407"/>the world.</p>
 <p rend="non-indent"><lb n="171408"/>What reflections occupied his mind during the process of reversion of the
 <lb n="171409"/>inverted volumes?</p>
@@ -1432,7 +1432,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <p rend="non-indent"><lb n="171426"/>What caused him consolation in his sitting posture?</p>
 <p rend="non-indent"><lb n="171427"/>The candour, nudity, pose, tranquility, youth, grace, sex, counsel of a statue
 <lb n="171428"/>erect in the centre of the table, an image of Narcissus purchased by auction
-<lb n="171429"/>from P. A. Wren, 9 Bachelor's Walk.</p>
+<lb n="171429"/>from P. A. Wren, <place type="street"><placeName><num>9</num> Bachelor's Walk</placeName></place>.</p>
 <p rend="non-indent"><lb n="171430"/>What caused him irritation in his sitting posture?</p>
 <p rend="non-indent"><lb n="171431"/>Inhibitory pressure of collar (size 17) and waistcoat (5 buttons), two
 <lb n="171432"/>articles of clothing superfluous in the costume of mature males and inelastic
@@ -1519,15 +1519,15 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171513"/>render its houselights visible at night above and through a quickset
 <lb n="171514"/>hornbeam hedge of topiary cutting, situate at a given point not less than 1
 <lb n="171515"/>statute mile from the periphery of the metropolis, within a time limit of not
-<lb n="171516"/>more than 15 minutes from tram or train line (e.g., Dundrum, south, or
-<lb n="171517"/>Sutton, north, both localities equally reported by trial to resemble the
+<lb n="171516"/>more than 15 minutes from tram or train line (e.g., <place><placeName>Dundrum</placeName></place>, south, or
+<lb n="171517"/><place><placeName>Sutton</placeName></place>, north, both localities equally reported by trial to resemble the
 <lb n="171518"/>terrestrial poles in being favourable climates for phthisical subjects), the
 <lb n="171519"/>premises to be held under feefarm grant, lease 999 years, the messuage to
 <lb n="171520"/>consist of 1 drawingroom with baywindow (2 lancets), thermometer
 <lb n="171521"/>affixed, 1 sittingroom, 4 bedrooms, 2 servants' rooms, tiled kitchen with
 <lb n="171522"/>close range and scullery, lounge hall fitted with linen wallpresses, fumed
-<lb n="171523"/>oak sectional bookcase containing the Encyclopaedia Britannica and New
-<lb n="171524"/>Century Dictionary, transverse obsolete medieval and oriental weapons,
+<lb n="171523"/>oak sectional bookcase containing the <title type="book">Encyclopaedia Britannica</title> and <title type="book">New
+<lb n="171524"/>Century Dictionary</title>, transverse obsolete medieval and oriental weapons,
 <lb n="171525"/>dinner gong, alabaster lamp, bowl pendant, vulcanite automatic telephone
 <lb n="171526"/>receiver with adjacent directory, handtufted Axminster carpet with cream
 <lb n="171527"/>ground and trellis border, loo table with pillar and claw legs, hearth with
@@ -1562,7 +1562,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171556"/>tulips, blue scillas, crocuses, polyanthus, sweet William, sweet pea, lily of
 <lb n="171557"/>the valley (bulbs obtainable from sir James W. Mackey (Limited) wholesale
 <lb n="171558"/>and retail seed and bulb merchants and nurserymen, agents for chemical
-<lb n="171559"/>manures, 23 Sackville street, upper), an orchard, kitchen garden and vinery,
+<lb n="171559"/>manures, <place type="street"><placeName><num>23</num> Sackville street, upper</placeName></place>), an orchard, kitchen garden and vinery,
 <lb n="171560"/>protected against illegal trespassers by glasstopped mural enclosures, a
 <lb n="171561"/>lumbershed with padlock for various inventoried implements.</p>
 <p rend="non-indent"><lb n="171562"/>As?</p>
@@ -1584,7 +1584,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171578"/>working solidungular cob (roan gelding, 14 h).</p>
 <p rend="non-indent"><lb n="171579"/>What might be the name of this erigible or erected residence?</p>
 <p rend="non-indent"><lb n="171580"/>Bloom Cottage. Saint Leopold's. Flowerville.</p>
-<p rend="non-indent"><lb n="171581"/>Could Bloom of 7 Eccles street foresee Bloom of Flowerville?</p>
+<p rend="non-indent"><lb n="171581"/>Could Bloom of <place><placeName><num>7</num> Eccles street</placeName></place> foresee Bloom of Flowerville?</p>
 <p rend="non-indent"><lb n="171582"/>In loose allwool garments with Harris tweed cap, price 8/6, and useful
 <lb n="171583"/>garden boots with elastic gussets and wateringcan, planting aligned young
 <lb n="171584"/>firtrees, syringing, pruning, staking, sowing hayseed, trundling a weedladen
@@ -1616,9 +1616,9 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171610"/>resident magistrate or justice of the peace with a family crest and coat of
 <lb n="171611"/>arms and appropriate classical motto (<foreign xml:lang="la">Semper paratus</foreign>), duly recorded in
 <lb n="171612"/>the court directory (Bloom, Leopold P., M. P., P. C., K. P., L. L. D.
-<lb n="171613"/>(<foreign xml:lang="la">honoris causa</foreign>), Bloomville, Dundrum) and mentioned in court and
-<lb n="171614"/>fashionable intelligence (Mr and Mrs Leopold Bloom have left Kingstown
-<lb n="171615"/>for England).</p>
+<lb n="171613"/>(<foreign xml:lang="la">honoris causa</foreign>), Bloomville, <place><placeName>Dundrum</placeName></place>) and mentioned in court and
+<lb n="171614"/>fashionable intelligence (Mr and Mrs Leopold Bloom have left <place><placeName>Kingstown</placeName></place>
+<lb n="171615"/>for <place><placeName>England</placeName></place>).</p>
 <p rend="non-indent"><lb n="171616"/>What course of action did he outline for himself in such capacity?</p>
 <p rend="non-indent"><lb n="171617"/>A course that lay between undue clemency and excessive rigour: the
 <lb n="171618"/>dispensation in a heterogeneous society of arbitrary classes, incessantly
@@ -1653,10 +1653,10 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171647"/>economic programme advocated by James Fintan Lalor, John Fisher
 <lb n="171648"/>Murray, John Mitchel, J. F. X. O'Brien and others, the agrarian policy of
 <lb n="171649"/>Michael Davitt, the constitutional agitation of Charles Stewart Parnell
-<lb n="171650"/>(M. P. for Cork City), the programme of peace, retrenchment and reform
+<lb n="171650"/>(M. P. for <place><placeName>Cork City</placeName></place>), the programme of peace, retrenchment and reform
 <lb n="171651"/>of William Ewart Gladstone (M. P. for Midlothian, N. B.) and, in support
 <lb n="171652"/>of his political convictions, had climbed up into a secure position amid the
-<lb n="171653"/>ramifications of a tree on Northumberland road to see the entrance
+<lb n="171653"/>ramifications of a tree on <place><placeName>Northumberland road</placeName></place> to see the entrance
 <lb n="171654"/>(2 February 1888) into the capital of a demonstrative torchlight procession
 <lb n="171655"/>of 20,000 torchbearers, divided into 120 trade corporations, bearing 2000
 <lb n="171656"/>torches in escort of the marquess of Ripon and (honest) John Morley.</p>
@@ -1684,9 +1684,9 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171678"/>available for betting purposes in Dublin at 2.59 p.m. (Dunsink time). The
 <lb n="171679"/>unexpected discovery of an object of great monetary value (precious stone,
 <lb n="171680"/>valuable adhesive or impressed postage stamps (7 schilling, mauve,
-<lb n="171681"/>imperforate, Hamburg, 1866: 4 pence, rose, blue paper, perforate, Great
-<lb n="171682"/>Britain, 1855: 1 franc, stone, official, rouletted, diagonal surcharge,
-<lb n="171683"/>Luxemburg, 1878), antique dynastical ring, unique relic) in unusual
+<lb n="171681"/>imperforate, <place type="city"><placeName>Hamburg</placeName></place>, 1866: 4 pence, rose, blue paper, perforate, <place><placeName>Great
+<lb n="171682"/>Britain</placeName></place>, 1855: 1 franc, stone, official, rouletted, diagonal surcharge,
+<lb n="171683"/><place type="city"><placeName>Luxemburg</placeName></place>, 1878), antique dynastical ring, unique relic) in unusual
 <lb n="171684"/>repositories or by unusual means: from the air (dropped by an eagle in
 <lb n="171685"/>flight), by fire (amid the carbonised remains of an incendiated edifice), in
 <lb n="171686"/>the sea (amid flotsam, jetsam, lagan and derelict), on earth (in the gizzard
@@ -1710,31 +1710,31 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171704"/>vast number of the second and immense quantity of the third, every normal
 <lb n="171705"/>human being of average vitality and appetite producing annually, cancelling
 <lb n="171706"/>byproducts of water, a sum total of 80 lbs. (mixed animal and vegetable
-<lb n="171707"/>diet), to be multiplied by 4,386,035, the total population of Ireland
+<lb n="171707"/>diet), to be multiplied by 4,386,035, the total population of <place><placeName>Ireland</placeName></place>
 <lb n="171708"/>according to census returns of 1901.</p>
 <p rend="non-indent"><lb n="171709"/>Were there schemes of wider scope?</p>
 <p rend="non-indent"><lb n="171710"/>A scheme to be formulated and submitted for approval to the harbour
 <lb n="171711"/>commissioners for the exploitation of white coal (hydraulic power),
-<lb n="171712"/>obtained by hydroelectric plant at peak of tide at Dublin bar or at head of
-<lb n="171713"/>water at Poulaphouca or Powerscourt or catchment basins of main streams
+<lb n="171712"/>obtained by hydroelectric plant at peak of tide at <place><placeName>Dublin bar</placeName></place> or at head of
+<lb n="171713"/>water at <place><placeName>Poulaphouca</placeName></place> or <place><placeName>Powerscourt</placeName></place> or catchment basins of main streams
 <lb n="171714"/>for the economic production of 500,000 W. H. P. of electricity. A scheme
-<lb n="171715"/>to enclose the peninsular delta of the North Bull at Dollymount and erect
+<lb n="171715"/>to enclose the peninsular delta of the North Bull at <place><placeName>Dollymount</placeName></place> and erect
 <lb n="171716"/>on the space of the foreland, used for golf links and rifle ranges, an
 <lb n="171717"/>asphalted esplanade with casinos, booths, shooting galleries, hotels,
 <lb n="171718"/>boardinghouses, readingrooms, establishments for mixed bathing. A
 <lb n="171719"/>scheme for the use of dogvans and goatvans for the delivery of early
 <lb n="171720"/>morning milk. A scheme for the development of Irish tourist traffic in and
 <lb n="171721"/>around Dublin by means of petrolpropelled riverboats, plying in the fluvial
-<lb n="171722"/>fairway between Island bridge and Ringsend, charabancs, narrow gauge
+<lb n="171722"/>fairway between <place><placeName>Island bridge</placeName></place> and <place><placeName>Ringsend</placeName></place>, charabancs, narrow gauge
 <lb n="171723"/>local railways, and pleasure steamers for coastwise navigation (10/- per
 <lb n="171724"/>person per day, guide (trilingual) included). A scheme for the repristination
 <lb n="171725"/>of passenger and goods traffics over Irish waterways, when freed from
-<lb n="171726"/>weedbeds. A scheme to connect by tramline the Cattle Market (North
-<lb n="171727"/>Circular road and Prussia street) with the quays (Sheriff street, lower, and
-<lb n="171728"/>East Wall), parallel with the Link line railway laid (in conjunction with the
+<lb n="171726"/>weedbeds. A scheme to connect by tramline the <place><placeName>Cattle Market (North
+<lb n="171727"/>Circular road and Prussia street)</placeName></place> with the <place><placeName>quays (Sheriff street, lower, and
+<lb n="171728"/>East Wall)</placeName></place>, parallel with the Link line railway laid (in conjunction with the
 <lb n="171729"/>Great Southern and Western railway line) between the cattle park, Liffey
-<lb n="171730"/>junction, and terminus of Midland Great Western Railway 43 to 45 North
-<lb n="171731"/>Wall, in proximity to the terminal stations or Dublin branches of Great
+<lb n="171730"/>junction, and terminus of Midland Great Western Railway <place type="street"><placeName><num>43 to 45</num> North
+<lb n="171731"/>Wall</placeName></place>, in proximity to the terminal stations or Dublin branches of Great
 <lb n="171732"/>Central Railway, Midland Railway of England, City of Dublin Steam
 <lb n="171733"/>Packet Company, Lancashire and Yorkshire Railway Company, Dublin
 <lb n="171734"/>and Glasgow Steam Packet Company, Glasgow, Dublin and Londonderry
@@ -1788,7 +1788,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171782"/>the name of the senders: from Mr + Mrs M. Comerford, the versicle: <emph>May
 <lb n="171783"/>this Yuletide bring to thee, Joy and peace and welcome glee</emph>: a butt of
 <lb n="171784"/>red partly liquefied sealing wax, obtained from the stores department of
-<lb n="171785"/>Messrs Hely's, Ltd., 89, 90, and 91 Dame street: a box containing the
+<lb n="171785"/>Messrs Hely's, Ltd., <place type="street"><placeName>89, 90, and 91 Dame street</placeName></place>: a box containing the
 <lb n="171786"/>remainder of a gross of gilt "J" pennibs, obtained from same department of
 <lb n="171787"/>same firm: an old sandglass which rolled containing sand which rolled: a
 <lb n="171788"/>sealed prophecy (never unsealed) written by Leopold Bloom in 1886
@@ -1808,7 +1808,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171802"/>English weekly periodical <title type="newspaper">Modern Society</title>, subject corporal chastisement in
 <lb n="171803"/>girls' schools: a pink ribbon which had festooned an Easter egg in the year
 <lb n="171804"/>1899: two partly uncoiled rubber preservatives with reserve pockets,
-<lb n="171805"/>purchased by post from Box 32, P. O., Charing Cross, London, W. C.:
+<lb n="171805"/>purchased by post from <place type="street"><placeName>Box 32, P. O., Charing Cross, London, W. C.</placeName></place>:
 <lb n="171806"/>1 pack of 1 dozen creamlaid envelopes and feintruled notepaper,
 <lb n="171807"/>watermarked, now reduced by 3: some assorted Austrian-Hungarian coins:
 <lb n="171808"/>2 coupons of the Royal and Privileged Hungarian Lottery: a lowpower
@@ -1816,7 +1816,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171810"/>nude señorita (rere presentation, superior position) and nude torero (fore
 <lb n="171811"/>presentation, inferior position) b) anal violation by male religious (fully
 <lb n="171812"/>clothed, eyes abject) of female religious (partly clothed, eyes direct),
-<lb n="171813"/>purchased by post from Box 32, P. O., Charing Cross, London, W. C.: a
+<lb n="171813"/>purchased by post from <place type="street"><placeName>Box 32, P. O., Charing Cross, London, W. C.</placeName></place>: a
 <lb n="171814"/>press cutting of recipe for renovation of old tan boots: a 1d adhesive stamp,
 <lb n="171815"/>lavender, of the reign of Queen Victoria: a chart of the measurements of
 <lb n="171816"/>Leopold Bloom compiled before, during and after 2 months' consecutive use
@@ -1824,7 +1824,7 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171818"/>28 in and 29½ in, biceps 9 in and 10 in, forearm 8½ in and 9 in, thigh 10 in
 <lb n="171819"/>and 12 in, calf 11 in and 12 in: 1 prospectus of The Wonderworker, the
 <lb n="171820"/>world's greatest remedy for rectal complaints, direct from Wonderworker,
-<lb n="171821"/>Coventry House, South Place, London E C, addressed (erroneously) to
+<lb n="171821"/><place><placeName>Coventry House, South Place, London E C</placeName></place>, addressed (erroneously) to
 <lb n="171822"/>Mrs L. Bloom with brief accompanying note commencing (erroneously):
 <lb n="171823"/>Dear Madam.</p>
 <p rend="non-indent"><lb n="171824"/>Quote the textual terms in which the prospectus claimed advantages for this
@@ -1872,15 +1872,15 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171866"/>(Glasnevin) Committee, relative to a graveplot purchased: a local press
 <lb n="171867"/>cutting concerning change of name by deedpoll.</p>
 <p rend="non-indent"><lb n="171868"/>Quote the textual terms of this notice.</p>
-<p rend="non-indent"><lb n="171869"/>I, Rudolph Virag, now resident at no 52 Clanbrassil street, Dublin,
-<lb n="171870"/>formerly of Szombathely in the kingdom of Hungary, hereby give notice
+<p rend="non-indent"><lb n="171869"/>I, Rudolph Virag, now resident at <place type="street"><placeName><num>no 52</num> Clanbrassil street, Dublin</placeName></place>,
+<lb n="171870"/>formerly of <place><placeName>Szombathely in the kingdom of Hungary</placeName></place>, hereby give notice
 <lb n="171871"/>that I have assumed and intend henceforth upon all occasions and at all
 <lb n="171872"/>times to be known by the name of Rudolph Bloom.</p>
 <p rend="non-indent"><lb n="171873"/>What other objects relative to Rudolph Bloom (born Virag) were in the 2nd
 <lb n="171874"/>drawer?</p>
 <p rend="non-indent"><lb n="171875"/>An indistinct daguerreotype of Rudolf Virag and his father Leopold Virag
 <lb n="171876"/>executed in the year 1852 in the portrait atelier of their (respectively) 1st
-<lb n="171877"/>and 2nd cousin, Stefan Virag of Szesfehervar, Hungary. An ancient
+<lb n="171877"/>and 2nd cousin, Stefan Virag of <place type="city"><placeName>Szesfehervar, Hungary</placeName></place>. An ancient
 <lb n="171878"/>haggadah book in which a pair of hornrimmed convex spectacles inserted
 <lb n="171879"/>marked the passage of thanksgiving in the ritual prayers for Pessach
 <lb n="171880"/>(Passover): a photocard of the Queen's Hotel, Ennis, proprietor, Rudolph
@@ -1911,12 +1911,12 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <p rend="non-indent"><lb n="171905"/>What first reminiscence had he of Rudolph Bloom (deceased)?</p>
 <p rend="non-indent"><lb n="171906"/>Rudolph Bloom (deceased) narrated to his son Leopold Bloom (aged 6) a
 <lb n="171907"/>retrospective arrangement of migrations and settlements in and between
-<lb n="171908"/>Dublin, London, Florence, Milan, Vienna, Budapest, Szombathely with
+<lb n="171908"/><place type="city"><placeName>Dublin</placeName></place>, <place type="city"><placeName>London</placeName></place>, <place type="city"><placeName>Florence</placeName></place>, <place type="city"><placeName>Milan</placeName></place>, <place type="city"><placeName>Vienna</placeName></place>, <place type="city"><placeName>Budapest</placeName></place>, <place type="city"><placeName>Szombathely</placeName></place> with
 <lb n="171909"/>statements of satisfaction (his grandfather having seen Maria Theresia,
-<lb n="171910"/>empress of Austria, queen of Hungary), with commercial advice (having
+<lb n="171910"/>empress of <place><placeName>Austria</placeName></place>, queen of <place><placeName>Hungary</placeName></place>), with commercial advice (having
 <lb n="171911"/>taken care of pence, the pounds having taken care of themselves). Leopold
 <lb n="171912"/>Bloom (aged 6) had accompanied these narrations by constant consultation
-<lb n="171913"/>of a geographical map of Europe (political) and by suggestions for the
+<lb n="171913"/>of a geographical map of <place><placeName>Europe</placeName></place> (political) and by suggestions for the
 <lb n="171914"/>establishment of affiliated business premises in the various centres
 <lb n="171915"/>mentioned.</p>
 <p rend="non-indent"><lb n="171916"/>Had time equally but differently obliterated the memory of these migrations
@@ -1947,8 +1947,8 @@ in <placeName type="street"><place>O'Connell street lower</place></placeName>,
 <lb n="171941"/>sycophant, maimed sailor, blind stripling, superannuated bailiff's man,
 <lb n="171942"/>marfeast, lickplate, spoilsport, pickthank, eccentric public laughingstock
 <lb n="171943"/>seated on bench of public park under discarded perforated umbrella.
-<lb n="171944"/>Destitution: the inmate of Old Man's House (Royal Hospital),
-<lb n="171945"/>Kilmainham, the inmate of Simpson's Hospital for reduced but respectable
+<lb n="171944"/>Destitution: the inmate of Old Man's House (<place><placeName>Royal Hospital</placeName></place>),
+<lb n="171945"/>Kilmainham, the inmate of <place><placeName>Simpson's Hospital</placeName></place> for reduced but respectable
 <lb n="171946"/>men permanently disabled by gout or want of sight. Nadir of misery: the
 <lb n="171947"/>aged impotent disfranchised ratesupported moribund lunatic pauper.</p>
 <p rend="non-indent"><lb n="171948"/>With which attendant indignities?</p>
