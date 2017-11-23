@@ -199,8 +199,8 @@
 <lb n="100198"/>tuae.</foreign></said></p>
 <p><lb n="100199"/>A flushed young man came from a gap of a hedge and after him came
 <lb n="100200"/>a young woman with wild nodding daisies in her hand. The young man
-<lb n="100201"/>raised his cap abruptly: the young woman abruptly bent and with slow care
-<lb n="100202"/>detached from her light skirt a clinging twig.</p>
+<lb n="100201"/>raised his cap abruptly: <ref xml:id="lb_100201">the young woman abruptly bent and with slow care
+<lb n="100202"/>detached from her light skirt a clinging twig.</ref></p>
 <p><lb n="100203"/>Father Conmee blessed both gravely and turned a thin page of his
 <lb n="100204"/>breviary. <foreign xml:lang="he">Sin</foreign>:
 <lb n="100205"/><said who="jc">―<foreign xml:lang="la">Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum.</foreign></said></p>
@@ -438,8 +438,8 @@
 <lb n="100437"/><said who="nl">―The reverend Hugh C. Love, Rathcoffey. Present address: Saint
 <lb n="100438"/>Michael's, Sallins. Nice young chap he is. He's writing a book about the
 <lb n="100439"/>Fitzgeralds he told me. He's well up in history, faith.</said></p>
-<p><lb n="100440"/>The young woman with slow care detached from her light skirt a
-<lb n="100441"/>clinging twig.
+<p><lb n="100440"/><ref xml:id="lb_100440">The young woman with slow care detached from her light skirt a
+<lb n="100441"/>clinging twig.</ref>
 <lb n="100442"/><said who="jjom">―I thought you were at a new gunpowder plot,</said> J. J. O'Molloy said.</p>
 <p><lb n="100443"/>Ned Lambert cracked his fingers in the air.
 <lb n="100444"/><said who="nl">―God!</said> he cried. <said who="nl">I forgot to tell him that one about the earl of Kildare after
