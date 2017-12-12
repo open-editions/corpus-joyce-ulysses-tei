@@ -417,7 +417,7 @@
 <lb n="150416"/>eyes and tusks they rattle through a breakdown in clumsy clogs,
 <lb n="150417"/>twinging, singing, back to back, toe heel, heel toe, with
 <lb n="150418"/>smackfatclacking nigger lips.)</stage>
-<sp who="Tom Bohee AND Sam Bohee"><speaker><lb n="150419"/>Tom and Sam</speaker>
+<sp who="bohees"><speaker><lb n="150419"/>Tom and Sam</speaker>
 <quote><lg><lb n="150420"/><l>There's someone in the house with Dina,</l>
 <lb n="150421"/><l>There's someone in the house, I know,</l>
 <lb n="150422"/><l>There's someone in the house with Dina</l>
@@ -1477,7 +1477,7 @@
 <sp who="lb"><speaker><lb n="151476"/>Bloom</speaker>
 <p><stage><lb n="151477"/>(in dalmatic and purple mantle, to the bishop of Down and Connor, with
 <lb n="151478"/>dignity)</stage> Thanks, somewhat eminent sir.</p></sp>
-<sp who="William Alexander, Archbishop of Armagh"><speaker><lb n="151479"/>William, Archbishop of Armagh</speaker>
+<sp who="wa"><speaker><lb n="151479"/>William, Archbishop of Armagh</speaker>
 <p><stage><lb n="151480"/>(in purple stock and shovel hat)</stage> Will you to your power cause law and
 <lb n="151481"/>mercy to be executed in all your judgments in Ireland and territories
 <lb n="151482"/>thereunto belonging?</p></sp>
@@ -1537,7 +1537,7 @@
 <p><lb n="151536"/>Bravo!</p></sp>
 <sp who="An Old Resident"><speaker><lb n="151537"/>An Old Resident</speaker>
 <p><lb n="151538"/>You're a credit to your country, sir, that's what you are.</p></sp>
-<sp who="An Applewoman"><speaker><lb n="151539"/>An Applewoman</speaker>
+<sp who="ua2"><speaker><lb n="151539"/>An Applewoman</speaker>
 <p><lb n="151540"/>He's a man like Ireland wants.</p></sp>
 <sp who="lb"><speaker><lb n="151541"/>Bloom</speaker>
 <p><lb n="151542"/>My beloved subjects, a new era is about to dawn. I, Bloom, tell you verily it
@@ -2513,7 +2513,7 @@
 <stage><lb n="152512"/>(The Siamese twins, Philip Drunk and Philip Sober, two Oxford
 <lb n="152513"/>dons with lawnmowers, appear in the window embrasure. Both are
 <lb n="152514"/>masked with Matthew Arnold's face.)</stage>
-<sp who="phils"><speaker><lb n="152515"/>Philip Sober</speaker>
+<sp who="philsob"><speaker><lb n="152515"/>Philip Sober</speaker>
 <p><lb n="152516"/>Take a fool's advice. All is not well. Work it out with the buttend of a pencil,
 <lb n="152517"/>like a good young idiot. Three pounds twelve you got, two notes, one
 <lb n="152518"/>sovereign, two crowns, if youth but knew. Mooney's en ville, Mooney's sur
@@ -2582,7 +2582,7 @@
 <lb n="152581"/>the funeral.</p></sp>
 <sp who="phild"><speaker><lb n="152582"/>Philip Drunk</speaker>
 <p><stage><lb n="152583"/>(gravely)</stage> <foreign xml:lang="fr">Qui vous a mis dans cette fichue position, Philippe?</foreign></p></sp>
-<sp who="phils"><speaker><lb n="152584"/>Philip Sober</speaker>
+<sp who="philsob"><speaker><lb n="152584"/>Philip Sober</speaker>
 <p><stage><lb n="152585"/>(gaily)</stage> <foreign xml:lang="fr">C'était le sacré pigeon, Philippe.</foreign></p></sp>
 <stage><lb n="152586"/>(Kitty unpins her hat and sets it down calmly, patting her henna
 <lb n="152587"/>hair. And a prettier, a daintier head of winsome curls was never seen
@@ -3823,7 +3823,7 @@
 <lb n="153822"/>Shakespeare, beardless, appears there, rigid in facial paralysis,
 <lb n="153823"/>crowned by the reflection of the reindeer antlered hatrack in the
 <lb n="153824"/>hall.)</stage>
-<sp who="ws"><speaker><lb n="153825"/>Shakespeare</speaker>
+<sp who="wshak"><speaker><lb n="153825"/>Shakespeare</speaker>
 <p><stage><lb n="153826"/>(in dignified ventriloquy)</stage> 'Tis the loud laugh bespeaks the vacant mind. <stage>(to
 <lb n="153827"/>Bloom)</stage> Thou thoughtest as how thou wastest invisible. Gaze. <stage>(he crows
 <lb n="153828"/>with a black capon's laugh)</stage> Iagogo! How my Oldfellow chokit his
@@ -3850,7 +3850,7 @@
 <p><lb n="153849"/>Ah, ma, you're dragging me along!</p></sp>
 <sp who="sud"><speaker><lb n="153850"/>Susy</speaker>
 <p><lb n="153851"/>Mamma, the beeftea is fizzing over!</p></sp>
-<sp who="ws"><speaker><lb n="153852"/>Shakespeare</speaker>
+<sp who="wshak"><speaker><lb n="153852"/>Shakespeare</speaker>
 <p><stage><lb n="153853"/>(with paralytic rage)</stage> Weda seca whokilla farst.</p></sp>
 <stage><lb n="153854"/>(The face of Martin Cunningham, bearded, refeatures
 <lb n="153855"/>Shakespeare's beardless face. The marquee umbrella sways
