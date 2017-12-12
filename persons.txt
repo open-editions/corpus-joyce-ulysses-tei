@@ -1,21 +1,30 @@
-This is a plaintext list of all [365] speaking parts in the Gabler edition. 
+This is a plaintext list of all 352 speaking parts distinguished - whether named or unidentified - in the Gabler edition. 
 
 An excellent project would be preparing the listPerson from this data.
+
+Conventions:
+All plural speakers are distinguished by pl. These @who value ends in 's'.
+i is for inanimate. The @who value for inanimate speakers begins with 'i'.
 
 ========================================================================================
 
 aa	Almidano Artifoni
 ab	Alf Bergan
+ad	Adonai
 ae	George Russell
 ae2	Russell as Mananaun MacLir
 ajk	Alexander J Dowie
 ak	Alexander Keyes
+aos	The Artane Orphans	pl.
 apb	Andrew Pisser Burke
 ar	Armstrong
+at	Alfred, Lord Tennyson
 
 bb	baby Boardman
+bbs	Bloom's Boys	pl.
 bc	Bella Cohen
 bc2	Bello Cohen
+bclap	Biddy the Clap
 bb	Blazes Boylan
 bd	Bob Doran
 bds	Burton diners	pl.
@@ -25,48 +34,63 @@ bl	Bantam Lyons
 bliz	Black Liz
 bm	Buck Mulligan
 bod	Boody Dedalus
+bohees	Bohee brothers, Tom and Sam	pl.
 bp	Bald Pat
-bs	blind stripling
+br	Brini Papal Nuncio
+brb	Brother Buzz
 bss	Belvedere schoolboys	pl.
+bsuxs	The Babes and Sucklings	pl.
 bt	Brian Tweedy
 bv	Bernard Vaughan
 
 c57c	Constable 57C
 cam	Charles Alberta Marsh
 cat	the Blooms' cat
+cb	The Croppy Boy
 cbocftf	Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell
 ccaff	Cissy Caffrey
+cfts	The Chapel of Freeman Typesetters	pl.
 chc	Chris Callinan
+cirs	The Circumcised	pl.
+cit	Citron
 ck	Corny Kelleher
+ckate	Cunty Kate
 co	Cochrane
 com	Comyn
 cor	Corley
 cpm	C. P. M'Coy
 cr	Crofton
 cr2	Crofton in pistachios parody
+crab	Crab
 csp	Charles Stewart Parnell
 
 db	Davy Byrne
 dbc	Davy Byrne's curate
 dbm	D.B. Murphy
 dd	Dan Dawson
+depfrph	Don Emile Patrizio Franz Rupert Pope Hennessy
+des	The Daughters of Erin	pl.
+dg	Dolly Gray
 did	Dilly Dedalus
 djm	Denis J Maginni
 dl	Dillon's lacquey
+dm	The Dark Mercury
 dr	Dante Riordan
 drc	Dr Crotthers
 drd	Dr Dixon
 drm	Dr Madden
-ds	Davy Stephens
+dst	Davy Stephens
 
 eb	Ellen Bloom
 edb	Edy Boardman
 ed	Edward Dowden
+edvii	Edward the Seventh
 eli	Elijah
-eng	an Englishman
 eo	Esther Osvalt
-es	Elizabeth Sheehy
+esh	Elizabeth Sheehy
+ets	The Irish Evicted Tenants	pl.
 
+fbs	The Fire Brigade	pl.
 fc	Father Cowley
 fd	Freddy Dignam
 ff	Frederick Falkiner
@@ -75,22 +99,56 @@ frd	Fr Dolan
 frof	Fr O'Flynn
 frf	Fr Farley
 ft	Florry Talbot
-fws	F. W. Sweny
+fw	F. W. Sweny
 
-gc	bells of George's Church
 gd	Garrett Deasy
 gf	Gerald Fitzgerald, earl of Kildare
 gfo	George Fottrell
 gl	George Lidwell
+gls	The Green Lodges	pl.
 gm	George Moore
 gmd	Gerty MacDowell	
 grm	George Robert Mesias
+gulls	The Gulls	pl.
 
 ha	Haines
+hb	Hornblower
 hcl	Hugh C. Love	
+hcs	The Hue and Cry	pl.
 hh	Hoppy Holohan
+hol	hollybush
 hr	Horace Rumbold
-hs	Hely's shopgirl
+hsg	Hely's shopgirl
+
+ia	The Answer
+ib	Bloom's trouserbutton
+ibells	bicycle bells	pl.
+ibrs	bracelets	pl.
+ibs	beatitudes	pl.
+ibuxs	buckles	pl.
+ic	The Call
+icap	cap
+ics	chimes	pl.
+id	deadhand
+idh	doorhandle
+iew	The End of the World
+if	Bella's fan
+ifb	flybill
+igcs	bells of George's Church	pl.
+igj	gasjet
+igong	gong
+igram	gramophone
+ihds	halcyon days	pl.
+ihoof	hoof
+ihs	The Hours	pl.
+ip	pianola
+iqs	quoits of the Blooms' bed	pl.
+ish	Sleepy Hollow
+isp	bar of soap
+itp	timepiece
+iw	waterfall
+iws	wreaths	pl.
+ixxxs	kisses	pl.
 
 jb	Josie Breen
 jc	John Conmee
@@ -115,16 +173,20 @@ kd	Katey Dedalus
 ke	Kevin Egan
 kr	Kitty Ricketts
 
+lands	Longhand and Shorthand	pl.
 lb	Leopold Bloom
 lb2	Henry Flower
+lbd	dummy of Leopold Bloom
 ld	Lydia Douce
 len	Lenehan
 lor	Larry O'Rourke
-ls	Lorcan Sherlock
+lsh	Lorcan Sherlock
+lv	Lipoti Virag
 
 ma 	Virgin Mary
 mac	The Man in the Macintosh
 mad	May Dedalus
+maf	Signor Maffei
 magd	Maggy Dedalus
 marc	Martha Clifford
 mard	Mary Driscoll
@@ -138,6 +200,9 @@ mh	Moses Herzog
 mib	Milly Bloom
 missd	Miss Dunne
 mk	Mina Kennedy
+ml	The Bishop of Down and Connor Michael Cardinal Logue
+mobs	The Mob	pl.
+mot	The Moth
 mra	Mr Allfours
 mrcc	Mr Cowe Conacre
 mroor	Mr Orelli O'Reilly
@@ -149,13 +214,18 @@ mrsk	Mrs Keogh
 mrsmt	Mrs Mervyn Talboys
 mrst	Mrs Thornton
 mrsyb	Mrs Yelverton Barry
-ms	Mary slavey
-mw	milkwoman
+msy	Mary slavey
 myc	Myles Crawford
 
+nang	The Nannygoat
 nf	Nosey Flynn
 nl	Ned Lambert
+nursc	Nurse Callan
+nursq	Nurse Quigley
+nym	The Nymph
 
+ogg	Old Gummy Granny
+ols	The Orange Lodges	pl.
 om	Old Monks
 omb	O'Madden Burke
 or	old Royce
@@ -164,12 +234,17 @@ pb	Philip Beaufoy
 pc	Punch Costello
 pd	Paddy Dignam
 pe	Patrice Egan
+pggs	The Prison Gate Girls	pl.
 phild	Philip Drunk
-phils	Philip Sober
+philsob	Philip Sober
 pl	Paddy Leonard
 profmh	professor MacHugh
+prs	The Peers	pl.
+ptec	Private Carr
+pteco	Private Compton
 
 rb	Rudolph Bloom
+ret	The Retriever
 rg	Richie Goulding
 rib	Richard Best
 rjd	Reuben J Dodd
@@ -178,8 +253,10 @@ rub	Rudy Bloom
 
 sa	Sargent
 sb	Seymour Bushe
+sbob	Staggering Bob
 sd	Stephen Dedalus
 sid	Simon Dedalus
+sps	The Sins of the Past	pl.
 stg	Skin the Goat
 sud	Susy Dignam
 
@@ -195,194 +272,114 @@ tl	Thomas Lyster
 tn	The Nameless One
 tp	Theodore Purefoy
 tr	Tom Rochford
-tsp	the speaker
+tsp	the speaker (Cyclops parody)
 tt	Tomkin-Maxwell ffrenchmullan Tomlinson
+tuts	Tutti	pl.
 tw	Thomas Wolsey
 
 ua	unidentified applewoman
+ua2	second unidentified applewoman
+ualls	unidentified all	pl.
 uatt	unidentified attendant
 uatt2	second unidentified attendant
-uboat	unidentified boatman
+ub	unidentified bawd
 ubell	unidentified bellhanger
 ubid	unidentified bidder
+ubk	unidentified bookseller
 ublack	unidentified blacksmith
 ublue	unidentified bluecoat schoolboy
-ubus	unidentified businessman
-ubk	unidentified bookseller
+ubm	unidentified businessman
 ubo	unidentified boots
+uboat	unidentified boatman
+ubst	unidentified blind stripling
 uc	unidentified cocklepicker
+ucavs	unidentified cavaliers	pl.
+ucds	unidentified crowd	pl.
+uchs	unidentified choir	pl.
+ucr	unidentified crier
+ucs	unidentified children	pl.
 ud	unidentified drover
 udr	unidentified drunk
-ug	unidentified gentleman with tankard
+udv	unidentified darkvisaged man
+udvs	unidentified distant voices	pl.
+ue	unidentified elector
+ueng	unidentified Englishman
+uf	unidentified figure
+ufem	unidentified feminist
+ufi	unidentified female infant
+ug	unidentified gaffer
+ugt	unidentified gentleman with tankard
 uh	unidentified huckster
+uhag	unidentified hag
 uhc	unidentified Henry Campbell lookalike
 uhd	unidentified husband
+uhob	unidentified hobgoblin
+uhor	unidentified horse
 ui	unidentified Italian chap
+uid	unidentified idiot
 uis	unidentified Italians	pl.
-uj	unidentified jews in the wilderness	pl.
+ujews	unidentified jews in the wilderness	pl.
 ujar	unidentified jarvey
+ujs	unidentified jurors	pl.
 ul	unidentified longshoreman
 ul2	unidentified loafer number two
 ul3	unidentified third loafer
 uland	unidentified landlord in pistachios parody
+uloits	unidentified loiterers	pl.
 uls	unidentified lovers	pl.
-un	unidentified newsboys	pl.
+um	unidentified man
+umbs	unidentified male brutes	pl.
+umill	unidentified millionairess
+umm	unidentified motorman
+umw	unidentified milkwoman
+unob	unidentified noblewoman
+uns	unidentified newsboys	pl.
 unav	unidentified navvy
-uo	unidentified one
 uom	unidentified old man
+uor	unidentified old resident
 up	unidentified priest
+upf	unidentified pavior and flagger
 upr	unidentified printer
-ups	unidentified plumseller
+uplum	unidentified plumseller
+uq	unidentified questioner of the sailor
 ur	unidentified Roman
-us	unidentified student
+urou	unidentified rough
+usk	unidentified shebeenkeeper
 usl	unidentified slut
+usls	unidentified sluts	pl.
 usom	unidentified somebody
 usr	unidentified onelegged sailor
-uss	unidentified shawls
+usrs	unidentified sluts and ragamuffins	pl.
+uss	unidentified shawls	pl.
+usss	unidentified sightseers	pl.
+ustud	unidentified student
 ut	unidentified timekeeper
 utb	unidentified telegram boy
-uyc	unidentified young cubs	pl.
+utbs	unidentified torchbearers	pl.
+uu	unidentified urchin
+uus	unidentified urchins	pl.
+uv	unidentified voice
+uvg	unidentified voice from the gallery
+uvgo	unidentified virago
+uvs	unidentified voices	pl.
+uw	unidentified whore
+uwhs	unidentified whores	pl.
+uwmns	unidentified women	pl.
+uycs	unidentified young cubs	pl.
 uym	unidentified young man
-uys	unidentified young student
+uystud	unidentified young student
 
+vab	The Voice of All the Blessed
+vad	The Voice of All the Damned
 vl	Vincent Lynch
+vsib	The Veiled Sibyl
 
 w1	First Watch
 w2	Second Watch
+wa	William Alexander
 wg	Walter Goulding
-ws	William Shakespeare
+wshak	William Shakespeare
+
+yews	The Yews	pl.
 
 zh	Zoe Higgins
-
-========================================================================================
-========================================================================================
-========================================================================================
-========================================================================================
-========================================================================================
-Yet to be sorted:
-========================================================================================
-A Darkvisaged Man
-A Deadhand
-A Female Infant
-A Feminist
-A Hag
-A Hollybush
-A Man
-A Millionairess
-A Noblewoman
-A Pavior and Flagger
-A Rough
-A Voice
-A Voice from the Gallery
-A Whore
-Adonai
-All
-An Applewoman
-An Elector
-An Old Resident
-Biddy the Clap
-Bloom's Boys
-Brini Papal Nuncio
-Brother Buzz
-Cavaliers
-Citron
-Crab
-Cunty Kate
-Distant Voices
-Dolly Gray
-Don Emile Patrizio Franz Rupert Pope Hennessy
-Edward the Seventh
-Hornblower
-Hours
-Lipoti Virag
-Longhand and Shorthand
-Lord Tennyson
-Nurse Callan
-Nurse Quigley
-Old Gummy Granny
-Private Carr
-Private Compton
-Signor Maffei
-Sleepy Hollow
-Staggering Bob
-The Answer
-The Artane Orphans
-The Babes and Sucklings
-The Bawd
-The Beatitudes 
-The Bells
-The Bishop of Down and Connor Michael Cardinal Logue
-The Bracelets
-The Buckles
-The Button
-The Call
-The Cap
-The Chapel of Freeman Typesetters
-The Children
-The Chimes
-The Choir
-The Circumcised
-The Crier
-The Croppy Boy
-The Crowd
-The Dark Mercury
-The Daughters of Erin
-The Doorhandle
-The Dummymummy
-The End of the World
-The Fan
-The Figure
-The Fire Brigade
-The Flybill
-The Gaffer
-The Gasjet
-The Gong
-The Gramophone
-The Green Lodges
-The Gulls
-The Halcyon Days
-The Hobgoblin
-The Hoof
-The Horse
-The Hue and Cry
-The Idiot
-The Irish Evicted Tenants
-The Jurors
-The Kisses
-The Loiterers
-The Male Brutes
-The Mob
-The Moth
-The Motorman
-The Nannygoat
-The Nymph
-The Orange Lodges
-The Peers
-The Pianola
-The Prison Gate Girls
-The Quoits
-The Retriever
-The Shebeenkeeper
-The Sightseers
-The Sins of the Past
-The Sluts
-The Sluts and Ragamuffins
-The Soap
-The Timepiece
-The Torchbearers
-The Urchins
-The Veiled Sibyl
-The Virago
-The Voice of All the Blessed
-The Voice of All the Damned
-The Waterfall
-The Whores
-The Women
-The Wreaths
-The Yews
-Sam Bohee
-Tom Bohee
-Tutti
-urchin
-Voices
-William Alexander
