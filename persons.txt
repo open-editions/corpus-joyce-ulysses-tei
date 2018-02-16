@@ -372,7 +372,7 @@ uystud	unidentified young student
 vab	The Voice of All the Blessed
 vad	The Voice of All the Damned
 vl	Vincent Lynch
-vsib	The Veiled Sibyl
+vsbyl	The Veiled Sibyl
 
 w1	First Watch
 w2	Second Watch
