@@ -87,7 +87,7 @@ ed	Edward Dowden
 edvii	Edward the Seventh
 eli	Elijah
 eo	Esther Osvalt
-esh	Elizabeth Sheehy
+esy	Elizabeth Sheehy
 ets	The Irish Evicted Tenants	pl.
 
 fbs	The Fire Brigade	pl.
@@ -99,7 +99,7 @@ frd	Fr Dolan
 frof	Fr O'Flynn
 frf	Fr Farley
 ft	Florry Talbot
-fw	F. W. Sweny
+fwsy	F. W. Sweny
 
 gd	Garrett Deasy
 gf	Gerald Fitzgerald, earl of Kildare

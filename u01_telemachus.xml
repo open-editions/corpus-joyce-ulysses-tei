@@ -670,7 +670,7 @@
 <lb n="010668"/>our national problem, I'm afraid, just now.</said></p>
 <p><lb n="010669"/>Two men stood at the verge of the cliff, watching: businessman,
 <lb n="010670"/>boatman.
-<lb n="010671"/><said xml:id="said_010671_unclear" who="ubus">―She's making for Bullock harbour.<certainty target="#said_010671_unclear" match="@who" locus="value" assertedValue="uboat" degree="0.5"> <desc>It's unclear whether the businessman or the boatman speaks.</desc></certainty></said></p>
+<lb n="010671"/><said xml:id="said_010671_unclear" who="ubm">―She's making for Bullock harbour.<certainty target="#said_010671_unclear" match="@who" locus="value" assertedValue="uboat" degree="0.5"> <desc>It's unclear whether the businessman or the boatman speaks.</desc></certainty></said></p>
 <p><lb n="010672"/>The boatman nodded towards the north of the bay with some disdain.
 <lb n="010673"/><said who="uboat">―There's five fathoms out there,</said> he said. <said who="uboat">It'll be swept up that way when
 <lb n="010674"/>the tide comes in about one. It's nine days today.</said></p>
