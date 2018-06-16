@@ -135,8 +135,8 @@
 <lb n="010133"/>trunk.
 <lb n="010134"/><said who="bm">―Look at yourself,</said> he said, <said who="bm">you dreadful bard!</said></p>
 <p><lb n="010135"/>Stephen bent forward and peered at the mirror held out to him, cleft
-<lb n="010136"/>by a crooked crack. Hair on end. As he and others see me. Who chose this
-<lb n="010137"/>face for me? This dogsbody to rid of vermin. It asks me too.
+<lb n="010136"/>by a crooked crack. <said who="sd" aloud="false">Hair on end. As he and others see me. Who chose this
+<lb n="010137"/>face for me? This dogsbody to rid of vermin. It asks me too.</said>
 <lb n="010138"/><said who="bm">―I pinched it out of the skivvy's room,</said> Buck Mulligan said. <said who="bm">It does her all
 <lb n="010139"/>right. The aunt always keeps plainlooking servants for Malachi. Lead him
 <lb n="010140"/>not into temptation. And her name is Ursula.</said></p>
@@ -151,8 +151,8 @@
 <lb n="010149"/>had thrust them.
 <lb n="010150"/><said who="bm">―It's not fair to tease you like that, Kinch, is it?</said> he said kindly. <said who="bm">God knows
 <lb n="010151"/>you have more spirit than any of them.</said></p>
-<p><lb n="010152"/>Parried again. He fears the lancet of my art as I fear that of his. The
-<lb n="010153"/>cold steel pen.
+<p><lb n="010152"/><said who="sd" aloud="false">Parried again. He fears the lancet of my art as I fear that of his. The
+<lb n="010153"/>cold steel pen.</said>
 <lb n="010154"/><said who="bm">―Cracked lookingglass of a servant! Tell that to the oxy chap downstairs
 <lb n="010155"/>and touch him for a guinea. He's stinking with money and thinks you're
 <lb n="010156"/>not a gentleman. His old fellow made his tin by selling jalap to Zulus or
@@ -248,11 +248,11 @@
 <lb n="010246"/>merging their twining chords. Wavewhite wedded words shimmering on the
 <lb n="010247"/>dim tide.</p>
 <p><lb n="010248"/>A cloud began to cover the sun slowly, wholly, shadowing the bay in
-<lb n="010249"/>deeper green. It lay beneath him, a bowl of bitter waters. Fergus' song: I
+<lb n="010249"/>deeper green. It lay beneath him, a bowl of bitter waters. <said who="sd" aloud="false">Fergus' song: I
 <lb n="010250"/>sang it alone in the house, holding down the long dark chords. Her door
 <lb n="010251"/>was open: she wanted to hear my music. Silent with awe and pity I went to
 <lb n="010252"/>her bedside. She was crying in her wretched bed. For those words, Stephen:
-<lb n="010253"/>love's bitter mystery.</p>
+<lb n="010253"/>love's bitter mystery.</said></p>
 <p><lb n="010254"/>Where now?</p>
 <p><lb n="010255"/>Her secrets: old featherfans, tasselled dancecards, powdered with
 <lb n="010256"/>musk, a gaud of amber beads in her locked drawer. A birdcage hung in the
@@ -272,13 +272,13 @@
 <p><lb n="010270"/>In a dream, silently, she had come to him, her wasted body within its
 <lb n="010271"/>loose graveclothes giving off an odour of wax and rosewood, her breath,
 <lb n="010272"/>bent over him with mute secret words, a faint odour of wetted ashes.</p>
-<p><lb n="010273"/>Her glazing eyes, staring out of death, to shake and bend my soul. On
+<p><lb n="010273"/><said who="sd" aloud="false">Her glazing eyes, staring out of death, to shake and bend my soul. On
 <lb n="010274"/>me alone. The ghostcandle to light her agony. Ghostly light on the tortured
 <lb n="010275"/>face. Her hoarse loud breath rattling in horror, while all prayed on their
 <lb n="010276"/>knees. Her eyes on me to strike me down. <quote xml:lang="la">Liliata rutilantium te confessorum
 <lb n="010277"/>turma circumdet: iubilantium te virginum chorus excipiat.</quote></p>
 <p><lb n="010278"/>Ghoul! Chewer of corpses!</p>
-<p><lb n="010279"/>No, mother! Let me be and let me live.
+<p><lb n="010279"/>No, mother! Let me be and let me live.</said>
 <lb n="010280"/><said who="bm">―Kinch ahoy!</said></p>
 <p><lb n="010281"/>Buck Mulligan's voice sang from within the tower. It came nearer up
 <lb n="010282"/>the staircase, calling again. Stephen, still trembling at his soul's cry, heard
@@ -306,12 +306,12 @@
 <lb n="010304"/><l>O, won't we have a merry time</l>
 <lb n="010305"/><l>On coronation day!</l></lg></quote></said>
 <p><lb n="010306"/>Warm sunshine merrying over the sea. The nickel shavingbowl shone,
-<lb n="010307"/>forgotten, on the parapet. Why should I bring it down? Or leave it there all
-<lb n="010308"/>day, forgotten friendship?</p>
+<lb n="010307"/>forgotten, on the parapet. <said who="sd" aloud="false">Why should I bring it down? Or leave it there all
+<lb n="010308"/>day, forgotten friendship?</said></p>
 <p><lb n="010309"/>He went over to it, held it in his hands awhile, feeling its coolness,
-<lb n="010310"/>smelling the clammy slaver of the lather in which the brush was stuck. So I
+<lb n="010310"/>smelling the clammy slaver of the lather in which the brush was stuck. <said who="sd" aloud="false">So I
 <lb n="010311"/>carried the boat of incense then at Clongowes. I am another now and yet
-<lb n="010312"/>the same. A servant too. A server of a servant.</p>
+<lb n="010312"/>the same. A servant too. A server of a servant.</said></p>
 <p><lb n="010313"/>In the gloomy domed livingroom of the tower Buck Mulligan's
 <lb n="010314"/>gowned form moved briskly to and fro about the hearth, hiding and
 <lb n="010315"/>revealing its yellow glow. Two shafts of soft daylight fell across the flagged
@@ -397,7 +397,7 @@
 <lb n="010395"/><said who="umw">―How much, sir?</said> asked the old woman.
 <lb n="010396"/><said who="sd">―A quart,</said> Stephen said.</p>
 <p><lb n="010397"/>He watched her pour into the measure and thence into the jug rich
-<lb n="010398"/>white milk, not hers. Old shrunken paps. She poured again a measureful
+<lb n="010398"/>white milk, not hers. <said who="sd" aloud="false">Old shrunken paps.</said> She poured again a measureful
 <lb n="010399"/>and a tilly. Old and secret she had entered from a morning world, maybe a
 <lb n="010400"/>messenger. She praised the goodness of the milk, pouring it out. Crouching
 <lb n="010401"/>by a patient cow at daybreak in the lush field, a witch on her toadstool, her
@@ -417,12 +417,12 @@
 <lb n="010415"/><said who="umw">―Are you a medical student, sir?</said> the old woman asked.
 <lb n="010416"/><said who="bm">―I am, ma'am,</said> Buck Mulligan answered.
 <lb n="010417"/><said who="umw">―Look at that now,</said> she said.</p>
-<p><lb n="010418"/>Stephen listened in scornful silence. She bows her old head to a voice
+<p><lb n="010418"/>Stephen listened in scornful silence. <said who="sd" aloud="false">She bows her old head to a voice
 <lb n="010419"/>that speaks to her loudly, her bonesetter, her medicineman: me she slights.
 <lb n="010420"/>To the voice that will shrive and oil for the grave all there is of her but her
 <lb n="010421"/>woman's unclean loins, of man's flesh made not in God's likeness, the
 <lb n="010422"/>serpent's prey. And to the loud voice that now bids her be silent with
-<lb n="010423"/>wondering unsteady eyes.
+<lb n="010423"/>wondering unsteady eyes.</said>
 <lb n="010424"/><said who="sd">―Do you understand what he says?</said> Stephen asked her.
 <lb n="010425"/><said who="umw">―Is it French you are talking, sir?</said> the old woman said to Haines.</p>
 <p><lb n="010426"/>Haines spoke to her again a longer speech, confidently.
@@ -480,8 +480,8 @@
 <p><lb n="010478"/>Haines from the corner where he was knotting easily a scarf about
 <lb n="010479"/>the loose collar of his tennis shirt spoke:
 <lb n="010480"/><said who="ha">―I intend to make a collection of your sayings if you will let me.</said></p>
-<p><lb n="010481"/>Speaking to me. They wash and tub and scrub. <ref xml:id="lb_010481">Agenbite of inwit.</ref>
-<lb n="010482"/>Conscience. Yet here's a spot.
+<p><lb n="010481"/><said who="sd" aloud="false">Speaking to me. They wash and tub and scrub. <ref xml:id="lb_010481">Agenbite of inwit.</ref>
+<lb n="010482"/>Conscience. Yet here's a spot.</said>
 <lb n="010483"/><said who="ha">―That one about the cracked lookingglass of a servant being the symbol of
 <lb n="010484"/>Irish art is deuced good.</said></p>
 <p><lb n="010485"/>Buck Mulligan kicked Stephen's foot under the table and said with
@@ -628,10 +628,10 @@
 <lb n="010626"/>of free thought.</said></p>
 <p><lb n="010627"/>He walked on, waiting to be spoken to, trailing his ashplant by his
 <lb n="010628"/>side. Its ferrule followed lightly on the path, squealing at his heels. My
-<lb n="010629"/>familiar, after me, calling, Steeeeeeeeeeeephen! A wavering line along the
+<lb n="010629"/>familiar, after me, calling, Steeeeeeeeeeeephen! A wavering line along <said who="sd" aloud="false">the
 <lb n="010630"/>path. They will walk on it tonight, coming here in the dark. He wants that
 <lb n="010631"/>key. It is mine. I paid the rent. Now I eat his salt bread. Give him the key
-<lb n="010632"/>too. All. He will ask for it. That was in his eyes.
+<lb n="010632"/>too. All. He will ask for it. That was in his eyes.</said>
 <lb n="010633"/><said who="ha">―After all,</said> Haines began ....</p>
 <p><lb n="010634"/>Stephen turned and saw that the cold gaze which had measured him
 <lb n="010635"/>was not all unkind.
@@ -639,7 +639,7 @@
 <lb n="010637"/>master, it seems to me.</said>
 <lb n="010638"/><said who="sd">―I am a servant of two masters,</said> Stephen said, <said who="sd">an English and an Italian.</said>
 <lb n="010639"/><said who="ha">―Italian?</said> Haines said.</p>
-<p><lb n="010640"/>A crazy queen, old and jealous. Kneel down before me.
+<p><lb n="010640"/><said who="sd" aloud="false">A crazy queen, old and jealous. Kneel down before me.</said>
 <lb n="010641"/><said who="sd">―And a third,</said> Stephen said, <said who="sd">there is who wants me for odd jobs.</said>
 <lb n="010642"/><said who="ha">―Italian?</said> Haines said again. <said who="ha">What do you mean?</said>
 <lb n="010643"/><said who="sd">―The imperial British state,</said> Stephen answered, his colour rising, <said who="sd">and the
@@ -674,9 +674,9 @@
 <p><lb n="010672"/>The boatman nodded towards the north of the bay with some disdain.
 <lb n="010673"/><said who="uboat">―There's five fathoms out there,</said> he said. <said who="uboat">It'll be swept up that way when
 <lb n="010674"/>the tide comes in about one. It's nine days today.</said></p>
-<p><lb n="010675"/>The man that was drowned. A sail veering about the blank bay
+<p><lb n="010675"/><said who="sd" aloud="false">The man that was drowned. A sail veering about the blank bay
 <lb n="010676"/>waiting for a swollen bundle to bob up, roll over to the sun a puffy face,
-<lb n="010677"/>saltwhite. Here I am.</p>
+<lb n="010677"/>saltwhite. Here I am.</said></p>
 <p><lb n="010678"/>They followed the winding path down to the creek. Buck Mulligan
 <lb n="010679"/>stood on a stone, in shirtsleeves, his unclipped tie rippling over his shoulder.
 <lb n="010680"/>A young man clinging to a spur of rock near him, moved slowly frogwise
@@ -738,10 +738,10 @@
 <quote xml:lang="la"><lg rend="italics"><lb n="010736"/><l>Liliata rutilantium.</l>
 <lb n="010737"/><l>Turma circumdet.</l>
 <lb n="010738"/><l>Iubilantium te virginum.</l></lg></quote>
-<p><lb n="010739"/>The priest's grey nimbus in a niche where he dressed discreetly. I will
-<lb n="010740"/>not sleep here tonight. Home also I cannot go.</p>
+<p><lb n="010739"/><said who="sd" aloud="false">The priest's grey nimbus in a niche where he dressed discreetly. I will
+<lb n="010740"/>not sleep here tonight. Home also I cannot go.</said></p>
 <p><lb n="010741"/>A voice, sweettoned and sustained, called to him from the sea.
 <lb n="010742"/>Turning the curve he waved his hand. It called again. A sleek brown head, a
 <lb n="010743"/>seal's, far out on the water, round.</p>
-<p><lb n="010744"/>Usurper.</p>
+<p><lb n="010744"/><said who="sd" aloud="false">Usurper.</said></p>
 </div> <!-- End of Episode 1, "Telemachus" -->
