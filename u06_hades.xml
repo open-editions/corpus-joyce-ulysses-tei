@@ -1,5 +1,5 @@
 <div type="episode" n="06">
-<p><lb n="060001"/>Martin Cunningham, first, poked his silkhatted head into the creaking
+<p><lb n="060001"/>Martin Cunningham, first, poked his <distinct type="nonstandard-compound">silkhatted</distinct> head into the creaking
 <lb n="060002"/>carriage and, entering deftly, seated himself. Mr Power stepped in after him,
 <lb n="060003"/>curving his height with care.
 <lb n="060004"/><said xml:id="said_060004_unclear" who="mc">―Come on, Simon.<certainty target="#said_060004_unclear" match="@who" locus="value" assertedValue="jp" degree="0.5"><desc>It's unclear whether Cunningham or Power speaks.</desc></certainty></said>
@@ -9,14 +9,14 @@
 <lb n="060008"/><said who="mc">―Are we all here now?</said> Martin Cunningham asked. <said who="mc">Come along, Bloom.</said></p>
 <p><lb n="060009"/>Mr Bloom entered and sat in the vacant place. He pulled the door to
 <lb n="060010"/>after him and slammed it twice till it shut tight. He passed an arm through
-<lb n="060011"/>the armstrap and looked seriously from the open <seg type="neologism">carriagewindow</seg> at the
+<lb n="060011"/>the <distinct type="nonstandard-compound">armstrap</distinct> and looked seriously from the open <distinct type="nonstandard-compound">carriagewindow</distinct> at the
 <lb n="060012"/>lowered blinds of the avenue. One dragged aside: <said who="lb" aloud="false">an old woman peeping.
-<lb n="060013"/>Nose <seg type="neologism">whiteflattened</seg> against the pane. Thanking her stars she was passed
+<lb n="060013"/>Nose <distinct type="nonstandard-compound">whiteflattened</distinct> against the pane. Thanking her stars she was passed
 <lb n="060014"/>over. Extraordinary the interest they take in a corpse. Glad to see us go we
-<lb n="060015"/>give them such trouble coming. Job seems to suit them. Huggermugger in
-<lb n="060016"/>corners. Slop about in <seg type="neologism">slipperslappers</seg> for fear he'd wake. Then getting it
+<lb n="060015"/>give them such trouble coming. Job seems to suit them. <distinct type="compound">Huggermugger</distinct> in
+<lb n="060016"/>corners. Slop about in <distinct type="Joycean">slipperslappers</distinct> for fear he'd wake. Then getting it
 <lb n="060017"/>ready. Laying it out. Molly and Mrs Fleming making the bed. Pull it more
-<lb n="060018"/>to your side. Our <seg type="neologism">windingsheet.</seg> Never know who will touch you dead.
+<lb n="060018"/>to your side. Our <distinct type="compound">windingsheet</distinct>. Never know who will touch you dead.
 <lb n="060019"/>Wash and shampoo. I believe they clip the nails and the hair. Keep a bit in
 <lb n="060020"/>an envelope. Grows all the same after. Unclean job.</said></p>
 <p><lb n="060021"/>All waited. Nothing was said. <said who="lb" aloud="false">Stowing in the wreaths probably. I am
@@ -28,7 +28,7 @@
 <lb n="060027"/>of the avenue passed and number nine with its craped knocker, door ajar.
 <lb n="060028"/><said who="lb" aloud="false">At walking pace.</said></p>
 <p><lb n="060029"/>They waited still, their knees jogging, till they had turned and were
-<lb n="060030"/>passing along the tramtracks. <said who="lb" aloud="false">Tritonville road. Quicker.</said> The wheels rattled
+<lb n="060030"/>passing along the <distinct type="nonstandard-compound">tramtracks</distinct>. <said who="lb" aloud="false">Tritonville road. Quicker.</said> The wheels rattled
 <lb n="060031"/>rolling over the cobbled causeway and the crazy glasses shook rattling in
 <lb n="060032"/>the doorframes.
 <lb n="060033"/><said who="jp">―What way is he taking us?</said> Mr Power asked through both windows.
@@ -36,21 +36,21 @@
 <p><lb n="060035"/>Mr Dedalus nodded, looking out.
 <lb n="060036"/><said who="sid">―That's a fine old custom,</said> he said. <said who="sid">I am glad to see it has not died out.</said></p>
 <p><lb n="060037"/>All watched awhile through their windows caps and hats lifted by
-<lb n="060038"/>passers. Respect. The carriage swerved from the tramtrack to the smoother
+<lb n="060038"/>passers. Respect. The carriage swerved from the <distinct type="nonstandard-compound">tramtrack</distinct> to the smoother
 <lb n="060039"/>road past Watery lane. Mr Bloom at gaze saw a lithe young man, clad in
 <lb n="060040"/>mourning, a wide hat.
 <lb n="060041"/><said who="lb">―There's a friend of yours gone by, Dedalus,</said> he said.
 <lb n="060042"/><said who="sid">―Who is that?</said>
 <lb n="060043"/><said who="lb">―Your son and heir.</said>
 <lb n="060044"/><said who="sid">―Where is he?</said> Mr Dedalus said, stretching over across.</p>
-<p><lb n="060045"/>The carriage, passing the open drains and mounds of <seg type="neologism">rippedup</seg>
+<p><lb n="060045"/>The carriage, passing the open drains and mounds of <distinct type="nonstandard-compound">rippedup</distinct>
 <lb n="060046"/>roadway before the tenement houses, lurched round the corner and,
-<lb n="060047"/>swerving back to the tramtrack, rolled on noisily with chattering wheels.
+<lb n="060047"/>swerving back to the <distinct type="nonstandard-compound">tramtrack</distinct>, rolled on noisily with chattering wheels.
 <lb n="060048"/>Mr Dedalus fell back, saying:
 <lb n="060049"/><said who="sid">―Was that Mulligan cad with him? His <foreign xml:lang="la">fidus Achates</foreign>!</said>
 <lb n="060050"/><said who="lb">―No,</said> Mr Bloom said. <said who="lb">He was alone.</said>
 <lb n="060051"/><said who="sid">―Down with his aunt Sally, I suppose,</said> Mr Dedalus said, <said who="sid">the Goulding
-<lb n="060052"/>faction, the drunken little costdrawer and Crissie, papa's little lump of
+<lb n="060052"/>faction, the drunken little <distinct type="nonstandard-compound">costdrawer</distinct> and Crissie, papa's little lump of
 <lb n="060053"/>dung, the wise child that knows her own father.</said></p>
 <p><lb n="060054"/>Mr Bloom smiled joylessly on Ringsend road. <said who="lb" aloud="false">Wallace Bros: the
 <lb n="060055"/>bottleworks: Dodder bridge.</said></p>
@@ -62,7 +62,7 @@
 <lb n="060061"/>back. Thinks he'll cure it with pills. All breadcrumbs they are. About six
   <lb n="060062"/>hundred per cent profit.</said>
 <lb n="060063"/><said who="sid">―He's in with a lowdown crowd,</said> Mr Dedalus snarled. <said who="sid">That Mulligan is a
-<lb n="060064"/>contaminated bloody doubledyed ruffian by all accounts. His name stinks
+<lb n="060064"/>contaminated bloody <distinct type="compound">doubledyed</distinct> ruffian by all accounts. His name stinks
 <lb n="060065"/>all over Dublin. But with the help of God and His blessed mother I'll make
 <lb n="060066"/>it my business to write a letter one of those days to his mother or his aunt or
 <lb n="060067"/>whatever she is that will open her eye as wide as a gate. I'll tickle his
@@ -72,7 +72,7 @@
 <lb n="060071"/>son. Selling tapes in my cousin, Peter Paul M'Swiney's. Not likely.</said></p>
 <p><lb n="060072"/>He ceased. Mr Bloom glanced from his angry moustache to Mr
 <lb n="060073"/>Power's mild face and Martin Cunningham's eyes and beard, gravely
-  <lb n="060074"/>shaking. <said who="lb" aloud="false">Noisy <seg type="neologism">selfwilled</seg> man. Full of his son. He is right. Something to
+  <lb n="060074"/>shaking. <said who="lb" aloud="false">Noisy <distinct type="compound">selfwilled</distinct> man. Full of his son. He is right. Something to
 <lb n="060075"/>hand on. If little Rudy had lived. See him grow up. Hear his voice in the
 <lb n="060076"/>house. Walking beside Molly in an Eton suit. My son. Me in his eyes.
 <lb n="060077"/>Strange feeling it would be. From me. Just a chance. Must have been that
@@ -94,7 +94,7 @@
 <lb n="060093"/><said who="sid">―He might,</said> Mr Dedalus said, <said who="sid">if he hadn't that squint troubling him. <said who="ck" rend="none">Do
 <lb n="060094"/>you follow me?</said></said></p>
 <p><lb n="060095"/>He closed his left eye. Martin Cunningham began to brush away
-<lb n="060096"/><seg type="neologism">crustcrumbs</seg> from under his thighs.
+<lb n="060096"/><distinct type="nonstandard-compound">crustcrumbs</distinct> from under his thighs.
 <lb n="060097"/><said who="mc">―What is this,</said> he said, <said who="mc">in the name of God? Crumbs?</said>
 <lb n="060098"/><said who="jp">―Someone seems to have been making a picnic party here lately,</said> Mr Power
 <lb n="060099"/>said.</p>
@@ -167,18 +167,18 @@
 <lb n="060166"/><l>While his family weeps and mourns his loss</l>
 <lb n="060167"/><l>Hoping some day to meet him on high.</l></said></lg></q>
 <p><lb n="060168"/><said who="lb" aloud="false">I tore up the envelope? Yes. Where did I put her letter after I read it in
-<lb n="060169"/>the bath? He patted his <seg type="neologism">waistcoatpocket.</seg> There all right. Dear Henry fled.
+<lb n="060169"/>the bath? He patted his <distinct type="nonstandard-compound">waistcoatpocket<distinct type="nonstandard-compound">. There all right. Dear Henry fled.
 <lb n="060170"/>Before my patience are exhausted.</said></p>
 <p><lb n="060171"/><said who="lb" aloud="false">National school. Meade's yard. The hazard. Only two there now.
 <lb n="060172"/>Nodding. Full as a tick. Too much bone in their skulls. The other trotting
-<lb n="060173"/>round with a fare. An hour ago I was passing there. The jarvies raised their
+<lb n="060173"/>round with a fare. An hour ago I was passing there. The <distinct type="dialect">jarvies</distinct> raised their
 <lb n="060174"/>hats.</said></p>
 <p><lb n="060175"/>A pointsman's back straightened itself upright suddenly against a
 <lb n="060176"/>tramway standard by Mr Bloom's window. <said who="lb" aloud="false">Couldn't they invent something
 <lb n="060177"/>automatic so that the wheel itself much handier? Well but that fellow would
 <lb n="060178"/>lose his job then? Well but then another fellow would get a job making the
 <lb n="060179"/>new invention?</said></p>
-<p><lb n="060180"/><said who="lb" aloud="false">Antient concert rooms. Nothing on there. A man in a buff suit with a
+<p><lb n="060180"/><said who="lb" aloud="false"><distinct type="archaism">Antient</distinct> concert rooms. Nothing on there. A man in a buff suit with a
 <lb n="060181"/>crape armlet. Not much grief there. Quarter mourning. People in law
 <lb n="060182"/>perhaps.</said></p>
 <p><lb n="060183"/>They went past the bleak pulpit of saint Mark's, under the railway
@@ -194,7 +194,7 @@
 <lb n="060193"/>in salute.
 <lb n="060194"/><said who="jp">―He doesn't see us,</said> Mr Power said. <said who="jp">Yes, he does. How do you do?</said>
 <lb n="060195"/><said who="sid">―Who?</said> Mr Dedalus asked.
-<lb n="060196"/><said who="jp">―Blazes Boylan,</said> Mr Power said. <said who="jp">There he is airing his quiff.</said></p>
+<lb n="060196"/><said who="jp">―Blazes Boylan,</said> Mr Power said. <said who="jp">There he is airing his <distinct type="dialect">quiff</distinct>.</said></p>
 <p><lb n="060197"/><said who="lb" aloud="false">Just that moment I was thinking.</said></p>
 <p><lb n="060198"/>Mr Dedalus bent across to salute. From the door of the Red Bank the
 <lb n="060199"/>white disc of a straw hat flashed reply: <said who="lb" aloud="false">spruce figure: passed.</said></p>
@@ -220,14 +220,14 @@
 <lb n="060219"/><said who="mc">―Quite so,</said> Martin Cunningham said. <said who="mc">Mary Anderson is up there now.
 <lb n="060220"/>Have you good artists?</said>
 <lb n="060221"/><said who="lb">―Louis Werner is touring her,</said> Mr Bloom said. <said who="lb">O yes, we'll have all
-<lb n="060222"/>topnobbers. J. C. Doyle and John MacCormack I hope and. The best, in
+<lb n="060222"/><distinct type="dialect">topnobbers</distinct>. J. C. Doyle and John MacCormack I hope and. The best, in
 <lb n="060223"/>fact.</said>
 <lb n="060224"/><said who="jp">―And <foreign xml:lang="fr">madame</foreign>,</said> Mr Power said smiling. <said who="jp">Last but not least.</said></p>
 <p><lb n="060225"/>Mr Bloom unclasped his hands in a gesture of soft politeness and
 <lb n="060226"/>clasped them. <said who="lb" aloud="false">Smith O'Brien. Someone has laid a bunch of flowers there.
-<lb n="060227"/>Woman. Must be his deathday. For many happy returns. The carriage
+<lb n="060227"/>Woman. Must be his <distinct type="nonstandard-compound">deathday</distinct>. For many happy returns. The carriage
 <lb n="060228"/>wheeling by Farrell's statue united noiselessly their unresisting knees.</said></p>
-<p><lb n="060229"/><said who="lb" aloud="false">Oot:</said> a dullgarbed old man from the curbstone tendered his wares, his
+<p><lb n="060229"/><said who="lb" aloud="false">Oot:</said> a <distinct type="nonstandard-compound">dullgarbed</distinct> old man from the curbstone tendered his wares, his
 <lb n="060230"/>mouth opening: <said who="lb" aloud="false">oot.</said>
 <lb n="060231"/><said who="uom">―Four bootlaces for a penny.</said></p>
 <p><lb n="060232"/><said who="lb" aloud="false">Wonder why he was struck off the rolls. Had his office in Hume
@@ -238,19 +238,19 @@
 <p><lb n="060237"/><said who="lb" aloud="false">And <foreign xml:lang="fr">madame</foreign>. Twenty past eleven. Up. Mrs Fleming is in to clean.
 <lb n="060238"/>Doing her hair, humming. <foreign xml:lang="it">Voglio e non vorrei.</foreign> No. <foreign xml:lang="it">Vorrei e non.</foreign> Looking
 <lb n="060239"/>at the tips of her hairs to see if they are split. <foreign xml:lang="it">Mi trema un poco il.</foreign> Beautiful
-<lb n="060240"/>on that <foreign xml:lang="it">tre</foreign> her voice is: weeping tone. A thrush. A throstle. There is a word
-<lb n="060241"/>throstle that expresses that.</said></p>
-<p><lb n="060242"/>His eyes passed lightly over Mr Power's <seg type="neologism">goodlooking</seg> face. <said who="lb" aloud="false">Greyish
+<lb n="060240"/>on that <foreign xml:lang="it">tre</foreign> her voice is: weeping tone. A thrush. A <distinct type="archaism">throstle. There is a word
+<lb n="060241"/><distinct type="archaism">throstle</distinct> that expresses that.</said></p>
+<p><lb n="060242"/>His eyes passed lightly over Mr Power's <distinct type="nonstandard-compound">goodlooking</distinct> face. <said who="lb" aloud="false">Greyish
 <lb n="060243"/>over the ears. <foreign xml:lang="fr">Madame</foreign>: smiling. I smiled back. A smile goes a long way.
 <lb n="060244"/>Only politeness perhaps. Nice fellow. Who knows is that true about the
 <lb n="060245"/>woman he keeps? Not pleasant for the wife. Yet they say, who was it told
 <lb n="060246"/>me, there is no carnal. You would imagine that would get played out pretty
 <lb n="060247"/>quick. Yes, it was Crofton met him one evening bringing her a pound of
-<lb n="060248"/><seg type="neologism">rumpsteak.</seg> What is this she was? Barmaid in Jury's. Or the Moira, was it?</said></p>
-<p><lb n="060249"/>They passed under the <seg type="neologism">hugecloaked</seg> Liberator's form.</p>
+<lb n="060248"/><distinct type="nonstandard-compound">rumpsteak</distinct>. What is this she was? Barmaid in Jury's. Or the Moira, was it?</said></p>
+<p><lb n="060249"/>They passed under the <distinct type="nonstandard-compound">hugecloaked</distinct> Liberator's form.</p>
 <p><lb n="060250"/>Martin Cunningham nudged Mr Power.
 <lb n="060251"/><said who="mc">―Of the tribe of Reuben,</said> he said.</p>
-<p><lb n="060252"/>A tall <seg type="neologism">blackbearded</seg> figure, bent on a stick, stumping round the corner
+<p><lb n="060252"/>A tall <distinct type="nonstandard-compound">blackbearded</distinct> figure, bent on a stick, stumping round the corner
 <lb n="060253"/>of Elvery's Elephant house, showed them a curved hand open on his spine.
 <lb n="060254"/><said who="jp">―In all his pristine beauty,</said> Mr Power said.</p>
 <p><lb n="060255"/>Mr Dedalus looked after the stumping figure and said mildly:
@@ -289,7 +289,7 @@
 <p><lb n="060288"/>A stifled sigh came from under Mr Power's hand.
 <lb n="060289"/><said who="mc">―O, he did,</said> Martin Cunningham affirmed. <said who="mc">Like a hero. A silver florin.</said>
 <lb n="060290"/><said who="lb">―Isn't it awfully good?</said> Mr Bloom said eagerly.
-<lb n="060291"/><said who="sid">―One and eightpence too much,</said> Mr Dedalus said drily.</p>
+<lb n="060291"/><said who="sid">―One and <distinct type="nonstandard-compound">eightpence</distinct> too much,</said> Mr Dedalus said drily.</p>
 <p><lb n="060292"/>Mr Power's choked laugh burst quietly in the carriage.</p>
 <p><lb n="060293"/>Nelson's pillar.
 <lb n="060294"/><said who="uplum">―Eight plums a penny! Eight for a penny!</said>
@@ -305,19 +305,19 @@
 <lb n="060304"/>suddenly.</said>
 <lb n="060305"/><said who="mc">―Breakdown,</said> Martin Cunningham said. <said who="mc">Heart.</said></p>
 <p><lb n="060306"/>He tapped his chest sadly.</p>
-<p><lb n="060307"/><said who="lb" aloud="false">Blazing face: <seg type="neologism">redhot.</seg> Too much John Barleycorn. Cure for a red
+<p><lb n="060307"/><said who="lb" aloud="false">Blazing face: <distinct type="compound">redhot</distinct>. Too much John Barleycorn. Cure for a red
 <lb n="060308"/>nose. Drink like the devil till it turns adelite. A lot of money he spent
 <lb n="060309"/>colouring it.</said></p>
 <p><lb n="060310"/>Mr Power gazed at the passing houses with rueful apprehension.
 <lb n="060311"/><said who="jp">―He had a sudden death, poor fellow,</said> he said.
 <lb n="060312"/><said who="lb">―The best death,</said> Mr Bloom said.</p>
-<p><lb n="060313"/>Their wideopen eyes looked at him.
+<p><lb n="060313"/>Their <distinct type="nonstandard-compound">wideopen</distinct> eyes looked at him.
 <lb n="060314"/><said who="lb">―No suffering,</said> he said. <said who="lb">A moment and all is over. Like dying in sleep.</said></p>
 <p><lb n="060315"/>No-one spoke.</p>
 <p><lb n="060316"/><said who="lb" aloud="false">Dead side of the street this. Dull business by day, land agents,
 <lb n="060317"/>temperance hotel, Falconer's railway guide, civil service college, Gill's,
 <lb n="060318"/>catholic club, the industrious blind. Why? Some reason. Sun or wind. At
-<lb n="060319"/>night too. Chummies and slaveys. Under the patronage of the late Father
+<lb n="060319"/>night too. Chummies and <distinct type="nonstandard-compound">slaveys</distinct>. Under the patronage of the late Father
 <lb n="060320"/>Mathew. Foundation stone for Parnell. Breakdown. Heart.</said></p>
 <p><lb n="060321"/>White horses with white frontlet plumes came round the Rotunda
 <lb n="060322"/>corner, galloping. A tiny coffin flashed by. <said who="lb" aloud="false">In a hurry to bury. A mourning
@@ -325,7 +325,7 @@
 <lb n="060324"/>nun.</said>
 <lb n="060325"/><said who="mc">―Sad,</said> Martin Cunningham said. <said who="mc">A child.</said></p>
 <p><lb n="060326"/><said who="lb" aloud="false">A dwarf's face, mauve and wrinkled like little Rudy's was. Dwarf's
-<lb n="060327"/>body, weak as putty, in a <seg type=neologism">whitelined</seg> deal box. Burial friendly society pays.
+<lb n="060327"/>body, weak as putty, in a <distinct type="nonstandard-compound">whitelined</distinct> deal box. Burial friendly society pays.
 <lb n="060328"/>Penny a week for a sod of turf. Our. Little. Beggar. Baby. Meant nothing.
 <lb n="060329"/>Mistake of nature. If it's healthy it's from the mother. If not from the man.
 <lb n="060330"/>Better luck next time.</said>
@@ -357,7 +357,7 @@
 <lb n="060356"/><l>Of Asia,</l>
 <lb n="060357"/><l>The geisha.</l></said></lg></quote>
 <p><lb n="060358"/><said who="lb" aloud="false">He looked away from me. He knows. Rattle his bones.</said></p>
-<p><lb n="060359"/><said who="lb" aloud="false">That afternoon of the inquest. The <seg type="neologism">redlabelled</seg> bottle on the table. The
+<p><lb n="060359"/><said who="lb" aloud="false">That afternoon of the inquest. The <distinct type="nonstandard-compound">redlabelled</distinct> bottle on the table. The
 <lb n="060360"/>room in the hotel with hunting pictures. Stuffy it was. Sunlight through the
 <lb n="060361"/>slats of the Venetian blind. The coroner's sunlit ears, big and hairy. Boots
 <lb n="060362"/>giving evidence. Thought he was asleep first. Then saw like yellow streaks
@@ -370,13 +370,13 @@
 <lb n="060369"/><said who="mc">―I hope not,</said> Martin Cunningham said. <said who="mc">That will be a great race tomorrow
 <lb n="060370"/>in Germany. The Gordon Bennett.</said>
 <lb n="060371"/><said who="sid">―Yes, by Jove,</said> Mr Dedalus said. <said who="sid">That will be worth seeing, faith.</said></p>
-<p><lb n="060372"/>As they turned into Berkeley street a <seg type="neologism">streetorgan</seg> near the Basin sent
+<p><lb n="060372"/>As they turned into Berkeley street a <distinct type="nonstandard-compound">streetorgan</distinct> near the Basin sent
 <lb n="060373"/>over and after them a rollicking rattling song of the halls. <said who="lb" aloud="false">Has anybody
 <lb n="060374"/>here seen Kelly? Kay ee double ell wy. Dead March from <title type="oratorio">Saul</title>. He's as bad
 <lb n="060375"/>as old Antonio. He left me on my ownio. Pirouette! The <foreign xml:lang="la">Mater
 <lb n="060376"/>Misericordiae</foreign>. Eccles street. My house down there. Big place. Ward for
 <lb n="060377"/>incurables there. Very encouraging. Our Lady's Hospice for the dying.
-<lb n="060378"/><seg type="neologism">Deadhouse</seg> handy underneath. Where old Mrs Riordan died. They look
+<lb n="060378"/><distinct type="nonstandard-compound">Deadhouse</distinct> handy underneath. Where old Mrs Riordan died. They look
 <lb n="060379"/>terrible the women. Her feeding cup and rubbing her mouth with the
 <lb n="060380"/>spoon. Then the screen round her bed for her to die. Nice young student
 <lb n="060381"/>that was dressed that bite the bee gave me. He's gone over to the lying-in
@@ -391,15 +391,15 @@
 <lb n="060390"/><said who="ud">―Huuuh!</said> the drover's voice cried, his switch sounding on their flanks.
 <lb n="060391"/><said who="ud">Huuuh! out of that!</said></p>
 <p><lb n="060392"/><said who="lb" aloud="false">Thursday, of course. Tomorrow is killing day. Springers. Cuffe sold
-<lb n="060393"/>them about <seg type="neologism">twentyseven</seg> quid each. For Liverpool probably. Roastbeef for
+<lb n="060393"/>them about <distinct type="compound">twentyseven</distinct> quid each. For Liverpool probably. <distinct type="nonstandard-compound">Roastbeef</distinct> for
 <lb n="060394"/>old England. They buy up all the juicy ones. And then the fifth quarter lost:
 <lb n="060395"/>all that raw stuff, hide, hair, horns. Comes to a big thing in a year. Dead
 <lb n="060396"/>meat trade. Byproducts of the slaughterhouses for tanneries, soap,
-<lb n="060397"/>margarine. Wonder if that dodge works now getting dicky meat off the
+<lb n="060397"/>margarine. Wonder if that dodge works now getting <distinct type="archaism">dicky</distinct> meat off the
 <lb n="060398"/>train at Clonsilla.</said></p>
 <p><lb n="060399"/>The carriage moved on through the drove.
 <lb n="060400"/><said who="lb">―I can't make out why the corporation doesn't run a tramline from the
-<lb n="060401"/>parkgate to the quays,</said> Mr Bloom said. <said who="lb">All those animals could be taken in
+<lb n="060401"/><distinct type="nonstandard-compound">parkgate</distinct> to the quays,</said> Mr Bloom said. <said who="lb">All those animals could be taken in
 <lb n="060402"/>trucks down to the boats.</said>
 <lb n="060403"/><said who="mc">―Instead of blocking up the thoroughfare,</said> Martin Cunningham said. <said who="mc">Quite
 <lb n="060404"/>right. They ought to.</said>
@@ -408,7 +408,7 @@
 <lb n="060407"/>to the cemetery gates and have special trams, hearse and carriage and all.
 <lb n="060408"/>Don't you see what I mean?</said>
 <lb n="060409"/><said who="sid">―O, that be damned for a story,</said> Mr Dedalus said. <said who="sid">Pullman car and saloon
-<lb n="060410"/>diningroom.</said>
+<lb n="060410"/><distinct type="nonstandard-compound">diningroom</distinct>.</said>
 <lb n="060411"/><said who="jp">―A poor lookout for Corny,</said> Mr Power added.
 <lb n="060412"/><said who="lb">―Why?</said> Mr Bloom asked, turning to Mr Dedalus. <said who="lb">Wouldn't it be more
 <lb n="060413"/>decent than galloping two abreast?</said>
@@ -439,10 +439,10 @@
 <p><lb n="060438"/><said who="lb" aloud="false">Crossguns bridge: the royal canal.</said></p>
 <p><lb n="060439"/>Water rushed roaring through the sluices. A man stood on his
 <lb n="060440"/>dropping barge, between clamps of turf. On the towpath by the lock a
-<lb n="060441"/><seg type="neologism">slacktethered</seg> horse. <said who="lb" aloud="false">Aboard of the <name type="ship">Bugabu</name>.</said></p>
+<lb n="060441"/><distinct type="nonstandard-compound">slacktethered</distinct> horse. <said who="lb" aloud="false">Aboard of the <name type="ship">Bugabu</name>.</said></p>
 <p><lb n="060442"/>Their eyes watched him. On the slow weedy waterway he had floated
 <lb n="060443"/>on his raft coastward over Ireland drawn by a haulage rope past beds of
-<lb n="060444"/>reeds, over slime, <seg type="neologism">mudchoked</seg> bottles, carrion dogs. <said who="lb" aloud="false">Athlone, Mullingar,
+<lb n="060444"/>reeds, over slime, <distinct type="nonstandard-compound">mudchoked</distinct> bottles, carrion dogs. <said who="lb" aloud="false">Athlone, Mullingar,
 <lb n="060445"/>Moyvalley, I could make a walking tour to see Milly by the canal. Or cycle
 <lb n="060446"/>down. Hire some old crock, safety. Wren had one the other day at the
 <lb n="060447"/>auction but a lady's. Developing waterways. James M'Cann's hobby to row
@@ -463,7 +463,7 @@
 <lb n="060462"/>The best obtainable. Thos. H. Dennany, monumental builder and sculptor.</said></p>
 <p><lb n="060463"/><said who="lb" aloud="false">Passed.</said></p>
 <p><lb n="060464"/>On the curbstone before Jimmy Geary, the sexton's, an old tramp sat,
-<lb n="060465"/>grumbling, emptying the dirt and stones out of his huge <seg type="neologism">dustbrown</seg>
+<lb n="060465"/>grumbling, emptying the dirt and stones out of his huge <distinct type="nonstandard-compound">dustbrown</distinct>
 <lb n="060466"/>yawning boot. <said who="lb" aloud="false">After life's journey.</said></p>
 <p><lb n="060467"/>Gloomy gardens then went by: <said who="lb" aloud="false">one by one: gloomy houses.</said></p>
 <p><lb n="060468"/>Mr Power pointed.
@@ -472,7 +472,7 @@
 <lb n="060471"/>Murdered his brother. Or so they said.</said>
 <lb n="060472"/><said who="jp">―The crown had no evidence,</said> Mr Power said.
 <lb n="060473"/><said who="mc">―Only circumstantial,</said> Martin Cunningham added. <said who="mc">That's the maxim of
-<lb n="060474"/>the law. Better for ninetynine guilty to escape than for one innocent person
+<lb n="060474"/>the law. Better for <distinct type="compound">ninetynine</distinct> guilty to escape than for one innocent person
 <lb n="060475"/>to be wrongfully condemned.</said></p>
 <p><lb n="060476"/>They looked. <said who="lb" aloud="false">Murderer's ground. It passed darkly. Shuttered,
 <lb n="060477"/>tenantless, unweeded garden. Whole place gone to hell. Wrongfully
@@ -488,18 +488,18 @@
 <lb n="060487"/>rare white forms. Forms more frequent, white shapes thronged amid the
 <lb n="060488"/>trees, white forms and fragments streaming by mutely, sustaining vain
 <lb n="060489"/>gestures on the air.</p>
-<p><lb n="060490"/>The felly harshed against the curbstone: <said who="lb" aloud="false">stopped.</said> Martin
+<p><lb n="060490"/>The <distinct type="dialect">felly</distinct> harshed against the curbstone: <said who="lb" aloud="false">stopped.</said> Martin
 <lb n="060491"/>Cunningham put out his arm and, wrenching back the handle, shoved the
 <lb n="060492"/>door open with his knee. He stepped out. Mr Power and Mr Dedalus
 <lb n="060493"/>followed.</p>
 <p><lb n="060494"/><said who="lb" aloud="false">Change that soap now.</said> Mr Bloom's hand unbuttoned his hip pocket
-<lb n="060495"/>swiftly and transferred the paperstuck soap to his inner handkerchief
+<lb n="060495"/>swiftly and transferred the <distinct type="nonstandard-compound">paperstuck</distinct> soap to his inner handkerchief
 <lb n="060496"/>pocket. He stepped out of the carriage, replacing the newspaper his other
 <lb n="060497"/>hand still held.</p>
 <p><lb n="060498"/><said who="lb" aloud="false">Paltry funeral: coach and three carriages. It's all the same.
 <lb n="060499"/>Pallbearers, gold reins, requiem mass, firing a volley. Pomp of death.
 <lb n="060500"/>Beyond the hind carriage a hawker stood by his barrow of cakes and fruit.
-<lb n="060501"/>Simnel cakes those are, stuck together: cakes for the dead. Dogbiscuits.
+<lb n="060501"/>Simnel cakes those are, stuck together: cakes for the dead. <distinct type="nonstandard-compound">Dogbiscuits</distinct>.
 <lb n="060502"/>Who ate them? Mourners coming out.</said></p>
 <p><lb n="060503"/>He followed his companions. Mr Kernan and Ned Lambert followed,
 <lb n="060504"/>Hynes walking after them. Corny Kelleher stood by the opened hearse and
@@ -509,13 +509,13 @@
 <lb n="060508"/>dragging through the funereal silence a creaking waggon on which lay a
 <lb n="060509"/>granite block. The waggoner marching at their head saluted. <said who="lb" aloud="false">Coffin now.
 <lb n="060510"/>Got here before us, dead as he is. Horse looking round at it with his plume
-<lb n="060511"/>skeowways. Dull eye: collar tight on his neck, pressing on a bloodvessel or
+<lb n="060511"/><distinct type="Joycean">skeowways</distinct>. Dull eye: collar tight on his neck, pressing on a <distinct type="nonstandard-compound">bloodvessel</distinct> or
 <lb n="060512"/>something. Do they know what they cart out here every day? Must be
 <lb n="060513"/>twenty or thirty funerals every day. Then Mount Jerome for the
 <lb n="060514"/>protestants. Funerals all over the world everywhere every minute.
-<lb n="060515"/>Shovelling them under by the cartload doublequick. Thousands every hour.
+<lb n="060515"/>Shovelling them under by the cartload <distinct type="nonstandard-compound">doublequick</distinct>. Thousands every hour.
 <lb n="060516"/>Too many in the world.</said></p>
-<p><lb n="060517"/>Mourners came out through the gates: <said who="lb" aloud="false">woman and a girl. Leanjawed
+<p><lb n="060517"/>Mourners came out through the gates: <said who="lb" aloud="false">woman and a girl. <distinct type="nonstandard-compound">Leanjawed</distinct>
 <lb n="060518"/>harpy, hard woman at a bargain, her bonnet awry. Girl's face stained with
 <lb n="060519"/>dirt and tears, holding the woman's arm, looking up at her for a sign to cry.
 <lb n="060520"/>Fish's face, bloodless and livid.</said></p>
@@ -548,7 +548,7 @@
 <lb n="060547"/>world. Condole with her. Your terrible loss. I hope you'll soon follow him.
 <lb n="060548"/>For Hindu widows only. She would marry another. Him? No. Yet who
 <lb n="060549"/>knows after. Widowhood not the thing since the old queen died. Drawn on
-<lb n="060550"/>a <seg type="neologism">guncarriage.</seg> Victoria and Albert. Frogmore memorial mourning. But in
+<lb n="060550"/>a <distinct type="nonstandard-compound">guncarriage</distinct>. Victoria and Albert. Frogmore memorial mourning. But in
 <lb n="060551"/>the end she put a few violets in her bonnet. Vain in her heart of hearts. All
 <lb n="060552"/>for a shadow. Consort not even a king. Her son was the substance.
 <lb n="060553"/>Something new to hope for not like the past she wanted back, waiting. It
@@ -558,7 +558,7 @@
 <lb n="060557"/>seen you for a month of Sundays.</said>
 <lb n="060558"/><said who="sid">―Never better. How are all in Cork's own town?</said>
 <lb n="060559"/><said who="nl">―I was down there for the Cork park races on Easter Monday,</said> Ned
-<lb n="060560"/>Lambert said. <said who="nl">Same old six and eightpence. Stopped with Dick Tivy.</said>
+<lb n="060560"/>Lambert said. <said who="nl">Same old six and <distinct type="nonstandard-compound">eightpence</distinct>. Stopped with Dick Tivy.</said>
 <lb n="060561"/><said who="sid">―And how is Dick, the solid man?</said>
 <lb n="060562"/><said who="nl">―Nothing between himself and heaven,</said> Ned Lambert answered.
 <lb n="060563"/><said who="sid">―By the holy Paul!</said> Mr Dedalus said in subdued wonder. <said who="sid">Dick Tivy bald?</said>
@@ -573,8 +573,8 @@
 <lb n="060572"/><said who="nl">―How did he lose it?</said> Ned Lambert asked. <said who="nl">Liquor, what?</said>
 <lb n="060573"/><said who="sid">―Many a good man's fault,</said> Mr Dedalus said with a sigh.</p>
 <p><lb n="060574"/>They halted about the door of the mortuary chapel. Mr Bloom stood
-<lb n="060575"/>behind the boy with the wreath looking down at his sleekcombed hair and
-<lb n="060576"/>at the slender furrowed neck inside his brandnew collar. <said who="lb" aloud="false">Poor boy! Was he
+<lb n="060575"/>behind the boy with the wreath looking down at his <distinct type="nonstandard-compound">sleekcombed</distinct> hair and
+<lb n="060576"/>at the slender furrowed neck inside his <distinct type="compound">brandnew</distinct> collar. <said who="lb" aloud="false">Poor boy! Was he
 <lb n="060577"/>there when the father? Both unconscious. Lighten up at the last moment
 <lb n="060578"/>and recognise for the last time. All he might have done. I owe three shillings
 <lb n="060579"/>to O'Grady. Would he understand? The mutes bore the coffin into the
@@ -583,17 +583,17 @@
 <lb n="060582"/>light. The coffin lay on its bier before the chancel, four tall yellow candles at
 <lb n="060583"/>its corners. <said who="lb" aloud="false">Always in front of us.</said> Corny Kelleher, laying a wreath at each
 <lb n="060584"/>fore corner, beckoned to the boy to kneel. The mourners knelt here and
-<lb n="060585"/>there in prayingdesks. Mr Bloom stood behind near the font and, when all
+<lb n="060585"/>there in <distinct type="nonstandard-compound">prayingdesks</distinct>. Mr Bloom stood behind near the font and, when all
 <lb n="060586"/>had knelt, dropped carefully his unfolded newspaper from his pocket and
 <lb n="060587"/>knelt his right knee upon it. He fitted his black hat gently on his left knee
 <lb n="060588"/>and, holding its brim, bent over piously.</p>
 <p><lb n="060589"/>A server bearing a brass bucket with something in it came out through
-<lb n="060590"/>a door. The <seg type="neologism">whitesmocked</seg> priest came after him, tidying his stole with one
+<lb n="060590"/>a door. The <distinct type="nonstandard-compound">whitesmocked</distinct> priest came after him, tidying his stole with one
 <lb n="060591"/>hand, balancing with the other a little book against his toad's belly. <said who="lb" aloud="false">Who'll
 <lb n="060592"/>read the book? I, said the rook.</said></p>
 <p><lb n="060593"/>They halted by the bier and the priest began to read out of his book
 <lb n="060594"/>with a fluent croak.</p>
-<p><lb n="060595"/><said who="lb" aloud="false">Father Coffey. I knew his name was like a coffin. Dominenamine.
+<p><lb n="060595"/><said who="lb" aloud="false">Father Coffey. I knew his name was like a coffin. <distinct type="Joycean">Dominenamine</distinct>.
 <lb n="060596"/>Bully about the muzzle he looks. Bosses the show. Muscular christian. Woe
 <lb n="060597"/>betide anyone that looks crooked at him: priest. Thou art Peter. Burst
 <lb n="060598"/>sideways like a sheep in clover Dedalus says he will. With a belly on him
@@ -601,7 +601,7 @@
 <lb n="060600"/>sideways.</said>
 <lb n="060601"/><said who="frc">―<foreign xml:lang="la">Non intres in judicium cum servo tuo, Domine.</foreign></said></p>
 <p><lb n="060602"/><said who="lb" aloud="false">Makes them feel more important to be prayed over in Latin. Requiem
-<lb n="060603"/>mass. Crape weepers. <seg type="neologism">Blackedged</seg> notepaper. Your name on the <seg type="neologism">altarlist.</seg>
+<lb n="060603"/>mass. Crape weepers. <distinct type="nonstandard-compound">Blackedged</distinct> notepaper. Your name on the <distinct type="nonstandard-compound">altarlist</distinct>.
 <lb n="060604"/>Chilly place this. Want to feed well, sitting in there all the morning in the
 <lb n="060605"/>gloom kicking his heels waiting for the next please. Eyes of a toad too.
 <lb n="060606"/>What swells him up that way? Molly gets swelled after cabbage. Air of the
@@ -610,7 +610,7 @@
 <lb n="060609"/>was telling me? Mervyn Browne. Down in the vaults of saint Werburgh's
 <lb n="060610"/>lovely old organ hundred and fifty they have to bore a hole in the coffins
 <lb n="060611"/>sometimes to let out the bad gas and burn it. Out it rushes: blue. One whiff
-<lb n="060612"/>of that and you're a doner.</said></p>
+<lb n="060612"/>of that and you're a <distinct type="dialect">doner</distinct>.</said></p>
 <p><lb n="060613"/><said who="lb" aloud="false">My kneecap is hurting me. Ow. That's better.</said></p>
 <p><lb n="060614"/>The priest took a stick with a knob at the end of it out of the boy's
 <lb n="060615"/>bucket and shook it over the coffin. Then he walked to the other end and
@@ -622,7 +622,7 @@
 <p><lb n="060621"/><said who="lb" aloud="false">Holy water that was, I expect. Shaking sleep out of it. He must be fed
 <lb n="060622"/>up with that job, shaking that thing over all the corpses they trot up. What
 <lb n="060623"/>harm if he could see what he was shaking it over. Every mortal day a fresh
-<lb n="060624"/>batch: middleaged men, old women, children, women dead in childbirth,
+<lb n="060624"/>batch: <distinct type="compound">middleaged</distinct> men, old women, children, women dead in childbirth,
 <lb n="060625"/>men with beards, baldheaded businessmen, consumptive girls with little
 <lb n="060626"/>sparrows' breasts. All the year round he prayed the same thing over them
 <lb n="060627"/>all and shook water on top of them: sleep. On Dignam now.</said>
@@ -630,12 +630,12 @@
 <p><lb n="060629"/><said who="lb" aloud="false">Said he was going to paradise or is in paradise. Says that over
 <lb n="060630"/>everybody. Tiresome kind of a job. But he has to say something.</said></p>
 <p><lb n="060631"/>The priest closed his book and went off, followed by the server.
-<lb n="060632"/>Corny Kelleher opened the sidedoors and the gravediggers came in, hoisted
+<lb n="060632"/>Corny Kelleher opened the <distinct type="nonstandard-compound">sidedoors</distinct> and the gravediggers came in, hoisted
 <lb n="060633"/>the coffin again, carried it out and shoved it on their cart. Corny Kelleher
 <lb n="060634"/>gave one wreath to the boy and one to the brother-in-law. All followed
-<lb n="060635"/>them out of the sidedoors into the mild grey air. Mr Bloom came last
+<lb n="060635"/>them out of the <distinct type="nonstandard-compound">sidedoors</distinct> into the mild grey air. Mr Bloom came last
 <lb n="060636"/>folding his paper again into his pocket. He gazed gravely at the ground till
-<lb n="060637"/>the coffincart wheeled off to the left. The metal wheels ground the gravel
+<lb n="060637"/>the <distinct type="nonstandard-compound">coffincart</distinct> wheeled off to the left. The metal wheels ground the gravel
 <lb n="060638"/>with a sharp grating cry and the pack of blunt boots followed the trundled
 <lb n="060639"/>barrow along a lane of sepulchres.</p>
 <p><lb n="060640"/><said who="lb" aloud="false">The ree the ra the ree the ra the roo. Lord, I mustn't lilt here.</said>
@@ -660,7 +660,7 @@
 <lb n="060659"/><said who="tk">―The reverend gentleman read the service too quickly, don't you think?</said> Mr
 <lb n="060660"/>Kernan said with reproof.</p>
 <p><lb n="060661"/>Mr Bloom nodded gravely looking in the quick bloodshot eyes. <said who="lb" aloud="false">Secret
-<lb n="060662"/>eyes, <seg type="neologism">secretsearching.</seg> Mason, I think: not sure. Beside him again. We are
+<lb n="060662"/>eyes, <distinct type="nonstandard-compound">secretsearching</distinct>. Mason, I think: not sure. Beside him again. We are
 <lb n="060663"/>the last. In the same boat. Hope he'll say something else.</said></p>
 <p><lb n="060664"/>Mr Kernan added:
 <lb n="060665"/><said who="tk">―The service of the Irish church used in Mount Jerome is simpler, more
@@ -694,14 +694,14 @@
 <lb n="060693"/><said who="nl">―Bloom,</said> he said, <said who="nl">Madame Marion Tweedy that was, is, I mean, the
 <lb n="060694"/>soprano. She's his wife.</said>
 <lb n="060695"/><said who="jhm">―O, to be sure,</said> John Henry Menton said. <said who="jhm">I haven't seen her for some time.
-<lb n="060696"/>She was a finelooking woman. I danced with her, wait, fifteen seventeen
+<lb n="060696"/>She was a <distinct type="nonstandard-compound">finelooking</distinct> woman. I danced with her, wait, fifteen seventeen
 <lb n="060697"/>golden years ago, at Mat Dillon's in Roundtown. And a good armful she
 <lb n="060698"/>was.</said></p>
 <p><lb n="060699"/>He looked behind through the others.
 <lb n="060700"/><said who="jhm">―What is he?</said> he asked. <said who="jhm">What does he do? Wasn't he in the stationery line?
 <lb n="060701"/>I fell foul of him one evening, I remember, at bowls.</said></p>
 <p><lb n="060702"/>Ned Lambert smiled.
-<lb n="060703"/><said who="nl">―Yes, he was,</said> he said, <said who="nl">in Wisdom Hely's. A traveller for blottingpaper.</said>
+<lb n="060703"/><said who="nl">―Yes, he was,</said> he said, <said who="nl">in Wisdom Hely's. A traveller for <distinct type="nonstandard-compound">blottingpaper</distinct>.</said>
 <lb n="060704"/><said who="jhm">―In God's name,</said> John Henry Menton said, <said who="jhm">what did she marry a coon like
 <lb n="060705"/>that for? She had plenty of game in her then.</said>
 <lb n="060706"/><said who="nl">―Has still,</said> Ned Lambert said. <said who="nl">He does some canvassing for ads.</said></p>
@@ -718,7 +718,7 @@
 <lb n="060717"/><said who="joc">―Did you hear that one,</said> he asked them, <said who="joc">about Mulcahy from the Coombe?</said>
 <lb n="060718"/><said who="mc">―I did not,</said> Martin Cunningham said.</p>
 <p><lb n="060719"/>They bent their silk hats in concert and Hynes inclined his ear. The
-<lb n="060720"/>caretaker hung his thumbs in the loops of his gold <seg type="neologism">watchchain</seg> and spoke in
+<lb n="060720"/>caretaker hung his thumbs in the loops of his gold <distinct type="nonstandard-compound">watchchain</distinct> and spoke in
 <lb n="060721"/>a discreet tone to their vacant smiles.
 <lb n="060722"/><said who="joc">―They tell the story,</said> he said, <said who="joc">that two drunks came out here one foggy
 <lb n="060723"/>evening to look for the grave of a friend of theirs. They asked for Mulcahy
@@ -739,7 +739,7 @@
 <lb n="060738"/>heartedness: damn the thing else.</said></p>
 <p><lb n="060739"/>Mr Bloom admired the caretaker's prosperous bulk. <said who="lb" aloud="false">All want to be on
 <lb n="060740"/>good terms with him. Decent fellow, John O'Connell, real good sort. Keys:
-<lb n="060741"/>like Keyes's ad: no fear of anyone getting out. No passout checks. <foreign xml:lang="la">Habeas
+<lb n="060741"/>like Keyes's ad: no fear of anyone getting out. No <distinct type="nonstandard-compound">passout</distinct> checks. <foreign xml:lang="la">Habeas
 <lb n="060742"/>corpus.</foreign> I must see about that ad after the funeral. Did I write Ballsbridge on
 <lb n="060743"/>the envelope I took to cover when she disturbed me writing to Martha?
 <lb n="060744"/>Hope it's not chucked in the dead letter office. Be the better of a shave. Grey
@@ -753,13 +753,13 @@
 <lb n="060752"/>man great catholic all the same like a big giant in the dark. Will o' the wisp.
 <lb n="060753"/>Gas of graves. Want to keep her mind off it to conceive at all. Women
 <lb n="060754"/>especially are so touchy. Tell her a ghost story in bed to make her sleep.
-<lb n="060755"/>Have you ever seen a ghost? Well, I have. It was a <seg type="neologism">pitchdark</seg> night. The
+<lb n="060755"/>Have you ever seen a ghost? Well, I have. It was a <distinct type="compound">pitchdark</distinct> night. The
 <lb n="060756"/>clock was on the stroke of twelve. Still they'd kiss all right if properly keyed
 <lb n="060757"/>up. Whores in Turkish graveyards. Learn anything if taken young. You
 <lb n="060758"/>might pick up a young widow here. Men like that. Love among the
 <lb n="060759"/>tombstones. Romeo. Spice of pleasure. In the midst of death we are in life.
 <lb n="060760"/>Both ends meet. Tantalising for the poor dead. Smell of grilled beefsteaks to
-<lb n="060761"/>the starving. Gnawing their vitals. Desire to grig people. Molly wanting to
+<lb n="060761"/>the starving. Gnawing their vitals. Desire to <distinct type="dialect">grig</distinct> people. Molly wanting to
 <lb n="060762"/>do it at the window. Eight children he has anyway.</said></p>
 <p><lb n="060763"/><said who="lb" aloud="false">He has seen a fair share go under in his time, lying around him field
 <lb n="060764"/>after field. Holy fields. More room if they buried them standing. Sitting or
@@ -774,11 +774,11 @@
 <lb n="060773"/>gentleman, epicure, invaluable for fruit garden. A bargain. By carcass of
 <lb n="060774"/>William Wilkinson, auditor and accountant, lately deceased, three pounds
 <lb n="060775"/>thirteen and six. With thanks.</said></p>
-<p><lb n="060776"/><said who="lb" aloud="false">I daresay the soil would be quite fat with <seg type="neologism">corpsemanure,</seg> bones, flesh,
-<lb n="060777"/>nails. <seg type="neologism">Charnelhouses.</seg> Dreadful. Turning green and pink decomposing. Rot
+<p><lb n="060776"/><said who="lb" aloud="false">I daresay the soil would be quite fat with <distinct type="nonstandard-compound">corpsemanure</distinct>, bones, flesh,
+<lb n="060777"/>nails. <distinct type="nonstandard-compound">Charnelhouses</distinct>. Dreadful. Turning green and pink decomposing. Rot
 <lb n="060778"/>quick in damp earth. The lean old ones tougher. Then a kind of a tallowy
 <lb n="060779"/>kind of a cheesy. Then begin to get black, black treacle oozing out of them.
-<lb n="060780"/>Then dried up. <seg type="neologism">Deathmoths.</seg> Of course the cells or whatever they are go on
+<lb n="060780"/>Then dried up. <distinct type="nonstandard-compound">Deathmoths</distinct>. Of course the cells or whatever they are go on
 <lb n="060781"/>living. Changing about. Live for ever practically. Nothing to feed on feed
 <lb n="060782"/>on themselves.</said></p>
 <p><lb n="060783"/><said who="lb" aloud="false">But they must breed a devil of a lot of maggots. Soil must be simply
@@ -803,7 +803,7 @@
 <lb n="060802"/>on the brink, looping the bands round it.</p>
 <p><lb n="060803"/><said who="lb" aloud="false">Burying him. We come to bury Caesar. His ides of March or June.
 <lb n="060804"/>He doesn't know who is here nor care.</said></p>
-<p><lb n="060805"/><said who="lb" aloud="false">Now who is that <seg type="neologism">lankylooking</seg> galoot over there in the macintosh?
+<p><lb n="060805"/><said who="lb" aloud="false">Now who is that <distinct type="nonstandard-compound">lankylooking</distinct> galoot over there in the macintosh?
 <lb n="060806"/>Now who is he I'd like to know? Now I'd give a trifle to know who he is.
 <lb n="060807"/>Always someone turns up you never dreamt of. A fellow could live on his
 <lb n="060808"/>lonesome all his life. Yes, he could. Still he'd have to get someone to sod him
@@ -818,7 +818,7 @@
 <lb n="060817"/>invent a handsome bier with a kind of panel sliding, let it down that way.
 <lb n="060818"/>Ay but they might object to be buried out of another fellow's. They're so
 <lb n="060819"/>particular. Lay me in my native earth. Bit of clay from the holy land. Only a
-<lb n="060820"/>mother and deadborn child ever buried in the one coffin. I see what it
+<lb n="060820"/>mother and <distinct type="nonstandard-compound">deadborn</distinct> child ever buried in the one coffin. I see what it
 <lb n="060821"/>means. I see. To protect him as long as possible even in the earth. The
 <lb n="060822"/>Irishman's house is his coffin. Embalming in catacombs, mummies the same
 <lb n="060823"/>idea.</said></p>
@@ -832,19 +832,19 @@
 <lb n="060831"/>turned by Mesias. Hello. It's dyed. His wife I forgot he's not married or his
 <lb n="060832"/>landlady ought to have picked out those threads for him.</said></p>
 <p><lb n="060833"/>The coffin dived out of sight, eased down by the men straddled on the
-<lb n="060834"/><seg type="neologism">gravetrestles.</seg> They struggled up and out: <said who="lb" aloud="false">and all uncovered. Twenty.</said></p>
+<lb n="060834"/><distinct type="nonstandard-compound">gravetrestles</distinct>. They struggled up and out: <said who="lb" aloud="false">and all uncovered. Twenty.</said></p>
 <p><lb n="060835"/<said who="lb" aloud="false">>Pause.</said></p>
 <p><lb n="060836"/><said who="lb" aloud="false">If we were all suddenly somebody else.</said></p>
 <p><lb n="060837"/><said who="lb" aloud="false">Far away a donkey brayed. Rain. No such ass. Never see a dead one,
 <lb n="060838"/>they say. Shame of death. They hide. Also poor papa went away.</said></p>
 <p><lb n="060839"/>Gentle sweet air blew round the bared heads in a whisper. <said who="lb" aloud="false">Whisper.</said>
-<lb n="060840"/>The boy by the gravehead held his wreath with both hands staring quietly
+<lb n="060840"/>The boy by the <distinct type="nonstandard-compound">gravehead</distinct> held his wreath with both hands staring quietly
 <lb n="060841"/>in the black open space. Mr Bloom moved behind the portly kindly
-<lb n="060842"/>caretaker. <said who="lb" aloud="false"><seg type="neologism">Wellcut</seg> <seg type="neologism">frockcoat.</seg> Weighing them up perhaps to see which will
+<lb n="060842"/>caretaker. <said who="lb" aloud="false"><distinct type="compound">Wellcut</distinct> frockcoat. Weighing them up perhaps to see which will
 <lb n="060843"/>go next. Well, it is a long rest. Feel no more. It's the moment you feel. Must
 <lb n="060844"/>be damned unpleasant. Can't believe it at first. Mistake must be: someone
 <lb n="060845"/>else. Try the house opposite. Wait, I wanted to. I haven't yet. Then
-<lb n="060846"/>darkened <seg type="neologism">deathchamber.</seg> Light they want. Whispering around you. Would
+<lb n="060846"/>darkened <distinct type="nonstandard-compound">deathchamber</distinct>. Light they want. Whispering around you. Would
 <lb n="060847"/>you like to see a priest? Then rambling and wandering. Delirium all you hid
 <lb n="060848"/>all your life. The death struggle. His sleep is not natural. Press his lower
 <lb n="060849"/>eyelid. Watching is his nose pointed is his jaw sinking are the soles of his
@@ -856,7 +856,7 @@
 <lb n="060855"/>Even Parnell. Ivy day dying out. Then they follow: dropping into a hole,
 <lb n="060856"/>one after the other.</said></p>
 <p><lb n="060857"/><said who="lb" aloud="false">We are praying now for the repose of his soul. Hoping you're well
-<lb n="060858"/>and not in hell. Nice change of air. Out of the <seg type="neologism">fryingpan</seg> of life into the fire
+<lb n="060858"/>and not in hell. Nice change of air. Out of the <distinct type="nonstandard-compound">fryingpan</distinct> of life into the fire
 <lb n="060859"/>of purgatory.</said></p>
 <p><lb n="060860"/><said who="lb" aloud="false">Does he ever think of the hole waiting for himself? They say you do
 <lb n="060861"/>when you shiver in the sun. Someone walking over it. Callboy's warning.
@@ -867,7 +867,7 @@
 <lb n="060866"/>time? Whew! By jingo, that would be awful! No, no: he is dead, of course.
 <lb n="060867"/>Of course he is dead. Monday he died. They ought to have some law to
 <lb n="060868"/>pierce the heart and make sure or an electric clock or a telephone in the
-<lb n="060869"/>coffin and some kind of a canvas airhole. Flag of distress. Three days.
+<lb n="060869"/>coffin and some kind of a canvas <distinct type="nonstandard-compound">airhole<distinct>. Flag of distress. Three days.
 <lb n="060870"/>Rather long to keep them in summer. Just as well to get shut of them as
 <lb n="060871"/>soon as you are sure there's no.</said></p>
 <p><lb n="060872"/>The clay fell softer. <said who="lb" aloud="false">Begin to be forgotten. Out of sight, out of mind.</said></p>
@@ -885,7 +885,7 @@
 <lb n="060884"/><said who="jh">―Charley,</said> Hynes said writing. <said who="jh">I know. He was on the <title type="newspaper">Freeman</title> once.</said></p>
 <p><lb n="060885"/><said who="lb" aloud="false">So he was before he got the job in the morgue under Louis Byrne.
 <lb n="060886"/>Good idea a postmortem for doctors. Find out what they imagine they
-<lb n="060887"/>know. He died of a Tuesday. Got the run. Levanted with the cash of a few
+<lb n="060887"/>know. He died of a Tuesday. Got the run. <distinct type="archaism">Levanted</distinct> with the cash of a few
 <lb n="060888"/>ads. Charley, you're my darling. That was why he asked me to. O well,
 <lb n="060889"/>does no harm. I saw to that, M'Coy. Thanks, old chap: much obliged.
 <lb n="060890"/>Leave him under an obligation: costs nothing.</said>
@@ -911,8 +911,8 @@
 <lb n="060910"/>their caps and carried their earthy spades towards the barrow. Then
 <lb n="060911"/>knocked the blades lightly on the turf: <said who="lb" aloud="false">clean.</said> One bent to pluck from the
 <lb n="060912"/>haft a long tuft of grass. One, leaving his mates, walked slowly on with
-<lb n="060913"/>shouldered weapon, its blade <seg type="neologism">blueglancing.</seg> Silently at the gravehead
-<lb n="060914"/>another coiled the <seg type="neologism">coffinband.</seg> His <seg type="neologism">navelcord.</seg> The brother-in-law, turning
+<lb n="060913"/>shouldered weapon, its blade <distinct type="nonstandard-compound">blueglancing</distinct>. Silently at the <distinct type="nonstandard-compound">gravehead</distinct>
+<lb n="060914"/>another coiled the <distinct type="nonstandard-compound">coffinband</distinct>. His <distinct type="nonstandard-compound">navelcord</distinct>. The brother-in-law, turning
 <lb n="060915"/>away, placed something in his free hand. Thanks in silence. Sorry, sir:
 <lb n="060916"/>trouble. Headshake. I know that. For yourselves just.</said></p>
 <p><lb n="060917"/>The mourners moved away slowly without aim, by devious paths,
@@ -930,28 +930,28 @@
 <lb n="060929"/>crosses, broken pillars, family vaults, stone hopes praying with upcast eyes,
 <lb n="060930"/>old Ireland's hearts and hands. <said who="lb" aloud="false">More sensible to spend the money on some
 <lb n="060931"/>charity for the living. Pray for the repose of the soul of. Does anybody
-<lb n="060932"/>really? Plant him and have done with him. Like down a <seg type="neologism">coalshoot.</seg> Then
-<lb n="060933"/>lump them together to save time. All souls' day. <seg type="neologism">Twentyseventh</seg> I'll be at his
+<lb n="060932"/>really? Plant him and have done with him. Like down a <distinct type="nonstandard-compound">coalshoot</distinct>. Then
+<lb n="060933"/>lump them together to save time. All souls' day. <distinct type="compound">Twentyseventh</distinct> I'll be at his
 <lb n="060934"/>grave. Ten shillings for the gardener. He keeps it free of weeds. Old man
 <lb n="060935"/>himself. Bent down double with his shears clipping. Near death's door.
 <lb n="060936"/>Who passed away. Who departed this life. As if they did it of their own
 <lb n="060937"/>accord. Got the shove, all of them. Who kicked the bucket. More interesting
 <lb n="060938"/>if they told you what they were. So and So, wheelwright. I travelled for
-<lb n="060939"/>cork lino. I paid five shillings in the pound. Or a woman's with her
+<lb n="060939"/>cork <distinct type="dialect">lino</distinct>. I paid five shillings in the pound. Or a woman's with her
 <lb n="060940"/>saucepan. I cooked good Irish stew. Eulogy in a country churchyard it
 <lb n="060941"/>ought to be that poem of whose is it Wordsworth or Thomas Campbell.
 <lb n="060942"/>Entered into rest the protestants put it. Old Dr Murren's. The great
 <lb n="060943"/>physician called him home. Well it's God's acre for them. Nice country
 <lb n="060944"/>residence. Newly plastered and painted. Ideal spot to have a quiet smoke
 <lb n="060945"/>and read the <title type="newspaper">Church Times</title>. Marriage ads they never try to beautify. Rusty
-<lb n="060946"/>wreaths hung on knobs, garlands of <seg type="neologism">bronzefoil.</seg> Better value that for the
+<lb n="060946"/>wreaths hung on knobs, garlands of <distinct type="nonstandard-compound">bronzefoil</distinct>. Better value that for the
 <lb n="060947"/>money. Still, the flowers are more poetical. The other gets rather tiresome,
 <lb n="060948"/>never withering. Expresses nothing. Immortelles.</said></p>
 <p><lb n="060949"/>A bird sat tamely perched on a poplar branch. <said who="lb" aloud="false">Like stuffed. Like the
 <lb n="060950"/>wedding present alderman Hooper gave us. Hoo! Not a budge out of him.
 <lb n="060951"/>Knows there are no catapults to let fly at him. Dead animal even sadder.
 <lb n="060952"/>Silly-Milly burying the little dead bird in the kitchen matchbox, a
-<lb n="060953"/>daisychain and bits of broken chainies on the grave.</said></p>
+<lb n="060953"/><distinct type="nonstandard-compound">daisychain</distinct> and bits of broken chainies on the grave.</said></p>
 <p><lb n="060954"/><said who="lb" aloud="false">The Sacred Heart that is: showing it. Heart on his sleeve. Ought to be
 <lb n="060955"/>sideways and red it should be painted like a real heart. Ireland was
 <lb n="060956"/>dedicated to it or whatever that. Seems anything but pleased. Why this
@@ -962,9 +962,9 @@
 <lb n="060961"/>departed. As you are now so once were we.</said></p>
 <p><lb n="060962"/><said who="lb" aloud="false">Besides how could you remember everybody? Eyes, walk, voice. Well,
 <lb n="060963"/>the voice, yes: gramophone. Have a gramophone in every grave or keep it
-<lb n="060964"/>in the house. After dinner on a Sunday. Put on poor old greatgrandfather.
-<lb n="060965"/>Kraahraark! Hellohellohello amawfullyglad kraark awfullygladaseeagain
-<lb n="060966"/>hellohello amawf krpthsth. Remind you of the voice like the photograph
+<lb n="060964"/>in the house. After dinner on a Sunday. Put on poor old <distinct type="compound">greatgrandfather</distinct>.
+<lb n="060965"/>Kraahraark! <distinct type="nonstandard-compound">Hellohellohello</distinct> amawfullyglad kraark <distinct type="nonstandard-compound">awfullygladaseeagain</distinct>
+<lb n="060966"/><distinct type="nonstandard-compound">hellohello</distinct> amawf krpthsth. Remind you of the voice like the photograph
 <lb n="060967"/>reminds you of the face. Otherwise you couldn't remember the face after
 <lb n="060968"/>fifteen years, say. For instance who? For instance some fellow that died
 <lb n="060969"/>when I was in Wisdom Hely's.</said></p>
@@ -972,9 +972,9 @@
 <p><lb n="060971"/>He looked down intently into a stone crypt. <said who="lb" aloud="false">Some animal. Wait.
 <lb n="060972"/>There he goes.</said></p>
 <p><lb n="060973"/>An obese grey rat toddled along the side of the crypt, moving the
-<lb n="060974"/>pebbles. <said who="lb" aloud="false">An old stager: greatgrandfather: he knows the ropes. The grey
+<lb n="060974"/>pebbles. <said who="lb" aloud="false">An old stager: <distinct type="compound">greatgrandfather</distinct>: he knows the ropes. The grey
 <lb n="060975"/>alive crushed itself in under the plinth, wriggled itself in under it. Good
-<lb n="060976"/><seg type="neologism">hidingplace</seg> for treasure.</said></p>
+<lb n="060976"/><distinct type="nonstandard-compound">hidingplace</distinct> for treasure.</said></p>
 <p><lb n="060977"/><said who="lb" aloud="false">Who lives there? Are laid the remains of Robert Emery. Robert
 <lb n="060978"/>Emmet was buried here by torchlight, wasn't he? Making his rounds.</said></p>
 <p><lb n="060979"/><said who="lb" aloud="false">Tail gone now.</said></p>
@@ -984,34 +984,34 @@
 <lb n="060983"/><title type="book">Voyages in China</title> that the Chinese say a white man smells like a corpse.
 <lb n="060984"/>Cremation better. Priests dead against it. Devilling for the other firm.
 <lb n="060985"/>Wholesale burners and Dutch oven dealers. Time of the plague. Quicklime
-<lb n="060986"/><seg type="neologism">feverpits</seg> to eat them. Lethal chamber. Ashes to ashes. Or bury at sea.
+<lb n="060986"/><distinct type="nonstandard-compound">feverpits</distinct> to eat them. Lethal chamber. Ashes to ashes. Or bury at sea.
 <lb n="060987"/>Where is that Parsee tower of silence? Eaten by birds. Earth, fire, water.
 <lb n="060988"/>Drowning they say is the pleasantest. See your whole life in a flash. But
 <lb n="060989"/>being brought back to life no. Can't bury in the air however. Out of a flying
 <lb n="060990"/>machine. Wonder does the news go about whenever a fresh one is let down.
 <lb n="060991"/>Underground communication. We learned that from them. Wouldn't be
 <lb n="060992"/>surprised. Regular square feed for them. Flies come before he's well dead.
-<lb n="060993"/>Got wind of Dignam. They wouldn't care about the smell of it. <seg type="neologism">Saltwhite</seg>
+<lb n="060993"/>Got wind of Dignam. They wouldn't care about the smell of it. <distinct type="nonstandard-compound">Saltwhite</distinct>
 <lb n="060994"/>crumbling mush of corpse: smell, taste like raw white turnips.</said></p>
 <p><lb n="060995"/>The gates glimmered in front: <said who="lb" aloud="false">still open. Back to the world again.
 <lb n="060996"/>Enough of this place. Brings you a bit nearer every time. Last time I was
 <lb n="060997"/>here was Mrs Sinico's funeral. Poor papa too. The love that kills. And even
 <lb n="060998"/>scraping up the earth at night with a lantern like that case I read of to get at
-<lb n="060999"/>fresh buried females or even putrefied with running <seg type="neologism">gravesores.</seg> Give you
+<lb n="060999"/>fresh buried females or even putrefied with running <distinct type="nonstandard-compound">gravesores</distinct>. Give you
 <lb n="061000"/>the creeps after a bit. I will appear to you after death. You will see my ghost
 <lb n="061001"/>after death. My ghost will haunt you after death. There is another world
 <lb n="061002"/>after death named hell. I do not like that other world she wrote. No more
 <lb n="061003"/>do I. Plenty to see and hear and feel yet. Feel live warm beings near you. Let
 <lb n="061004"/>them sleep in their maggoty beds. They are not going to get me this innings.
-<lb n="061005"/>Warm beds: warm <seg type="neologism">fullblooded</seg> life.</said></p>
-<p><lb n="061006"/>Martin Cunningham emerged from a sidepath, talking gravely.</p>
+<lb n="061005"/>Warm beds: warm <distinct type="compound">fullblooded</distinct> life.</said></p>
+<p><lb n="061006"/>Martin Cunningham emerged from a <distinct type="nonstandard-compound">sidepath</distinct>, talking gravely.</p>
 <p><lb n="061007"/><said who="lb" aloud="false">Solicitor, I think. I know his face. Menton, John Henry, solicitor,
 <lb n="061008"/>commissioner for oaths and affidavits. Dignam used to be in his office. Mat
 <lb n="061009"/>Dillon's long ago. Jolly Mat. Convivial evenings. Cold fowl, cigars, the
 <lb n="061010"/>Tantalus glasses. Heart of gold really. Yes, Menton. Got his rag out that
-<lb n="061011"/>evening on the <seg type="neologism">bowlinggreen</seg> because I sailed inside him. Pure fluke of
+<lb n="061011"/>evening on the <distinct type="nonstandard-compound">bowlinggreen</distinct> because I sailed inside him. Pure fluke of
 <lb n="061012"/>mine: the bias. Why he took such a rooted dislike to me. Hate at first sight.
-<lb n="061013"/>Molly and Floey Dillon linked under the <seg type="neologism">lilactree,</seg> laughing. Fellow always
+<lb n="061013"/>Molly and Floey Dillon linked under the <distinct type="nonstandard-compound">lilactree</distinct>, laughing. Fellow always
 <lb n="061014"/>like that, mortified if women are by.</said></p>
 <p><lb n="061015"/><said who="lb" aloud="false">Got a dinge in the side of his hat. Carriage probably.</said>
 <lb n="061016"/><said who="lb">―Excuse me, sir,</said> Mr Bloom said beside them.</p>
@@ -1020,16 +1020,17 @@
 <p><lb n="061019"/>John Henry Menton stared at him for an instant without moving.
 <lb n="061020"/><said who="mc">―There,</said> Martin Cunningham helped, pointing also.</p>
 <p><lb n="061021"/>John Henry Menton took off his hat, bulged out the dinge and
-<lb n="061022"/>smoothed the nap with care on his coatsleeve. He clapped the hat on his
+<lb n="061022"/>smoothed the nap with care on his <distinct type="nonstandard-compound">coatsleeve</distinct>. He clapped the hat on his
 <lb n="061023"/>head again.
 <lb n="061024"/><said who="mc">―It's all right now,</said> Martin Cunningham said.</p>
 <p><lb n="061025"/>John Henry Menton jerked his head down in acknowledgment.
 <lb n="061026"/><said who="jhm">―Thank you,</said> he said shortly.</p>
 <p><lb n="061027"/>They walked on towards the gates. Mr Bloom, chapfallen, drew
 <lb n="061028"/>behind a few paces so as not to overhear. Martin laying down the law.
-<lb n="061029"/>Martin could wind a <seg type="neologism">sappyhead</seg> like that round his little finger, without his
+<lb n="061029"/>Martin could wind a <distinct type="nonstandard-compound">sappyhead</distinct> like that round his little finger, without his
 <lb n="061030"/>seeing it.</p>
 <p><lb n="061031"/><said who="lb" aloud="false">Oyster eyes. Never mind. Be sorry after perhaps when it dawns on
 <lb n="061032"/>him. Get the pull over him that way.</said></p>
 <p><lb n="061033"/><said who="lb" aloud="false">Thank you. How grand we are this morning!</said></p>
 </div> <!-- End of Episode 6, "Hades" -->
+  
