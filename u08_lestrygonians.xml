@@ -1,5 +1,5 @@
 <div type="episode" n="08">
-<p><lb n="080001"/><said who="lb" aloud="false">Pineapple rock, lemon platt, butter scotch. A sugarsticky girl
+<p><lb n="080001"/><said who="lb" aloud="false">Pineapple rock, lemon platt, butter scotch. A <distinct type="nonstandard-compound">sugarsticky</distinct> girl
 <lb n="080002"/>shovelling scoopfuls of creams for a christian brother. Some school treat.
 <lb n="080003"/>Bad for their tummies. Lozenge and comfit manufacturer to His Majesty
 <lb n="080004"/>the King. God. Save. Our. Sitting on his throne sucking red jujubes white.</said></p>
@@ -10,7 +10,7 @@
 <p><lb n="080009"/><said who="lb" aloud="false">Blood of the Lamb.</said></p>
 <p><lb n="080010"/>His slow feet walked him riverward, reading. <said who="lb" aloud="false">Are you saved? All are
 <lb n="080011"/>washed in the blood of the lamb. God wants blood victim. Birth, hymen,
-<lb n="080012"/>martyr, war, foundation of a building, sacrifice, kidney <seg type="neologism">burntoffering,</seg>
+<lb n="080012"/>martyr, war, foundation of a building, sacrifice, kidney <distinct type="nonstandard-compound">burntoffering</distinct>,
 <lb n="080013"/>druids' altars. Elijah is coming. Dr John Alexander Dowie restorer of the
 <lb n="080014"/>church in Zion is coming.</said></p>
 <p><lb n="080015"/><said who="lb" aloud="false">Is coming! Is coming!! Is coming!!!</said></p>
@@ -26,7 +26,7 @@
 <lb n="080025"/>Rudy was born. The phosphorescence, that bluey greeny. Very good for the
 <lb n="080026"/>brain.</said></p>
 <p><lb n="080027"/>From Butler's monument house corner he glanced along Bachelor's
-<lb n="080028"/>walk. <said who="lb" aloud="false">Dedalus' daughter there still outside Dillon's auctionrooms. Must be
+<lb n="080028"/>walk. <said who="lb" aloud="false">Dedalus' daughter there still outside Dillon's <distinct type="nonstandard-compound">auctionrooms</distinct>. Must be
 <lb n="080029"/>selling off some old furniture. Knew her eyes at once from the father.
 <lb n="080030"/>Lobbing about waiting for him. Home always breaks up when the mother
 <lb n="080031"/>goes. Fifteen children he had. Birth every year almost. That's in their
@@ -34,7 +34,7 @@
 <lb n="080033"/>absolution. Increase and multiply. Did you ever hear such an idea? Eat you
 <lb n="080034"/>out of house and home. No families themselves to feed. Living on the fat of
 <lb n="080035"/>the land. Their butteries and larders. I'd like to see them do the black fast
-<lb n="080036"/>Yom Kippur. Crossbuns. One meal and a collation for fear he'd collapse on
+  <lb n="080036"/>Yom Kippur. <distinct type="nonstandard-compound">Crossbuns</distinct>. One meal and a collation for fear he'd collapse on
 <lb n="080037"/>the altar. A housekeeper of one of those fellows if you could pick it out of
 <lb n="080038"/>her. Never pick it out of her. Like getting £. s. d. out of him. Does himself
 <lb n="080039"/>well. No guests. All for number one. Watching his water. Bring your own
@@ -50,14 +50,14 @@
 <lb n="080049"/>porter. Drink till they puke again like christians. Imagine drinking that!
 <lb n="080050"/>Rats: vats. Well, of course, if we knew all the things.</said></p>
 <p><lb n="080051"/>Looking down he saw flapping strongly, wheeling between the gaunt
-<lb n="080052"/>quaywalls, gulls. <said who="lb" aloud="false">Rough weather outside. If I threw myself down? Reuben
+<lb n="080052"/><distinct type="nonstandard-compound">quaywalls<distinct>, gulls. <said who="lb" aloud="false">Rough weather outside. If I threw myself down? Reuben
 <lb n="080053"/>J's son must have swallowed a good bellyful of that sewage. One and
-<lb n="080054"/>eightpence too much. Hhhhm. It's the droll way he comes out with the
+  <lb n="080054"/><distinct type="nonstandard-compound">eightpence</distinct> too much. Hhhhm. It's the droll way he comes out with the
 <lb n="080055"/>things. Knows how to tell a story too.</said></p>
 <p><lb n="080056"/>They wheeled lower. <said who="lb" aloud="false">Looking for grub. Wait.</said></p>
-<p><lb n="080057"/>He threw down among them a crumpled paper ball. <said who="lb" aloud="false">Elijah <seg type="neologism">thirtytwo</seg>
+<p><lb n="080057"/>He threw down among them a crumpled paper ball. <said who="lb" aloud="false">Elijah <distinct type="compound">thirtytwo</distinct>
 <lb n="080058"/>feet per sec is com. Not a bit.</said> The ball bobbed unheeded on the wake of
-<lb n="080059"/>swells, floated under by the bridgepiers. <said who="lb" aloud="false">Not such damn fools. Also the day
+<lb n="080059"/>swells, floated under by the <distinct type="nonstandard-compound">bridgepiers</distinct>. <said who="lb" aloud="false">Not such damn fools. Also the day
 <lb n="080060"/>I threw that stale cake out of the Erin's King picked it up in the wake fifty
 <lb n="080061"/>yards astern. Live by their wits.</said> They wheeled, flapping.</p>
 <lg rend="italics"><lb n="080062"/><said who="lb" aloud="false"><l>The hungry famished gull</l>
@@ -72,18 +72,18 @@
 <lb n="080071"/><said who="lb" aloud="false">Australians they must be this time of year. Shiny peels: polishes them up
 <lb n="080072"/>with a rag or a handkerchief.</said></p>
 <p><lb n="080073"/><said who="lb" aloud="false">Wait. Those poor birds.</said></p>
-<p><lb n="080074"/>He halted again and bought from the old applewoman two Banbury
+<p><lb n="080074"/>He halted again and bought from the old <distinct type="nonstandard-compound">applewoman</distinct> two Banbury
 <lb n="080075"/>cakes for a penny and broke the brittle paste and threw its fragments down
 <lb n="080076"/>into the Liffey. <said who="lb" aloud="false">See that?</said> The gulls swooped silently, two, then all from their
 <lb n="080077"/>heights, pouncing on prey. <said who="lb" aloud="false">Gone. Every morsel.</said> Aware of their greed and
 <lb n="080078"/>cunning he shook the powdery crumb from his hands. <said who="lb" aloud="false">They never expected
-<lb n="080079"/>that. Manna. Live on fish, fishy flesh they have, all seabirds, gulls, seagoose.
+<lb n="080079"/>that. Manna. Live on fish, fishy flesh they have, all seabirds, gulls, <distinct type="nonstandard-compound">seagoose</distinct>.
 <lb n="080080"/>Swans from Anna Liffey swim down here sometimes to preen themselves.
-<lb n="080081"/>No accounting for tastes. Wonder what kind is swanmeat. Robinson
+<lb n="080081"/>No accounting for tastes. Wonder what kind is <distinct type="nonstandard-compound">swanmeat</distinct>. Robinson
 <lb n="080082"/>Crusoe had to live on them.</said></p>
 <p><lb n="080083"/>They wheeled flapping weakly. <said who="lb" aloud="false">I'm not going to throw any more.
 <lb n="080084"/>Penny quite enough. Lot of thanks I get. Not even a caw. They spread foot
-<lb n="080085"/>and mouth disease too. If you cram a turkey say on chestnutmeal it tastes
+<lb n="080085"/>and mouth disease too. If you cram a turkey say on <distinct type="nonstandard-compound">chestnutmeal</distinct> it tastes
 <lb n="080086"/>like that. Eat pig like pig. But then why is it that saltwater fish are not salty?
 <lb n="080087"/>How is that?</said></p>
 <p><lb n="080088"/>His eyes sought answer from the river and saw a rowboat rock at
@@ -98,7 +98,7 @@
 <lb n="080097"/>in all the greenhouses. Never see it now. Strictly confidential. Dr Hy
 <lb n="080098"/>Franks. Didn't cost him a red like Maginni the dancing master self
 <lb n="080099"/>advertisement. Got fellows to stick them up or stick them up himself for
-<lb n="080100"/>that matter on the q. t. running in to loosen a button. Flybynight. Just the
+<lb n="080100"/>that matter on the q. t. running in to loosen a button. <distinct type="compound">Flybynight</distinct>. Just the
 <lb n="080101"/>place too. POST NO BILLS. POST 11O PILLS. Some chap with a dose burning him.</said></p>
 <p><lb n="080102"/><said who="lb" aloud="false">If he ....?</said></p>
 <p><lb n="080103"/><said who="lb" aloud="false">O!</said></p>
@@ -107,31 +107,31 @@
 <p><lb n="080106"/><said who="lb" aloud="false">No, no. I don't believe it. He wouldn't surely?</said></p>
 <p><lb n="080107"/><said who="lb" aloud="false">No, no.</said></p>
 <p><lb n="080108"/>Mr Bloom moved forward, raising his troubled eyes. <said who="lb" aloud="false">Think no more
-<lb n="080109"/>about that. After one. Timeball on the <seg type="neologism">ballastoffice</seg> is down. Dunsink time.
+  <lb n="080109"/>about that. After one. <distinct type="nonstandard-compound">Timeball</distinct> on the <distinct type="nonstandard-compound">ballastoffice</distinct> is down. Dunsink time.
 <lb n="080110"/>Fascinating little book that is of sir Robert Ball's. Parallax. I never exactly
 <lb n="080111"/>understood. There's a priest. Could ask him. Par it's Greek: parallel,
 <lb n="080112"/>parallax. Met him pike hoses she called it till I told her about the
 <lb n="080113"/>transmigration. O rocks!</said></p>
-<p><lb n="080114"/>Mr Bloom smiled <said who="lb" aloud="false">O rocks</said> at two windows of the <seg type="neologism">ballastoffice.</seg> <said who="lb" aloud="false">She's
+<p><lb n="080114"/>Mr Bloom smiled <said who="lb" aloud="false">O rocks</said> at two windows of the <distinct type="nonstandard-compound">ballastoffice</distinct>. <said who="lb" aloud="false">She's
 <lb n="080115"/>right after all. Only big words for ordinary things on account of the sound.
 <lb n="080116"/>She's not exactly witty. Can be rude too. Blurt out what I was thinking.
-<lb n="080117"/>Still, I don't know. She used to say Ben Dollard had a base <seg type="neologism">barreltone</seg>
+<lb n="080117"/>Still, I don't know. She used to say Ben Dollard had a base <distinct type="nonstandard-compound">barreltone</distinct>
 <lb n="080118"/>voice. He has legs like barrels and you'd think he was singing into a barrel.
 <lb n="080119"/>Now, isn't that wit. They used to call him big Ben. Not half as witty as
-<lb n="080120"/>calling him base <seg type="neologism">barreltone.</seg> Appetite like an albatross. Get outside of a
+<lb n="080120"/>calling him base <distinct type="nonstandard-compound">barreltone</distinct>. Appetite like an albatross. Get outside of a
 <lb n="080121"/>baron of beef. Powerful man he was at stowing away number one Bass.
 <lb n="080122"/>Barrel of Bass. See? It all works out.</said></p>
-<p><lb n="080123"/>A procession of <seg type="neologism">whitesmocked</seg> sandwichmen marched slowly towards
+<p><lb n="080123"/>A procession of <distinct type="nonstandard-compound">whitesmocked</distinct> <distinct type="nonstandard-compound">sandwichmen</distinct> marched slowly towards
 <lb n="080124"/>him along the gutter, scarlet sashes across their boards. <said who="lb" aloud="false">Bargains. Like that
 <lb n="080125"/>priest they are this morning: we have sinned: we have suffered.</said> He read the
 <lb n="080126"/>scarlet letters on their five tall white hats: <said who="lb" aloud="false">H. E. L. Y. S. Wisdom Hely's.</said> Y
-<lb n="080127"/>lagging behind drew a chunk of bread from under his foreboard, crammed
+<lb n="080127"/>lagging behind drew a chunk of bread from under his <distinct type="nonstandard-compound">foreboard</distinct>, crammed
 <lb n="080128"/>it into his mouth and munched as he walked. <said who="lb" aloud="false">Our staple food. Three bob a
 <lb n="080129"/>day, walking along the gutters, street after street. Just keep skin and bone
-<lb n="080130"/>together, bread and skilly. They are not Boyl: no, M'Glade's men. Doesn't
+  <lb n="080130"/>together, bread and <distinct type="archaism">skilly</distinct>. They are not Boyl: no, M'Glade's men. Doesn't
 <lb n="080131"/>bring in any business either. I suggested to him about a transparent
-<lb n="080132"/>showcart with two smart girls sitting inside writing letters, copybooks,
-<lb n="080133"/>envelopes, <seg type="neologism">blottingpaper.</seg> I bet that would have caught on. Smart girls
+  <lb n="080132"/><distinct type="nonstandard-compound">showcart</distinct> with two smart girls sitting inside writing letters, copybooks,
+<lb n="080133"/>envelopes, <distinct type="nonstandard-compound">blottingpaper</distinct>. I bet that would have caught on. Smart girls
 <lb n="080134"/>writing something catch the eye at once. Everyone dying to know what
 <lb n="080135"/>she's writing. Get twenty of them round you if you stare at nothing. Have a
 <lb n="080136"/>finger in the pie. Women too. Curiosity. Pillar of salt. Wouldn't have it of
@@ -139,7 +139,7 @@
 <lb n="080138"/>suggested with a false stain of black celluloid. His ideas for ads like
 <lb n="080139"/>Plumtree's potted under the obituaries, cold meat department. You can't
 <lb n="080140"/>lick 'em. What? Our envelopes. Hello, Jones, where are you going? Can't
-<lb n="080141"/>stop, Robinson, I am hastening to purchase the only reliable inkeraser
+<lb n="080141"/>stop, Robinson, I am hastening to purchase the only reliable <distinct type="nonstandard-compound">inkeraser</distinct>
 <lb n="080142"/><name>Kansell</name>, sold by Hely's Ltd, 85 Dame street. Well out of that ruck I am.
 <lb n="080143"/>Devil of a job it was collecting accounts of those convents. Tranquilla
 <lb n="080144"/>convent. That was a nice nun there, really sweet face. Wimple suited her
@@ -154,37 +154,37 @@
 <lb n="080153"/>out. Molly tasting it, her veil up. Sister? Pat Claffey, the pawnbroker's
 <lb n="080154"/>daughter. It was a nun they say invented barbed wire.</said></p>
 <p><lb n="080155"/>He crossed Westmoreland street when apostrophe S had plodded by.
-<lb n="080156"/><said who="lb" aloud="false">Rover cycleshop. Those races are on today. How long ago is that? Year
+<lb n="080156"/><said who="lb" aloud="false">Rover <distinct type="nonstandard-compound">cycleshop</distinct>. Those races are on today. How long ago is that? Year
 <lb n="080157"/>Phil Gilligan died. We were in Lombard street west. Wait: was in Thom's.
 <lb n="080158"/>Got the job in Wisdom Hely's year we married. Six years. Ten years ago:
-<lb n="080159"/>ninetyfour he died yes that's right the big fire at Arnott's. Val Dillon was
+  <lb n="080159"/><distinct type="compound">ninetyfour</distinct> he died yes that's right the big fire at Arnott's. Val Dillon was
 <lb n="080160"/>lord mayor. The Glencree dinner. Alderman Robert O'Reilly emptying the
 <lb n="080161"/>port into his soup before the flag fell. Bobbob lapping it for the inner
 <lb n="080162"/>alderman. Couldn't hear what the band played. For what we have already
 <lb n="080163"/>received may the Lord make us. Milly was a kiddy then. Molly had that
-<lb n="080164"/>elephantgrey dress with the braided frogs. <seg type="neologism">Mantailored</seg> with <seg type="neologism">selfcovered</seg>
+  <lb n="080164"/><distinct type="nonstandard-compound">elephantgrey</distinct> dress with the braided frogs. <distinct type="compound">Mantailored</distinct> with <distinct type="nonstandard-compound">selfcovered</distinct>
 <lb n="080165"/>buttons. She didn't like it because I sprained my ankle first day she wore
 <lb n="080166"/>choir picnic at the Sugarloaf. As if that. Old Goodwin's tall hat done up
 <lb n="080167"/>with some sticky stuff. Flies' picnic too. Never put a dress on her back like
 <lb n="080168"/>it. Fitted her like a glove, shoulders and hips. Just beginning to plump it out
-<lb n="080169"/>well. <seg type="neologism">Rabbitpie</seg> we had that day. People looking after her.</said></p>
+<lb n="080169"/>well. <distinct type="nonstandard-compound">Rabbitpie</distinct> we had that day. People looking after her.</said></p>
 <p><lb n="080170"/><said who="lb" aloud="false">Happy. Happier then. Snug little room that was with the red
 <lb n="080171"/>wallpaper. Dockrell's, one and ninepence a dozen. Milly's tubbing night.
 <lb n="080172"/>American soap I bought: elderflower. Cosy smell of her bathwater. Funny
 <lb n="080173"/>she looked soaped all over. Shapely too. Now photography. Poor papa's
 <lb n="080174"/>daguerreotype atelier he told me of. Hereditary taste.</said></p>
 <p><lb n="080175"/>He walked along the curbstone.</p>
-<p><lb n="080176"/><said who="lb" aloud="false">Stream of life. What was the name of that <seg type="neologism">priestylooking</seg> chap was
+<p><lb n="080176"/><said who="lb" aloud="false">Stream of life. What was the name of that <distinct type="nonstandard-compound">priestylooking</distinct> chap was
 <lb n="080177"/>always squinting in when he passed? Weak eyes, woman. Stopped in
 <lb n="080178"/>Citron's saint Kevin's parade. Pen something. Pendennis? My memory is
 <lb n="080179"/>getting. Pen ...? Of course it's years ago. Noise of the trams probably. Well,
-<lb n="080180"/>if he couldn't remember the dayfather's name that he sees every day.</said></p>
+<lb n="080180"/>if he couldn't remember the <distinct type="nonstandard-compound">dayfather's</distinct> name that he sees every day.</said></p>
 <p><lb n="080181"/><said who="lb" aloud="false">Bartell d'Arcy was the tenor, just coming out then. Seeing her home
-<lb n="080182"/>after practice. Conceited fellow with his <seg type="neologism">waxedup</seg> moustache. Gave her that
+<lb n="080182"/>after practice. Conceited fellow with his <distinct type="nonstandard-compound">waxedup</distinct> moustache. Gave her that
 <lb n="080183"/>song <quote>Winds that blow from the south</quote>.</said></p>
 <p><lb n="080184"/><said who="lb" aloud="false">Windy night that was I went to fetch her there was that lodge meeting
-<lb n="080185"/>on about those lottery tickets after Goodwin's concert in the <seg type="neologism">supperroom</seg> or
-<lb n="080186"/><seg type="neologism">oakroom</seg> of the Mansion house. He and I behind. Sheet of her music blew
+<lb n="080185"/>on about those lottery tickets after Goodwin's concert in the <distinct type="nonstandard-compound">supperroom</distinct> or
+<lb n="080186"/><distinct type="nonstandard-compound">oakroom</distinct> of the Mansion house. He and I behind. Sheet of her music blew
 <lb n="080187"/>out of my hand against the High school railings. Lucky it didn't. Thing like
 <lb n="080188"/>that spoils the effect of a night for her. Professor Goodwin linking her in
 <lb n="080189"/>front. Shaky on his pins, poor old sot. His farewell concerts. Positively last
@@ -198,7 +198,7 @@
 <lb n="080197"/>busk of her stays: white.</said></p>
 <p><lb n="080198"/><said who="lb" aloud="false">Swish and soft flop her stays made on the bed. Always warm from
 <lb n="080199"/>her. Always liked to let her self out. Sitting there after till near two taking
-<lb n="080200"/>out her hairpins. Milly tucked up in <seg type="neologism">beddyhouse.</seg> Happy. Happy. That was
+<lb n="080200"/>out her hairpins. Milly tucked up in <distinct type="nonstandard-compound">beddyhouse</distinct>. Happy. Happy. That was
 <lb n="080201"/>the night .....</said>
 <lb n="080202"/><said who="jb">―O, Mr Bloom, how do you do?</said>
 <lb n="080203"/><said who="lb">―O, how do you do, Mrs Breen?</said>
@@ -223,15 +223,15 @@
 <lb n="080222"/><l>While you're coming through the rye.</l>
 <lb n="080223"/><l>Diddlediddle dumdum</l>
 <lb n="080224"/><l>Diddlediddle ...</l></said></lg></quote>
-<p><lb n="080225"/><said who="jb">―Sad to lose the old friends,</said> Mrs Breen's <seg type="neologism">womaneyes</seg> said melancholily.</p>
+<p><lb n="080225"/><said who="jb">―Sad to lose the old friends,</said> Mrs Breen's <distinct type="nonstandard-compound">womaneyes</distinct> said melancholily.</p>
 <p><lb n="080226"/><said who="lb" aloud="false">Now that's quite enough about that. Just: quietly: husband.</said>
 <lb n="080227"/><said who="lb">―And your lord and master?</said></p>
 <p><lb n="080228"/>Mrs Breen turned up her two large eyes. <said who="lb" aloud="false">Hasn't lost them anyhow.</said>
 <lb n="080229"/><said who="jb">―O, don't be talking!</said> she said. <said who="jb">He's a caution to rattlesnakes. He's in there
-<lb n="080230"/>now with his <seg type="neologism">lawbooks</seg> finding out the law of libel. He has me <seg type="neologism">heartscalded.</seg>
+<lb n="080230"/>now with his <distinct type="nonstandard-compound">lawbooks</distinct> finding out the law of libel. He has me <distinct type="nonstandard-compound">heartscalded</distinct>.
 <lb n="080231"/>Wait till I show you.</said></p>
-<p><lb n="080232"/>Hot <seg type="neologism">mockturtle</seg> vapour and steam of <seg type="neologism">newbaked</seg> <seg type="neologism">jampuffs</seg> rolypoly
-<lb n="080233"/>poured out from Harrison's. The heavy <seg type="neologism">noonreek</seg> tickled the top of Mr
+<p><lb n="080232"/>Hot <distinct type="nonstandard-compound">mockturtle</distinct> vapour and steam of <distinct type="nonstandard-compound">newbaked</distinct> <distinct type="nonstandard-compound">jampuffs</distinct> <distinct type="compound">rolypoly</distinct>
+<lb n="080233"/>poured out from Harrison's. The heavy <distinct type="nonstandard-compound">noonreek</distinct> tickled the top of Mr
 <lb n="080234"/>Bloom's gullet. <said who="lb" aloud="false">Want to make good pastry, butter, best flour, Demerara
 <lb n="080235"/>sugar, or they'd taste it with the hot tea. Or is it from her?</said> A barefoot arab
 <lb n="080236"/>stood over the grating, breathing in the fumes. <said who="lb" aloud="false">Deaden the gnaw of hunger
@@ -242,7 +242,7 @@
 <lb n="080241"/>Open. Money. Please take one. Devils if they lose sixpence. Raise Cain.
 <lb n="080242"/>Husband barging. Where's the ten shillings I gave you on Monday? Are
 <lb n="080243"/>you feeding your little brother's family? Soiled handkerchief:
-<lb n="080244"/><seg type="neologism">medicinebottle.</seg> Pastille that was fell. What is she ...?</said>
+<lb n="080244"/><distinct type="nonstandard-compound">medicinebottle</distinct>. Pastille that was fell. What is she ...?</said>
 <lb n="080245"/><said who="jb">―There must be a new moon out,</said> she said. <said who="jb">He's always bad then. Do you
 <lb n="080246"/>know what he did last night?</said></p>
 <p><lb n="080247"/>Her hand ceased to rummage. Her eyes fixed themselves on him, wide
@@ -264,12 +264,12 @@
 <lb n="080263"/>action for ten thousand pounds,</said> he says.</p>
 <p><lb n="080264"/>She folded the card into her untidy bag and snapped the catch.</p>
 <p><lb n="080265"/><said who="lb" aloud="false">Same blue serge dress she had two years ago, the nap bleaching. Seen
-<lb n="080266"/>its best days. Wispish hair over her ears. And that dowdy toque: three old
+  <lb n="080266"/>its best days. Wispish hair over her ears. And that dowdy toque: three old
 <lb n="080267"/>grapes to take the harm out of it. Shabby genteel. She used to be a tasty
 <lb n="080268"/>dresser. Lines round her mouth. Only a year or so older than Molly.</said></p>
 <p><lb n="080269"/><said who="lb" aloud="false">See the eye that woman gave her, passing. Cruel. The unfair sex.</said></p>
 <p><lb n="080270"/>He looked still at her, holding back behind his look his discontent.
-<lb n="080271"/><said who="lb" aloud="false">Pungent <seg type="neologism">mockturtle</seg> oxtail mulligatawny. I'm hungry too. Flakes of pastry
+<lb n="080271"/><said who="lb" aloud="false">Pungent <distinct type="nonstandard-compound">mockturtle</distinct> oxtail mulligatawny. I'm hungry too. Flakes of pastry
 <lb n="080272"/>on the gusset of her dress: daub of sugary flour stuck to her cheek.
 <lb n="080273"/>Rhubarb tart with liberal fillings, rich fruit interior. Josie Powell that was.
 <lb n="080274"/>In Luke Doyle's long ago. Dolphin's Barn, the charades. U. p: up.</said></p>
@@ -291,13 +291,13 @@
 <lb n="080290"/>for her.</said></p>
 <p><lb n="080291"/>Mrs Breen nodded.
 <lb n="080292"/><said who="jb">―She was taken bad on the Tuesday ...</said></p>
-<p><lb n="080293"/>Mr Bloom touched her <seg type="neologism">funnybone</seg> gently, warning her:
+<p><lb n="080293"/>Mr Bloom touched her <distinct type="nonstandard-compound">funnybone</distinct> gently, warning her:
 <lb n="080294"/><said who="lb">―Mind! Let this man pass.</said></p>
 <p><lb n="080295"/>A bony form strode along the curbstone from the river staring with a
-<lb n="080296"/>rapt gaze into the sunlight through a <seg type="neologism">heavystringed</seg> glass. Tight as a
-<lb n="080297"/>skullpiece a tiny hat gripped his head. From his arm a folded <seg type="neologism">dustcoat,</seg> a
+<lb n="080296"/>rapt gaze into the sunlight through a <distinct type="nonstandard-compound">heavystringed</distinct> glass. Tight as a
+  <lb n="080297"/><distinct type="nonstandard-compound">skullpiece</distinct> a tiny hat gripped his head. From his arm a folded <distinct type="nonstandard-compound">dustcoat</distinct>, a
 <lb n="080298"/>stick and an umbrella dangled to his stride.
-<lb n="080299"/><said who="lb">―Watch him,</said> Mr Bloom said. <said who="lb">He always walks outside the lampposts.
+<lb n="080299"/><said who="lb">―Watch him,</said> Mr Bloom said. <said who="lb">He always walks outside the <distinct type="nonstandard-compound">lampposts</distinct>.
 <lb n="080300"/>Watch!</said>
 <lb n="080301"/><said who="jb">―Who is he if it's a fair question?</said> Mrs Breen asked. <said who="jb">Is he dotty?</said>
 <lb n="080302"/><said who="lb">―His name is Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell,</said> Mr
@@ -308,13 +308,13 @@
 <lb n="080307"/>Molly, won't you?</said>
 <lb n="080308"/><said who="lb">―I will,</said> Mr Bloom said.</p>
 <p><lb n="080309"/>He watched her dodge through passers towards the shopfronts. Denis
-<lb n="080310"/>Breen in skimpy <seg type="neologism">frockcoat</seg> and blue canvas shoes shuffled out of Harrison's
+<lb n="080310"/>Breen in skimpy <distinct type="nonstandard-compound">frockcoat</distinct> and blue canvas shoes shuffled out of Harrison's
 <lb n="080311"/>hugging two heavy tomes to his ribs. <said who="lb" aloud="false">Blown in from the bay. Like old times.</said>
 <lb n="080312"/>He suffered her to overtake him without surprise and thrust his dull grey
 <lb n="080313"/>beard towards her, his loose jaw wagging as he spoke earnestly.</p>
 <p><lb n="080314"/><said who="lb" aloud="false">Meshuggah. Off his chump.</said></p>
 <p><lb n="080315"/>Mr Bloom walked on again easily, seeing ahead of him in sunlight the
-<lb n="080316"/>tight skullpiece, the dangling <seg type="neologism">stickumbrelladustcoat.</seg> <said who="lb" aloud="false">Going the two days.
+  <lb n="080316"/>tight <distinct type="nonstandard-compound">skullpiece</distinct>, the dangling <distinct type="nonstandard-compound">stickumbrelladustcoat</distinct>. <said who="lb" aloud="false">Going the two days.
 <lb n="080317"/>Watch him! Out he goes again. One way of getting on in the world. And
 <lb n="080318"/>that other old mosey lunatic in those duds. Hard time she must have with
 <lb n="080319"/>him.</said></p>
@@ -324,7 +324,7 @@
 <p><lb n="080323"/>He passed the <title type="newspaper">Irish Times</title>. <said who="lb" aloud="false">There might be other answers lying there.
 <lb n="080324"/>Like to answer them all. Good system for criminals. Code. At their lunch
 <lb n="080325"/>now. Clerk with the glasses there doesn't know me. O, leave them there to
-<lb n="080326"/>simmer. Enough bother wading through <seg type="neologism">fortyfour</seg> of them. Wanted, smart
+<lb n="080326"/>simmer. Enough bother wading through <distinct type="compound">fortyfour</distinct> of them. Wanted, smart
 <lb n="080327"/>lady typist to aid gentleman in literary work. I called you naughty darling
 <lb n="080328"/>because I do not like that other world. Please tell me what is the meaning.
 <lb n="080329"/>Please tell me what perfume does your wife. Tell me who made the world.
@@ -341,16 +341,16 @@
 <lb n="080340"/>Lady Mountcashel has quite recovered after her confinement and rode out
 <lb n="080341"/>with the Ward Union staghounds at the enlargement yesterday at Rathoath.
 <lb n="080342"/>Uneatable fox. Pothunters too. Fear injects juices make it tender enough for
-<lb n="080343"/>them. Riding astride. Sit her horse like a man. <seg type="neologism">Weightcarrying</seg> huntress. No
+<lb n="080343"/>them. Riding astride. Sit her horse like a man. <distinct type="nonstandard-compound">>Weightcarrying</distinct> huntress. No
 <lb n="080344"/>sidesaddle or pillion for her, not for Joe. First to the meet and in at the
 <lb n="080345"/>death. Strong as a brood mare some of those horsey women. Swagger
 <lb n="080346"/>around livery stables. Toss off a glass of brandy neat while you'd say knife.
 <lb n="080347"/>That one at the Grosvenor this morning. Up with her on the car:
-<lb n="080348"/><seg type="neologism">wishswish.</seg> Stonewall or <seg type="neologism">fivebarred</seg> gate put her mount to it. Think that
-<lb n="080349"/><seg type="neologism">pugnosed</seg> driver did it out of spite. Who is this she was like? O yes! Mrs
+<lb n="080348"/><distinct type="nonstandard-compound">wishswish</distinct>. Stonewall or <distinct type="nonstandard-compound">fivebarred</distinct> gate put her mount to it. Think that
+<lb n="080349"/><distinct type="compound">pugnosed</distinct> driver did it out of spite. Who is this she was like? O yes! Mrs
 <lb n="080350"/>Miriam Dandrade that sold me her old wraps and black underclothes in the
 <lb n="080351"/>Shelbourne hotel. Divorced Spanish American. Didn't take a feather out of
-<lb n="080352"/>her my handling them. As if I was her clotheshorse. Saw her in the viceregal
+<lb n="080352"/>her my handling them. As if I was her <distinct type="nonstandard-compound">clotheshorse</distinct>. Saw her in the viceregal
 <lb n="080353"/>party when Stubbs the park ranger got me in with Whelan of the <title type="newspaper">Express</title>.
 <lb n="080354"/>Scavenging what the quality left. High tea. Mayonnaise I poured on the
 <lb n="080355"/>plums thinking it was custard. Her ears ought to have tingled for a few
@@ -358,11 +358,11 @@
 <lb n="080357"/>for her, thanks.</said></p>
 <p><lb n="080358"/><said who="lb" aloud="false">Poor Mrs Purefoy! Methodist husband. Method in his madness.
 <lb n="080359"/>Saffron bun and milk and soda lunch in the educational dairy. Y. M. C. A.
-<lb n="080360"/>Eating with a stopwatch, <seg type="neologism">thirtytwo</seg> chews to the minute. And still his
-<lb n="080361"/><seg type="neologism">muttonchop</seg> whiskers grew. Supposed to be well connected. Theodore's
+<lb n="080360"/>Eating with a stopwatch, <distinct type="compound">thirtytwo</distinct> chews to the minute. And still his
+<lb n="080361"/><distinct type="nonstandard-compound">muttonchop</distinct> whiskers grew. Supposed to be well connected. Theodore's
 <lb n="080362"/>cousin in Dublin Castle. One tony relative in every family. Hardy annuals
 <lb n="080363"/>he presents her with. Saw him out at the Three Jolly Topers marching along
-<lb n="080364"/>bareheaded and his eldest boy carrying one in a marketnet. The squallers.
+<lb n="080364"/>bareheaded and his eldest boy carrying one in a <distinct type="nonstandard-compound">marketnet</distinct>. The squallers.
 <lb n="080365"/>Poor thing! Then having to give the breast year after year all hours of the
 <lb n="080366"/>night. Selfish those t.t's are. Dog in the manger. Only one lump of sugar in
 <lb n="080367"/>my tea, if you please.</said></p>
@@ -382,10 +382,10 @@
 <lb n="080381"/>about it instead of gassing about the what was it the pensive bosom of the
 <lb n="080382"/>silver effulgence. Flapdoodle to feed fools on. They could easily have big
 <lb n="080383"/>establishments whole thing quite painless out of all the taxes give every child
-<lb n="080384"/>born five quid at compound interest up to twentyone five per cent is a
+<lb n="080384"/>born five quid at compound interest up to <distinct type="compound">twentyone</distinct> five per cent is a
 <lb n="080385"/>hundred shillings and five tiresome pounds multiply by twenty decimal
 <lb n="080386"/>system encourage people to put by money save hundred and ten and a bit
-<lb n="080387"/>twentyone years want to work it out on paper come to a tidy sum more than
+  <lb n="080387"/><distinct type="compound">twentyone</distinct> years want to work it out on paper come to a tidy sum more than
 <lb n="080388"/>you think.</said></p>
 <p><lb n="080389"/><said who="lb" aloud="false">Not stillborn of course. They are not even registered. Trouble for
 <lb n="080390"/>nothing.</said></p>
@@ -395,7 +395,7 @@
 <lb n="080394"/>mind. Old Mrs Thornton was a jolly old soul. All my babies, she said. The
 <lb n="080395"/>spoon of pap in her mouth before she fed them. O, that's nyumnyum. Got
 <lb n="080396"/>her hand crushed by old Tom Wall's son. His first bow to the public. Head
-<lb n="080397"/>like a prize pumpkin. Snuffy Dr Murren. People knocking them up at all
+  <lb n="080397"/>like a prize pumpkin. <distinct type="archaism">Snuffy</distinct> Dr Murren. People knocking them up at all
 <lb n="080398"/>hours. For God' sake, doctor. Wife in her throes. Then keep them waiting
 <lb n="080399"/>months for their fee. To attendance on your wife. No gratitude in people.
 <lb n="080400"/>Humane doctors, most of them.</said></p>
@@ -405,7 +405,7 @@
 <lb n="080404"/>Apjohn, myself and Owen Goldberg up in the trees near Goose green
 <lb n="080405"/>playing the monkeys. Mackerel they called me.</said></p>
 <p><lb n="080406"/>A squad of constables debouched from College street, marching in
-<lb n="080407"/>Indian file. <said who="lb" aloud="false">Goosestep. Foodheated faces, sweating helmets, patting their
+<lb n="080407"/>Indian file. <said who="lb" aloud="false">Goosestep. <distinct type="nonstandard-compound">Foodheated</distinct> faces, sweating helmets, patting their
 <lb n="080408"/>truncheons. After their feed with a good load of fat soup under their belts.
 <lb n="080409"/>Policeman's lot is oft a happy one. They split up in groups and scattered,
 <lb n="080410"/>saluting, towards their beats. Let out to graze. Best moment to attack one in
@@ -414,17 +414,17 @@
 <lb n="080413"/>troughs. Prepare to receive cavalry. Prepare to receive soup.</said></p>
 <p><lb n="080414"/>He crossed under Tommy Moore's roguish finger. <said who="lb" aloud="false">They did right to
 <lb n="080415"/>put him up over a urinal: meeting of the waters. Ought to be places for
-<lb n="080416"/>women. Running into <seg type="neologism">cakeshops.</seg> Settle my hat straight. <quote>There is not in this
+<lb n="080416"/>women. Running into <distinct type="nonstandard-compound">cakeshops</distinct>. Settle my hat straight. <quote>There is not in this
 <lb n="080417"/>wide world a vallee.</quote> Great song of Julia Morkan's. Kept her voice up to the
 <lb n="080418"/>very last. Pupil of Michael Balfe's, wasn't she?</said></p>
 <p><lb n="080419"/>He gazed after the last broad tunic. <said who="lb" aloud="false">Nasty customers to tackle. Jack
 <lb n="080420"/>Power could a tale unfold: father a G man. If a fellow gave them trouble
-<lb n="080421"/>being lagged they let him have it hot and heavy in the bridewell. Can't
+<lb n="080421"/>being lagged they let him have it hot and heavy in the <distinct type="archaism">bridewell</distinct>. Can't
 <lb n="080422"/>blame them after all with the job they have especially the young hornies.
-<lb n="080423"/>That <seg type="neologism">horsepoliceman</seg> the day Joe Chamberlain was given his degree in
+<lb n="080423"/>That <distinct type="nonstandard-compound">horsepoliceman</distinct> the day Joe Chamberlain was given his degree in
 <lb n="080424"/>Trinity he got a run for his money. My word he did! His horse's hoofs
 <lb n="080425"/>clattering after us down Abbey street. Lucky I had the presence of mind to
-<lb n="080426"/>dive into Manning's or I was souped. He did come a wallop, by George.
+  <lb n="080426"/>dive into Manning's or I was <distinct type="dialect">souped</distinct>. He did come a wallop, by George.
 <lb n="080427"/>Must have cracked his skull on the cobblestones. I oughtn't to have got
 <lb n="080428"/>myself swept along with those medicals. And the Trinity jibs in their
 <lb n="080429"/>mortarboards. Looking for trouble. Still I got to know that young Dixon
@@ -434,44 +434,44 @@
 <lb n="080433"/>began.</said>
 <lb n="080434"/><said who="uycs">―Up the Boers!</said>
 <lb n="080435"/><said who="uycs">―Three cheers for De Wet!</said>
-<lb n="080436"/><said who="uycs">―We'll hang Joe Chamberlain on a sourapple tree.</said></p>
+<lb n="080436"/><said who="uycs">―We'll hang Joe Chamberlain on a <distinct type="nonstandard-compound">sourapple</distinct> tree.</said></p>
 <p><lb n="080437"/><said who="lb" aloud="false">Silly billies: mob of young cubs yelling their guts out. Vinegar hill.
 <lb n="080438"/>The Butter exchange band. Few years' time half of them magistrates and
-<lb n="080439"/>civil servants. War comes on: into the army helterskelter: same fellows used
+<lb n="080439"/>civil servants. War comes on: into the army <distinct type="compound">helterskelter</distinct>: same fellows used
 <lb n="080440"/>to. Whether on the scaffold high.</said></p>
 <p><lb n="080441"/><said who="lb" aloud="false">Never know who you're talking to. Corny Kelleher he has Harvey
 <lb n="080442"/>Duff in his eye. Like that Peter or Denis or James Carey that blew the gaff
 <lb n="080443"/>on the invincibles. Member of the corporation too. Egging raw youths on to
 <lb n="080444"/>get in the know all the time drawing secret service pay from the castle. Drop
-<lb n="080445"/>him like a hot potato. Why those <seg type="neologism">plainclothes</seg> men are always courting
-<lb n="080446"/>slaveys. Easily twig a man used to uniform. <seg type="neologism">Squarepushing</seg> up against a
+<lb n="080445"/>him like a hot potato. Why those plainclothes men are always courting
+  <lb n="080446"/><distinct type="dialect">slaveys</distinct>. Easily twig a man used to uniform. <distinct type="nonstandard-compound">Squarepushing</distinct> up against a
 <lb n="080447"/>backdoor. Maul her a bit. Then the next thing on the menu. And who is the
 <lb n="080448"/>gentleman does be visiting there? Was the young master saying anything?
-<lb n="080449"/>Peeping Tom through the keyhole. Decoy duck. <seg type="neologism">Hotblooded</seg> young student
+<lb n="080449"/>Peeping Tom through the keyhole. Decoy duck. <distinct type="compound">Hotblooded</distinct> young student
 <lb n="080450"/>fooling round her fat arms ironing.</said>
 <lb n="080451"/><said who="uystud">―Are those yours, Mary?</said>
 <lb n="080452"/><said who="msy">―I don't wear such things ..... Stop or I'll tell the missus on you. Out half
 <lb n="080453"/>the night.</said>
 <lb n="080454"/><said who="uystud">―There are great times coming, Mary. Wait till you see.</said>
 <lb n="080455"/><said who="msy">―Ah, gelong with your great times coming.</said></p>
-<p><lb n="080456"/><said who="lb" aloud="false">Barmaids too. <seg type="neologism">Tobaccoshopgirls.</seg></said></p>
+<p><lb n="080456"/><said who="lb" aloud="false">Barmaids too. <distinct type="nonstandard-compound">Tobaccoshopgirls</distinct>.</said></p>
 <p><lb n="080457"/><said who="lb" aloud="false">James Stephens' idea was the best. He knew them. Circles of ten so
 <lb n="080458"/>that a fellow couldn't round on more than his own ring. Sinn Fein. Back
 <lb n="080459"/>out you get the knife. Hidden hand. Stay in. The firing squad. Turnkey's
 <lb n="080460"/>daughter got him out of Richmond, off from Lusk. Putting up in the
 <lb n="080461"/>Buckingham Palace hotel under their very noses. Garibaldi.</said></p>
 <p><lb n="080462"/><said who="lb" aloud="false">You must have a certain fascination: Parnell. Arthur Griffith is a
-<lb n="080463"/>squareheaded fellow but he has no go in him for the mob. Or gas about our
+  <lb n="080463"/><distinct type="compound">squareheaded</distinct> fellow but he has no go in him for the mob. Or gas about our
 <lb n="080464"/>lovely land. Gammon and spinach. Dublin Bakery Company's tearoom.
 <lb n="080465"/>Debating societies. That republicanism is the best form of government.
 <lb n="080466"/>That the language question should take precedence of the economic
 <lb n="080467"/>question. Have your daughters inveigling them to your house. Stuff them
 <lb n="080468"/>up with meat and drink. Michaelmas goose. Here's a good lump of thyme
-<lb n="080469"/>seasoning under the apron for you. Have another quart of goosegrease
-<lb n="080470"/>before it gets too cold. Halffed enthusiasts. Penny roll and a walk with the
+<lb n="080469"/>seasoning under the apron for you. Have another quart of <distinct type="nonstandard-compound">goosegrease</distinct>
+  <lb n="080470"/>before it gets too cold. <distinct type="nonstandard-compound">Halffed</distinct> enthusiasts. Penny roll and a walk with the
 <lb n="080471"/>band. No grace for the carver. The thought that the other chap pays best
 <lb n="080472"/>sauce in the world. Make themselves thoroughly at home. Show us over
-<lb n="080473"/>those apricots, meaning peaches. The not far distant day. Homerule sun
+<lb n="080473"/>those apricots, meaning peaches. The not far distant day. <distinct type="nonstandard-compound">Homerule</distinct> sun
 <lb n="080474"/>rising up in the northwest.</said></p>
 <p><lb n="080475"/>His smile faded as he walked, a heavy cloud hiding the sun slowly,
 <lb n="080476"/>shadowing Trinity's surly front. Trams passed one another, ingoing,
@@ -484,7 +484,7 @@
 <lb n="080483"/>blood off, all are washed in the blood of the lamb, bawling maaaaaa.</said></p>
 <p><lb n="080484"/><said who="lb" aloud="false">Cityful passing away, other cityful coming, passing away too: other
 <lb n="080485"/>coming on, passing on. Houses, lines of houses, streets, miles of pavements,
-<lb n="080486"/>piledup bricks, stones. Changing hands. This owner, that. Landlord never
+  <lb n="080486"/><distinct type="nonstandard-compound">piledup</distinct> bricks, stones. Changing hands. This owner, that. Landlord never
 <lb n="080487"/>dies they say. Other steps into his shoes when he gets his notice to quit.
 <lb n="080488"/>They buy the place up with gold and still they have all the gold. Swindle in
 <lb n="080489"/>it somewhere. Piled up in cities, worn away age after age. Pyramids in sand.
@@ -514,11 +514,11 @@
 <lb n="080513"/>the name. All a bit touched. Mad Fanny and his other sister Mrs Dickinson
 <lb n="080514"/>driving about with scarlet harness. Bolt upright like surgeon M'Ardle. Still
 <lb n="080515"/>David Sheehy beat him for south Meath. Apply for the Chiltern Hundreds
-<lb n="080516"/>and retire into public life. The patriot's banquet. Eating <seg type="neologism">orangepeels</seg> in the
+<lb n="080516"/>and retire into public life. The patriot's banquet. Eating <distinct type="nonstandard-compound">orangepeels</distinct> in the
 <lb n="080517"/>park. Simon Dedalus said when they put him in parliament that Parnell
 <lb n="080518"/>would come back from the grave and lead him out of the house of commons
 <lb n="080519"/>by the arm.</said>
-<lb n="080520"/><said who="ae">―Of the twoheaded octopus, one of whose heads is the head upon which
+  <lb n="080520"/><said who="ae">―Of the <distinct type="nonstandard-compound">twoheaded</distinct> octopus, one of whose heads is the head upon which
 <lb n="080521"/>the ends of the world have forgotten to come while the other speaks with a
 <lb n="080522"/>Scotch accent. The tentacles ....</said></p>
 <p><lb n="080523"/>They passed from behind Mr Bloom along the curbstone. <said who="lb" aloud="false">Beard and
@@ -533,15 +533,15 @@
 <lb n="080532"/>in literary work.</said></p>
 <p><lb n="080533"/>His eyes followed the high figure in homespun, beard and bicycle, a
 <lb n="080534"/>listening woman at his side. <said who="lb" aloud="false">Coming from the vegetarian. Only
-<lb n="080535"/>weggebobbles and fruit. Don't eat a beefsteak. If you do the eyes of that
+  <lb n="080535"/><distinct type="Joycean">weggebobbles</distinct> and fruit. Don't eat a beefsteak. If you do the eyes of that
 <lb n="080536"/>cow will pursue you through all eternity. They say it's healthier.
-<lb n="080537"/><seg type="neologism">Windandwatery</seg> though. Tried it. Keep you on the run all day. Bad as a
+<lb n="080537"/><distinct type="nonstandard-compound">Windandwatery</distinct> though. Tried it. Keep you on the run all day. Bad as a
 <lb n="080538"/>bloater. Dreams all night. Why do they call that thing they gave me
-<lb n="080539"/>nutsteak? Nutarians. Fruitarians. To give you the idea you are eating
-<lb n="080540"/>rumpsteak. Absurd. Salty too. They cook in soda. Keep you sitting by the
+  <lb n="080539"/><distinct type="nonstandard-compound">nutsteak</distinct>? Nutarians. Fruitarians. To give you the idea you are eating
+  <lb n="080540"/><distinct type="nonstandard-compound">rumpsteak</distinct>. Absurd. Salty too. They cook in soda. Keep you sitting by the
 <lb n="080541"/>tap all night.</said></p>
 <p><lb n="080542"/><said who="lb" aloud="false">Her stockings are loose over her ankles. I detest that: so tasteless.
-<lb n="080543"/>Those literary etherial people they are all. Dreamy, cloudy, symbolistic.
+  <lb n="080543"/>Those literary <distinct type="archaism">etherial</distinct> people they are all. Dreamy, cloudy, symbolistic.
 <lb n="080544"/>Esthetes they are. I wouldn't be surprised if it was that kind of food you see
 <lb n="080545"/>produces the like waves of the brain the poetical. For example one of those
 <lb n="080546"/>policemen sweating Irish stew into their shirts you couldn't squeeze a line
@@ -550,8 +550,8 @@
 <lg rend="italics"><lb n="080549"/><said who="lb" aloud="false"><l>The dreamy cloudy gull</l>
 <lb n="080550"/><l>Waves o'er the waters dull.</l></said></lg>
 <p><lb n="080551"/>He crossed at Nassau street corner and stood before the window of
-<lb n="080552"/>Yeates and Son, pricing the <seg type="neologism">fieldglasses.</seg> <said who="lb" aloud="false">Or will I drop into old Harris's and
-<lb n="080553"/>have a chat with young Sinclair? <seg type="neologism">Wellmannered</seg> fellow. Probably at his
+<lb n="080552"/>Yeates and Son, pricing the <distinct type="nonstandard-compound">fieldglasses</distinct>. <said who="lb" aloud="false">Or will I drop into old Harris's and
+<lb n="080553"/>have a chat with young Sinclair? <distinct type="nonstandard-compound">Wellmannered</distinct> fellow. Probably at his
 <lb n="080554"/>lunch. Must get those old glasses of mine set right. Goerz lenses six guineas.
 <lb n="080555"/>Germans making their way everywhere. Sell on easy terms to capture trade.
 <lb n="080556"/>Undercutting. Might chance on a pair in the railway lost property office.
@@ -579,7 +579,7 @@
 <lb n="080578"/>you know you're not to: what's parallax? Show this gentleman the door.</said></p>
 <p><lb n="080579"/><said who="lb" aloud="false">Ah.</said></p>
 <p><lb n="080580"/>His hand fell to his side again.</p>
-<p><lb n="080581"/><said who="lb" aloud="false">Never know anything about it. Waste of time. <seg type="neologism">Gasballs</seg> spinning
+<p><lb n="080581"/><said who="lb" aloud="false">Never know anything about it. Waste of time. <distinct type="nonstandard-compound">Gasballs</distinct> spinning
 <lb n="080582"/>about, crossing each other, passing. Same old dingdong always. Gas: then
 <lb n="080583"/>solid: then world: then cold: then dead shell drifting around, frozen rock,
 <lb n="080584"/>like that pineapple rock. The moon. Must be a new moon out, she said. I
@@ -591,7 +591,7 @@
 <lb n="080590"/>other side of her. Elbow, arm. He. Glowworm's la-amp is gleaming, love.
 <lb n="080591"/>Touch. Fingers. Asking. Answer. Yes.</said></p>
 <p><lb n="080592"/><said who="lb" aloud="false">Stop. Stop. If it was it was. Must.</said></p>
-<p><lb n="080593"/>Mr Bloom, <seg type="neologism">quickbreathing,</seg> slowlier walking passed Adam court.</p>
+<p><lb n="080593"/>Mr Bloom, <distinct type="nonstandard-compound">quickbreathing</distinct>, slowlier walking passed Adam court.</p>
 <p><lb n="080594"/>With <said who="lb" aloud="false">ha quiet keep quiet</said> relief his eyes took note <said who="lb" aloud="false">this is the street here
 <lb n="080595"/>middle of the day</said> of Bob Doran's bottle shoulders. <said who="lb" aloud="false">On his annual bend,
 <lb n="080596"/>M'Coy said. They drink in order to say or do something or <foreign xml:lang="fr">cherchez la
@@ -600,46 +600,46 @@
 <p><lb n="080599"/><said who="lb" aloud="false">Yes. Thought so. Sloping into the Empire. Gone. Plain soda would do
 <lb n="080600"/>him good. Where Pat Kinsella had his Harp theatre before Whitbred ran
 <lb n="080601"/>the Queen's. Broth of a boy. Dion Boucicault business with his
-<lb n="080602"/>harvestmoon face in a poky bonnet. Three Purty Maids from School. How
+  <lb n="080602"/><distinct type="nonstandard-compound">harvestmoon</distinct> face in a poky bonnet. Three Purty Maids from School. How
 <lb n="080603"/>time flies, eh? Showing long red pantaloons under his skirts. Drinkers,
 <lb n="080604"/>drinking, laughed spluttering, their drink against their breath. More power,
 <lb n="080605"/>Pat. Coarse red: fun for drunkards: guffaw and smoke. Take off that white
 <lb n="080606"/>hat. His parboiled eyes. Where is he now? Beggar somewhere. The harp
 <lb n="080607"/>that once did starve us all.</said></p>
-<p><lb n="080608"/><said who="lb" aloud="false">I was happier then. Or was that I? Or am I now I? <seg type="neologism">Twentyeight</seg> I was.
-<lb n="080609"/>She <seg type="neologism">twentythree.</seg> When we left Lombard street west something changed.
+<p><lb n="080608"/><said who="lb" aloud="false">I was happier then. Or was that I? Or am I now I? <distinct type="compound">Twentyeight</distinct> I was.
+<lb n="080609"/>She <distinct type="compound">twentythree</distinct>. When we left Lombard street west something changed.
 <lb n="080610"/>Could never like it again after Rudy. Can't bring back time. Like holding
 <lb n="080611"/>water in your hand. Would you go back to then? Just beginning then.
 <lb n="080612"/>Would you? Are you not happy in your home you poor little naughty boy?
 <lb n="080613"/>Wants to sew on buttons for me. I must answer. Write it in the library.</said></p>
 <p><lb n="080614"/>Grafton street gay with housed awnings lured his senses. Muslin
-<lb n="080615"/>prints, <seg type="neologism">silkdames</seg> and dowagers, jingle of harnesses, <seg type="neologism">hoofthuds</seg> <seg type="neologism">lowringing</seg>
+<lb n="080615"/>prints, <distinct type="nonstandard-compound">silkdames</distinct> and dowagers, jingle of harnesses, <distinct type="nonstandard-compound">hoofthuds</distinct> <distinct type="nonstandard-compound">lowringing</distinct>
 <lb n="080616"/>in the baking causeway. <said who="lb" aloud="false">Thick feet that woman has in the white stockings.
-<lb n="080617"/>Hope the rain mucks them up on her. <seg type="neologism">Countrybred</seg> chawbacon. All the beef
+<lb n="080617"/>Hope the rain mucks them up on her. <distinct type="nonstandard-compound">Countrybred</distinct> <distinct type="nonstandard-compound">chawbacon</distinct>. All the beef
 <lb n="080618"/>to the heels were in. Always gives a woman clumsy feet. Molly looks out of
 <lb n="080619"/>plumb.</said></p>
 <p><lb n="080620"/>He passed, dallying, the windows of Brown Thomas, silk mercers.
 <lb n="080621"/><said who="lb" aloud="false">Cascades of ribbons. Flimsy China silks. A tilted urn poured from its mouth
-<lb n="080622"/>a flood of <seg type="neologism">bloodhued</seg> poplin: lustrous blood. The huguenots brought that
+<lb n="080622"/>a flood of <distinct type="nonstandard-compound">bloodhued</distinct> poplin: lustrous blood. The huguenots brought that
 <lb n="080623"/>here. <quote xml:lang="it">Lacaus esant tara tara.</quote> Great chorus that. <quote>Taree tara.</quote> Must be washed
 <lb n="080624"/>in rainwater. Meyerbeer. <quote>Tara: bom bom bom.</quote></said></p>
 <p><lb n="080625"/><said who="lb" aloud="false">Pincushions. I'm a long time threatening to buy one. Sticking them all
 <lb n="080626"/>over the place. Needles in window curtains.</said></p>
 <p><lb n="080627"/>He bared slightly his left forearm. <said who="lb" aloud="false">Scrape: nearly gone. Not today
 <lb n="080628"/>anyhow. Must go back for that lotion. For her birthday perhaps.
-<lb n="080629"/><seg type="neologism">Junejulyaugseptember</seg> eighth. Nearly three months off. Then she mightn't
+<lb n="080629"/><distinct type="nonstandard-compound">Junejulyaugseptember</distinct> eighth. Nearly three months off. Then she mightn't
 <lb n="080630"/>like it. Women won't pick up pins. Say it cuts lo.</said></p>
 <p><lb n="080631"/>Gleaming silks, petticoats on slim brass rails, rays of flat silk
 <lb n="080632"/>stockings.</p>
 <p><lb n="080633"/><said who="lb" aloud="false">Useless to go back. Had to be. Tell me all.</said></p>
-<p><lb n="080634"/><said who="lb" aloud="false">High voices. <seg type="neologism">Sunwarm</seg> silk. Jingling harnesses. All for a woman,
-<lb n="080635"/>home and houses, silkwebs, silver, rich fruits spicy from Jaffa. Agendath
+<p><lb n="080634"/><said who="lb" aloud="false">High voices. <distinct type="nonstandard-compound">Sunwarm</distinct> silk. Jingling harnesses. All for a woman,
+  <lb n="080635"/>home and houses, <distinct type="nonstandard-compound">silkwebs</distinct>, silver, rich fruits spicy from Jaffa. Agendath
 <lb n="080636"/>Netaim. Wealth of the world.</said></p>
 <p><lb n="080637"/>A warm human plumpness settled down on his brain. His brain
 <lb n="080638"/>yielded. Perfume of embraces all him assailed. With hungered flesh
 <lb n="080639"/>obscurely, he mutely craved to adore.</p>
 <p><lb n="080640"/><said who="lb" aloud="false">Duke street. Here we are. Must eat. The Burton. Feel better then.</said></p>
-<p><lb n="080641"/>He turned Combridge's corner, still pursued. Jingling, hoofthuds.
+<p><lb n="080641"/>He turned Combridge's corner, still pursued. Jingling, <distinct type="nonstandard-compound">hoofthuds</distinct>.
 <lb n="080642"/>Perfumed bodies, warm, full. All kissed, yielded: in deep summer fields,
 <lb n="080643"/>tangled pressed grass, in trickling hallways of tenements, along sofas,
 <lb n="080644"/>creaking beds.
@@ -649,46 +649,46 @@
 <lb n="080648"/><said who="uls">―My boy!</said>
 <lb n="080649"/><said who="uls">―Love!</said></p>
 <p><lb n="080650"/>His heart astir he pushed in the door of the Burton restaurant. Stink
-<lb n="080651"/>gripped his trembling breath: <said who="lb" aloud="false">pungent <seg type="neologism">meatjuice,</seg> slush of greens. See the
+<lb n="080651"/>gripped his trembling breath: <said who="lb" aloud="false">pungent <distinct type="nonstandard-compound">meatjuice</distinct>, slush of greens. See the
 <lb n="080652"/>animals feed.</said></p>
 <p><lb n="080653"/><said who="lb" aloud="false">Men, men, men.</said></p>
 <p><lb n="080654"/>Perched on high stools by the bar, hats shoved back, at the tables
-<lb n="080655"/>calling for more bread no charge, swilling, wolfing gobfuls of sloppy food,
-<lb n="080656"/>their eyes bulging, wiping wetted moustaches. A pallid suetfaced young man
+<lb n="080655"/>calling for more bread no charge, swilling, wolfing <distinct type="dialect">gobfuls</distinct> of sloppy food,
+<lb n="080656"/>their eyes bulging, wiping wetted moustaches. A pallid <distinct type="nonstandard-compound">suetfaced</distinct> young man
 <lb n="080657"/>polished his tumbler knife fork and spoon with his napkin. <said who="lb" aloud="false">New set of
-<lb n="080658"/>microbes.</said> A man with an infant's <seg type="neologism">saucestained</seg> napkin tucked round him
+<lb n="080658"/>microbes.</said> A man with an infant's <distinct type="nonstandard-compound">saucestained</distinct> napkin tucked round him
 <lb n="080659"/>shovelled gurgling soup down his gullet. <said who="lb" aloud="false">A man spitting back on his plate:
-<lb n="080660"/><seg type="neologism">halfmasticated</seg> gristle: gums: no teeth to <seg type="neologism">chewchewchew</seg> it. Chump chop
-<lb n="080661"/>from the grill. Bolting to get it over. Sad booser's eyes. Bitten off more than
+<lb n="080660"/><distinct type="nonstandard-compound">halfmasticated</distinct> gristle: gums: no teeth to <distinct type="nonstandard-compound">chewchewchew</distinct> it. Chump chop
+<lb n="080661"/>from the grill. Bolting to get it over. Sad <distinct type="dialect">booser's</distinct> eyes. Bitten off more than
 <lb n="080662"/>he can chew. Am I like that? See ourselves as others see us. Hungry man is
 <lb n="080663"/>an angry man. Working tooth and jaw. Don't! O! A bone! That last pagan
-<lb n="080664"/>king of Ireland Cormac in the <seg type="neologism">schoolpoem</seg> choked himself at Sletty
+<lb n="080664"/>king of Ireland Cormac in the <distinct type="nonstandard-compound">schoolpoem</distinct> choked himself at Sletty
 <lb n="080665"/>southward of the Boyne. Wonder what he was eating. Something
-<lb n="080666"/>galoptious. Saint Patrick converted him to Christianity. Couldn't swallow it
+  <lb n="080666"/><distinct type="dialect">galoptious</distinct>. Saint Patrick converted him to Christianity. Couldn't swallow it
 <lb n="080667"/>all however.</said>
 <lb n="080668"/><said who="bds">―Roast beef and cabbage.</said>
 <lb n="080669"/><said who="bds">―One stew.</said></p>
-<p><lb n="080670"/><said who="lb" aloud="false">Smells of men.</said> Spaton sawdust, sweetish warmish <seg type="neologism">cigarettesmoke,</seg>
+<p><lb n="080670"/><said who="lb" aloud="false">Smells of men.</said> Spaton sawdust, sweetish warmish <distinct type="nonstandard-compound">cigarettesmoke</distinct>,
 <lb n="080671"/>reek of plug, spilt beer, men's beery piss, the stale of ferment.</p>
 <p><lb n="080672"/>His gorge rose.</p>
 <p><lb n="080673"/><said who="lb" aloud="false">Couldn't eat a morsel here. Fellow sharpening knife and fork to eat
 <lb n="080674"/>all before him, old chap picking his tootles. Slight spasm, full, chewing the
 <lb n="080675"/>cud. Before and after. Grace after meals. Look on this picture then on that.
-<lb n="080676"/>Scoffing up <seg type="neologism">stewgravy</seg> with sopping sippets of bread. Lick it off the plate,
+<lb n="080676"/>Scoffing up <distinct type="nonstandard-compound">stewgravy</distinct> with sopping sippets of bread. Lick it off the plate,
 <lb n="080677"/>man! Get out of this.</said></p>
 <p><lb n="080678"/>He gazed round the stooled and tabled eaters, tightening the wings of
 <lb n="080679"/>his nose.
 <lb n="080680"/><said who="bds">―Two stouts here.</said>
 <lb n="080681"/><said who="bds">―One corned and cabbage.</said></p>
-<p><lb n="080682"/><said who="lb" aloud="false">That fellow ramming a knifeful of cabbage down as if his life
+<p><lb n="080682"/><said who="lb" aloud="false">That fellow ramming a <distinct type="nonstandard-compound">knifeful</distinct> of cabbage down as if his life
 <lb n="080683"/>depended on it. Good stroke. Give me the fidgets to look. Safer to eat from
 <lb n="080684"/>his three hands. Tear it limb from limb. Second nature to him. Born with a
 <lb n="080685"/>silver knife in his mouth. That's witty, I think. Or no. Silver means born
 <lb n="080686"/>rich. Born with a knife. But then the allusion is lost.</said></p>
-<p><lb n="080687"/>An <seg type="neologism">illgirt</seg> server gathered sticky clattering plates. Rock, the head
+<p><lb n="080687"/>An <distinct type="nonstandard-compound">illgirt</distinct> server gathered sticky clattering plates. Rock, the head
 <lb n="080688"/>bailiff, standing at the bar blew the foamy crown from his tankard. <said who="lb" aloud="false">Well up:
 <lb n="080689"/>it splashed yellow near his boot.</said> A diner, knife and fork upright, elbows on
-<lb n="080690"/>table, ready for a second helping stared towards the foodlift across his
+<lb n="080690"/>table, ready for a second helping stared towards the <distinct type="nonstandard-compound">foodlift</distinct> across his
 <lb n="080691"/>stained square of newspaper. <said who="lb" aloud="false">Other chap telling him something with his
 <lb n="080692"/>mouth full. Sympathetic listener. Table talk. I munched hum un thu
 <lb n="080693"/>Unchster Bunk un Munchday. Ha? Did you, faith?</said></p>
@@ -699,39 +699,39 @@
 <lb n="080698"/>Stopgap. Keep me going. Had a good breakfast.</said>
 <lb n="080699"/><said who="bds">―Roast and mashed here.</said>
 <lb n="080700"/><said who="bds">―Pint of stout.</said></p>
-<p><lb n="080701"/><said who="lb" aloud="false">Every fellow for his own, tooth and nail. Gulp. Grub. Gulp. Gobstuff.</said></p>
+<p><lb n="080701"/><said who="lb" aloud="false">Every fellow for his own, tooth and nail. Gulp. Grub. Gulp. <distinct type="nonstandard-compound">Gobstuff</distinct>.</said></p>
 <p><lb n="080702"/>He came out into clearer air and turned back towards Grafton street.
 <lb n="080703"/><said who="lb" aloud="false">Eat or be eaten. Kill! Kill!</said></p>
 <p><lb n="080704"/><said who="lb" aloud="false">Suppose that communal kitchen years to come perhaps. All trotting
-<lb n="080705"/>down with porringers and tommycans to be filled. Devour contents in the
+  <lb n="080705"/>down with porringers and <distinct type="nonstandard-compound">tommycans</distinct> to be filled. Devour contents in the
 <lb n="080706"/>street. John Howard Parnell example the provost of Trinity every mother's
 <lb n="080707"/>son don't talk of your provosts and provost of Trinity women and children
-<lb n="080708"/>cabmen priests parsons fieldmarshals archbishops. From Ailesbury road,
+<lb n="080708"/>cabmen priests parsons <distinct type="nonstandard-compound">fieldmarshals</distinct> archbishops. From Ailesbury road,
 <lb n="080709"/>Clyde road, artisans' dwellings, north Dublin union, lord mayor in his
-<lb n="080710"/>gingerbread coach, old queen in a bathchair. My plate's empty. After you
-<lb n="080711"/>with our incorporated drinkingcup. Like sir Philip Crampton's fountain.
+<lb n="080710"/>gingerbread coach, old queen in a <distinct type="nonstandard-compound">bathchair</distinct>. My plate's empty. After you
+  <lb n="080711"/>with our incorporated <distinct type="nonstandard-compound">drinkingcup</distinct>. Like sir Philip Crampton's fountain.
 <lb n="080712"/>Rub off the microbes with your handkerchief. Next chap rubs on a new
 <lb n="080713"/>batch with his. Father O'Flynn would make hares of them all. Have rows
 <lb n="080714"/>all the same. All for number one. Children fighting for the scrapings of the
-<lb n="080715"/>pot. Want a souppot as big as the Phoenix park. Harpooning flitches and
+  <lb n="080715"/>pot. Want a <distinct type="nonstandard-compound">souppot</distinct> as big as the Phoenix park. Harpooning flitches and
 <lb n="080716"/>hindquarters out of it. Hate people all round you. City Arms hotel <foreign xml:lang="fr">table
 <lb n="080717"/>d'hôte</foreign> she called it. Soup, joint and sweet. Never know whose thoughts
 <lb n="080718"/>you're chewing. Then who'd wash up all the plates and forks? Might be all
 <lb n="080719"/>feeding on tabloids that time. Teeth getting worse and worse.</said></p>
 <p><lb n="080720"/><said who="lb" aloud="false">After all there's a lot in that vegetarian fine flavour of things from the
-<lb n="080721"/>earth garlic of course it stinks after Italian <seg type="neologism">organgrinders</seg> crisp of onions
+<lb n="080721"/>earth garlic of course it stinks after Italian <distinct type="nonstandard-compound">organgrinders</distinct> crisp of onions
 <lb n="080722"/>mushrooms truffles. Pain to the animal too. Pluck and draw fowl.
-<lb n="080723"/>Wretched brutes there at the <seg type="neologism">cattlemarket</seg> waiting for the poleaxe to split
+<lb n="080723"/>Wretched brutes there at the <distinct type="nonstandard-compound">cattlemarket</distinct> waiting for the poleaxe to split
 <lb n="080724"/>their skulls open. Moo. Poor trembling calves. Meh. Staggering bob. Bubble
 <lb n="080725"/>and squeak. Butchers' buckets wobbly lights. Give us that brisket off the
-<lb n="080726"/>hook. Plup. Rawhead and bloody bones. Flayed <seg type="neologism">glasseyed</seg> sheep hung from
-<lb n="080727"/>their haunches, <seg type="neologism">sheepsnouts</seg> <seg type="neologism">bloodypapered</seg> snivelling <seg type="neologism">nosejam</seg> on sawdust.
+  <lb n="080726"/>hook. Plup. <distinct type="nonstandard-compound">Rawhead</distinct> and bloody bones. Flayed <distinct type="nonstandard-compound">glasseyed</distinct> sheep hung from
+<lb n="080727"/>their haunches, <distinct type="nonstandard-compound">sheepsnouts</distinct> <distinct type="nonstandard-compound">bloodypapered</distinct> snivelling <distinct type="nonstandard-compound">nosejam</distinct> on sawdust.
 <lb n="080728"/>Top and lashers going out. Don't maul them pieces, young one.</said></p>
 <p><lb n="080729"/><said who="lb" aloud="false">Hot fresh blood they prescribe for decline. Blood always needed.
-<lb n="080730"/>Insidious. Lick it up <seg type="neologism">smokinghot,</seg> thick sugary. Famished ghosts.</said></p>
+<lb n="080730"/>Insidious. Lick it up <distinct type="nonstandard-compound">smokinghot</distinct>, thick sugary. Famished ghosts.</said></p>
 <p><lb n="080731"/><said who="lb" aloud="false">Ah, I'm hungry.</said></p>
 <p><lb n="080732"/>He entered Davy Byrne's. <said who="lb" aloud="false">Moral pub. He doesn't chat. Stands a
-<lb n="080733"/>drink now and then. But in <seg type="neologism">leapyear</seg> once in four. Cashed a cheque for me
+<lb n="080733"/>drink now and then. But in <distinct type="nonstandard-compound">leapyear</distinct> once in four. Cashed a cheque for me
 <lb n="080734"/>once.</said></p>
 <p><lb n="080735"/><said who="lb" aloud="false">What will I take now?</said> He drew his watch. <said who="lb" aloud="false">Let me see now.
 <lb n="080736"/>Shandygaff?</said>
@@ -740,7 +740,7 @@
 <lb n="080739"/><said who="nf">―How's things?</said>
 <lb n="080740"/><said who="lb">―Tiptop ... Let me see. I'll take a glass of burgundy and ... let me see.</said></p>
 <p><lb n="080741"/><said who="lb" aloud="false">Sardines on the shelves. Almost taste them by looking. Sandwich?
-<lb n="080742"/>Ham and his descendants musterred and bred there. Potted meats. What is
+  <lb n="080742"/>Ham and his descendants <distinct type="nonstandard-compound">musterred</distinct> and bred there. Potted meats. What is
 <lb n="080743"/>home without Plumtree's potted meat? Incomplete. What a stupid ad!
 <lb n="080744"/>Under the obituary notices they stuck it. All up a plumtree. Dignam's
 <lb n="080745"/>potted meat. Cannibals would with lemon and rice. White missionary too
@@ -787,19 +787,19 @@
 <lb n="080786"/><said who="nf">―Ay, now I remember,</said> Nosey Flynn said, putting his hand in his pocket to
 <lb n="080787"/>scratch his groin. <said who="nf">Who is this was telling me? Isn't Blazes Boylan mixed up
 <lb n="080788"/>in it?</said></p>
-<p><lb n="080789"/>A warm shock of air heat of mustard hanched on Mr Bloom's heart.
+  <p><lb n="080789"/>A warm shock of air heat of mustard <distinct type="dialect">hanched</distinct> on Mr Bloom's heart.
 <lb n="080790"/>He raised his eyes and met the stare of a bilious clock. <said who="lb" aloud="false">Two. Pub clock five
 <lb n="080791"/>minutes fast. Time going on. Hands moving. Two. Not yet.</said></p>
 <p><lb n="080792"/>His midriff yearned then upward, sank within him, yearned more
 <lb n="080793"/>longly, longingly.</p>
 <p><lb n="080794"/><said who="lb" aloud="false">Wine.</said></p>
-<p><lb n="080795"/>He <seg type="neologism">smellsipped</seg> the cordial juice and, bidding his throat strongly to
+<p><lb n="080795"/>He <distinct type="nonstandard-compound">smellsipped</distinct> the cordial juice and, bidding his throat strongly to
 <lb n="080796"/>speed it, set his wineglass delicately down.
 <lb n="080797"/><said who="lb">―Yes,</said> he said. <said who="lb">He's the organiser in point of fact.</said></p>
 <p><lb n="080798"/><said who="lb" aloud="false">No fear: no brains.</said></p>
 <p><lb n="080799"/>Nosey Flynn snuffled and scratched. Flea having a good square meal.
 <lb n="080800"/><said who="nf">―He had a good slice of luck, Jack Mooney was telling me, over that
-<lb n="080801"/>boxingmatch Myler Keogh won again that soldier in the Portobello
+  <lb n="080801"/><distinct type="nonstandard-compound">boxingmatch</distinct> Myler Keogh won again that soldier in the Portobello
 <lb n="080802"/>barracks. By God, he had the little kipper down in the county Carlow he
 <lb n="080803"/>was telling me ...</said></p>
 <p><lb n="080804"/><said who="lb" aloud="false">Hope that dewdrop doesn't come down into his glass. No, snuffled it
@@ -807,7 +807,7 @@
 <lb n="080806"/><said who="nf">―For near a month, man, before it came off. Sucking duck eggs by God till
 <lb n="080807"/>further orders. Keep him off the boose, see? O, by God, Blazes is a hairy
 <lb n="080808"/>chap.</said></p>
-<p><lb n="080809"/>Davy Byrne came forward from the hindbar in <seg type="neologism">tuckstitched</seg>
+<p><lb n="080809"/>Davy Byrne came forward from the <distinct type="nonstandard-compound">hindbar</distinct> in <distinct type="nonstandard-compound">tuckstitched</distinct>
 <lb n="080810"/>shirtsleeves, cleaning his lips with two wipes of his napkin. <said who="lb" aloud="false">Herring's blush.
 <lb n="080811"/>Whose smile upon each feature plays with such and such replete. Too much
 <lb n="080812"/>fat on the parsnips.</said>
@@ -832,7 +832,7 @@
 <lb n="080831"/>Epsom. Morny Cannon is riding him. I could have got seven to one against
 <lb n="080832"/><name type="horse" rend="none">Saint Amant</name> a fortnight before.</said>
 <lb n="080833"/><said who="db">―That so?</said> Davy Byrne said.</p>
-<p><lb n="080834"/>He went towards the window and, taking up the <seg type="neologism">pettycash</seg> book,
+<p><lb n="080834"/>He went towards the window and, taking up the <distinct type="nonstandard-compound">pettycash</distinct> book,
 <lb n="080835"/>scanned its pages.
 <lb n="080836"/><said who="nf">―I could, faith,</said> Nosey Flynn said, snuffling. <said who="nf">That was a rare bit of
 <lb n="080837"/>horseflesh. <name type="horse" rend="none">Saint Frusquin</name> was her sire. She won in a thunderstorm,
@@ -849,7 +849,7 @@
 <lb n="080848"/>stomach's Skye terrier in the City Arms hotel. Molly fondling him in her
 <lb n="080849"/>lap. O, the big doggybowwowsywowsy!</said></p>
 <p><lb n="080850"/>Wine soaked and softened rolled pith of bread mustard a moment
-<lb n="080851"/>mawkish cheese. <said who="lb" aloud="false">Nice wine it is. Taste it better because I'm not thirsty. Bath
+<lb n="080851"/><distinct type="archaism">mawkish<distinct> cheese. <said who="lb" aloud="false">Nice wine it is. Taste it better because I'm not thirsty. Bath
 <lb n="080852"/>of course does that. Just a bite or two. Then about six o'clock I can. Six.
 <lb n="080853"/>Six. Time will be gone then. She.</said></p>
 <p><lb n="080854"/>Mild fire of wine kindled his veins. <said who="lb" aloud="false">I wanted that badly. Felt so off
@@ -860,7 +860,7 @@
 <lb n="080859"/>didn't know risky putting anything into your mouth. Poisonous berries.
 <lb n="080860"/>Johnny Magories. Roundness you think good. Gaudy colour warns you
 <lb n="080861"/>off. One fellow told another and so on. Try it on the dog first. Led on by the
-<lb n="080862"/>smell or the look. Tempting fruit. Ice cones. Cream. Instinct. <seg type="neologism">Orangegroves</seg>
+<lb n="080862"/>smell or the look. Tempting fruit. Ice cones. Cream. Instinct. <distinct type="nonstandard-compound">Orangegroves</distinct>
 <lb n="080863"/>for instance. Need artificial irrigation. Bleibtreustrasse. Yes but what about
 <lb n="080864"/>oysters. Unsightly like a clot of phlegm. Filthy shells. Devil to open them
 <lb n="080865"/>too. Who found them out? Garbage, sewage they feed on. Fizz and Red
@@ -880,13 +880,13 @@
 <lb n="080879"/>Hermit with a platter of pulse keep down the stings of the flesh. Know me
 <lb n="080880"/>come eat with me. Royal sturgeon high sheriff, Coffey, the butcher, right to
 <lb n="080881"/>venisons of the forest from his ex. Send him back the half of a cow. Spread
-<lb n="080882"/>I saw down in the Master of the Rolls' kitchen area. <seg type="neologism">Whitehatted</seg> <foreign xml:lang="fr">chef</foreign> like a
+<lb n="080882"/>I saw down in the Master of the Rolls' kitchen area. <distinct type="nonstandard-compound">Whitehatted</distinct> <foreign xml:lang="fr">chef</foreign> like a
 <lb n="080883"/>rabbi. Combustible duck. Curly cabbage <foreign xml:lang="fr">à la duchesse de Parme</foreign>. Just as
 <lb n="080884"/>well to write it on the bill of fare so you can know what you've eaten. Too
 <lb n="080885"/>many drugs spoil the broth. I know it myself. Dosing it with Edwards'
 <lb n="080886"/>desiccated soup. Geese stuffed silly for them. Lobsters boiled alive. Do
 <lb n="080887"/>ptake some ptarmigan. Wouldn't mind being a waiter in a swell hotel. Tips,
-<lb n="080888"/>evening dress, <seg type="neologism">halfnaked</seg> ladies. May I tempt you to a little more filleted
+<lb n="080888"/>evening dress, <distinct type="compound">halfnaked</distinct> ladies. May I tempt you to a little more filleted
 <lb n="080889"/>lemon sole, miss Dubedat? Yes, do bedad. And she did bedad. Huguenot
 <lb n="080890"/>name I expect that. A miss Dubedat lived in Killiney, I remember. <foreign xml:lang="fr">Du de la</foreign>
 <lb n="080891"/>French. Still it's the same fish perhaps old Micky Hanlon of Moore street
@@ -899,19 +899,19 @@
 <lb n="080898"/>winepress grapes of Burgundy. Sun's heat it is. Seems to a secret touch
 <lb n="080899"/>telling me memory. <said who="lb" aloud="false">Touched his sense moistened remembered.</said> Hidden
 <lb n="080900"/>under wild ferns on Howth below us bay sleeping: sky. No sound. The sky.
-<lb n="080901"/>The bay purple by the Lion's head. Green by Drumleck. Yellowgreen
+<lb n="080901"/>The bay purple by the Lion's head. Green by Drumleck. <distinct type="nonstandard-compound">Yellowgreen</distinct>
 <lb n="080902"/>towards Sutton. Fields of undersea, the lines faint brown in grass, buried
 <lb n="080903"/>cities. Pillowed on my coat she had her hair, earwigs in the heather scrub
-<lb n="080904"/>my hand under her nape, you'll toss me all. O wonder! <seg type="neologism">Coolsoft</seg> with
+<lb n="080904"/>my hand under her nape, you'll toss me all. O wonder! <distinct type="nonstandard-compound">Coolsoft</distinct> with
 <lb n="080905"/>ointments her hand touched me, caressed: her eyes upon me did not turn
 <lb n="080906"/>away. Ravished over her I lay, full lips full open, kissed her mouth. Yum.
-<lb n="080907"/>Softly she gave me in my mouth the seedcake warm and chewed. Mawkish
-<lb n="080908"/>pulp her mouth had mumbled <seg type="neologism">sweetsour</seg> of her spittle. Joy: I ate it: joy.
-<lb n="080909"/>Young life, her lips that gave me pouting. Soft warm sticky <seg type="neologism">gumjelly</seg> lips.
+<lb n="080907"/>Softly she gave me in my mouth the seedcake warm and chewed. <distinct type="archaism">Mawkish</distinct>
+<lb n="080908"/>pulp her mouth had mumbled <distinct type="nonstandard-compound">sweetsour</distinct> of her spittle. Joy: I ate it: joy.
+<lb n="080909"/>Young life, her lips that gave me pouting. Soft warm sticky <distinct type="nonstandard-compound">gumjelly</distinct> lips.
 <lb n="080910"/>Flowers her eyes were, take me, willing eyes. Pebbles fell. She lay still. A
-<lb n="080911"/>goat. No-one. High on Ben Howth rhododendrons a <seg type="neologism">nannygoat</seg> walking
+<lb n="080911"/>goat. No-one. High on Ben Howth rhododendrons a <distinct type="nonstandard-compound">nannygoat</distinct> walking
 <lb n="080912"/>surefooted, dropping currants. Screened under ferns she laughed
-<lb n="080913"/><seg type="neologism">warmfolded.</seg> Wildly I lay on her, kissed her: eyes, her lips, her stretched
+<lb n="080913"/><distinct type="nonstandard-compound">warmfolded</distinct>. Wildly I lay on her, kissed her: eyes, her lips, her stretched
 <lb n="080914"/>neck beating, woman's breasts full in her blouse of nun's veiling, fat nipples
 <lb n="080915"/>upright. Hot I tongued her. She kissed me. I was kissed. All yielding she
 <lb n="080916"/>tossed my hair. Kissed, she kissed me.</said></p>
@@ -967,13 +967,13 @@
 <lb n="080966"/><said who="nf">―O, it's a fine order,</said> Nosey Flynn said. <said who="nf">They stick to you when you're
 <lb n="080967"/>down. I know a fellow was trying to get into it. But they're as close as damn
 <lb n="080968"/>it. By God they did right to keep the women out of it.</said></p>
-<p><lb n="080969"/>Davy Byrne <seg type="neologism">smiledyawnednodded</seg> all in one:
+<p><lb n="080969"/>Davy Byrne <distinct type="nonstandard-compound">smiledyawnednodded</distinct> all in one:
 <lb n="080970"/><said who="db">―Iiiiiichaaaaaaach!</said>
 <lb n="080971"/><said who="nf">―There was one woman,</said> Nosey Flynn said, <said who="nf">hid herself in a clock to find
 <lb n="080972"/>out what they do be doing. But be damned but they smelt her out and swore
 <lb n="080973"/>her in on the spot a master mason. That was one of the saint Legers of
 <lb n="080974"/>Doneraile.</said></p>
-<p><lb n="080975"/>Davy Byrne, sated after his yawn, said with tearwashed eyes:
+<p><lb n="080975"/>Davy Byrne, sated after his yawn, said with <distinct type="nonstandard-compound">tearwashed</distinct> eyes:
 <lb n="080976"/><said who="db">―And is that a fact? Decent quiet man he is. I often saw him in here and I
 <lb n="080977"/>never once saw him – you know, over the line.</said>
 <lb n="080978"/><said who="nf">―God Almighty couldn't make him drunk,</said> Nosey Flynn said firmly. <said who="nf">Slips
@@ -1003,15 +1003,15 @@
 <lb n="081002"/>hiccupped.
 <lb n="081003"/><said who="tr">―Would I trouble you for a glass of fresh water, Mr Byrne?</said> he said.
 <lb n="081004"/><said who="db">―Certainly, sir.</said></p>
-<p><lb n="081005"/>Paddy Leonard eyed his alemates.
+  <p><lb n="081005"/>Paddy Leonard eyed his <distinct type="nonstandard-compound">alemates</distinct>.
 <lb n="081006"/><said who="pl">―Lord love a duck,</said> he said. <said who="pl">Look at what I'm standing drinks to! Cold
-<lb n="081007"/>water and gingerpop! Two fellows that would suck whisky off a sore leg.
+    <lb n="081007"/>water and <distinct type="nonstandard-compound">gingerpop</distinct>! Two fellows that would suck whisky off a sore leg.
 <lb n="081008"/>He has some bloody horse up his sleeve for the Gold cup. A dead snip.</said>
 <lb n="081009"/><said who="nf">―<name type="horse" rend="none">Zinfandel</name> is it?</said> Nosey Flynn asked.</p>
 <p><lb n="081010"/>Tom Rochford spilt powder from a twisted paper into the water set
 <lb n="081011"/>before him.
 <lb n="081012"/><said who="tr">―That cursed dyspepsia,</said> he said before drinking.
-<lb n="081013"/><said who="db">―Breadsoda is very good,</said> Davy Byrne said.</p>
+  <lb n="081013"/><said who="db">―<distinct type="nonstandard-compound">Breadsoda</distinct> is very good,</said> Davy Byrne said.</p>
 <p><lb n="081014"/>Tom Rochford nodded and drank.
 <lb n="081015"/><said who="unclear: likely Nosey Flynn">―Is it <name type="horse" rend="none">Zinfandel?</name></said>
 <lb n="081016"/><said who="bl">―Say nothing!</said> Bantam Lyons winked. <said who="bl">I'm going to plunge five bob on my
@@ -1025,7 +1025,7 @@
 <lb n="081024"/><said who="pl">―Prrwht!</said> Paddy Leonard said with scorn. <said who="pl">Mr Byrne, sir, we'll take two of
 <lb n="081025"/>your small Jamesons after that and a ....</said>
 <lb n="081026"/><said who="db">―Stone ginger,</said> Davy Byrne added civilly.
-<lb n="081027"/><said who="pl">―Ay,</said> Paddy Leonard said. <said who="pl">A suckingbottle for the baby.</said></p>
+<lb n="081027"/><said who="pl">―Ay,</said> Paddy Leonard said. <said who="pl">A <distinct type="nonstandard-compound">suckingbottle</distinct> for the baby.</said></p>
 <p><lb n="081028"/>Mr Bloom walked towards Dawson street, his tongue brushing his
 <lb n="081029"/>teeth smooth. <said who="lb" aloud="false">Something green it would have to be: spinach, say. Then with
 <lb n="081030"/>those Röntgen rays searchlight you could.</said></p>
@@ -1043,7 +1043,7 @@
 <p><lb n="081042"/><said who="lb" aloud="false">Feel better. Burgundy. Good pick me up. Who distilled first? Some
 <lb n="081043"/>chap in the blues. Dutch courage. That <title type="newspaper">Kilkenny People</title> in the national
 <lb n="081044"/>library now I must.</said></p>
-<p><lb n="081045"/>Bare clean closestools waiting in the window of William Miller,
+  <p><lb n="081045"/>Bare clean <distinct type="nonstandard-compound">closestools</distinct> waiting in the window of William Miller,
 <lb n="081046"/>plumber, turned back his thoughts. <said who="lb" aloud="false">They could: and watch it all the way
 <lb n="081047"/>down, swallow a pin sometimes come out of the ribs years after, tour round
 <lb n="081048"/>the body changing biliary duct spleen squirting liver gastric juice coils of
@@ -1057,12 +1057,12 @@
 <p><lb n="081056"/><said who="lb" aloud="false">Doesn't go properly.</said></p>
 <p><lb n="081057"/><said who="lb" aloud="false">Keyes: two months if I get Nannetti to. That'll be two pounds ten
 <lb n="081058"/>about two pounds eight. Three Hynes owes me. Two eleven. Prescott's
-<lb n="081059"/>dyeworks van over there. If I get Billy Prescott's ad: two fifteen. Five
+  <lb n="081059"/><distinct type="nonstandard-compound">dyeworks</distinct> van over there. If I get Billy Prescott's ad: two fifteen. Five
 <lb n="081060"/>guineas about. On the pig's back.</said></p>
 <p><lb n="081061"/><said who="lb" aloud="false">Could buy one of those silk petticoats for Molly, colour of her new
 <lb n="081062"/>garters.</said></p>
 <p><lb n="081063"/><said who="lb" aloud="false">Today. Today. Not think.</said></p>
-<p><lb n="081064"/><said who="lb" aloud="false">Tour the south then. What about English wateringplaces? Brighton,
+<p><lb n="081064"/><said who="lb" aloud="false">Tour the south then. What about English <distinct type="nonstandard-compound">wateringplaces</distinct>? Brighton,
 <lb n="081065"/>Margate. Piers by moonlight. Her voice floating out. Those lovely seaside
 <lb n="081066"/>girls. Against John Long's a drowsing loafer lounged in heavy thought,
 <lb n="081067"/>gnawing a crusted knuckle. Handy man wants job. Small wages. Will eat
@@ -1076,14 +1076,14 @@
 <p><lb n="081075"/>A blind stripling stood tapping the curbstone with his slender cane.
 <lb n="081076"/><said who="lb" aloud="false">No tram in sight. Wants to cross.</said>
 <lb n="081077"/><said who="lb">―Do you want to cross?</said> Mr Bloom asked.</p>
-<p><lb n="081078"/>The blind stripling did not answer. His wallface frowned weakly. He
+<p><lb n="081078"/>The blind stripling did not answer. His <distinct type="nonstandard-compound">wallface</distinct> frowned weakly. He
 <lb n="081079"/>moved his head uncertainly.
 <lb n="081080"/><said who="lb">―You're in Dawson street,</said> Mr Bloom said. <said who="lb">Molesworth street is opposite.
 <lb n="081081"/>Do you want to cross? There's nothing in the way.</said></p>
 <p><lb n="081082"/>The cane moved out trembling to the left. Mr Bloom's eye followed its
-<lb n="081083"/>line and saw again the dyeworks' van drawn up before Drago's. <said who="lb" aloud="false">Where I
+  <lb n="081083"/>line and saw again the <distinct type="nonstandard-compound">dyeworks'</distinct> van drawn up before Drago's. <said who="lb" aloud="false">Where I
 <lb n="081084"/>saw his brillantined hair just when I was. Horse drooping. Driver in John
-<lb n="081085"/>Long's. Slaking his drouth.</said>
+  <lb n="081085"/>Long's. Slaking his <distinct type="dialect">drouth</distinct>.</said>
 <lb n="081086"/><said who="lb">―There's a van there,</said> Mr Bloom said, <said who="lb">but it's not moving. I'll see you
 <lb n="081087"/>across. Do you want to go to Molesworth street?</said>
 <lb n="081088"/><said who="ubst">―Yes,</said> the stripling answered. <said who="ubst">South Frederick street.</said>
@@ -1095,7 +1095,7 @@
 <lb n="081094"/><said who="lb">―The rain kept off.</said></p>
 <p><lb n="081095"/><said who="lb" aloud="false">No answer.</said></p>
 <p><lb n="081096"/><said who="lb" aloud="false">Stains on his coat. Slobbers his food, I suppose. Tastes all different for
-<lb n="081097"/>him. Have to be spoonfed first. Like a child's hand, his hand. Like Milly's
+  <lb n="081097"/>him. Have to be <distinct type="compound">spoonfed</distinct> first. Like a child's hand, his hand. Like Milly's
 <lb n="081098"/>was. Sensitive. Sizing me up I daresay from my hand. Wonder if he has a
 <lb n="081099"/>name. Van. Keep his cane clear of the horse's legs: tired drudge get his
 <lb n="081100"/>doze. That's right. Clear. Behind a bull: in front of a horse.</said>
@@ -1104,7 +1104,7 @@
 <lb n="081103"/><said who="lb">―Right now? First turn to the left.</said></p>
 <p><lb n="081104"/>The blind stripling tapped the curbstone and went on his way,
 <lb n="081105"/>drawing his cane back, feeling again.</p>
-<p><lb n="081106"/>Mr Bloom walked behind the eyeless feet, a flatcut suit of herringbone
+<p><lb n="081106"/>Mr Bloom walked behind the eyeless feet, a <distinct type="nonstandard-compound">flatcut</distinct> suit of herringbone
 <lb n="081107"/>tweed. <said who="lb" aloud="false">Poor young fellow! How on earth did he know that van was there?
 <lb n="081108"/>Must have felt it. See things in their forehead perhaps: kind of sense of
 <lb n="081109"/>volume. Weight or size of it, something blacker than the dark. Wonder
@@ -1130,7 +1130,7 @@
 <lb n="081129"/>the lines, the curves. His hands on her hair, for instance. Say it was black,
 <lb n="081130"/>for instance. Good. We call it black. Then passing over her white skin.
 <lb n="081131"/>Different feel perhaps. Feeling of white.</said></p>
-<p><lb n="081132"/><said who="lb" aloud="false">Postoffice. Must answer. Fag today. Send her a postal order two
+<p><lb n="081132"/><said who="lb" aloud="false"><distinct type="nonstandard-compound">Postoffice</distinct>. Must answer. Fag today. Send her a postal order two
 <lb n="081133"/>shillings, half a crown. Accept my little present. Stationer's just here too.
 <lb n="081134"/>Wait. Think over it.</said></p>
 <p><lb n="081135"/>With a gentle finger he felt ever so slowly the hair combed back above
@@ -1138,13 +1138,13 @@
 <lb n="081137"/>of his right cheek. Downy hair there too. Not smooth enough. The belly is
 <lb n="081138"/>the smoothest. No-one about. There he goes into Frederick street. Perhaps
 <lb n="081139"/>to Levenston's dancing academy piano. Might be settling my braces.</said></p>
-<p><lb n="081140"/>Walking by Doran's publichouse he slid his hand between his
+  <p><lb n="081140"/>Walking by Doran's <distinct type="nonstandard-compound">publichouse</distinct> he slid his hand between his
 <lb n="081141"/>waistcoat and trousers and, pulling aside his shirt gently, felt a slack fold of
 <lb n="081142"/>his belly. <said who="lb" aloud="false">But I know it's whitey yellow. Want to try in the dark to see.</said></p>
 <p><lb n="081143"/>He withdrew his hand and pulled his dress to.</p>
 <p><lb n="081144"/><said who="lb" aloud="false">Poor fellow! Quite a boy. Terrible. Really terrible. What dreams
 <lb n="081145"/>would he have, not seeing? Life a dream for him. Where is the justice being
-<lb n="081146"/>born that way? All those women and children excursion beanfeast burned
+<lb n="081146"/>born that way? All those women and children excursion <distinct type="nonstandard-compound">beanfeast</distinct> burned
 <lb n="081147"/>and drowned in New York. Holocaust. Karma they call that transmigration
 <lb n="081148"/>for sins you did in a past life the reincarnation met him pike hoses. Dear,
 <lb n="081149"/>dear, dear. Pity, of course: but somehow you can't cotton on to them
@@ -1154,10 +1154,10 @@
 <lb n="081153"/>magnum. Tales of the bench and assizes and annals of the bluecoat school. I
 <lb n="081154"/>sentenced him to ten years. I suppose he'd turn up his nose at that stuff I
 <lb n="081155"/>drank. Vintage wine for them, the year marked on a dusty bottle. Has his
-<lb n="081156"/>own ideas of justice in the recorder's court. <seg type="neologism">Wellmeaning</seg> old man. Police
-<lb n="081157"/>chargesheets crammed with cases get their percentage manufacturing crime.
-<lb n="081158"/>Sends them to the rightabout. The devil on moneylenders. Gave Reuben J a
-<lb n="081159"/>great strawcalling. Now he's really what they call a dirty jew. Power those
+<lb n="081156"/>own ideas of justice in the recorder's court. <distinct type="nonstandard-compound">Wellmeaning</distinct> old man. Police
+  <lb n="081157"/><distinct type="nonstandard-compound">chargesheets</distinct> crammed with cases get their percentage manufacturing crime.
+  <lb n="081158"/>Sends them to the <distinct type="nonstandard-compound">rightabout</distinct>. The devil on moneylenders. Gave Reuben J a
+  <lb n="081159"/>great <distinct type="nonstandard-compound">strawcalling</distinct>. Now he's really what they call a dirty jew. Power those
 <lb n="081160"/>judges have. Crusty old topers in wigs. Bear with a sore paw. And may the
 <lb n="081161"/>Lord have mercy on your soul.</said></p>
 <p><lb n="081162"/><said who="lb" aloud="false">Hello, placard. Mirus bazaar. His Excellency the lord lieutenant.
@@ -1166,7 +1166,7 @@
 <lb n="081165"/>Ballsbridge. Drop in on Keyes. No use sticking to him like a leech. Wear
 <lb n="081166"/>out my welcome. Sure to know someone on the gate.</said></p>
 <p><lb n="081167"/>Mr Bloom came to Kildare street. <said who="lb" aloud="false">First I must. Library.</said></p>
-<p><lb n="081168"/><said who="lb" aloud="false">Straw hat in sunlight. Tan shoes. Turnedup trousers. It is. It is.</said.</p>
+<p><lb n="081168"/><said who="lb" aloud="false">Straw hat in sunlight. Tan shoes. <distinct type="nonstandard-compound">Turnedup</distinct> trousers. It is. It is.</said></p>
 <p><lb n="081169"/>His heart quopped softly. <said who="lb" aloud="false">To the right. Museum. Goddesses.</said> He
 <lb n="081170"/>swerved to the right.</p>
 <p><lb n="081171"/><said who="lb" aloud="false">Is it? Almost certain. Won't look. Wine in my face. Why did I? Too
