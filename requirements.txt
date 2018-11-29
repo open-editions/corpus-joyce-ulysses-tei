@@ -1,3 +1,2 @@
 nltk
-glob
 bs4
