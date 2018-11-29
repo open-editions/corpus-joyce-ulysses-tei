@@ -1,0 +1,3 @@
+nltk
+glob
+bs4
