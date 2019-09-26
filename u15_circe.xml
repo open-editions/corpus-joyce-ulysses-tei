@@ -144,7 +144,7 @@
 <lb n="150143"/>panting, cramming bread and chocolate into a sidepocket. From
 <lb n="150144"/>Gillen's hairdresser's window a composite portrait shows him
 <lb n="150145"/>gallant Nelson's image. A concave mirror at the side presents to him
-<lb n="150146"/>lovelorn longlost lugubru Booloohoom. Grave Gladstone sees him
+<lb n="150146"/>lovelorn longlost <distinct xml:id="#150146-lugubru">lugubru</distinct> Booloohoom. Grave Gladstone sees him
 <lb n="150147"/>level, Bloom for Bloom. He passes, struck by the stare of truculent
 <lb n="150148"/>Wellington, but in the convex mirror grin unstruck the bonham eyes
 <lb n="150149"/>and fatchuck cheekchops of jollypoldy the rixdix doldy.</stage>
@@ -1775,7 +1775,7 @@
 <sp who="bm"><speaker><lb n="151774"/>Dr Mulligan</speaker>
 <p><stage><lb n="151775"/>(in motor jerkin, green motorgoggles on his brow)</stage> Dr Bloom is bisexually
 <lb n="151776"/>abnormal. He has recently escaped from Dr Eustace's private asylum for
-<lb n="151777"/>demented gentlemen. Born out of bedlock hereditary epilepsy is present, the
+<lb n="151777"/>demented gentlemen. Born out of <distinct xml:id="#151777-bedlock">bedlock</distinct> hereditary epilepsy is present, the
 <lb n="151778"/>consequence of unbridled lust. Traces of elephantiasis have been discovered
 <lb n="151779"/>among his ascendants. There are marked symptoms of chronic
 <lb n="151780"/>exhibitionism. Ambidexterity is also latent. He is prematurely bald from
@@ -4433,7 +4433,7 @@
 <sp who="sd"><speaker><lb n="154432"/>Stephen</speaker>
 <p><stage><lb n="154433"/>(laughs emptily)</stage> My centre of gravity is displaced. I have forgotten the
 <lb n="154434"/>trick. Let us sit down somewhere and discuss. Struggle for life is the law of
-<lb n="154435"/>existence but but human philirenists, notably the tsar and the king of
+<lb n="154435"/>existence but but human <distinct xml:id="#154435-philirenists">philirenists</distinct>, notably the tsar and the king of
 <lb n="154436"/>England, have invented arbitration. <stage>(he taps his brow)</stage> But in here it is I
 <lb n="154437"/>must kill the priest and the king.</p></sp>
 <sp who="Biddy the Clap"><speaker><lb n="154438"/>Biddy the Clap</speaker>

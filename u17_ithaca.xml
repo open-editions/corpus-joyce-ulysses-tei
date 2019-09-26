@@ -721,7 +721,7 @@ in <placeName type="street">O'Connell street lower</placeName>,
 <lb n="170717"/>Stephen?</p>
 <p rend="non-indent"><lb n="170718"/>That the seeker mentioned had been a pupil of a rabbinical philosopher,
 <lb n="170719"/>name uncertain.</p>
-<p rend="non-indent"><lb n="170720"/>Were other anapocryphal illustrious sons of the law and children of a
+<p rend="non-indent"><lb n="170720"/>Were other <distinct xml:id="#170720-anapocryphal">anapocryphal</distinct> illustrious sons of the law and children of a
 <lb n="170721"/>selected or rejected race mentioned?</p>
 <p rend="non-indent"><lb n="170722"/>Felix Bartholdy Mendelssohn (composer), Baruch Spinoza (philosopher),
 <lb n="170723"/>Mendoza (pugilist), Ferdinand Lassalle (reformer, duellist).</p>
@@ -931,7 +931,7 @@ in <placeName type="street">O'Connell street lower</placeName>,
 <lb n="170926"/>explained by him to her she expressed the immediate desire to possess
 <lb n="170927"/>without gradual acquisition a fraction of his science, the moiety, the
 <lb n="170928"/>quarter, a thousandth part.</p>
-<p rend="non-indent"><lb n="170929"/>What proposal did Bloom, diambulist, father of Milly, somnambulist, make
+<p rend="non-indent"><lb n="170929"/>What proposal did Bloom, <distinct xml:id="#170929-diambulist">diambulist</distinct>, father of Milly, somnambulist, make
 <lb n="170930"/>to Stephen, noctambulist?</p>
 <p rend="non-indent"><lb n="170931"/>To pass in repose the hours intervening between Thursday (proper) and
 <lb n="170932"/>Friday (normal) on an extemporised cubicle in the apartment immediately
