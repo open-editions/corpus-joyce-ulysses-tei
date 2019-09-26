@@ -1,15 +1,15 @@
 <div type="episode" n="03">
-<p><lb n="030001"/>Ineluctable modality of the visible: at least that if no more, thought
-<lb n="030002"/>through my eyes. Signatures of all things I am here to read, seaspawn and
-<lb n="030003"/>seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust:
-<lb n="030004"/>coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was
+<p><lb n="030001"/><said who="sd" aloud="false">Ineluctable modality of the visible: at least that if no more, thought
+<lb n="030002"/>through my eyes. Signatures of all things I am here to read, <distinct type="nonstandard-compound">seaspawn</distinct> and
+<lb n="030003"/><distinct type="nonstandard-compound">seawrack</distinct>, the nearing tide, that rusty boot. <distinct type="nonstandard-compound">Snotgreen</distinct>, <distinct type="nonstandard-compound">bluesilver,</distinct> rust:
+<lb n="030004"/>coloured signs. Limits of the <distinct type="archaism">diaphane.</distinct> But he adds: in bodies. Then he was
 <lb n="030005"/>aware of them bodies before of them coloured. How? By knocking his
 <lb n="030006"/>sconce against them, sure. Go easy. Bald he was and a millionaire, <quote xml:lang="it">maestro
-<lb n="030007"/>di color che sanno</quote>. Limit of the diaphane in. Why in? Diaphane,
-<lb n="030008"/>adiaphane. If you can put your five fingers through it it is a gate, if not a
-<lb n="030009"/>door. Shut your eyes and see.</p>
+<lb n="030007"/>di color che sanno</quote>. Limit of the <distinct type="archaism">diaphane</distinct> in. Why in? <distinct type="archaism">Diaphane,</distinct>
+<lb n="030008"/><distinct type="archaism">adiaphane</distinct>. If you can put your five fingers through it it is a gate, if not a
+<lb n="030009"/>door. Shut your eyes and see.</said></p>
 <p><lb n="030010"/>Stephen closed his eyes to hear his boots crush crackling wrack and
-<lb n="030011"/>shells. You are walking through it howsomever. I am, a stride at a time. A
+<lb n="030011"/>shells. <said who="sd" aloud="false">You are walking through it <distinct type="archaism">howsomever</distinct>. I am, a stride at a time. A
 <lb n="030012"/>very short space of time through very short times of space. Five, six: the
 <lb n="030013"/><foreign xml:lang="de">Nacheinander</foreign>. Exactly: and that is the ineluctable modality of the audible.
 <lb n="030014"/>Open your eyes. No. Jesus! If I fell over a cliff that beetles o'er his base, fell
@@ -18,75 +18,80 @@
 <lb n="030017"/>boots are at the ends of his legs, <foreign xml:lang="de">nebeneinander</foreign>. Sounds solid: made by the
 <lb n="030018"/>mallet of Los <foreign xml:lang="grc-Latn">demiurgos</foreign>. Am I walking into eternity along Sandymount
 <lb n="030019"/>strand? Crush, crack, crick, crick. Wild sea money. Dominie Deasy kens
-<lb n="030020"/>them a'.</p>
-<lg rend="italics"><lb n="030021"/><l>Won't you come to Sandymount,</l>
-<lb n="030022"/><l>Madeline the mare?</l></lg>
-<p><lb n="030023"/>Rhythm begins, you see. I hear. Acatalectic tetrameter of iambs
-<lb n="030024"/>marching. No, agallop: <seg rend="italics">deline the mare</seg>.</p>
-<p><lb n="030025"/>Open your eyes now. I will. One moment. Has all vanished since? If I
-<lb n="030026"/>open and am for ever in the black adiaphane. <foreign xml:lang="it">Basta!</foreign> I will see if I can see.</p>
-<p><lb n="030027"/>See now. There all the time without you: and ever shall be, world
-<lb n="030028"/>without end.</p>
+<lb n="030020"/>them a'.</said></p>
+<lg rend="italics"><lb n="030021"/><said who="sd" aloud="false"><l>Won't you come to Sandymount,</l>
+<lb n="030022"/><l>Madeline the mare?</l></said></lg>
+<p><lb n="030023"/><said who="sd" aloud="false">Rhythm begins, you see. I hear. Acatalectic tetrameter of iambs
+<lb n="030024"/>marching. No, <distinct type="archaism">agallop</distinct>: <seg rend="italics">deline the mare</seg>.</said></p>
+<p><lb n="030025"/><said who="sd" aloud="false">Open your eyes now. I will. One moment. Has all vanished since? If I
+<lb n="030026"/>open and am for ever in the black <distinct type="archaism">adiaphane.</distinct> <foreign xml:lang="it">Basta!</foreign> I will see if I can see.</said></p>
+<p><lb n="030027"/><said who="sd" aloud="false">See now. There all the time without you: and ever shall be, world
+<lb n="030028"/>without end.</said></p>
 <p><lb n="030029"/>They came down the steps from Leahy's terrace prudently,
 <lb n="030030"/><foreign xml:lang="de">Frauenzimmer</foreign>: and down the shelving shore flabbily, their splayed feet
+<<<<<<< HEAD
 <lb n="030031"/>sinking in the silted sand. Like me, like Algy, coming down to our mighty
 <lb n="030032"/>mother. Number one swung <distinct xml:id="#030032-lourdily">lourdily</distinct> her midwife's bag, the other's gamp
+=======
+<lb n="030031"/>sinking in the silted sand. <said who="sd" aloud="false">Like me, like Algy, coming down to our mighty
+<lb n="030032"/>mother. Number one swung <distinct type="Joycean">lourdily</distinct> her midwife's bag, the other's <distinct type="dialect">gamp</distinct>
+>>>>>>> 2cc2f05c8797f1055560fee087908c3066f09412
 <lb n="030033"/>poked in the beach. From the liberties, out for the day. Mrs Florence
 <lb n="030034"/>MacCabe, relict of the late Patk MacCabe, deeply lamented, of Bride Street.
 <lb n="030035"/>One of her sisterhood lugged me squealing into life. Creation from nothing.
-<lb n="030036"/>What has she in the bag? A misbirth with a trailing navelcord, hushed in
-<lb n="030037"/>ruddy wool. The cords of all link back, strandentwining cable of all flesh.
+<lb n="030036"/>What has she in the bag? A <distinct type="archaism">misbirth</distinct> with a trailing <distinct type="nonstandard-compound">navelcord</distinct>, hushed in
+<lb n="030037"/>ruddy wool. The cords of all link back, <distinct type="Joycean">strandentwining</distinct> cable of all flesh.
 <lb n="030038"/>That is why mystic monks. Will you be as gods? Gaze in your <foreign xml:lang="grc-Latn">omphalos</foreign>.
 <lb n="030039"/>Hello! Kinch here. Put me on to Edenville. Aleph, alpha: nought, nought,
-<lb n="030040"/>one.</p>
-<p><lb n="030041"/>Spouse and helpmate of Adam Kadmon: Heva, naked Eve. She had
+<lb n="030040"/>one.</said></p>
+<p><lb n="030041"/><said who="sd" aloud="false">Spouse and helpmate of Adam Kadmon: Heva, naked Eve. She had
 <lb n="030042"/>no navel. Gaze. Belly without blemish, bulging big, a buckler of taut vellum,
-<lb n="030043"/>no, whiteheaped corn, orient and immortal, standing from everlasting to
-<lb n="030044"/>everlasting. Womb of sin.</p>
-<p><lb n="030045"/>Wombed in sin darkness I was too, made not begotten. By them, the
-<lb n="030046"/>man with my voice and my eyes and a ghostwoman with ashes on her
+<lb n="030043"/>no, <distinct type="nonstandard-compound">whiteheaped</distinct> corn, orient and immortal, standing from everlasting to
+<lb n="030044"/>everlasting. Womb of sin.</said></p>
+<p><lb n="030045"/><said who="sd" aloud="false">Wombed in sin darkness I was too, made not begotten. By them, the
+<lb n="030046"/>man with my voice and my eyes and a <distinct type="nonstandard-compound">ghostwoman</distinct> with ashes on her
 <lb n="030047"/>breath. They clasped and sundered, did the coupler's will. From before the
 <lb n="030048"/>ages He willed me and now may not will me away or ever. A <foreign xml:lang="la">lex eterna</foreign>
 <lb n="030049"/>stays about Him. Is that then the divine substance wherein Father and Son
 <lb n="030050"/>are consubstantial? Where is poor dear Arius to try conclusions? Warring
-<lb n="030051"/>his life long upon the contransmagnificandjewbangtantiality. Illstarred
-<lb n="030052"/>heresiarch! In a Greek watercloset he breathed his last: <foreign xml:lang="grc-Latn">euthanasia</foreign>. With
+<lb n="030051"/>his life long upon the <distinct type="Joycean">contransmagnificandjewbangtantiality</distinct>. <distinct type="compound">Illstarred</distinct>
+<lb n="030052"/>heresiarch! In a Greek <distinct type="nonstandard-compound">watercloset</distinct> he breathed his last: <foreign xml:lang="grc-Latn">euthanasia</foreign>. With
 <lb n="030053"/>beaded mitre and with crozier, stalled upon his throne, widower of a
-<lb n="030054"/>widowed see, with upstiffed <foreign xml:lang="grc-Latn">omophorion</foreign>, with clotted hinderparts.</p>
-<p><lb n="030055"/>Airs romped round him, nipping and eager airs. They are coming,
-<lb n="030056"/>waves. The whitemaned seahorses, champing, brightwindbridled, the steeds
-<lb n="030057"/>of Mananaan.</p>
-<p><lb n="030058"/>I mustn't forget his letter for the press. And after? The Ship, half
+<lb n="030054"/>widowed see, with <distinct type="Joycean">upstiffed</distinct> <foreign xml:lang="grc-Latn">omophorion</foreign>, with clotted <distinct type="nonstandard-compound">hinderparts</distinct>.</said></p>
+<p><lb n="030055"/>Airs romped round him, nipping and eager airs. <said who="sd" aloud="false">They are coming,
+<lb n="030056"/>waves. The <distinct type="nonstandard-compound">whitemaned</distinct> seahorses, champing, <distinct type="Joycean">brightwindbridled</distinct>, the steeds
+<lb n="030057"/>of Mananaan.</said></p>
+<p><lb n="030058"/><said who="sd" aloud="false">I mustn't forget his letter for the press. And after? The Ship, half
 <lb n="030059"/>twelve. By the way go easy with that money like a good young imbecile.
-<lb n="030060"/>Yes, I must.</p>
-<p><lb n="030061"/>His pace slackened. Here. Am I going to aunt Sara's or not? My
+<lb n="030060"/>Yes, I must.</said></p>
+<p><lb n="030061"/>His pace slackened. <said who="sd" aloud="false">Here. Am I going to aunt Sara's or not? My
 <lb n="030062"/>consubstantial father's voice. Did you see anything of your artist brother
 <lb n="030063"/>Stephen lately? No? Sure he's not down in Strasburg terrace with his aunt
 <lb n="030064"/>Sally? Couldn't he fly a bit higher than that, eh? And and and and tell us,
 <lb n="030065"/>Stephen, how is uncle Si? O, weeping God, the things I married into! De
-<lb n="030066"/>boys up in de hayloft. The drunken little costdrawer and his brother, the
-<lb n="030067"/>cornet player. Highly respectable gondoliers! And skeweyed Walter sirring
+<lb n="030066"/>boys up in de hayloft. The drunken little <distinct type="nonstandard-compound">costdrawer</distinct> and his brother, the
+<lb n="030067"/>cornet player. Highly respectable gondoliers! And <distinct type="nonstandard-compound">skeweyed</distinct> Walter sirring
 <lb n="030068"/>his father, no less! Sir. Yes, sir. No, sir. Jesus wept: and no wonder, by
-<lb n="030069"/>Christ!</p>
-<p><lb n="030070"/>I pull the wheezy bell of their shuttered cottage: and wait. They take
-<lb n="030071"/>me for a dun, peer out from a coign of vantage.
+<lb n="030069"/>Christ!</said></p>
+<p><lb n="030070"/><said who="sd" aloud="false">I pull the wheezy bell of their shuttered cottage: and wait. They take
+<lb n="030071"/>me for a dun, peer out from a coign of vantage.</said>
 <lb n="030072"/><said who="wg">―It's Stephen, sir.</said>
 <lb n="030073"/><said who="rg">―Let him in. Let Stephen in.</said></p>
-<p><lb n="030074"/>A bolt drawn back and Walter welcomes me.
+<p><lb n="030074"/><said who="sd" aloud="false">A bolt drawn back and Walter welcomes me.</said>
 <lb n="030075"/><said who="wg">―We thought you were someone else.</said></p>
-<p><lb n="030076"/>In his broad bed nuncle Richie, pillowed and blanketed, extends over
-<lb n="030077"/>the hillock of his knees a sturdy forearm. Cleanchested. He has washed the
+<p><lb n="030076"/>In his broad bed <distinct type="archaism">nuncle</distinct> Richie, pillowed and blanketed, extends over
+<lb n="030077"/>the hillock of his knees a sturdy forearm. <distinct type="nonstandard-compound">Cleanchested</distinct>. He has washed the
 <lb n="030078"/>upper moiety.
 <lb n="030079"/><said who="rg">―Morrow, nephew. Sit down and take a walk.</said></p>
 <p><lb n="030080"/>He lays aside the lapboard whereon he drafts his bills of costs for the
 <lb n="030081"/>eyes of master Goff and master Shapland Tandy, filing consents and
-<lb n="030082"/>common searches and a writ of <foreign xml:lang="la">Duces Tecum</foreign>. A bogoak frame over his bald
+<lb n="030082"/>common searches and a writ of <foreign xml:lang="la">Duces Tecum</foreign>. A <distinct type="nonstandard-compound">bogoak</distinct> frame over his bald
 <lb n="030083"/>head: Wilde's <title type="poem" xml:lang="la">Requiescat</title>. The drone of his misleading whistle brings
 <lb n="030084"/>Walter back.
 <lb n="030085"/><said who="wg">―Yes, sir?</said>
 <lb n="030086"/><said who="rg">―Malt for Richie and Stephen, tell mother. Where is she?</said>
 <lb n="030087"/><said who="wg">―Bathing Crissie, sir.</said></p>
-<p><lb n="030088"/>Papa's little bedpal. Lump of love.
+<p><lb n="030088"/><said who="sd" aloud="false">Papa's little <distinct type="nonstandard-compound">bedpal</distinct>. Lump of love.</said>
 <lb n="030089"/><said who="sd">―No, uncle Richie ....</said>
 <lb n="030090"/><said who="rg">―Call me Richie. Damn your lithia water. It lowers. Whusky!</said>
 <lb n="030091"/><said who="sd">―Uncle Richie, really ....</said>
@@ -94,47 +99,47 @@
 <p><lb n="030093"/>Walter squints vainly for a chair.
 <lb n="030094"/><said who="wg">―He has nothing to sit down on, sir.</said>
 <lb n="030095"/><said who="rg">―He has nowhere to put it, you mug. Bring in our chippendale chair.
-<lb n="030096"/>Would you like a bite of something? None of your damned lawdeedaw airs
+<lb n="030096"/>Would you like a bite of something? None of your damned <distinct type="Joycean">lawdeedaw</distinct> airs
 <lb n="030097"/>here. The rich of a rasher fried with a herring? Sure? So much the better.
 <lb n="030098"/>We have nothing in the house but backache pills.</said></p>
 <p><lb n="030099"/><quote xml:lang="it">All'erta!</quote></p>
-<p><lb n="030100"/>He drones bars of Ferrando's <foreign xml:lang="it">aria di sortita</foreign>. The grandest number,
-<lb n="030101"/>Stephen, in the whole opera. Listen.</p>
+<p><lb n="030100"/>He drones bars of Ferrando's <foreign xml:lang="it">aria di sortita</foreign>. <said who="sd" aloud="false">The grandest number,
+<lb n="030101"/>Stephen, in the whole opera. Listen.</said></p>
 <p><lb n="030102"/>His tuneful whistle sounds again, finely shaded, with rushes of the air,
-<lb n="030103"/>his fists bigdrumming on his padded knees.</p>
-<p><lb n="030104"/>This wind is sweeter.</p>
-<p><lb n="030105"/>Houses of decay, mine, his and all. You told the Clongowes gentry
+<lb n="030103"/>his fists <distinct type="nonstandard-compound">bigdrumming</distinct> on his padded knees.</p>
+<p><lb n="030104"/><said who="sd" aloud="false">This wind is sweeter.></said></p>
+<p><lb n="030105"/><said who="sd" aloud="false">Houses of decay, mine, his and all. You told the Clongowes gentry
 <lb n="030106"/>you had an uncle a judge and an uncle a general in the army. Come out of
 <lb n="030107"/>them, Stephen. Beauty is not there. Nor in the stagnant bay of Marsh's
 <lb n="030108"/>library where you read the fading prophecies of Joachim Abbas. For
-<lb n="030109"/>whom? The hundredheaded rabble of the cathedral close. A hater of his
+<lb n="030109"/>whom? The <distinct type="nonstandard-compound">hundredheaded</distinct> rabble of the cathedral close. A hater of his
 <lb n="030110"/>kind ran from them to the wood of madness, his mane foaming in the
-<lb n="030111"/>moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine
+<lb n="030111"/>moon, his eyeballs stars. Houyhnhnm, <distinct type="nonstandard-compound">horsenostrilled</distinct>. The oval equine
 <lb n="030112"/>faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father,
 <lb n="030113"/>furious dean, what offence laid fire to their brains? Paff! <quote xml:lang="la">Descende, calve, ut
 <lb n="030114"/>ne amplius decalveris.</quote> A garland of grey hair on his comminated head see
 <lb n="030115"/>him me clambering down to the footpace (<quote xml:lang="la">descende!</quote>), clutching a
-<lb n="030116"/>monstrance, basiliskeyed. Get down, baldpoll! A choir gives back menace
-<lb n="030117"/>and echo, assisting about the altar's horns, the snorted Latin of jackpriests
-<lb n="030118"/>moving burly in their albs, tonsured and oiled and gelded, fat with the fat of
-<lb n="030119"/>kidneys of wheat.</p>
-<p><lb n="030120"/>And at the same instant perhaps a priest round the corner is elevating
+<lb n="030116"/>monstrance, <distinct type="nonstandard-compound">basiliskeyed</distinct>. Get down, <distinct type="nonstandard-compound">baldpoll</distinct>! A choir gives back menace
+<lb n="030117"/>and echo, assisting about the altar's horns, the snorted Latin of <distinct type="Joycean">jackpriests</distinct>
+<lb n="030118"/>moving burly in their <distinct type="archaism">albs</distinct>, tonsured and oiled and gelded, fat with the fat of
+<lb n="030119"/>kidneys of wheat.</said></p>
+<p><lb n="030120"/><said who="sd" aloud="false">And at the same instant perhaps a priest round the corner is elevating
 <lb n="030121"/>it. Dringdring! And two streets off another locking it into a pyx.
-<lb n="030122"/>Dringadring! And in a ladychapel another taking housel all to his own
+<lb n="030122"/>Dringadring! And in a <distinct type="nonstandard-compound">ladychapel</distinct> another taking housel all to his own
 <lb n="030123"/>cheek. Dringdring! Down, up, forward, back. Dan Occam thought of that,
 <lb n="030124"/>invincible doctor. A misty English morning the imp hypostasis tickled his
 <lb n="030125"/>brain. Bringing his host down and kneeling he heard twine with his second
 <lb n="030126"/>bell the first bell in the transept (he is lifting his) and, rising, heard (now I
-<lb n="030127"/>am lifting) their two bells (he is kneeling) twang in diphthong.</p>
-<p><lb n="030128"/>Cousin Stephen, you will never be a saint. Isle of saints. You were
+<lb n="030127"/>am lifting) their two bells (he is kneeling) twang in diphthong.</said></p>
+<p><lb n="030128"/><said who="sd" aloud="false">Cousin Stephen, you will never be a saint. Isle of saints. You were
 <lb n="030129"/>awfully holy, weren't you? You prayed to the Blessed Virgin that you might
 <lb n="030130"/>not have a red nose. You prayed to the devil in Serpentine avenue that the
-<lb n="030131"/>fubsy widow in front might lift her clothes still more from the wet street. <foreign xml:lang="it">O
+<lb n="030131"/><distinct type="dialect">fubsy</distinct> widow in front might lift her clothes still more from the wet street. <foreign xml:lang="it">O
 <lb n="030132"/>si, certo!</foreign> Sell your soul for that, do, dyed rags pinned round a squaw. More
 <lb n="030133"/>tell me, more still! On the top of the Howth tram alone crying to the rain:
-<lb n="030134"/><said who="sd" direct="false" rend="italics">Naked women! Naked women!</said> What about that, eh?</p>
-<p><lb n="030135"/>What about what? What else were they invented for?</p>
-<p><lb n="030136"/>Reading two pages apiece of seven books every night, eh? I was
+<lb n="030134"/><said who="sd" direct="false" rend="italics">Naked women! Naked women!</said> What about that, eh?</said></p>
+<p><lb n="030135"/><said who="sd" aloud="false">What about what? What else were they invented for?</said></p>
+<p><lb n="030136"/><said who="sd" aloud="false">Reading two pages apiece of seven books every night, eh? I was
 <lb n="030137"/>young. You bowed to yourself in the mirror, stepping forward to applause
 <lb n="030138"/>earnestly, striking face. Hurray for the Goddamned idiot! Hray! No-one
 <lb n="030139"/>saw: tell no-one. Books you were going to write with letters for titles. Have
@@ -142,79 +147,79 @@
 <lb n="030141"/>Remember your epiphanies written on green oval leaves, deeply deep, copies
 <lb n="030142"/>to be sent if you died to all the great libraries of the world, including
 <lb n="030143"/>Alexandria? Someone was to read them there after a few thousand years, a
-<lb n="030144"/>mahamanvantara. Pico della Mirandola like. Ay, very like a whale. When
+<lb n="030144"/><distinct type="archaism">mahamanvantara</distinct>. Pico della Mirandola like. Ay, very like a whale. When
 <lb n="030145"/>one reads these strange pages of one long gone one feels that one is at one
-<lb n="030146"/>with one who once ......</p>
+<lb n="030146"/>with one who once ......</said></p>
 <p><lb n="030147"/>The grainy sand had gone from under his feet. His boots trod again a
-<lb n="030148"/>damp crackling mast, razorshells, squeaking pebbles, that on the
+<lb n="030148"/>damp crackling mast, <distinct type="nonstandard-compound">razorshells</distinct>, squeaking pebbles, that on the
 <lb n="030149"/>unnumbered pebbles beats, wood sieved by the shipworm, lost Armada.
-<lb n="030150"/>Unwholesome sandflats waited to suck his treading soles, breathing upward
-<lb n="030151"/>sewage breath, a pocket of seaweed smouldered in seafire under a midden
-<lb n="030152"/>of man's ashes. He coasted them, walking warily. A porterbottle stood up,
-<lb n="030153"/>stogged to its waist, in the cakey sand dough. A sentinel: isle of dreadful
+<lb n="030150"/>Unwholesome <distinct type="nonstandard-compound">sandflats</distinct> waited to suck his treading soles, breathing upward
+<lb n="030151"/>sewage breath, a pocket of seaweed smouldered in <distinct type="nonstandard-compound">seafire</distinct> under a midden
+<lb n="030152"/>of man's ashes. He coasted them, walking warily. A <distinct type="nonstandard-compound">porterbottle</distinct> stood up,
+<lb n="030153"/><distinct type="archaism">stogged</distinct> to its waist, in the cakey sand dough. A sentinel: isle of dreadful
 <lb n="030154"/>thirst. Broken hoops on the shore; at the land a maze of dark cunning nets;
-<lb n="030155"/>farther away chalkscrawled backdoors and on the higher beach a
-<lb n="030156"/>dryingline with two crucified shirts. Ringsend: wigwams of brown
+<lb n="030155"/>farther away <distinct type="nonstandard-compound">chalkscrawled</distinct> backdoors and on the higher beach a
+<lb n="030156"/><distinct type="nonstandard-compound">dryingline</distinct> with two crucified shirts. Ringsend: wigwams of brown
 <lb n="030157"/>steersmen and master mariners. Human shells.</p>
-<p><lb n="030158"/>He halted. I have passed the way to aunt Sara's. Am I not going
-<lb n="030159"/>there? Seems not. No-one about. He turned northeast and crossed the
+<p><lb n="030158"/>He halted. <said who="sd" aloud="false">I have passed the way to aunt Sara's. Am I not going
+<lb n="030159"/>there? Seems not. No-one about.</said> He turned northeast and crossed the
 <lb n="030160"/>firmer sand towards the Pigeonhouse.
 <lb n="030161"/><quote xml:lang="fr"><said who="jo">―Qui vous a mis dans cette fichue position?</said>
 <lb n="030162"/><said who="ma">―C'est le pigeon, Joseph.</said></quote></p>
-<p><lb n="030163"/>Patrice, home on furlough, lapped warm milk with me in the bar
+<p><lb n="030163"/><said who="sd" aloud="false">Patrice, home on furlough, lapped warm milk with me in the bar
 <lb n="030164"/>MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird,
 <lb n="030165"/>he lapped the sweet <foreign xml:lang="fr">lait chaud</foreign> with pink young tongue, plump bunny's face.
 <lb n="030166"/>Lap, <foreign xml:lang="fr">lapin</foreign>. He hopes to win in the <foreign xml:lang="fr">gros lots</foreign>. About the nature of women he
 <lb n="030167"/>read in Michelet. But he must send me <title type="book" xml:lang="fr">La Vie de Jésus</title> by <foreign xml:lang="fr" rend="none">M</foreign>. Léo Taxil.
-<lb n="030168"/>Lent it to his friend.
+<lb n="030168"/>Lent it to his friend.</said>
 <lb n="030169"/><said who="pe">―<foreign xml:lang="fr">C'est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en
 <lb n="030170"/>l'existence de Dieu. Faut pas le dire à mon père.</foreign></said>
 <lb n="030171"/><said who="sd">―<foreign xml:lang="fr">Il croit?</foreign></said>
 <lb n="030172"/><said who="pe">―<foreign xml:lang="fr">Mon père, oui.</foreign></said></p>
-<p><lb n="030173"/><foreign xml:lang="de">Schluss.</foreign> He laps.</p>
-<p><lb n="030174"/>My Latin quarter hat. God, we simply must dress the character. I
+<p><said who="sd" aloud="false"><lb n="030173"/><foreign xml:lang="de">Schluss.</foreign> He laps.</said></p>
+<p><lb n="030174"/><said who="sd" aloud="false">My Latin quarter hat. God, we simply must dress the character. I
 <lb n="030175"/>want puce gloves. You were a student, weren't you? Of what in the other
 <lb n="030176"/>devil's name? Paysayenn. P. C. N., you know: <foreign xml:lang="fr">physiques, chimiques et
-<lb n="030177"/>naturelles</foreign>. Aha. Eating your groatsworth of <foreign xml:lang="fr">mou en civet</foreign>, fleshpots of
+<lb n="030177"/>naturelles</foreign>. Aha. Eating your <distinct type="archaism">groatsworth</distinct> of <foreign xml:lang="fr">mou en civet</foreign>, fleshpots of
 <lb n="030178"/>Egypt, elbowed by belching cabmen. Just say in the most natural tone:
 <lb n="030179"/>when I was in Paris, <foreign xml:lang="fr">boul'Mich'</foreign>, I used to. Yes, used to carry punched
 <lb n="030180"/>tickets to prove an alibi if they arrested you for murder somewhere. Justice.
 <lb n="030181"/>On the night of the seventeenth of February 1904 the prisoner was seen by
 <lb n="030182"/>two witnesses. Other fellow did it: other me. Hat, tie, overcoat, nose. <foreign xml:lang="fr">Lui,
-<lb n="030183"/>c'est moi.</foreign> You seem to have enjoyed yourself.</p>
-<p><lb n="030184"/>Proudly walking. Whom were you trying to walk like? Forget: a
+<lb n="030183"/>c'est moi.</foreign> You seem to have enjoyed yourself.</said></p>
+<p><said who="sd" aloud="false"><lb n="030184"/>Proudly walking. Whom were you trying to walk like? Forget: a
 <lb n="030185"/>dispossessed. With mother's money order, eight shillings, the banging door
 <lb n="030186"/>of the post office slammed in your face by the usher. Hunger toothache.
 <lb n="030187"/><foreign xml:lang="fr">Encore deux minutes.</foreign> Look clock. Must get. <foreign xml:lang="fr">Fermé.</foreign> Hired dog! Shoot him
 <lb n="030188"/>to bloody bits with a bang shotgun, bits man spattered walls all brass
 <lb n="030189"/>buttons. Bits all khrrrrklak in place clack back. Not hurt? O, that's all
 <lb n="030190"/>right. Shake hands. See what I meant, see? O, that's all right. Shake a
-<lb n="030191"/>shake. O, that's all only all right.</p>
-<p><lb n="030192"/>You were going to do wonders, what? Missionary to Europe after
-<lb n="030193"/>fiery Columbanus. Fiacre and Scotus on their creepystools in heaven spilt
-<lb n="030194"/>from their pintpots, loudlatinlaughing: <foreign xml:lang="la">Euge! Euge!</foreign> Pretending to speak
+<lb n="030191"/>shake. O, that's all only all right.</said></p>
+<p><said who="sd" aloud="false"><lb n="030192"/>You were going to do wonders, what? Missionary to Europe after
+<lb n="030193"/>fiery Columbanus. Fiacre and Scotus on their <distinct type="nonstandard-compound">creepystools</distinct> in heaven spilt
+<lb n="030194"/>from their <distinct type="nonstandard-compound">pintpots</distinct>, <distinct type="Joycean">loudlatinlaughing</distinct>: <foreign xml:lang="la">Euge! Euge!</foreign> Pretending to speak
 <lb n="030195"/>broken English as you dragged your valise, porter threepence, across the
 <lb n="030196"/>slimy pier at Newhaven. <foreign xml:lang="fr">Comment?</foreign> Rich booty you brought back; <title type="magazine" xml:lang="fr">Le
 <lb n="030197"/>Tutu</title>, five tattered numbers of <title type="magazine" xml:lang="fr">Pantalon Blanc et Culotte Rouge</title>; a blue
-<lb n="030198"/>French telegram, curiosity to show:
-<lb n="030199"/><said who="sid" direct="false">―Nother dying come home father.</said></p>
-<p><lb n="030200"/>The aunt thinks you killed your mother. That's why she won't.</p>   
-<quote><lg rend="italics"><lb n="030201"/><l>Then here's a health to Mulligan's aunt</l>
+<lb n="030198"/>French telegram, curiosity to show:</said>
+<lb n="030199"/><said who="sid" direct="false">―<distinct type="dialect">Nother</distinct> dying come home father.</said></p>
+<p><lb n="030200"/><said who="sd" aloud="false">The aunt thinks you killed your mother. That's why she won't.</said></p>   
+<said who="sd" aloud="false"><quote><lg rend="italics"><lb n="030201"/><l>Then here's a health to Mulligan's aunt</l>
 <lb n="030202"/><l>And I'll tell you the reason why.</l>
 <lb n="030203"/><l>She always kept things decent in</l>
-<lb n="030204"/><l>The Hannigan famileye.</l></lg></quote>
+<lb n="030204"/><l>The Hannigan <distinct type="Joycean">famileye</distinct>.</l></lg></quote></said>
 <p><lb n="030205"/>His feet marched in sudden proud rhythm over the sand furrows,
 <lb n="030206"/>along by the boulders of the south wall. He stared at them proudly, piled
-<lb n="030207"/>stone mammoth skulls. Gold light on sea, on sand, on boulders. The sun is
-<lb n="030208"/>there, the slender trees, the lemon houses.</p>
-<p><lb n="030209"/>Paris rawly waking, crude sunlight on her lemon streets. Moist pith of
-<lb n="030210"/>farls of bread, the froggreen wormwood, her matin incense, court the air.
+<lb n="030207"/>stone mammoth skulls. <said who="sd" aloud="false">Gold light on sea, on sand, on boulders. The sun is
+<lb n="030208"/>there, the slender trees, the lemon houses.</said></p>
+<p><lb n="030209"/><said who="sd" aloud="false">Paris rawly waking, crude sunlight on her lemon streets. Moist pith of
+<lb n="030210"/>farls of bread, the <distinct type="nonstandard-compound">froggreen</distinct> wormwood, her matin incense, court the air.
 <lb n="030211"/>Belluomo rises from the bed of his wife's lover's wife, the kerchiefed
 <lb n="030212"/>housewife is astir, a saucer of acetic acid in her hand. In Rodot's Yvonne
-<lb n="030213"/>and Madeleine newmake their tumbled beauties, shattering with gold teeth
+<lb n="030213"/>and Madeleine <distinct type="nonstandard-compound">newmake</distinct> their tumbled beauties, shattering with gold teeth
 <lb n="030214"/><foreign xml:lang="fr">chaussons</foreign> of pastry, their mouths yellowed with the <foreign xml:lang="fr">pus</foreign> of <foreign xml:lang="fr">flan breton</foreign>.
-<lb n="030215"/>Faces of Paris men go by, their wellpleased pleasers, curled <foreign xml:lang="fr">conquistadores</foreign>.</p>
-<p><lb n="030216"/>Noon slumbers. Kevin Egan rolls gunpowder cigarettes through
+<lb n="030215"/>Faces of Paris men go by, their <distinct type="nonstandard-compound">wellpleased</distinct> pleasers, curled <foreign xml:lang="fr">conquistadores</foreign>.</said></p>
+<p><lb n="030216"/><said who="sd" aloud="false">Noon slumbers. Kevin Egan rolls gunpowder cigarettes through
 <lb n="030217"/>fingers smeared with printer's ink, sipping his green fairy as Patrice his
 <lb n="030218"/>white. About us gobblers fork spiced beans down their gullets. <foreign xml:lang="fr">Un demi
 <lb n="030219"/>setier!</foreign> A jet of coffee steam from the burnished caldron. She serves me at
@@ -223,12 +228,12 @@
 <lb n="030222"/>Your postprandial, do you know that word? Postprandial. There was a
 <lb n="030223"/>fellow I knew once in Barcelona, queer fellow, used to call it his
 <lb n="030224"/>postprandial. Well: <foreign xml:lang="ga">slainte!</foreign> Around the slabbed tables the tangle of wined
-<lb n="030225"/>breaths and grumbling gorges. His breath hangs over our saucestained
+<lb n="030225"/>breaths and grumbling gorges. His breath hangs over our <distinct type="nonstandard-compound">saucestained</distinct>
 <lb n="030226"/>plates, the green fairy's fang thrusting between his lips. Of Ireland, the
 <lb n="030227"/>Dalcassians, of hopes, conspiracies, of Arthur Griffith now, AE, pimander,
 <lb n="030228"/>good shepherd of men. To yoke me as his yokefellow, our crimes our
 <lb n="030229"/>common cause. You're your father's son. I know the voice. His fustian
-<lb n="030230"/>shirt, sanguineflowered, trembles its Spanish tassels at his secrets. M.
+<lb n="030230"/>shirt, <distinct type="nonstandard-compound">sanguineflowered</distinct>, trembles its Spanish tassels at his secrets. M.
 <lb n="030231"/>Drumont, famous journalist, Drumont, know what he called queen
 <lb n="030232"/>Victoria? Old hag with the yellow teeth. <foreign xml:lang="fr">Vieille ogresse</foreign> with the <foreign xml:lang="fr">dents
 <lb n="030233"/>jaunes</foreign>. Maud Gonne, beautiful woman, <title type="magazine" xml:lang="fr">la Patrie</title>, <foreign xml:lang="fr" rend="none">M</foreign>. Millevoye, Félix
@@ -236,182 +241,182 @@
 <lb n="030235"/>who rubs male nakedness in the bath at Upsala. <foreign xml:lang="fr">Moi faire</foreign>, she said, <foreign xml:lang="fr">tous les
 <lb n="030236"/>messieurs.</foreign> Not this <foreign xml:lang="fr">monsieur</foreign>, I said. Most licentious custom. Bath a most
 <lb n="030237"/>private thing. I wouldn't let my brother, not even my own brother, most
-<lb n="030238"/>lascivious thing. Green eyes, I see you. Fang, I feel. Lascivious people.</p>
-<p><lb n="030239"/>The blue fuse burns deadly between hands and burns clear. Loose
-<lb n="030240"/>tobaccoshreds catch fire: a flame and acrid smoke light our corner. Raw
-<lb n="030241"/>facebones under his peep of day boy's hat. How the head centre got away,
-<lb n="030242"/>authentic version. Got up as a young bride, man, veil, orangeblossoms,
+<lb n="030238"/>lascivious thing. Green eyes, I see you. Fang, I feel. Lascivious people.</said></p>
+<p><lb n="030239"/><said who="sd" aloud="false">The blue fuse burns deadly between hands and burns clear. Loose
+<lb n="030240"/><distinct type="nonstandard-compound">tobaccoshreds</distinct> catch fire: a flame and acrid smoke light our corner. Raw
+<lb n="030241"/><distinct type="nonstandard-compound">facebones</distinct> under his peep of day boy's hat. How the head centre got away,
+<lb n="030242"/>authentic version. Got up as a young bride, man, veil, <distinct type="nonstandard-compound">orangeblossoms</distinct>,
 <lb n="030243"/>drove out the road to Malahide. Did, faith. Of lost leaders, the betrayed,
-<lb n="030244"/>wild escapes. Disguises, clutched at, gone, not here.</p>
-<p><lb n="030245"/>Spurned lover. I was a strapping young gossoon at that time, I tell
+<lb n="030244"/>wild escapes. Disguises, clutched at, gone, not here.</said></p>
+<p><lb n="030245"/><said who="sd" aloud="false">Spurned lover. I was a strapping young gossoon at that time, I tell
 <lb n="030246"/>you. I'll show you my likeness one day. I was, faith. Lover, for her love he
 <lb n="030247"/>prowled with colonel Richard Burke, tanist of his sept, under the walls of
 <lb n="030248"/>Clerkenwell and, crouching, saw a flame of vengeance hurl them upward in
 <lb n="030249"/>the fog. Shattered glass and toppling masonry. In gay Paree he hides, Egan
 <lb n="030250"/>of Paris, unsought by any save by me. Making his day's stations, the dingy
-<lb n="030251"/>printingcase, his three taverns, the Montmartre lair he sleeps short night in,
+<lb n="030251"/><distinct type="nonstandard-compound">printingcase</distinct>, his three taverns, the Montmartre lair he sleeps short night in,
 <lb n="030252"/><foreign xml:lang="fr">rue de la Goutte-d'Or</foreign>, damascened with flyblown faces of the gone.
-<lb n="030253"/>Loveless, landless, wifeless. She is quite nicey comfy without her outcast
+<lb n="030253"/>Loveless, landless, wifeless. She is quite <distinct type="dialect">nicey</distinct> comfy without her outcast
 <lb n="030254"/>man, madame in <foreign xml:lang="fr">rue Gît-le-Cœur</foreign>, canary and two buck lodgers. Peachy
 <lb n="030255"/>cheeks, a zebra skirt, frisky as a young thing's. Spurned and undespairing.
 <lb n="030256"/>Tell Pat you saw me, won't you? I wanted to get poor Pat a job one time.
 <lb n="030257"/><foreign xml:lang="fr">Mon fils</foreign>, soldier of France. I taught him to sing <quote>The boys of Kilkenny are
 <lb n="030258"/>stout roaring blades</quote>. Know that old lay? I taught Patrice that. Old
 <lb n="030259"/>Kilkenny: saint Canice, Strongbow's castle on the Nore. Goes like this. <quote>O,
-<lb n="030260"/>O.</quote> He takes me, Napper Tandy, by the hand.</p>
-<quote><lg rend="italics"><lb n="030261"/><l>O, O the boysof</l>
-<lb n="030262"/><l>Kilkenny ....</l></lg></quote>
-<p><lb n="030263"/>Weak wasting hand on mine. They have forgotten Kevin Egan, not he
-<lb n="030264"/>them. Remembering thee, O Sion.</p>
+<lb n="030260"/>O.</quote> He takes me, Napper Tandy, by the hand.</said></p>
+<quote><lg rend="italics"><lb n="030261"/><said who="sd" aloud="false"><l>O, O the boysof</l>
+<lb n="030262"/><l>Kilkenny ....</l></said></lg></quote>
+<p><lb n="030263"/><said who="sd" aloud="false">Weak wasting hand on mine. They have forgotten Kevin Egan, not he
+<lb n="030264"/>them. Remembering thee, O Sion.</said></p>
 <p><lb n="030265"/>He had come nearer the edge of the sea and wet sand slapped his
 <lb n="030266"/>boots. The new air greeted him, harping in wild nerves, wind of wild air of
-<lb n="030267"/>seeds of brightness. Here, I am not walking out to the Kish lightship, am I?
+<lb n="030267"/>seeds of brightness. <said who="sd" aloud="false">Here, I am not walking out to the Kish lightship, am I?</said>
 <lb n="030268"/>He stood suddenly, his feet beginning to sink slowly in the quaking soil.
-<lb n="030269"/>Turn back.</p>
+<lb n="030269"/><said who="sd" aloud="false">Turn back.</said></p>
 <p><lb n="030270"/>Turning, he scanned the shore south, his feet sinking again slowly in
-<lb n="030271"/>new sockets. The cold domed room of the tower waits. Through the
-<lb n="030272"/>barbacans the shafts of light are moving ever, slowly ever as my feet are
-<lb n="030273"/>sinking, creeping duskward over the dial floor. Blue dusk, nightfall, deep
-<lb n="030274"/>blue night. In the darkness of the dome they wait, their pushedback chairs,
+<lb n="030271"/>new sockets. <said who="sd" aloud="false">The cold domed room of the tower waits. Through the
+<lb n="030272"/><distinct type="archaism">barbacans</distinct> the shafts of light are moving ever, slowly ever as my feet are
+<lb n="030273"/>sinking, creeping <distinct type="nonstandard-compound">duskward</distinct> over the dial floor. Blue dusk, nightfall, deep
+<lb n="030274"/>blue night. In the darkness of the dome they wait, their <distinct type="nonstandard-compound">pushedback</distinct> chairs,
 <lb n="030275"/>my obelisk valise, around a board of abandoned platters. Who to clear it?
 <lb n="030276"/>He has the key. I will not sleep there when this night comes. A shut door of
-<lb n="030277"/>a silent tower, entombing their blind bodies, the panthersahib and his
-<lb n="030278"/>pointer. Call: no answer. He lifted his feet up from the suck and turned
-<lb n="030279"/>back by the mole of boulders. Take all, keep all. My soul walks with me,
-<lb n="030280"/>form of forms. So in the moon's midwatches I pace the path above the
-<lb n="030281"/>rocks, in sable silvered, hearing Elsinore's tempting flood.</p>
-<p><lb n="030282"/>The flood is following me. I can watch it flow past from here. Get
-<lb n="030283"/>back then by the Poolbeg road to the strand there. He climbed over the
+<lb n="030277"/>a silent tower, entombing their blind bodies, the <distinct type="nonstandard-compound">panthersahib</distinct> and his
+<lb n="030278"/>pointer. Call: no answer.</said> He lifted his feet up from the suck and turned
+<lb n="030279"/>back by the mole of boulders. <said who="sd" aloud="false">Take all, keep all. My soul walks with me,
+<lb n="030280"/>form of forms. So in the moon's <distinct type="compound">midwatches</distinct> I pace the path above the
+<lb n="030281"/>rocks, in sable silvered, hearing Elsinore's tempting flood.</said></p>
+<p><lb n="030282"/><said who="sd" aloud="false">The flood is following me. I can watch it flow past from here. Get
+<lb n="030283"/>back then by the Poolbeg road to the strand there.</said> He climbed over the
 <lb n="030284"/>sedge and eely oarweeds and sat on a stool of rock, resting his ashplant in a
 <lb n="030285"/>grike.</p>
 <p><lb n="030286"/>A bloated carcass of a dog lay lolled on bladderwrack. Before him the
-<lb n="030287"/>gunwale of a boat, sunk in sand. <quote xml:lang="fr">Un coche ensablé</quote> Louis Veuillot called
+<lb n="030287"/>gunwale of a boat, sunk in sand. <said who="sd" aloud="false"><quote xml:lang="fr">Un coche ensablé</quote> Louis Veuillot called
 <lb n="030288"/>Gautier's prose. These heavy sands are language tide and wind have silted
-<lb n="030289"/>here. And these, the stoneheaps of dead builders, a warren of weasel rats.
+<lb n="030289"/>here. And these, the <distinct type="nonstandard-compound">stoneheaps</distinct> of dead builders, a warren of weasel rats.
 <lb n="030290"/>Hide gold there. Try it. You have some. Sands and stones. Heavy of the
 <lb n="030291"/>past. Sir Lout's toys. Mind you don't get one bang on the ear. I'm the
 <lb n="030292"/>bloody well gigant rolls all them bloody well boulders, bones for my
-<lb n="030293"/>steppingstones. Feefawfum. I zmellz de bloodz odz an Iridzman.</p>
+<lb n="030293"/>steppingstones. Feefawfum. I zmellz de bloodz odz an Iridzman.</said></p>
 <p><lb n="030294"/>A point, live dog, grew into sight running across the sweep of sand.
-<lb n="030295"/>Lord, is he going to attack me? Respect his liberty. You will not be master of
+<lb n="030295"/><said who="sd" aloud="false">Lord, is he going to attack me? Respect his liberty. You will not be master of
 <lb n="030296"/>others or their slave. I have my stick. Sit tight. From farther away, walking
 <lb n="030297"/>shoreward across from the crested tide, figures, two. The two maries. They
-<lb n="030298"/>have tucked it safe mong the bulrushes. Peekaboo. I see you. No, the dog.
-<lb n="030299"/>He is running back to them. Who?</p>
-<p><lb n="030300"/>Galleys of the Lochlanns ran here to beach, in quest of prey, their
-<lb n="030301"/>bloodbeaked prows riding low on a molten pewter surf. Dane vikings, torcs
+<lb n="030298"/>have tucked it safe <distinct type="dialect">mong</distinct> the bulrushes. Peekaboo. I see you. No, the dog.
+<lb n="030299"/>He is running back to them. Who?</said></p>
+<p><lb n="030300"/><said who="sd" aloud="false">Galleys of the Lochlanns ran here to beach, in quest of prey, their
+<lb n="030301"/><distinct type="nonstandard-compound">bloodbeaked</distinct> prows riding low on a molten pewter surf. Dane vikings, <distinct type="archaism">torcs</distinct>
 <lb n="030302"/>of tomahawks aglitter on their breasts when Malachi wore the collar of
-<lb n="030303"/>gold. A school of turlehide whales stranded in hot noon, spouting, hobbling
-<lb n="030304"/>in the shallows. Then from the starving cagework city a horde of jerkined
+<lb n="030303"/>gold. A school of <distinct type="Joycean">turlehide</distinct> whales stranded in hot noon, spouting, hobbling
+<lb n="030304"/>in the shallows. Then from the starving <distinct type="nonstandard-compound">cagework</distinct> city a horde of <distinct type="archaism">jerkined</distinct>
 <lb n="030305"/>dwarfs, my people, with flayers' knives, running, scaling, hacking in green
-<lb n="030306"/>blubbery whalemeat. Famine, plague and slaughters. Their blood is in me,
+<lb n="030306"/>blubbery <distinct type="nonstandard-compound">whalemeat</distinct>. Famine, plague and slaughters. Their blood is in me,
 <lb n="030307"/>their lusts my waves. I moved among them on the frozen Liffey, that I, a
 <lb n="030308"/>changeling, among the spluttering resin fires. I spoke to no-one: none to
-<lb n="030309"/>me.</p>
-<p><lb n="030310"/>The dog's bark ran towards him, stopped, ran back. Dog of my
+<lb n="030309"/>me.</said></p>
+<p><lb n="030310"/>The dog's bark ran towards him, stopped, ran back. <said who="sd" aloud="false">Dog of my
 <lb n="030311"/>enemy. I just simply stood pale, silent, bayed about. <foreign xml:lang="la">Terribilia meditans.</foreign> A
 <lb n="030312"/>primrose doublet, fortune's knave, smiled on my fear. For that are you
 <lb n="030313"/>pining, the bark of their applause? Pretenders: live their lives. The Bruce's
 <lb n="030314"/>brother, Thomas Fitzgerald, silken knight, Perkin Warbeck, York's false
-<lb n="030315"/>scion, in breeches of silk of whiterose ivory, wonder of a day, and Lambert
-<lb n="030316"/>Simnel, with a tail of nans and sutlers, a scullion crowned. All kings' sons.
+<lb n="030315"/>scion, in breeches of silk of <distinct type="nonstandard-compound">whiterose</distinct> ivory, wonder of a day, and Lambert
+<lb n="030316"/>Simnel, with a tail of nans and <distinct type="archaism">sutlers</distinct>, a scullion crowned. All kings' sons.
 <lb n="030317"/>Paradise of pretenders then and now. He saved men from drowning and
 <lb n="030318"/>you shake at a cur's yelping. But the courtiers who mocked Guido in Or
 <lb n="030319"/>san Michele were in their own house. House of ... We don't want any of
-<lb n="030320"/>your medieval abstrusiosities. Would you do what he did? A boat would be
+<lb n="030320"/>your medieval <distinct type="Joycean">abstrusiosities</distinct>. Would you do what he did? A boat would be
 <lb n="030321"/>near, a lifebuoy. <foreign xml:lang="de">Natürlich</foreign>, put there for you. Would you or would you
 <lb n="030322"/>not? The man that was drowned nine days ago off Maiden's rock. They are
 <lb n="030323"/>waiting for him now. The truth, spit it out. I would want to. I would try. I
 <lb n="030324"/>am not a strong swimmer. Water cold soft. When I put my face into it in the
 <lb n="030325"/>basin at Clongowes. Can't see! Who's behind me? Out quickly, quickly!
 <lb n="030326"/>Do you see the tide flowing quickly in on all sides, sheeting the lows of sand
-<lb n="030327"/>quickly, shellcocoacoloured? If I had land under my feet. I want his life still
+<lb n="030327"/>quickly, <distinct type="Joycean">shellcocoacoloured</distinct>? If I had land under my feet. I want his life still
 <lb n="030328"/>to be his, mine to be mine. A drowning man. His human eyes scream to me
 <lb n="030329"/>out of horror of his death. I ... With him together down .... I could not save
-<lb n="030330"/>her. Waters: bitter death: lost.</p>
-<p><lb n="030331"/>A woman and a man. I see her skirties. Pinned up, I bet.</p>
+<lb n="030330"/>her. Waters: bitter death: lost.</said></p>
+<p><lb n="030331"/>A woman and a man. <said who="sd" aloud="false">I see her <distinct type="dialect">skirties</distinct>. Pinned up, I bet.</said></p>
 <p><lb n="030332"/>Their dog ambled about a bank of dwindling sand, trotting, sniffing
 <lb n="030333"/>on all sides. Looking for something lost in a past life. Suddenly he made off
 <lb n="030334"/>like a bounding hare, ears flung back, chasing the shadow of a
-<lb n="030335"/>lowskimming gull. The man's shrieked whistle struck his limp ears. He
-<lb n="030336"/>turned, bounded back, came nearer, trotted on twinkling shanks. On a field
-<lb n="030337"/>tenney a buck, trippant, proper, unattired. At the lacefringe of the tide he
-<lb n="030338"/>halted with stiff forehoofs, seawardpointed ears. His snout lifted barked at
-<lb n="030339"/>the wavenoise, herds of seamorse. They serpented towards his feet, curling,
+<lb n="030335"/><distinct type="nonstandard-compound">lowskimming</distinct> gull. The man's shrieked whistle struck his limp ears. He
+<lb n="030336"/>turned, bounded back, came nearer, trotted on twinkling shanks. <said who="sd" aloud="false">On a field
+<lb n="030337"/><distinct type="dialect">tenney</distinct> a buck, trippant, proper, unattired. At the <distinct type="nonstandard-compound">lacefringe</distinct> of the tide he
+<lb n="030338"/>halted with stiff <distinct type="nonstandard-compound">forehoofs</distinct>, <distinct type="nonstandard-compound">seawardpointed</distinct> ears. His snout lifted barked at
+<lb n="030339"/>the <distinct type="nonstandard-compound">wavenoise</distinct>, herds of <distinct type="nonstandard-compound">seamorse</distinct>. They serpented towards his feet, curling,
 <lb n="030340"/>unfurling many crests, every ninth, breaking, plashing, from far, from
-<lb n="030341"/>farther out, waves and waves.</p>
-<p><lb n="030342"/>Cocklepickers. They waded a little way in the water and, stooping,
+<lb n="030341"/>farther out, waves and waves.</said></p>
+<p><lb n="030342"/><said who="sd" aloud="false"><distinct type="nonstandard-compound">Cocklepickers</distinct>.</said> They waded a little way in the water and, stooping,
 <lb n="030343"/>soused their bags and, lifting them again, waded out. The dog yelped
 <lb n="030344"/>running to them, reared up and pawed them, dropping on all fours, again
 <lb n="030345"/>reared up at them with mute bearish fawning. Unheeded he kept by them as
-<lb n="030346"/>they came towards the drier sand, a rag of wolf's tongue redpanting from
+<lb n="030346"/>they came towards the drier sand, a rag of wolf's tongue <distinct type="nonstandard-compound">redpanting</distinct> from
 <lb n="030347"/>his jaws. His speckled body ambled ahead of them and then loped off at a
 <lb n="030348"/>calf's gallop. The carcass lay on his path. He stopped, sniffed, stalked
 <lb n="030349"/>round it, brother, nosing closer, went round it, sniffling rapidly like a dog
-<lb n="030350"/>all over the dead dog's bedraggled fell. Dogskull, dogsniff, eyes on the
+<lb n="030350"/>all over the dead dog's bedraggled fell. <said who="sd" aloud="false"><distinct type="nonstandard-compound">Dogskull</distinct>, <distinct type="nonstandard-compound">dogsniff</distinct>, eyes on the
 <lb n="030351"/>ground, moves to one great goal. Ah, poor dogsbody! Here lies poor
-<lb n="030352"/>dogsbody's body.
-<lb n="030353"/><said who="uc">―Tatters! Outofthat, you mongrel!</said></p>
+<lb n="030352"/>dogsbody's body.</said>
+<lb n="030353"/><said who="uc">―Tatters! <distinct type="Joycean">Outofthat</distinct>, you mongrel!</said></p>
 <p><lb n="030354"/>The cry brought him skulking back to his master and a blunt bootless
 <lb n="030355"/>kick sent him unscathed across a spit of sand, crouched in flight. He slunk
-<lb n="030356"/>back in a curve. Doesn't see me. Along by the edge of the mole he lolloped,
+<lb n="030356"/>back in a curve. <said who="sd" aloud="false">Doesn't see me.</said> Along by the edge of the mole he lolloped,
 <lb n="030357"/>dawdled, smelt a rock and from under a cocked hindleg pissed against it.
-<lb n="030358"/>He trotted forward and, lifting again his hindleg, pissed quick short at an
-<lb n="030359"/>unsmelt rock. The simple pleasures of the poor. His hindpaws then
-<lb n="030360"/>scattered the sand: then his forepaws dabbled and delved. Something he
-<lb n="030361"/>buried there, his grandmother. He rooted in the sand, dabbling, delving and
+<lb n="030358"/>He trotted forward and, lifting again his <distinct type="nonstandard-compound">hindleg</distinct>, pissed quick short at an
+<lb n="030359"/><distinct type="Joycean">unsmelt</distinct> rock. <said who="sd" aloud="false">The simple pleasures of the poor.</said> His <distinct type="nonstandard-compound">hindpaws</distinct> then
+<lb n="030360"/>scattered the sand: then his forepaws dabbled and delved. <said who="sd" aloud="false">Something he
+<lb n="030361"/>buried there, his grandmother.</said> He rooted in the sand, dabbling, delving and
 <lb n="030362"/>stopped to listen to the air, scraped up the sand again with a fury of his
-<lb n="030363"/>claws, soon ceasing, a pard, a panther, got in spousebreach, vulturing the
+<lb n="030363"/>claws, soon ceasing, a <distinct type="archaism">pard</distinct>, a panther, got in <distinct type="archaism">spousebreach</distinct>, vulturing the
 <lb n="030364"/>dead.</p>
-<p><lb n="030365"/>After he woke me last night same dream or was it? Wait. Open
-<lb n="030366"/>hallway. Street of harlots. Remember. Haroun al Raschid. I am almosting
+<p><lb n="030365"/><said who="sd" aloud="false">After he woke me last night same dream or was it? Wait. Open
+<lb n="030366"/>hallway. Street of harlots. Remember. Haroun al Raschid. I am <distinct type="Joycean">almosting</distinct>
 <lb n="030367"/>it. That man led me, spoke. I was not afraid. The melon he had he held
-<lb n="030368"/>against my face. Smiled: creamfruit smell. That was the rule, said. In.
-<lb n="030369"/>Come. Red carpet spread. You will see who.</p>
-<p><lb n="030370"/>Shouldering their bags they trudged, the red Egyptians. His blued
-<lb n="030371"/>feet out of turnedup trousers slapped the clammy sand, a dull brick muffler
+<lb n="030368"/>against my face. Smiled: <distinct type="nonstandard-compound">creamfruit</distinct> smell. That was the rule, said. In.
+<lb n="030369"/>Come. Red carpet spread. You will see who.</said></p>
+<p><lb n="030370"/><said who="sd" aloud="false">Shouldering their bags they trudged, the red Egyptians. His blued
+<lb n="030371"/>feet out of <distinct type="nonstandard-compound">turnedup</distinct> trousers slapped the clammy sand, a dull brick muffler
 <lb n="030372"/>strangling his unshaven neck. With woman steps she followed: the ruffian
-<lb n="030373"/>and his strolling mort. Spoils slung at her back. Loose sand and shellgrit
-<lb n="030374"/>crusted her bare feet. About her windraw face hair trailed. Behind her lord,
+<lb n="030373"/>and his strolling mort. Spoils slung at her back. Loose sand and <distinct type="nonstandard-compound">shellgrit</distinct>
+<lb n="030374"/>crusted her bare feet. About her <distinct type="nonstandard-compound">windraw</distinct> face hair trailed. Behind her lord,
 <lb n="030375"/>his helpmate, bing awast to Romeville. When night hides her body's flaws
 <lb n="030376"/>calling under her brown shawl from an archway where dogs have mired.
-<lb n="030377"/>Her fancyman is treating two Royal Dublins in O'Loughlin's of Blackpitts.
+<lb n="030377"/>Her <distinct type="nonstandard-compound">fancyman</distinct> is treating two Royal Dublins in O'Loughlin's of Blackpitts.
 <lb n="030378"/>Buss her, wap in rogues' rum lingo, for, O, my dimber wapping dell! A
 <lb n="030379"/>shefiend's whiteness under her rancid rags. Fumbally's lane that night: the
-<lb n="030380"/>tanyard smells.</p>
-<quote><lg rend="italics"><lb n="030381"/><l>White thy fambles, red thy gan</l>
+<lb n="030380"/>tanyard smells.</said></p>
+<quote><lg rend="italics"><lb n="030381"/><said who="sd" aloud="false"><l>White thy fambles, red thy gan</l>
 <lb n="030382"/><l>And thy quarrons dainty is.</l>
 <lb n="030383"/><l>Couch a hogshead with me then.</l>
-<lb n="030384"/><l>In the darkmans clip and kiss.</l></lg></quote>
-<p><lb n="030385"/>Morose delectation Aquinas tunbelly calls this, <foreign xml:lang="la">frate porcospino</foreign>.
+<lb n="030384"/><l>In the darkmans clip and kiss.</l></said></lg></quote>
+<p><lb n="030385"/><said who="sd" aloud="false">Morose delectation Aquinas tunbelly calls this, <foreign xml:lang="la">frate porcospino</foreign>.
 <lb n="030386"/>Unfallen Adam rode and not rutted. Call away let him: <quote><seg rend="italics">thy quarrons dainty
-<lb n="030387"/>is</seg></quote>. Language no whit worse than his. Monkwords, marybeads jabber on
-<lb n="030388"/>their girdles: roguewords, tough nuggets patter in their pockets.</p>
-<p><lb n="030389"/>Passing now.</p>
-<p><lb n="030390"/>A side eye at my Hamlet hat. If I were suddenly naked here as I sit? I
+<lb n="030387"/>is</seg></quote>. Language no whit worse than his. <distinct type="nonstandard-compound">Monkwords</distinct>, <distinct type="nonstandard-compound">marybeads</distinct> jabber on
+<lb n="030388"/>their girdles: <distinct type="nonstandard-compound">roguewords</distinct>, tough nuggets patter in their pockets.</said></p>
+<p><lb n="030389"/><said who="sd" aloud="false">Passing now.</said></p>
+<p><lb n="030390"/><said who="sd" aloud="false">A side eye at my Hamlet hat. If I were suddenly naked here as I sit? I
 <lb n="030391"/>am not. Across the sands of all the world, followed by the sun's flaming
 <lb n="030392"/>sword, to the west, trekking to evening lands. She trudges, schlepps, trains,
-<lb n="030393"/>drags, trascines her load. A tide westering, moondrawn, in her wake. Tides,
-<lb n="030394"/>myriadislanded, within her, blood not mine, <quote xml:lang="grc-Latn">oinopa ponton</quote>, a winedark sea.
+<lb n="030393"/>drags, trascines her load. A tide westering, <distinct type="nonstandard-compound">moondrawn</distinct>, in her wake. Tides,
+<lb n="030394"/><distinct type="nonstandard-compound">myriadislanded</distinct>, within her, blood not mine, <quote xml:lang="grc-Latn">oinopa ponton</quote>, a <distinct type="nonstandard-compound">winedark</distinct> sea.
 <lb n="030395"/>Behold the handmaid of the moon. In sleep the wet sign calls her hour, bids
-<lb n="030396"/>her rise. Bridebed, childbed, bed of death, ghostcandled. <quote xml:lang="la">Omnis caro ad te
+<lb n="030396"/>her rise. <distinct type="nonstandard-compound">Bridebed</distinct>, childbed, bed of death, <distinct type="nonstandard-compound">ghostcandled</distinct>. <quote xml:lang="la">Omnis caro ad te
 <lb n="030397"/>veniet.</quote> He comes, pale vampire, through storm his eyes, his bat sails
-<lb n="030398"/>bloodying the sea, mouth to her mouth's kiss.</p>
-<p><lb n="030399"/>Here. Put a pin in that chap, will you? My tablets. Mouth to her kiss.
-<lb n="030400"/>No. Must be two of em. Glue em well. Mouth to her mouth's kiss.</p>
-<p><lb n="030401"/>His lips lipped and mouthed fleshless lips of air: mouth to her
-<lb n="030402"/>moomb. Oomb, allwombing tomb. His mouth moulded issuing breath,
+<lb n="030398"/>bloodying the sea, mouth to her mouth's kiss.</said></p>
+<p><lb n="030399"/><said who="sd" aloud="false">Here. Put a pin in that chap, will you? My tablets. Mouth to her kiss.
+<lb n="030400"/>No. Must be two of <distinct type="dialect">em</distinct>. Glue <distinct type="dialect">em</distinct> well. Mouth to her mouth's kiss.</said></p>
+<p><lb n="030401"/><said who="sd" aloud="false">His lips lipped and mouthed fleshless lips of air: mouth to her
+<lb n="030402"/>moomb. Oomb, <distinct type="nonstandard-compound">allwombing</distinct> tomb. His mouth moulded issuing breath,
 <lb n="030403"/>unspeeched: ooeeehah: roar of cataractic planets, globed, blazing, roaring
-<lb n="030404"/>wayawayawayawayaway. Paper. The banknotes, blast them. Old Deasy's
+<lb n="030404"/><distinct type="Joycean">wayawayawayawayaway</distinct>. Paper. The banknotes, blast them. Old Deasy's
 <lb n="030405"/>letter. Here. Thanking you for the hospitality tear the blank end off.
 <lb n="030406"/>Turning his back to the sun he bent over far to a table of rock and scribbled
-<lb n="030407"/>words. That's twice I forgot to take slips from the library counter.</p>
-<p><lb n="030408"/>His shadow lay over the rocks as he bent, ending. Why not endless till
+<lb n="030407"/>words. That's twice I forgot to take slips from the library counter.</said></p>
+<p><lb n="030408"/>His shadow lay over the rocks as he bent, ending. <said who="sd" aloud="false">Why not endless till
 <lb n="030409"/>the farthest star? Darkly they are there behind this light, darkness shining
 <lb n="030410"/>in the brightness, delta of Cassiopeia, worlds. Me sits there with his augur's
 <lb n="030411"/>rod of ash, in borrowed sandals, by day beside a livid sea, unbeheld, in
 <lb n="030412"/>violet night walking beneath a reign of uncouth stars. I throw this ended
-<lb n="030413"/>shadow from me, manshape ineluctable, call it back. Endless, would it be
+<lb n="030413"/>shadow from me, <distinct type="nonstandard-compound">manshape</distinct> ineluctable, call it back. Endless, would it be
 <lb n="030414"/>mine, form of my form? Who watches me here? Who ever anywhere will
 <lb n="030415"/>read these written words? Signs on a white field. Somewhere to someone in
 <lb n="030416"/>your flutiest voice. The good bishop of Cloyne took the veil of the temple
@@ -420,88 +425,89 @@
 <lb n="030419"/>distance, near, far, flat I see, east, back. Ah, see now! Falls back suddenly,
 <lb n="030420"/>frozen in stereoscope. Click does the trick. You find my words dark.
 <lb n="030421"/>Darkness is in our souls do you not think? Flutier. Our souls,
-<lb n="030422"/>shamewounded by our sins, cling to us yet more, a woman to her lover
-<lb n="030423"/>clinging, the more the more.</p>
-<p><lb n="030424"/>She trusts me, her hand gentle, the longlashed eyes. Now where the
+<lb n="030422"/><distinct type="nonstandard-compound">shamewounded</distinct> by our sins, cling to us yet more, a woman to her lover
+<lb n="030423"/>clinging, the more the more.</said></p>
+<p><lb n="030424"/><said who="sd" aloud="false">She trusts me, her hand gentle, the <distinct type="nonstandard-compound">longlashed</distinct> eyes. Now where the
 <lb n="030425"/>blue hell am I bringing her beyond the veil? Into the ineluctable modality of
 <lb n="030426"/>the ineluctable visuality. She, she, she. What she? The virgin at Hodges
 <lb n="030427"/>Figgis' window on Monday looking in for one of the alphabet books you
 <lb n="030428"/>were going to write. Keen glance you gave her. Wrist through the braided
 <lb n="030429"/>jesse of her sunshade. She lives in Leeson park with a grief and kickshaws,
-<lb n="030430"/>a lady of letters. Talk that to someone else, Stevie: a pickmeup. Bet she
+<lb n="030430"/>a lady of letters. Talk that to someone else, Stevie: a <distinct type="compound">pickmeup</distinct>. Bet she
 <lb n="030431"/>wears those curse of God stays suspenders and yellow stockings, darned
 <lb n="030432"/>with lumpy wool. Talk about apple dumplings, <foreign xml:lang="it">piuttosto</foreign>. Where are your
-<lb n="030433"/>wits?</p>
-<p><lb n="030434"/>Touch me. Soft eyes. Soft soft soft hand. I am lonely here. O, touch
+<lb n="030433"/>wits?</said></p>
+<p><lb n="030434"/><said who="sd" aloud="false">Touch me. Soft eyes. Soft soft soft hand. I am lonely here. O, touch
 <lb n="030435"/>me soon, now. What is that word known to all men? I am quiet here alone.
-<lb n="030436"/>Sad too. Touch, touch me.</p>
+<lb n="030436"/>Sad too. Touch, touch me.</said></p>
 <p><lb n="030437"/>He lay back at full stretch over the sharp rocks, cramming the
-<lb n="030438"/>scribbled note and pencil into a pocket, his hat tilted down on his eyes. That
+<lb n="030438"/>scribbled note and pencil into a pocket, his hat tilted down on his eyes. <said who="sd" aloud="false">That
 <lb n="030439"/>is Kevin Egan's movement I made, nodding for his nap, sabbath sleep. <quote xml:lang="la">Et
 <lb n="030440"/>vidit Deus. Et erant valde bona.</quote> Hlo! <foreign xml:lang="fr">Bonjour.</foreign> Welcome as the flowers in
-<lb n="030441"/>May. Under its leaf he watched through peacocktwittering lashes the
+<lb n="030441"/>May. Under its leaf he watched through <distinct type="nonstandard-compound">peacocktwittering</distinct> lashes the
 <lb n="030442"/>southing sun. I am caught in this burning scene. Pan's hour, the faunal
-<lb n="030443"/>noon. Among gumheavy serpentplants, milkoozing fruits, where on the
-<lb n="030444"/>tawny waters leaves lie wide. Pain is far.</p>
+<lb n="030443"/>noon. Among <distinct type="nonstandard-compound">gumheavy</distinct> <distinct type="nonstandard-compound">serpentplants</distinct>, <distinct type="nonstandard-compound">milkoozing</distinct> fruits, where on the
+<lb n="030444"/>tawny waters leaves lie wide. Pain is far.</said></p>
 <quote><lg rend="italics"><lb n="030445"/><l>And no more turn aside and brood.</l></lg></quote>
-<p><lb n="030446"/>His gaze brooded on his broadtoed boots, a buck's castoffs,
+<p><lb n="030446"/>His gaze brooded on his <distinct type="nonstandard-compound">broadtoed</distinct> boots, a buck's castoffs,
 <lb n="030447"/><foreign xml:lang="de">nebeneinander</foreign>. He counted the creases of rucked leather wherein another's
-<lb n="030448"/>foot had nested warm. The foot that beat the ground in tripudium, foot I
+<lb n="030448"/>foot had nested warm. <said who="sd" aloud="false">The foot that beat the ground in tripudium, foot I
 <lb n="030449"/>dislove. But you were delighted when Esther Osvalt's shoe went on you:
 <lb n="030450"/>girl I knew in Paris. <said who="eo" direct="false" rend="italics" xml:lang="fr">Tiens, quel petit pied!</said> Staunch friend, a brother soul:
 <lb n="030451"/>Wilde's love that dare not speak its name. His arm: Cranly's arm. He now
-<lb n="030452"/>will leave me. And the blame? As I am. As I am. All or not at all.</p>
+<lb n="030452"/>will leave me. And the blame? As I am. As I am. All or not at all.</said></p>
 <p><lb n="030453"/>In long lassoes from the Cock lake the water flowed full, covering
-<lb n="030454"/>greengoldenly lagoons of sand, rising, flowing. My ashplant will float away.
+<lb n="030454"/><distinct type="nonstandard-compound">greengoldenly</distinct> lagoons of sand, rising, flowing. <said who="sd" aloud="false">My ashplant will float away.
 <lb n="030455"/>I shall wait. No, they will pass on, passing, chafing against the low rocks,
-<lb n="030456"/>swirling, passing. Better get this job over quick. Listen: a fourworded
-<lb n="030457"/>wavespeech: seesoo, hrss, rsseeiss, ooos. Vehement breath of waters amid
-<lb n="030458"/>seasnakes, rearing horses, rocks. In cups of rocks it slops: flop, slop, slap:
+<lb n="030456"/>swirling, passing. Better get this job over quick. Listen: a <distinct type="nonstandard-compound">fourworded</distinct>
+<lb n="030457"/><distinct type="nonstandard-compound">wavespeech</distinct>: seesoo, hrss, rsseeiss, ooos. Vehement breath of waters amid
+<lb n="030458"/><distinct type="nonstandard-compound">seasnakes</distinct>, rearing horses, rocks. In cups of rocks it slops: flop, slop, slap:
 <lb n="030459"/>bounded in barrels. And, spent, its speech ceases. It flows purling, widely
-<lb n="030460"/>flowing, floating foampool, flower unfurling.</p>
+<lb n="030460"/>flowing, floating <distinct type="nonstandard-compound">foampool</distinct>, flower unfurling.</said></p>
 <p><lb n="030461"/>Under the upswelling tide he saw the writhing weeds lift languidly
-<lb n="030462"/>and sway reluctant arms, hising up their petticoats, in whispering water
-<lb n="030463"/>swaying and upturning coy silver fronds. Day by day: night by night:
+<lb n="030462"/>and sway reluctant arms, <distinct type="archaism">hising</distinct> up their petticoats, in whispering water
+<lb n="030463"/>swaying and upturning coy silver fronds. <said who="sd" aloud="false">Day by day: night by night:
 <lb n="030464"/>lifted, flooded and let fall. Lord, they are weary; and, whispered to, they
 <lb n="030465"/>sigh. Saint Ambrose heard it, sigh of leaves and waves, waiting, awaiting the
 <lb n="030466"/>fullness of their times, <quote xml:lang="la">diebus ac noctibus iniurias patiens ingemiscit</quote>. To no
-<lb n="030467"/>end gathered; vainly then released, forthflowing, wending back: loom of
+<lb n="030467"/>end gathered; vainly then released, <distinct type="nonstandard-compound">forthflowing</distinct>, wending back: loom of
 <lb n="030468"/>the moon. Weary too in sight of lovers, lascivious men, a naked woman
-<lb n="030469"/>shining in her courts, she draws a toil of waters.</p>
-<p><lb n="030470"/>Five fathoms out there. Full fathom five thy father lies. At one, he
+<lb n="030469"/>shining in her courts, she draws a toil of waters.</said></p>
+<p><lb n="030470"/><said who="sd" aloud="false">Five fathoms out there. Full fathom five thy father lies. At one, he
 <lb n="030471"/>said. Found drowned. High water at Dublin bar. Driving before it a loose
-<lb n="030472"/>drift of rubble, fanshoals of fishes, silly shells. A corpse rising saltwhite
+<lb n="030472"/>drift of rubble, <distinct type="nonstandard-compound">fanshoals</distinct> of fishes, silly shells. A corpse rising <distinct type="nonstandard-compound">saltwhite</distinct>
 <lb n="030473"/>from the undertow, bobbing a pace a pace a porpoise landward. There he
 <lb n="030474"/>is. Hook it quick. Pull. Sunk though he be beneath the watery floor. We
-<lb n="030475"/>have him. Easy now.</p>
-<p><lb n="030476"/>Bag of corpsegas sopping in foul brine. A quiver of minnows, fat of a
-<lb n="030477"/>spongy titbit, flash through the slits of his buttoned trouserfly. God
+<lb n="030475"/>have him. Easy now.</said></p>
+<p><lb n="030476"/><said who="sd" aloud="false">Bag of <distinct type="nonstandard-compound">corpsegas</distinct> sopping in foul brine. A quiver of minnows, fat of a
+<lb n="030477"/>spongy titbit, flash through the slits of his buttoned <distinct type="nonstandard-compound">trouserfly</distinct>. God
 <lb n="030478"/>becomes man becomes fish becomes barnacle goose becomes featherbed
 <lb n="030479"/>mountain. Dead breaths I living breathe, tread dead dust, devour a urinous
 <lb n="030480"/>offal from all dead. Hauled stark over the gunwale he breathes upward the
-<lb n="030481"/>stench of his green grave, his leprous nosehole snoring to the sun.</p>
-<p><lb n="030482"/>A seachange this, brown eyes saltblue. Seadeath, mildest of all deaths
+<lb n="030481"/>stench of his green grave, his leprous <distinct type="nonstandard-compound">nosehole</distinct> snoring to the sun.</said></p>
+<p><lb n="030482"/><said who="sd" aloud="false">A <distinct type="nonstandard-compound">seachange</distinct> this, brown eyes <distinct type="nonstandard-compound">saltblue</distinct>. <distinct type="nonstandard-compound">Seadeath</distinct>, mildest of all deaths
 <lb n="030483"/>known to man. Old Father Ocean. <foreign xml:lang="fr">Prix de Paris</foreign>: beware of imitations. Just
-<lb n="030484"/>you give it a fair trial. We enjoyed ourselves immensely.</p>
-<p><lb n="030485"/>Come. I thirst. Clouding over. No black clouds anywhere, are there?
-<lb n="030486"/>Thunderstorm. Allbright he falls, proud lightning of the intellect, <quote xml:lang="la">Lucifer,
+<lb n="030484"/>you give it a fair trial. We enjoyed ourselves immensely.</said></p>
+<p><lb n="030485"/><said who="sd" aloud="false">Come. I thirst. Clouding over. No black clouds anywhere, are there?
+<lb n="030486"/>Thunderstorm. <distinct type="nonstandard-compound">Allbright</distinct> he falls, proud lightning of the intellect, <quote xml:lang="la">Lucifer,
 <lb n="030487"/>dico, qui nescit occasum</quote>. No. My cockle hat and staff and <distinct xml:id="030487-hismy">hismy</distinct> sandal
-<lb n="030488"/>shoon. Where? To evening lands. Evening will find itself.</p>
+<lb n="030488"/>shoon. Where? To evening lands. Evening will find itself.</said></p>
 <p><lb n="030489"/>He took the hilt of his ashplant, lunging with it softly, dallying still.
-<lb n="030490"/>Yes, evening will find itself in me, without me. All days make their end. By
+<lb n="030490"/><said who="sd" aloud="false">Yes, evening will find itself in me, without me. All days make their end. By
 <lb n="030491"/>the way next when is it Tuesday will be the longest day. Of all the glad new
 <lb n="030492"/>year, mother, the rum tum tiddledy tum. Lawn Tennyson, gentleman poet.
 <lb n="030493"/><foreign xml:lang="it">Già.</foreign> For the old hag with the yellow teeth. And Monsieur Drumont,
 <lb n="030494"/>gentleman journalist. <foreign xml:lang="it">Già.</foreign> My teeth are very bad. Why, I wonder. Feel.
 <lb n="030495"/>That one is going too. Shells. Ought I go to a dentist, I wonder, with that
 <lb n="030496"/>money? That one. This. Toothless Kinch, the superman. Why is that, I
-<lb n="030497"/>wonder, or does it mean something perhaps?</p>
-<p><lb n="030498"/>My handkerchief. He threw it. I remember. Did I not take it up?</p>
-<p><lb n="030499"/>His hand groped vainly in his pockets. No, I didn't. Better buy one.</p>
+<lb n="030497"/>wonder, or does it mean something perhaps?</said></p>
+<p><lb n="030498"/><said who="sd" aloud="false">My handkerchief. He threw it. I remember. Did I not take it up?</said></p>
+<p><lb n="030499"/>His hand groped vainly in his pockets. <said who="sd" aloud="false">No, I didn't. Better buy one.</said></p>
 <p><lb n="030500"/>He laid the dry snot picked from his nostril on a ledge of rock,
-<lb n="030501"/>carefully. For the rest let look who will.</p>
-<p><lb n="030502"/>Behind. Perhaps there is someone.</p>
+<lb n="030501"/>carefully. <said who="sd" aloud="false">For the rest let look who will.</said></p>
+<p><lb n="030502"/><said who="sd" aloud="false">Behind. Perhaps there is someone.</said></p>
 <p><lb n="030503"/>He turned his face over a shoulder, rere regardant. Moving through
-<lb n="030504"/>the air high spars of a threemaster, her sails brailed up on the crosstrees,
+<lb n="030504"/>the air high spars of a <distinct type="nonstandard-compound">threemaster</distinct>, her sails brailed up on the crosstrees,
 <lb n="030505"/>homing, upstream, silently moving, a silent ship.</p>
 </div> <!-- End of Episode 3, "Proteus" -->
+  
