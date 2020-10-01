@@ -15,3 +15,4 @@ The enriched corpus of episode files and metadata will, following an original su
 ## Testing Prototype
 
 [A simple, proof-of-concept XSL transformation of the TEI may be found here](https://ulysses-tei.netlify.com/). At the moment, the only semantic markup rendered here is dialogue attribution. The prototype is not meant as a complete representation of the TEI text.
+                                                                      ***corpus-joyce-ulysses-tei***
